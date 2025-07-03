@@ -1,0 +1,373 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "東城社區活動中心",
+                "phone": "03-9592036",
+                "address": "宜蘭縣冬山鄉東城村東城路280號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.806334,
+                    24.629716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "安平社區活動中心",
+                "phone": "0963005319",
+                "address": "宜蘭縣冬山鄉安平村安平路23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.785411,
+                    24.631003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "太和社區活動中心",
+                "phone": "03-9591489",
+                "address": "宜蘭縣冬山鄉太和村太和路238號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.773223,
+                    24.632365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南興社區活動中心",
+                "phone": "03-9594028",
+                "address": "宜蘭縣冬山鄉南興村冬山路98之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79422,
+                    24.63359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "大進社區活動中心",
+                "phone": "03-9614657",
+                "address": "宜蘭縣冬山鄉大進村大進九路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71218,
+                    24.633296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "永美社區活動中心",
+                "phone": "03-9585680",
+                "address": "宜蘭縣冬山鄉永美村永興路1段189號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771303,
+                    24.655404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "丸山社區活動中心",
+                "phone": "03-9584793",
+                "address": "宜蘭縣冬山鄉丸山村港尾路98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766279,
+                    24.642621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "順安社區活動中心",
+                "phone": "0937454532",
+                "address": "宜蘭縣冬山鄉順安村義成路2段378巷87號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764801,
+                    24.653692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "清溝社區活動中心",
+                "phone": "03-9584045",
+                "address": "宜蘭縣冬山鄉清溝村光明路51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76608,
+                    24.666488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "群英社區活動中心",
+                "phone": "03-9582580",
+                "address": "宜蘭縣冬山鄉群英村冬山路5段51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.774876,
+                    24.667694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "鹿埔社區活動中心",
+                "phone": "03-9591105",
+                "address": "宜蘭縣冬山鄉鹿埔村鹿埔路488號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750814,
+                    24.655466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "補城社區活動中心",
+                "phone": "03-9591105",
+                "address": "宜蘭縣冬山鄉補城村建進2路29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.805915,
+                    24.642371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "大興社區活動中心",
+                "phone": "0925102560",
+                "address": "宜蘭縣冬山鄉大興村福興東路88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.810531,
+                    24.630061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "柯林社區活動中心",
+                "phone": "03-9591105",
+                "address": "宜蘭縣冬山鄉柯林村光華路209號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.729876,
+                    24.676559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "廣興社區活動中心",
+                "phone": "03-951556",
+                "address": "宜蘭縣冬山鄉廣興村永興路2段916號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749287,
+                    24.669183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "廣安社區活動中心",
+                "phone": "03-9515031",
+                "address": "宜蘭縣冬山鄉廣安村廣安路195號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745892,
+                    24.671037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "香和社區活動中心",
+                "phone": "03-9591630",
+                "address": "宜蘭縣冬山鄉香和村香南路33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.797625,
+                    24.6288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "冬山社區活動中心",
+                "phone": "03-9593313",
+                "address": "宜蘭縣冬山鄉冬山村中正路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79139,
+                    24.636009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "珍珠社區活動中心",
+                "phone": "03-9581118",
+                "address": "宜蘭縣冬山鄉珍珠村幸福二路73號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.784558,
+                    24.651956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "冬山鄉公所",
+                "phone": "03-9591105",
+                "address": "宜蘭縣冬山鄉南興村冬山路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.792679,
+                    24.634419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "三奇社區活動中心",
+                "phone": "03-9592586",
+                "address": "宜蘭縣冬山鄉三奇村成興路810號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.813654,
+                    24.643367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "武淵社區活動中心",
+                "phone": "03-9505267",
+                "address": "宜蘭縣冬山鄉武淵村富農路2段325號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7977,
+                    24.660689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "冬山國小",
+                "phone": "03-9593504*1011",
+                "address": "宜蘭縣冬山鄉安平村安中路35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.789632,
+                    24.631564
+                ]
+            }
+        }
+    ]
+}

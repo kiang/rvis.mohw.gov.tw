@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "南興國民中學活動中心",
+                "phone": "05-2224383-231",
+                "address": "嘉義市東區芳草里芳安路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.462058,
+                    23.467911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "嘉義國民中學懿文館之共同地下室",
+                "phone": "05-2762625-216",
+                "address": "嘉義市東區王田里圓福街86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.464699,
+                    23.48695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "蘭潭國民中學活動中心",
+                "phone": "05-2773582-211",
+                "address": "嘉義市東區長竹里民權東路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.481399,
+                    23.48224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "嘉義市立棒球場",
+                "phone": "05-2754225",
+                "address": "嘉義市東區東川里山仔頂249-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46823,
+                    23.479389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "東區區公所禮堂",
+                "phone": "05-2289031",
+                "address": "嘉義市東區民族里吳鳳北路184號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45343,
+                    23.478719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "慈玄宮地下室",
+                "phone": "05-2277375",
+                "address": "嘉義市東區興村里溪興街28之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45661,
+                    23.455459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "大業實驗國民中學活動中心",
+                "phone": "05-2223082-324",
+                "address": "嘉義市東區安業里大業街57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45408,
+                    23.46246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "興南里集會所",
+                "phone": "05-2291576",
+                "address": "嘉義市東區興南里崇文街76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4547,
+                    23.4723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "民族國民小學活動中心",
+                "phone": "05-2222113-630",
+                "address": "嘉義市東區民族里民族路235號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.455173,
+                    23.475874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "蘭潭國民小學采潭樓舞蹈教室",
+                "phone": "05-2763492-13",
+                "address": "嘉義市東區蘭潭里小雅路419號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47149,
+                    23.4753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "興安國民小學操場與籃球場",
+                "phone": "05-2232280-140",
+                "address": "嘉義市東區興安里興安街35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.455188,
+                    23.459171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "王田里集會所",
+                "phone": "05-2771016",
+                "address": "嘉義市東區王田里五福街119號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46787,
+                    23.486689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "北興國民中學活動中心",
+                "phone": "05-2766602-303",
+                "address": "嘉義市東區仁義里博東路262號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4545,
+                    23.490487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "頂庄社區活動中心",
+                "phone": "05-2765298",
+                "address": "嘉義市東區頂庄里義教街542巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45753,
+                    23.499241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "林森國民小學活動中心",
+                "phone": "05-2762063-114",
+                "address": "嘉義市東區新店里林森東路346號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4666,
+                    23.48947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "文雅國民小學操場",
+                "phone": "05-2768011-130",
+                "address": "嘉義市東區文雅里文雅街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487288,
+                    23.484078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "嘉北國民小學操場",
+                "phone": "05-2757091-270",
+                "address": "嘉義市東區仁義里嘉北街65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45509,
+                    23.49351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "宣信國民小學活動中心",
+                "phone": "05-2223904-2931",
+                "address": "嘉義市東區新開里宣信街266號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458723,
+                    23.470673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "崇文國民小學據德樓",
+                "phone": "05-2222310-1005",
+                "address": "嘉義市東區豐年里垂楊路241號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45285,
+                    23.47349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "嘉義大學林森校區樂育堂",
+                "phone": "05-2717271",
+                "address": "嘉義市東區太平里林森東路151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459504,
+                    23.487667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "崇仁護校多功能活動中心",
+                "phone": "05-2658880-244",
+                "address": "嘉義市東區盧厝里紅毛埤217號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48259,
+                    23.47908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "大同技術學院綜合教學大樓地下室",
+                "phone": "05-2223124#500",
+                "address": "嘉義市東區新開里彌陀路253號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46496,
+                    23.46957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "嘉義大學蘭潭校區瑞穗館",
+                "phone": "05-2717140",
+                "address": "嘉義市東區鹿寮里學府路300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48353,
+                    23.46376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "嘉義家職活動中心",
+                "phone": "05-2259640-1400",
+                "address": "嘉義市東區新開里體育路7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458665,
+                    23.471595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "嘉義大學蘭潭校區嘉禾館",
+                "phone": "05-2717271",
+                "address": "嘉義市東區鹿寮里學府路300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48353,
+                    23.46376
+                ]
+            }
+        }
+    ]
+}

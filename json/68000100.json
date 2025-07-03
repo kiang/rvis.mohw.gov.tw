@@ -1,0 +1,565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "東安國小",
+                "phone": "03-4509571#510",
+                "address": "桃園市平鎮區東安里平東路136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.250265,
+                    24.917743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "南勢國小",
+                "phone": "03-4393724#511",
+                "address": "桃園市平鎮區南勢里中豐路南勢二段223號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210656,
+                    24.913512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "山豐國小",
+                "phone": "03-4691784#510",
+                "address": "桃園市平鎮區山峰里中豐路山頂段375巷45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.213305,
+                    24.896645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "文化國小",
+                "phone": "03-4921750#510",
+                "address": "桃園市平鎮區復興里文化街189號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.203771,
+                    24.953227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "宋屋國小",
+                "phone": "03-4933654#510",
+                "address": "桃園市平鎮區廣仁里延平路二段389號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.206367,
+                    24.941904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "祥安國小",
+                "phone": "03-4192136#511",
+                "address": "桃園市平鎮區湧安里湧安路45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.202952,
+                    24.894051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "長青文康中心",
+                "phone": "03-4572105#2201",
+                "address": "桃園市平鎮區平南里開封街88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.204265,
+                    24.911041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "獅子林市民活動中心",
+                "phone": "03-4578357",
+                "address": "桃園市平鎮區北貴里北貴里大仁街46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.225399,
+                    24.928193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "義興國小",
+                "phone": "03-4913700#510",
+                "address": "桃園市平鎮區義興里義興街55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.209935,
+                    24.949306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "東安國中",
+                "phone": "03-4601407#510",
+                "address": "桃園市平鎮區東安里平東路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.249408,
+                    24.916824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新勢公園",
+                "phone": "03-4572105#2383",
+                "address": "桃園市平鎮區新勢里延平路與中豐路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.219961,
+                    24.951798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "東勢國小",
+                "phone": "03-4504034#510",
+                "address": "桃園市平鎮區東勢里平東路一段185號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.232001,
+                    24.911169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "北勢市民活動中心",
+                "phone": "03-4281848",
+                "address": "桃園市平鎮區北華里振平街153號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.220574,
+                    24.942508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "平鎮區婦幼活動中心",
+                "phone": "03-4572105#2201",
+                "address": "桃園市平鎮區廣達里廣達里廣成街10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.209755,
+                    24.953375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "廣仁市民活動中心",
+                "phone": "03-4951157",
+                "address": "桃園市平鎮區廣仁里新光路65巷50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.206169,
+                    24.939468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "鎮興市民活動中心",
+                "phone": "03-4643456",
+                "address": "桃園市平鎮區鎮興里中興路平鎮段229號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.190651,
+                    24.905076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "平興國中",
+                "phone": "03-4918239#521",
+                "address": "桃園市平鎮區義民里環南路300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.206051,
+                    24.949577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "莊敬市民活動中心",
+                "phone": "0928285597",
+                "address": "桃園市平鎮區莊敬里莊敬里自強街100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21491,
+                    24.904124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "山子頂市民活動中心",
+                "phone": "09-27701228",
+                "address": "桃園市平鎮區湧安里麻園街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.202979,
+                    24.892939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "平南國中",
+                "phone": "03-4392164#510",
+                "address": "桃園市平鎮區平南里中豐路南勢二段340號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210967,
+                    24.910049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "三安市民活動中心",
+                "phone": "03-4605346",
+                "address": "桃園市平鎮區平東路203號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.24965,
+                    24.916001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新勢市民活動中心",
+                "phone": "0933950600",
+                "address": "桃園市平鎮區新勢里延平路一段162號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21632,
+                    24.950796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "平興國小",
+                "phone": "03-4029323#510",
+                "address": "桃園市平鎮區平興里廣泰路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.203435,
+                    24.944984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "平鎮國中",
+                "phone": "03-4572150#511",
+                "address": "桃園市平鎮區新富里振興路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.218237,
+                    24.944991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "平鎮高中",
+                "phone": "03-4287288#510",
+                "address": "桃園市平鎮區北興里環南路三段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.219063,
+                    24.939511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "北勢國小",
+                "phone": "03-4586472#511",
+                "address": "桃園市平鎮區北興里金陵路二段330號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.223636,
+                    24.935853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "忠貞國小",
+                "phone": "03-4501450#510",
+                "address": "桃園市平鎮區龍興里籠南路315號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.250525,
+                    24.922726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "復旦國小",
+                "phone": "03-4917491#510",
+                "address": "桃園市平鎮區廣達里廣平街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.20769,
+                    24.954733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新榮國小",
+                "phone": "03-2806200#520",
+                "address": "桃園市平鎮區新勢里中原路88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.218208,
+                    24.952646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "中壢國中",
+                "phone": "03-4223214#510",
+                "address": "桃園市平鎮區新勢里延平路一段115號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.218743,
+                    24.950859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新勢國小",
+                "phone": "03-4937563#511",
+                "address": "桃園市平鎮區新勢里延平路一段181號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.216893,
+                    24.950043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "國立臺北商業大學(桃園校區)",
+                "phone": "03-4506333#8031",
+                "address": "桃園市平鎮區福林里福龍路一段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.228786,
+                    24.898857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "第一市民活動中心",
+                "phone": "03-4563880",
+                "address": "桃園市平鎮區貿五路77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.252967,
+                    24.92752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新英市民活動中心",
+                "phone": "03-4285677",
+                "address": "桃園市平鎮區新富里新富五街66號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21352,
+                    24.93958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "中正市民活動中心",
+                "phone": "03-4569120",
+                "address": "桃園市平鎮區中正里平鎮區中正里中正一路2之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.255847,
+                    24.926154
+                ]
+            }
+        }
+    ]
+}

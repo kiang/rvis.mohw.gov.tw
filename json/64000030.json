@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市左營區福山國民小學",
+                "phone": "07-3487633#312",
+                "address": "高雄市左營區福山里重愛路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317215,
+                    22.683572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立左營國民中學",
+                "phone": "07-3433080#1315",
+                "address": "高雄市左營區新光里曾子路281號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306725,
+                    22.679455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立新莊高級中學",
+                "phone": "07-3420103#832",
+                "address": "高雄市左營區福山里文慈路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317589,
+                    22.681225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立海青高級工商職業學校",
+                "phone": "07-5819155#530",
+                "address": "高雄市左營區自助里左營大路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285633,
+                    22.67517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立大義國民中學",
+                "phone": "07-5820191#33",
+                "address": "高雄市左營區埤東里翠華路687號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292966,
+                    22.67436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市左營區新光國民小學",
+                "phone": "07-3438577#731",
+                "address": "高雄市左營區新光里華夏路800號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304805,
+                    22.679829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市左營區新莊國民小學",
+                "phone": "07-3411373#137",
+                "address": "高雄市左營區新中里自由三路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309875,
+                    22.669267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市左營區勝利國民小學",
+                "phone": "5522541#732",
+                "address": "高雄市左營區新下里南屏路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295103,
+                    22.672457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市左營區新民國民小學",
+                "phone": "07-3411888#732",
+                "address": "高雄市左營區菜公里自由三路478號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313158,
+                    22.676691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "左營區公所8樓",
+                "phone": "07-5831111#305",
+                "address": "高雄市左營區進學里左營大路479號8樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295109,
+                    22.689882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立立德國民中學",
+                "phone": "07-5817106#320",
+                "address": "高雄市左營區明建里實踐路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291156,
+                    22.690183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立三民高級家事商業職業學校",
+                "phone": "07-5525887#182",
+                "address": "高雄市左營區新下里裕誠路1102號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300608,
+                    22.666008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市左營區左營國民小學",
+                "phone": "07-5820042#733",
+                "address": "高雄市左營區進學里實踐路42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293654,
+                    22.690632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立左營高級中學",
+                "phone": "07-5822010#302",
+                "address": "高雄市左營區進學里海功路55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296441,
+                    22.692703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市楠梓區莒光國民小學",
+                "phone": "07-3612078#131",
+                "address": "高雄市左營區後昌路842號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296803,
+                    22.70933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市左營區明德國民小學",
+                "phone": "07-5811583#310",
+                "address": "高雄市左營區明建里海富路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289829,
+                    22.688413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市左營區舊城國民小學",
+                "phone": "07-5810017#32",
+                "address": "高雄市左營區聖西里蓮潭路47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293,
+                    22.683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立龍華國民中學",
+                "phone": "07-5570720#330",
+                "address": "高雄市左營區新上里自由二路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309026,
+                    22.657149
+                ]
+            }
+        }
+    ]
+}

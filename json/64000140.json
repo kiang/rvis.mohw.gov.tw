@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大寮區潮寮國民小學",
+                "phone": "07-7875075#231",
+                "address": "高雄市大寮區潮寮里潮寮路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.425144,
+                    22.565715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大寮區昭明國民國小",
+                "phone": "07-6426428#940",
+                "address": "高雄市大寮區昭明里鳳林一路300巷80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.408514,
+                    22.54239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "輔英科技大學",
+                "phone": "7811151轉9警衛室",
+                "address": "高雄市大寮區永芳里進學路151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.391256,
+                    22.603884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "中山學校財團法人高雄市中山高級工商職業學校",
+                "phone": "07-7815311轉214",
+                "address": "高雄市大寮區會社里正氣路79號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.392557,
+                    22.599865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄縣私立高英高級工商職業學校",
+                "phone": "7832991轉225總務處7832991轉227教官室",
+                "address": "高雄市大寮區會社里鳳林三路19巷44號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4004,
+                    22.59436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立大寮幼兒園",
+                "phone": "07-7884206#221",
+                "address": "高雄市大寮區上寮里上寮路208之25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.422137,
+                    22.602808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大寮區永芳國民小學",
+                "phone": "07-7812814#140",
+                "address": "高雄市大寮區永芳里鳳林三路499號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.395195,
+                    22.605277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "大寮區公所3樓禮堂",
+                "phone": "7813041轉120",
+                "address": "高雄市大寮區永芳里鳳林三路492號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.395657,
+                    22.605575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立大寮國民中學",
+                "phone": "07-7818038",
+                "address": "高雄市大寮區永芳里進學路150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.39266,
+                    22.602926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立潮寮國民中學",
+                "phone": "7879544轉32",
+                "address": "高雄市大寮區潮寮里潮寮路51-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.425175,
+                    22.563414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大寮區中庄國民小學",
+                "phone": "07-7032838#742",
+                "address": "高雄市大寮區中庄里中庄路59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.397497,
+                    22.634716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大寮區後庄國民小學",
+                "phone": "07-703527#46",
+                "address": "高雄市大寮區後庄里民揚路28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.389503,
+                    22.637822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大寮區忠義國民小學",
+                "phone": "07-7812858#140",
+                "address": "高雄市大寮區忠義里忠義路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.384142,
+                    22.616353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大寮區溪寮國民小學",
+                "phone": "6516256轉30",
+                "address": "高雄市大寮區溪寮里溪寮路69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.420439,
+                    22.630524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大寮區翁園國民小學",
+                "phone": "07-7811685#140",
+                "address": "高雄市大寮區翁園里翁園路79號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.408663,
+                    22.623246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大寮區大寮國民小學",
+                "phone": "7881062轉40",
+                "address": "高雄市大寮區大寮里大寮路740號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.416445,
+                    22.590861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大寮區山頂國民小學",
+                "phone": "78282059",
+                "address": "高雄市大寮區山頂里山頂路211號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.388806,
+                    22.607807
+                ]
+            }
+        }
+    ]
+}

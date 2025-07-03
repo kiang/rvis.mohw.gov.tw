@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鹽埕區鹽埕國民小學",
+                "phone": "07-5210626#110",
+                "address": "高雄市鹽埕區江南里五福四路183號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.282912,
+                    22.623691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鹽埕區光榮國民小學",
+                "phone": "5514549#110",
+                "address": "高雄市鹽埕區育仁里大智路150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286513,
+                    22.623093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立鹽埕國民中學",
+                "phone": "5211283#10",
+                "address": "高雄市鹽埕區育仁里新樂街46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287903,
+                    22.623615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鹽埕區忠孝國民小學",
+                "phone": "5514887#310",
+                "address": "高雄市鹽埕區河濱里大智路71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285158,
+                    22.621585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "鹽埕區公所11樓大禮堂",
+                "phone": "5613497",
+                "address": "高雄市鹽埕區光明里大仁路6號11樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286753,
+                    22.62467
+                ]
+            }
+        }
+    ]
+}

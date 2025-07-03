@@ -1,0 +1,373 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "瑞龍市民活動中心",
+                "phone": "0922-888866",
+                "address": "新北市瑞芳區龍興里明燈路三段2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.808896,
+                    25.107769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "瑞芳區公所",
+                "phone": "02-24972250-1506",
+                "address": "新北市瑞芳區龍鎮里瑞芳區逢甲路82號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.809859,
+                    25.108889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "瑞芳國小",
+                "phone": "02-24972058-130",
+                "address": "新北市瑞芳區龍川里瑞芳區中山路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80383,
+                    25.109106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "瑞芳高工",
+                "phone": "02-24972516-202",
+                "address": "新北市瑞芳區龍安里瑞芳區瑞芳街60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.804681,
+                    25.110733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "瑞芳國中",
+                "phone": "02-24972145-201",
+                "address": "新北市瑞芳區新峰里瑞芳區三爪子坑路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.818789,
+                    25.104028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "濂洞國小",
+                "phone": "02-24961330-12",
+                "address": "新北市瑞芳區濓洞里瑞芳區凍頂路101巷80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.860068,
+                    25.12235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "鼻頭國小",
+                "phone": "02-24911571-35",
+                "address": "新北市瑞芳區鼻頭里瑞芳區鼻頭路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.919411,
+                    25.120771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "瑞濱國小",
+                "phone": "02-24978184-121",
+                "address": "新北市瑞芳區瑞濱里瑞濱路34號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81997,
+                    25.120533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "東和市民活動中心",
+                "phone": "02-24972250-1115",
+                "address": "新北市瑞芳區東和里中山路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.804286,
+                    25.106376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新山社區活動中心",
+                "phone": "02-24972250-1106",
+                "address": "新北市瑞芳區新山里金光路241號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.851418,
+                    25.106909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "傑魚市民活動中心",
+                "phone": "02-24972250-1115",
+                "address": "新北市瑞芳區傑魚里傑魚坑路245巷2-1號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788034,
+                    25.106477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "吉慶國小",
+                "phone": "02-24576405-600",
+                "address": "新北市瑞芳區吉安里瑞芳區大埔路95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764393,
+                    25.101326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "猴硐蒙特梭利實驗小學",
+                "phone": "02-24960450-112",
+                "address": "新北市瑞芳區弓橋里瑞芳區九芎橋路69-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.833466,
+                    25.095604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "九份國小",
+                "phone": "02-24972263-22",
+                "address": "新北市瑞芳區永慶里瑞芳區崙頂路145號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.846479,
+                    25.107447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "瑞濱市民活動中心",
+                "phone": "02-24972250-1115",
+                "address": "新北市瑞芳區瑞濱里瑞芳區建基路1段4之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.820494,
+                    25.121209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "勸濟堂",
+                "phone": "02-24965661",
+                "address": "新北市瑞芳區銅山里瑞芳區祈堂路53號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.859717,
+                    25.110135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "瓜山國小",
+                "phone": "02-24962036-132",
+                "address": "新北市瑞芳區瓜山里瑞芳區五號路306巷"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.853722,
+                    25.106956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "爪峰市民活動中心",
+                "phone": "02-24972250-1115",
+                "address": "新北市瑞芳區爪峯里三爪子坑路279-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.813536,
+                    25.105788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "深澳市民活動中心",
+                "phone": "02-24972250-1106",
+                "address": "新北市瑞芳區深澳里深澳路67之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.818129,
+                    25.130071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "威遠廟",
+                "phone": "02-24962015",
+                "address": "新北市瑞芳區濓新里明里路7-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.868129,
+                    25.120381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "福住第二市民活動中心",
+                "phone": "02-24972250-1106",
+                "address": "新北市瑞芳區福住里佛堂巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.841845,
+                    25.106798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "瑞芳棒球場",
+                "phone": "02-24972250-1108",
+                "address": "新北市瑞芳區柑坪里明燈路1段201巷"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.818543,
+                    25.1076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "海濱市民休閒場地",
+                "phone": "02-24972250-1106",
+                "address": "新北市瑞芳區海濱里濱二路68-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.829814,
+                    25.119817
+                ]
+            }
+        }
+    ]
+}

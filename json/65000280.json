@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "頂寮活動中心",
+                "phone": "02-24988012",
+                "address": "新北市萬里區大鵬里頂社18之6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.655728,
+                    25.210529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "磺潭社區親水公園",
+                "phone": "02-24922064#404",
+                "address": "新北市萬里區磺潭里員潭路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.617536,
+                    25.188475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大坪國小",
+                "phone": "02-2492-9461#32",
+                "address": "新北市萬里區雙興里大坪路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.638569,
+                    25.166888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "基督教芥菜種營地",
+                "phone": "02-24922224#2409",
+                "address": "新北市萬里區龜吼里玉田路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.68628,
+                    25.194998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "崁脚活動中心",
+                "phone": "02-24922064#325",
+                "address": "新北市萬里區崁脚里崁脚路55-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.649807,
+                    25.160164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "野柳活動中心",
+                "phone": "02-24923009",
+                "address": "新北市萬里區野柳里港東新邨1-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.685824,
+                    25.202959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "仁愛之家",
+                "phone": "02-24922511#300",
+                "address": "新北市萬里區龜吼里玉田路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.686325,
+                    25.18513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "萬里區行政大樓",
+                "phone": "02-24922064#429",
+                "address": "新北市萬里區萬里里瑪鋉路123號1、5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.689187,
+                    25.178248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "萬里國小",
+                "phone": "02-24922034#13",
+                "address": "新北市萬里區萬里里瑪鋉路18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.688188,
+                    25.176174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "崁腳國小",
+                "phone": "02-24925503#24",
+                "address": "新北市萬里區崁脚里崁脚路59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.649694,
+                    25.160596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "野柳國小",
+                "phone": "02-24922512#15",
+                "address": "新北市萬里區野柳里港東路167號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.689442,
+                    25.205606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "萬里國中",
+                "phone": "02-24922053#45",
+                "address": "新北市萬里區萬里里獅頭路24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.689887,
+                    25.179058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大鵬國小",
+                "phone": "02-24988131#15",
+                "address": "新北市萬里區大鵬里萬里加投14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.650865,
+                    25.208821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "鎮北宮",
+                "phone": "02-24923232",
+                "address": "新北市萬里區龜吼里玉田路4-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.680262,
+                    25.183902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中華商業海事職業學校",
+                "phone": "02-24922119#501",
+                "address": "新北市萬里區北基里瑪鋉路15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6851628,
+                    25.1781722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "獅頭路瑪鋉公園",
+                "phone": "02-24922064#404",
+                "address": "新北市萬里區萬里里中萬里加投瑪鋉港口小段269-20地號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.691926,
+                    25.177831
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大肚區公所五樓",
+                "phone": "04-26991105#341",
+                "address": "臺中市大肚區大肚里沙田路2段646號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545708,
+                    24.151147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "王田社區運動公園",
+                "phone": "04-26932638",
+                "address": "臺中市大肚區王田里興和路332號附近"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.582122,
+                    24.124497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大肚國小體育館",
+                "phone": "04-26992016",
+                "address": "臺中市大肚區頂街里華山路77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539462,
+                    24.156704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "永順社區活動中心",
+                "phone": "04-26993577",
+                "address": "臺中市大肚區永順里文昌路2段643號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531406,
+                    24.161387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "瑞峰國小薯光廣場",
+                "phone": "04-24718374",
+                "address": "臺中市大肚區蔗廍里太平路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.573774,
+                    24.16881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中和社區活動中心",
+                "phone": "04-26933265",
+                "address": "臺中市大肚區中和里南榮路299號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574488,
+                    24.112472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "營埔社區活動中心",
+                "phone": "04-26991105#167",
+                "address": "臺中市大肚區營埔里營埔二街52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.558102,
+                    24.121521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "山陽國小防空避難室",
+                "phone": "04-26983117",
+                "address": "臺中市大肚區山陽里榮華街630號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545008,
+                    24.163388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "瑞井社區活動中心",
+                "phone": "04-26916310",
+                "address": "臺中市大肚區瑞井里瑞井路62巷14之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.573683,
+                    24.163426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "老人活動中心",
+                "phone": "04-26993047",
+                "address": "臺中市大肚區頂街里大德六街30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543398,
+                    24.154053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大肚社區活動中心",
+                "phone": "04-26992379",
+                "address": "臺中市大肚區大肚里自治路83巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545708,
+                    24.151147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "頂街社區活動中心",
+                "phone": "04-26993047",
+                "address": "臺中市大肚區頂街里沙田路3段244巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544606,
+                    24.158944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大肚運動公園",
+                "phone": "04-26991105#146",
+                "address": "臺中市大肚區頂街里沙田路三段239號附近"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542928,
+                    24.158297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "追分國小多功能教室",
+                "phone": "04-26932604#210",
+                "address": "臺中市大肚區福山里沙田路一段364號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.568386,
+                    24.122712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大道國中誠正樓B1會議室",
+                "phone": "04-26992028#750",
+                "address": "臺中市大肚區大東里仁德路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55025,
+                    24.14712
+                ]
+            }
+        }
+    ]
+}

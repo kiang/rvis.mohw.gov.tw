@@ -1,0 +1,389 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "自強國小",
+                "phone": "02-29557936#831",
+                "address": "新北市中和區自強里中和區莒光路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.471895,
+                    24.998463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "復興國小",
+                "phone": "02-22472993#232",
+                "address": "新北市中和區中興里中和區復興路301巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50193,
+                    24.989646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "華夏科技大學",
+                "phone": "02-89415100#1251",
+                "address": "新北市中和區華新里中和區工專路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.507733,
+                    24.980585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "錦和高中",
+                "phone": "02-22498566#222",
+                "address": "新北市中和區錦中里中和區錦和路163號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491089,
+                    24.99254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中和區公所",
+                "phone": "02-22482688#175",
+                "address": "新北市中和區漳和里中和區景平路634之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.500735,
+                    24.998545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中和國小",
+                "phone": "02-22492550#261",
+                "address": "新北市中和區漳和里中和區中和路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501611,
+                    24.99986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "南山高中",
+                "phone": "02-22453000#77300",
+                "address": "新北市中和區枋寮里中和區廣福路41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.503448,
+                    25.001629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "秀山國小",
+                "phone": "02-29434353#830",
+                "address": "新北市中和區秀山里中和區立人街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521164,
+                    24.994223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "景新國小",
+                "phone": "02-29448021#832",
+                "address": "新北市中和區景南里中和區景新街467巷37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514994,
+                    24.989301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中和國中",
+                "phone": "02-29422270#234",
+                "address": "新北市中和區忠孝里中和區興南路2段3巷17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50854,
+                    24.986176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "復興大樓圖書館",
+                "phone": "02-22482688#266",
+                "address": "新北市中和區外南里南山路236號6樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506503,
+                    24.989654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "積穗國中",
+                "phone": "02-22234747#832",
+                "address": "新北市中和區嘉新里中和區民安街66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.478927,
+                    25.000128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "積穗國小",
+                "phone": "02-22225533#831",
+                "address": "新北市中和區文元里中和區員山路154號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.481398,
+                    24.999057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "錦和國小",
+                "phone": "02-22479495#213",
+                "address": "新北市中和區錦中里中和區圓通路292號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.489565,
+                    24.98947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中和高中",
+                "phone": "02-22227146#410",
+                "address": "新北市中和區嘉慶里中和區連城路460號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.478344,
+                    24.993984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "竹林中學",
+                "phone": "02-29425074#302",
+                "address": "新北市中和區華新里中和區華新街143巷12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506005,
+                    24.979921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "山北市民活動中心",
+                "phone": "02-22482688#266",
+                "address": "新北市中和區福美里莊敬路49巷29弄2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501681,
+                    25.00646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "自強國中",
+                "phone": "02-22259469#831",
+                "address": "新北市中和區明穗里中和區莒光路191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472635,
+                    24.998837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "興南國小",
+                "phone": "02-29422349#830",
+                "address": "新北市中和區忠孝里中和區興南路1段135巷24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509128,
+                    24.98673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "光復國小",
+                "phone": "02-32348654#666",
+                "address": "新北市中和區中原里中和區光環路2段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.482575,
+                    25.014697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "鶴齡交誼中心",
+                "phone": "02-22482688#266",
+                "address": "新北市中和區枋寮里廟美街6巷3號2、4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5010557,
+                    25.0015666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "漳和國中",
+                "phone": "02-22488616#251",
+                "address": "新北市中和區枋寮里中和區廣福路39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505531,
+                    25.002673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中和公園",
+                "phone": "02-22482688#412",
+                "address": "新北市中和區安樂里中安街6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511436,
+                    24.999161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "錦和運動公園",
+                "phone": "02-22481765",
+                "address": "新北市中和區錦中里中和區錦和路350號（錦和路-和城路間）"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491089,
+                    24.99254
+                ]
+            }
+        }
+    ]
+}

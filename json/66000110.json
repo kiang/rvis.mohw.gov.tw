@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大甲體育場",
+                "phone": "04-26872101#205",
+                "address": "臺中市大甲區武曲里大安港路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614868,
+                    24.351485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大甲高中活動中心",
+                "phone": "04-26877165#220",
+                "address": "臺中市大甲區南陽里中山路一段720號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.621632,
+                    24.342054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大甲國小禮堂",
+                "phone": "04-26872048#700",
+                "address": "臺中市大甲區文武里育德路233號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626138,
+                    24.350762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "福德里活動中心",
+                "phone": "04-26815842",
+                "address": "臺中市大甲區福德里順帆路204-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.625082,
+                    24.431681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "文武國小體育教室",
+                "phone": "04-26710928#260",
+                "address": "臺中市大甲區武陵里文曲路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.600562,
+                    24.336425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大甲區長青活動中心",
+                "phone": "04-26879418",
+                "address": "臺中市大甲區中山里水源路167號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626859,
+                    24.3409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "銅安里活動中心",
+                "phone": "04-26811478",
+                "address": "臺中市大甲區銅安里長壽路79-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.632519,
+                    24.423943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "文昌國小戶外空地",
+                "phone": "04-26872076#800",
+                "address": "臺中市大甲區孔門里育德路113號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.624182,
+                    24.348088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大甲高工活動中心",
+                "phone": "04-26874132#326",
+                "address": "臺中市大甲區頂店里開元路71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.644456,
+                    24.349868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "日南國中體育館",
+                "phone": "04-26813721#532",
+                "address": "臺中市大甲區孟春里中山路二段69-11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652024,
+                    24.378312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "華龍國小戶外空地",
+                "phone": "04-26811270#700",
+                "address": "臺中市大甲區日南里工二路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.648178,
+                    24.405992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "西岐國小有晴館",
+                "phone": "04-26811747",
+                "address": "臺中市大甲區西岐里順帆路96號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.628469,
+                    24.4203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "孟春社區暨長照活動中心2樓",
+                "phone": "04-26872101#104",
+                "address": "臺中市大甲區孟春里中山路二段317號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.655554,
+                    24.382536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大甲區公所",
+                "phone": "04-26872101#121",
+                "address": "臺中市大甲區孔門里民權路52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.622487,
+                    24.349215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "文曲社區活動中心",
+                "phone": "26711375",
+                "address": "臺中市大甲區文曲里東安路497巷18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.597241,
+                    24.333513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大甲中山公園",
+                "phone": "04-26872101#238",
+                "address": "臺中市大甲區中山里水源路167號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626859,
+                    24.3409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大甲日南公園",
+                "phone": "04-26872101#238",
+                "address": "臺中市大甲區孟春里中山路二段317號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.655554,
+                    24.382536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "西岐里活動中心",
+                "phone": "04-26818147",
+                "address": "臺中市大甲區西岐里順帆北路501號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63146,
+                    24.418119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "建興社區長壽會館",
+                "phone": "04-26872101",
+                "address": "臺中市大甲區建興里如意路25-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614786,
+                    24.414781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "文武等五里聯合服務中心",
+                "phone": "04-26873110",
+                "address": "臺中市大甲區文武里德興路63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.625308,
+                    24.349913
+                ]
+            }
+        }
+    ]
+}

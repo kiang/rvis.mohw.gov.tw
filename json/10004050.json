@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "德盛村集會所",
+                "phone": "03-5993911",
+                "address": "新竹縣湖口鄉德盛村18鄰德興路127巷13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.044254,
+                    24.908867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "長安社區活動中心",
+                "phone": "03-5993911",
+                "address": "新竹縣湖口鄉長安村08鄰長安路381號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.099551,
+                    24.882902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "中興社區活動中心",
+                "phone": "03-5984924",
+                "address": "新竹縣湖口鄉中興村工業一路85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.027564,
+                    24.868241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "和興村集會所",
+                "phone": "03-5993911",
+                "address": "新竹縣湖口鄉和興村15鄰德和路128號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.045964,
+                    24.917043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "湖口鄉老人文康活動中心",
+                "phone": "03-5978213",
+                "address": "新竹縣湖口鄉勝利村28鄰新生路122號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026017,
+                    24.866059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "鳳山村集會所",
+                "phone": "03-5977724",
+                "address": "新竹縣湖口鄉鳳山村19鄰瑞安街22巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.021834,
+                    24.860697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "鳳山社區活動中心",
+                "phone": "03-5982948",
+                "address": "新竹縣湖口鄉鳳山村12鄰榮光路120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013551,
+                    24.858093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "湖口鄉信勢國小禮堂",
+                "phone": "03-5992133",
+                "address": "新竹縣湖口鄉信勢村01鄰成功路360號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.039934,
+                    24.900098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "東興村集會所",
+                "phone": "03-5991415",
+                "address": "新竹縣湖口鄉東興村09鄰德和路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.050202,
+                    24.915507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "長嶺村集會所",
+                "phone": "03-5906511",
+                "address": "新竹縣湖口鄉長嶺村11鄰中平路二段267巷36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.074665,
+                    24.891791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "中勢村集會所",
+                "phone": "03-5993911",
+                "address": "新竹縣湖口鄉中勢村10鄰信昌五街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.057986,
+                    24.90222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "鳳凰社區活動中心",
+                "phone": "03-5993911",
+                "address": "新竹縣湖口鄉鳳凰村25鄰仁和路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.014538,
+                    24.872824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "中正村集會所",
+                "phone": "03-5904099",
+                "address": "新竹縣湖口鄉中正村19鄰中正二路70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.046843,
+                    24.894561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "勝利村集會所",
+                "phone": "03-5993911",
+                "address": "新竹縣湖口鄉勝利村湖口鄉新生路95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026709,
+                    24.866719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "信義村集會所",
+                "phone": "03-5993911",
+                "address": "新竹縣湖口鄉信義村22鄰中山二街72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.040153,
+                    24.895341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "湖口鄉新湖國小活動中心",
+                "phone": "03-5992062",
+                "address": "新竹縣湖口鄉愛勢村16鄰民族街222號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.047431,
+                    24.905875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "信勢村集會所",
+                "phone": "03-5993911",
+                "address": "新竹縣湖口鄉信勢村12鄰明德街296號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.038077,
+                    24.901727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "湖口村集會所",
+                "phone": "03-5690209",
+                "address": "新竹縣湖口鄉湖口村16鄰中美東路358巷27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.060383,
+                    24.886068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "愛勢村集會所",
+                "phone": "03-5990543",
+                "address": "新竹縣湖口鄉愛勢村17鄰信義街59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.048935,
+                    24.906251
+                ]
+            }
+        }
+    ]
+}

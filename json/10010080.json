@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "六腳鄉老人文康活動中心",
+                "phone": "05-3801121#167",
+                "address": "嘉義縣六腳鄉蒜頭村014鄰蒜頭１８８號之５"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293046,
+                    23.495038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "蒜頭國小－室內（學生活動中心）",
+                "phone": "05-3802025#15",
+                "address": "嘉義縣六腳鄉蒜頭村013鄰蒜頭１８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292869,
+                    23.493556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "六美國小－室內（東棟教學大樓1樓教室3間）",
+                "phone": "05-7812708",
+                "address": "嘉義縣六腳鄉六斗村009鄰六斗尾３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293746,
+                    23.539942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "六嘉國中－室內（禮堂）",
+                "phone": "05-3801215#11",
+                "address": "嘉義縣六腳鄉蒜頭村002鄰樹仁路１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291683,
+                    23.50048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "北美國小－室內（C棟1樓視聽教室及2樓樂活教室）",
+                "phone": "05-7811429#13",
+                "address": "嘉義縣六腳鄉崙陽村008鄰崙子１２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304047,
+                    23.558513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "六腳國小－室內（禮堂）",
+                "phone": "05-3781403",
+                "address": "嘉義縣六腳鄉六腳村007鄰六脚１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.252256,
+                    23.509453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "更寮國小－室內（2樓視聽教室）",
+                "phone": "05-3796309#12",
+                "address": "嘉義縣六腳鄉更寮村003鄰更寮１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.239859,
+                    23.482948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "蘇厝社區活動中心",
+                "phone": "05-7810161",
+                "address": "嘉義縣六腳鄉蘇厝村001鄰蘇厝寮８２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299978,
+                    23.559017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "灣內國小－室外（操場）",
+                "phone": "05-3802306#11",
+                "address": "嘉義縣六腳鄉灣南村015鄰灣內6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312222,
+                    23.500443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "六嘉國中－室外（操場）",
+                "phone": "05-3801215#11",
+                "address": "嘉義縣六腳鄉蒜頭村002鄰樹仁路１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291683,
+                    23.50048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "六腳國小－室外（操場）",
+                "phone": "05-3781403",
+                "address": "嘉義縣六腳鄉六腳村007鄰六脚１０５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.252256,
+                    23.509453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "蒜頭國小－室外（操場）",
+                "phone": "05-3802025#15",
+                "address": "嘉義縣六腳鄉蒜頭村013鄰蒜頭１８８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292869,
+                    23.493556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "蒜頭村活動中心",
+                "phone": "05-3800132",
+                "address": "嘉義縣六腳鄉蒜頭村015鄰蒜頭７３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290764,
+                    23.494054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "六美國小－室外（操場）",
+                "phone": "05-7812708",
+                "address": "嘉義縣六腳鄉六斗村009鄰六斗尾３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293746,
+                    23.539942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "北美國小－室外（操場）",
+                "phone": "05-7811429#13",
+                "address": "嘉義縣六腳鄉崙陽村008鄰崙子１２２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304047,
+                    23.558513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "更寮國小－室外（操場）",
+                "phone": "05-3796309#12",
+                "address": "嘉義縣六腳鄉更寮村003鄰更寮１９號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.239859,
+                    23.482948
+                ]
+            }
+        }
+    ]
+}

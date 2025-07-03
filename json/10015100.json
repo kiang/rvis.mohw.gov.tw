@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "永豐社區活動中心",
+                "phone": "03-8831821",
+                "address": "花蓮縣富里鄉永豐村永豐10鄰20-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.258985,
+                    23.177447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "羅山縱管處",
+                "phone": "03-8821330",
+                "address": "花蓮縣富里鄉羅山村9鄰東湖39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.275102,
+                    23.201982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "石牌社區活動中心",
+                "phone": "03-8831323",
+                "address": "花蓮縣富里鄉石牌村富北51-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.264489,
+                    23.192857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "東里社區活動中心",
+                "phone": "03-8861165",
+                "address": "花蓮縣富里鄉東里村大莊路141號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.305966,
+                    23.269828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "萬寧社區活動中心",
+                "phone": "03-8861120",
+                "address": "花蓮縣富里鄉萬寧村7鄰鎮寧100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.298237,
+                    23.250983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "豐南社區活動中心",
+                "phone": "03-8831820",
+                "address": "花蓮縣富里鄉豐南村豐南7鄰12-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.268249,
+                    23.143346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "新興竹田聯合社區活動中心",
+                "phone": "03-8821423",
+                "address": "花蓮縣富里鄉竹田村1鄰東竹10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.281975,
+                    23.220445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "吳江社區活動中心",
+                "phone": "03-8861180",
+                "address": "花蓮縣富里鄉吳江村6鄰吳江65-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.322064,
+                    23.279951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "明里社區活動中心",
+                "phone": "03-8846057",
+                "address": "花蓮縣富里鄉明里村3鄰明里37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.252246,
+                    23.199802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "富里鄉公所2樓",
+                "phone": "03-8831111",
+                "address": "花蓮縣富里鄉富里村中山路376號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.250287,
+                    23.179442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "富里老人文康中心",
+                "phone": "03-8831048",
+                "address": "花蓮縣富里鄉富里村中山路205號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.24923,
+                    23.178712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "學田村社區活動中心",
+                "phone": "03-8831819",
+                "address": "花蓮縣富里鄉學田村復興路14-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.229288,
+                    23.148374
+                ]
+            }
+        }
+    ]
+}

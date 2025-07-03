@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "後堀社區活動中心",
+                "phone": "05-3752086",
+                "address": "嘉義縣鹿草鄉後堀村65之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340951,
+                    23.40472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "重寮社區活動中心",
+                "phone": "05-3752711*69",
+                "address": "嘉義縣鹿草鄉重寮村15鄰99之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.316737,
+                    23.394389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "下潭社區活動中心",
+                "phone": "05-3651578",
+                "address": "嘉義縣鹿草鄉光潭村196號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286118,
+                    23.37404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "後塘國小室外",
+                "phone": "05-3752548*03",
+                "address": "嘉義縣鹿草鄉三角村毛蟹行11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.337183,
+                    23.404821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "碧潭國小室外",
+                "phone": "05-3651544*13",
+                "address": "嘉義縣鹿草鄉碧潭村184號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298985,
+                    23.386966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "下潭國小室外",
+                "phone": "05-3651544-13",
+                "address": "嘉義縣鹿草鄉光潭村196號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286118,
+                    23.37404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "鹿草國中室內",
+                "phone": "05-3752037-13",
+                "address": "嘉義縣鹿草鄉鹿草村鹿草路132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312937,
+                    23.409953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "鹿草國小室外",
+                "phone": "05-3752004-203",
+                "address": "嘉義縣鹿草鄉西井村長壽路221號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307413,
+                    23.411762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "鹿草國中室外",
+                "phone": "05-3752037-13",
+                "address": "嘉義縣鹿草鄉鹿草村鹿草路132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312937,
+                    23.409953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "竹園國小室外",
+                "phone": "05-3650524-12",
+                "address": "嘉義縣鹿草鄉松竹村69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290287,
+                    23.393367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "重寮國小室外",
+                "phone": "05-3752544*13",
+                "address": "嘉義縣鹿草鄉重寮村160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315022,
+                    23.393571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "碧潭國小活動中心",
+                "phone": "05-3651544*13",
+                "address": "嘉義縣鹿草鄉碧潭村184號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298985,
+                    23.386966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "鹿草西井社區活動中心",
+                "phone": "05-3753210",
+                "address": "嘉義縣鹿草鄉西井村長壽路227號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308305,
+                    23.411358
+                ]
+            }
+        }
+    ]
+}

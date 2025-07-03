@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "恆春國小",
+                "phone": "08-8892035#14",
+                "address": "屏東縣恆春鎮城北里北門路39巷26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.74661,
+                    22.006388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "恆春國中",
+                "phone": "08-8892039#14",
+                "address": "屏東縣恆春鎮城南里文化路79號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.747026,
+                    22.002286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "恆春鎮公所",
+                "phone": "08-8890992",
+                "address": "屏東縣恆春鎮城南里天文路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.747377,
+                    22.003789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "僑勇國小",
+                "phone": "08-8892141*13",
+                "address": "屏東縣恆春鎮網紗里西門路146號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7438207,
+                    22.0087825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "恆春工商",
+                "phone": "08-8892010*200",
+                "address": "屏東縣恆春鎮山腳里恆南路38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.740465,
+                    22.00232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "水泉國小",
+                "phone": "08-8866208#11",
+                "address": "屏東縣恆春鎮水泉里頂泉路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.732513,
+                    21.940469
+                ]
+            }
+        }
+    ]
+}

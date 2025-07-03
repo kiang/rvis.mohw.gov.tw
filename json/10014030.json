@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "德高活動中心",
+                "phone": "089931111",
+                "address": "臺東縣關山鎮德高里8鄰永豐105之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.177636,
+                    23.074975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "電光活動中心",
+                "phone": "0905-135770",
+                "address": "臺東縣關山鎮電光里3鄰中興85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.173888,
+                    23.007256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "關山鎮關山國民小學",
+                "phone": "089811012",
+                "address": "臺東縣關山鎮豐泉里中華路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.164711,
+                    23.050644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "關山鎮月眉國民小學",
+                "phone": "089-811074#21",
+                "address": "臺東縣關山鎮月眉里盛豐路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.149939,
+                    23.033625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "關山鎮德高國民小學",
+                "phone": "089-931149#103",
+                "address": "臺東縣關山鎮德高里7鄰永豐16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.177902,
+                    23.0741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "關山鎮電光國民小學",
+                "phone": "089-951142#03",
+                "address": "臺東縣關山鎮電光里中興93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.173737,
+                    23.006131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "月眉活動中心",
+                "phone": "089-811423",
+                "address": "臺東縣關山鎮月眉里中和7之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.151664,
+                    23.01586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "里壠活動中心",
+                "phone": "089-812305",
+                "address": "臺東縣關山鎮里壠里崁頂46之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.157079,
+                    23.044722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "中福活動中心",
+                "phone": "089811579",
+                "address": "臺東縣關山鎮中福里中華路68號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.164017,
+                    23.049019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "豐泉活動中心",
+                "phone": "0911734123",
+                "address": "臺東縣關山鎮豐泉里忠孝路18巷2號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.162504,
+                    23.051891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "關山鎮老人文康活動中心",
+                "phone": "0963-002822",
+                "address": "臺東縣關山鎮豐泉里忠孝路18巷2號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.162504,
+                    23.051891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "新福活動中心",
+                "phone": "089811777",
+                "address": "臺東縣關山鎮新福里溪埔34之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.172107,
+                    23.046009
+                ]
+            }
+        }
+    ]
+}

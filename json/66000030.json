@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "和平國小和平館及操場",
+                "phone": "04-22613139#731",
+                "address": "臺中市南區和平里復興路二段57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.659465,
+                    24.120546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立圖書館南區分館",
+                "phone": "04-22623497#16",
+                "address": "臺中市南區平和里五權南路335號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.669748,
+                    24.120118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "四育國中四育館及操場",
+                "phone": "04-22633229#732",
+                "address": "臺中市南區福平里復興路二段152號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.665448,
+                    24.125501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中高工體育館及操場",
+                "phone": "04-22613158#5200",
+                "address": "臺中市南區永興里高工路191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.661357,
+                    24.113415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中興活動中心",
+                "phone": "04-22626105#125",
+                "address": "臺中市南區積善里復新街89號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675923,
+                    24.124644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市南區聯合辦公大樓",
+                "phone": "04-22626105#507",
+                "address": "臺中市南區南和里工學路72號5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663793,
+                    24.11709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "國光國小國光堂及操場",
+                "phone": "04-22872475#731",
+                "address": "臺中市南區國光里國光路261號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.679858,
+                    24.125426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "崇仁活動中心",
+                "phone": "04-23763080專線",
+                "address": "臺中市南區西川里柳川西路1段59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.660583,
+                    24.13143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "崇倫國中崇倫堂及操場",
+                "phone": "04-23712324#730",
+                "address": "臺中市南區崇倫里忠明南路653號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.657881,
+                    24.128468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "樹義國小樂群樓及操場",
+                "phone": "04-22657298#733",
+                "address": "臺中市南區樹義里福田路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.657403,
+                    24.111969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大慶活動中心",
+                "phone": "04-22654526專線",
+                "address": "臺中市南區樹德里德富路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.654805,
+                    24.119744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "健康公園",
+                "phone": "04-22289111#33915",
+                "address": "臺中市南區平和里忠明南路與五權南路交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.662937,
+                    24.12068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "信義國小信義館及操場",
+                "phone": "04-22622005#732",
+                "address": "臺中市南區平和里五權南路325號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66985,
+                    24.121679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "半平厝公園",
+                "phone": "04-22289111#33915",
+                "address": "臺中市南區西川里忠明南路與南屯路交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.657103,
+                    24.133724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市南區長春\/城隍聯合活動中心",
+                "phone": "04-22230373",
+                "address": "臺中市南區長春里合作街6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.679215,
+                    24.133479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市南區永興、工學、永和三里活動中心",
+                "phone": "04-22626105#125",
+                "address": "臺中市南區永興里工學二街151巷22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.664108,
+                    24.115214
+                ]
+            }
+        }
+    ]
+}

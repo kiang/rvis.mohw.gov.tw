@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "螺青國小",
+                "phone": "04-8882031",
+                "address": "彰化縣北斗鎮東光里斗中路712號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534599,
+                    23.871091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "中寮社區活動中心",
+                "phone": "04-8887363",
+                "address": "彰化縣北斗鎮中寮里中央路30巷31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.510239,
+                    23.881357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "中和社區活動中心",
+                "phone": "04-8884177",
+                "address": "彰化縣北斗鎮中和里中圳路305號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.546215,
+                    23.866143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "北斗國小",
+                "phone": "04-8882008#13",
+                "address": "彰化縣北斗鎮新政里文苑路一段32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.523379,
+                    23.875748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "北斗鎮公所",
+                "phone": "04-8884166",
+                "address": "彰化縣北斗鎮西德里公所街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.521856,
+                    23.871395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "北斗家商",
+                "phone": "04-8882224",
+                "address": "彰化縣北斗鎮大道里學府路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.522079,
+                    23.878499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "萬來國小",
+                "phone": "04-8882119#15",
+                "address": "彰化縣北斗鎮西德里文賢街35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.522049,
+                    23.870287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "北斗國中",
+                "phone": "04-8882072#12",
+                "address": "彰化縣北斗鎮大道里文苑路136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.521586,
+                    23.875934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大新國小",
+                "phone": "04-8882640",
+                "address": "彰化縣北斗鎮大新里大新路556號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.557239,
+                    23.854949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "螺陽國小",
+                "phone": "04-8882039#104",
+                "address": "彰化縣北斗鎮西安里斗苑路2段150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.514719,
+                    23.876239
+                ]
+            }
+        }
+    ]
+}

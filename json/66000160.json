@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "三角社區活動中心",
+                "phone": "04-25627716",
+                "address": "臺中市神岡區三角里神岡區三角里三社路195號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.689508,
+                    24.238589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "神岡區公所",
+                "phone": "04-25620841#211",
+                "address": "臺中市神岡區神岡里神岡區神岡里神岡路30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.661385,
+                    24.257919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "圳堵國小學生活動中心",
+                "phone": "04-25623734#217",
+                "address": "臺中市神岡區圳堵里神岡區圳堵里三民路639號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.659271,
+                    24.272679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "岸裡國小學生活動中心",
+                "phone": "04-25222215#830",
+                "address": "臺中市神岡區岸裡里神岡區岸裡里中山路 52 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697714,
+                    24.247868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "北庄社區活動中心",
+                "phone": "04-25627040",
+                "address": "臺中市神岡區北庄里神岡區北庄里中山路1244號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.668254,
+                    24.257404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "社口國小樂群樓",
+                "phone": "04-25626834#730",
+                "address": "臺中市神岡區社南里神岡區昌平路五段450號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684341,
+                    24.245398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐洲國小學生活動中心",
+                "phone": "04-25223351#730",
+                "address": "臺中市神岡區豐洲里神岡區豐洲路482號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703979,
+                    24.262287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐洲公園",
+                "phone": "04-2560841#183",
+                "address": "臺中市神岡區豐洲里神岡區大明路41號對面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.712986,
+                    24.257843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "神圳國中多功能活動中心",
+                "phone": "04-25624669#730",
+                "address": "臺中市神岡區神岡里神岡區神清路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.657573,
+                    24.260935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "神岡高工體育暨學生活動中心",
+                "phone": "04-25623421#630",
+                "address": "臺中市神岡區社南里神岡區中山路627號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680871,
+                    24.24738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "社南里活動中心",
+                "phone": "04-25626523",
+                "address": "臺中市神岡區社南里神岡區社南街185巷10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684554,
+                    24.243776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "神岡里山皮里聯合活動中心",
+                "phone": "04-25611408",
+                "address": "臺中市神岡區神岡里神岡區中正南街80巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.656589,
+                    24.256494
+                ]
+            }
+        }
+    ]
+}

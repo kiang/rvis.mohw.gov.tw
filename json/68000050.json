@@ -1,0 +1,613 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "南崁國小",
+                "phone": "03-3115578#510",
+                "address": "桃園市蘆竹區長壽里吉林路160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.300935,
+                    25.050201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "光明國小",
+                "phone": "03-3127066#511",
+                "address": "桃園市蘆竹區南興里南昌路255號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.290791,
+                    25.040876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "光明河濱公園",
+                "phone": "03-2220465",
+                "address": "桃園市蘆竹區錦興里光明路二段"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.288366,
+                    25.045085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "光明市民活動中心",
+                "phone": "0935646329",
+                "address": "桃園市蘆竹區錦興里18鄰光明路2段33號(1、2F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.287473,
+                    25.045707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大竹國中",
+                "phone": "03-3232764#511",
+                "address": "桃園市蘆竹區上竹里大竹路國中巷35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.259882,
+                    25.024225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "上竹市民活動中心",
+                "phone": "0932268271",
+                "address": "桃園市蘆竹區上竹里博愛街22號(2F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.261486,
+                    25.024334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "蘆竹區公所三樓",
+                "phone": "03-2220248",
+                "address": "桃園市蘆竹區南崁里南崁路150號(3F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.295126,
+                    25.04692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "蘆竹區婦幼館",
+                "phone": "03-3122120",
+                "address": "桃園市蘆竹區瓦窯里仁愛路一段2號(B1)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.293477,
+                    25.050687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "海湖第一市民活動中心",
+                "phone": "0937951163",
+                "address": "桃園市蘆竹區海湖里海湖東路217號(3F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.268311,
+                    25.102815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "富竹市民活動中心",
+                "phone": "0938362611",
+                "address": "桃園市蘆竹區富竹里富竹街109號(3F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.264048,
+                    25.03074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "營盤市民活動中心",
+                "phone": "0917289802",
+                "address": "桃園市蘆竹區營盤里中山路108巷21號(3F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.299256,
+                    25.0565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "彎頭仔市民活動中心",
+                "phone": "0934309931",
+                "address": "桃園市蘆竹區山腳里18鄰山外路117號(3F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.288115,
+                    25.082985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "宏竹市民活動中心",
+                "phone": "0913510378",
+                "address": "桃園市蘆竹區宏竹里宏華街10號(1、2F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.255534,
+                    25.04162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "公埔市民活動中心",
+                "phone": "0972341144",
+                "address": "桃園市蘆竹區內厝里8鄰南山路2段394巷67號(1F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.287741,
+                    25.071559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大竹老人集會所",
+                "phone": "0921169267",
+                "address": "桃園市蘆竹區大竹里南竹路5段210巷1弄1號(2F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.259895,
+                    25.026142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "後壁厝市民活動中心",
+                "phone": "0932270135",
+                "address": "桃園市蘆竹區坑口里南山北路2段378號(1F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.274938,
+                    25.105547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "蘆竹國小",
+                "phone": "03-3221731#511",
+                "address": "桃園市蘆竹區蘆竹里富國路2段850號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.267126,
+                    25.050819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大南興市民活動中心",
+                "phone": "0910302243",
+                "address": "桃園市蘆竹區順興里5鄰南昌路36號(3F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.28822,
+                    25.04182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "南榮市民活動中心",
+                "phone": "0932098061",
+                "address": "桃園市蘆竹區南榮里桃園街9號(2F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.293262,
+                    25.042743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "南青市民活動中心",
+                "phone": "0911240679",
+                "address": "桃園市蘆竹區蘆竹里南青路850巷50號(1F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.26266,
+                    25.052928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "興仁市民活動中心",
+                "phone": "0935768488",
+                "address": "桃園市蘆竹區中興里興仁路330-1號(1F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.262019,
+                    25.014284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "五福市民活動中心",
+                "phone": "0919278652",
+                "address": "桃園市蘆竹區五福里5鄰福祿五街18號(4F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.296197,
+                    25.053599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "外社市民活動中心",
+                "phone": "0936398891",
+                "address": "桃園市蘆竹區外社里12鄰山林路2段471號(1、2、4F)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.305474,
+                    25.082657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "光明國中",
+                "phone": "03-3114355#510",
+                "address": "桃園市蘆竹區興榮里光明路1段123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.28925,
+                    25.044422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "南崁國中",
+                "phone": "03-3525590#510",
+                "address": "桃園市蘆竹區五福里五福六路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.298579,
+                    25.054686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "錦興國小",
+                "phone": "03-3228487#510",
+                "address": "桃園市蘆竹區興榮里南竹路1段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.289697,
+                    25.046704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "南崁高中",
+                "phone": "03-3525580#515",
+                "address": "桃園市蘆竹區五福里仁愛路2段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.297583,
+                    25.052454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "公埔國小",
+                "phone": "03-3243852#511",
+                "address": "桃園市蘆竹區內厝里南山路二段448號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.285966,
+                    25.071812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "頂社國小",
+                "phone": "03-3241182#510",
+                "address": "桃園市蘆竹區坑子里山林路三段232號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.320331,
+                    25.077853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "外社國小",
+                "phone": "03-3241874#512",
+                "address": "桃園市蘆竹區外社里山林路二段525號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.306579,
+                    25.082419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "山腳國小",
+                "phone": "03-3241884#511",
+                "address": "桃園市蘆竹區山腳里南山路三段440號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.28765,
+                    25.088463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "山腳國中",
+                "phone": "03-3241995#511",
+                "address": "桃園市蘆竹區山腳里海山路319號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.278611,
+                    25.088162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "海湖國小",
+                "phone": "03-3542181#513",
+                "address": "桃園市蘆竹區海湖里海湖東路191巷15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.267233,
+                    25.10234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龍安國小",
+                "phone": "03-3922797#520",
+                "address": "桃園市蘆竹區新興里文中路一段35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.273056,
+                    24.992025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新興國小",
+                "phone": "03-3602448#510",
+                "address": "桃園市蘆竹區新興里新興街355號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.264821,
+                    25.008305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大竹國小",
+                "phone": "03-3232917#511",
+                "address": "桃園市蘆竹區大竹里大竹路556號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.258779,
+                    25.024197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新莊國小",
+                "phone": "03-3231264#510",
+                "address": "桃園市蘆竹區新莊里大新路380巷121號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.246413,
+                    25.027759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大華國小",
+                "phone": "03-3232664#510",
+                "address": "桃園市蘆竹區宏竹里大華街98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.254247,
+                    25.039256
+                ]
+            }
+        }
+    ]
+}

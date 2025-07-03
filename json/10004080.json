@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "力行村集會所",
+                "phone": "03-5935182",
+                "address": "新竹縣橫山鄉力行村09鄰中山街1段177號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.168145,
+                    24.71576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "福興社區活動中心",
+                "phone": "03-5811760",
+                "address": "新竹縣橫山鄉福興村08鄰八十分31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.17012,
+                    24.735865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "老人文康活動中心",
+                "phone": "03-5931937",
+                "address": "新竹縣橫山鄉大肚村08鄰永昌街53號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.133708,
+                    24.722494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "田寮村集會所",
+                "phone": "03-5937258",
+                "address": "新竹縣橫山鄉田寮村08鄰田洋街132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.106109,
+                    24.705327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "豐田村集會所",
+                "phone": "03-5931948",
+                "address": "新竹縣橫山鄉豐田村03鄰油羅63-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.156901,
+                    24.704229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "內灣廣濟宮活動中心",
+                "phone": "03-5849893",
+                "address": "新竹縣橫山鄉內灣村04鄰大同路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.181782,
+                    24.706458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "沙坑村集會所",
+                "phone": "03-5811071",
+                "address": "新竹縣橫山鄉沙坑村03鄰沙坑街50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.161068,
+                    24.738899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "豐鄉村集會所",
+                "phone": "03-5934129",
+                "address": "新竹縣橫山鄉豐鄉村03鄰大山背32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.136506,
+                    24.692328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "橫山社區長壽俱樂部",
+                "phone": "03-5935311",
+                "address": "新竹縣橫山鄉橫山村03鄰橫山96號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.115834,
+                    24.718053
+                ]
+            }
+        }
+    ]
+}

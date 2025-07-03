@@ -1,0 +1,613 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "大洋部落真耶穌教會",
+                "phone": "049-2955666",
+                "address": "南投縣仁愛鄉力行村新望洋128號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.190174,
+                    24.147576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "春陽國小",
+                "phone": "049-2802573",
+                "address": "南投縣仁愛鄉春陽村5鄰永樂巷58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.149255,
+                    24.027968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "法治村活動中心",
+                "phone": "049-2977201",
+                "address": "南投縣仁愛鄉法治村界山巷12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.044888,
+                    23.916101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "精英村辦公處",
+                "phone": "049-2970913",
+                "address": "南投縣仁愛鄉精英村中華巷18-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.184791,
+                    24.03508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "都達國小",
+                "phone": "049-2970053",
+                "address": "南投縣仁愛鄉都達村法觀路17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.192195,
+                    24.059515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "松崗活動中心",
+                "phone": "049-2802583",
+                "address": "南投縣仁愛鄉大同村博望巷42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.170939,
+                    24.075005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "仁愛國小",
+                "phone": "049-2802373",
+                "address": "南投縣仁愛鄉大同村山農巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.133247,
+                    24.020472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "親愛國小萬大分校萬大部落",
+                "phone": "049-2974032",
+                "address": "南投縣仁愛鄉親愛村大安路87號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.127932,
+                    23.974225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "翠巒馬力觀基督長老教會",
+                "phone": "04-25960703",
+                "address": "南投縣仁愛鄉翠華村翠巒路16-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.207376,
+                    24.17964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "紅香部落紅葉國小",
+                "phone": "049-2955075",
+                "address": "南投縣仁愛鄉發祥村仁盛路70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.177232,
+                    24.159707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "德鹿谷活動中心",
+                "phone": "049-2970912",
+                "address": "南投縣仁愛鄉合作村莎都部落1巷56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.184126,
+                    24.021495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "萬豐國小",
+                "phone": "049-2974123",
+                "address": "南投縣仁愛鄉萬豐村清華巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.076248,
+                    23.946871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中正村活動中心",
+                "phone": "049-2926534",
+                "address": "南投縣仁愛鄉中正村光明路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.989857,
+                    23.907644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "楓林活動中心",
+                "phone": "049-2920075",
+                "address": "南投縣仁愛鄉南豐村楓林路37-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.072705,
+                    23.998484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "仁愛國中",
+                "phone": "049-280220#11",
+                "address": "南投縣仁愛鄉大同村信義路28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.141763,
+                    24.033186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "南豐國小",
+                "phone": "049-2920037",
+                "address": "南投縣仁愛鄉南豐村楓林路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.078613,
+                    24.000305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "德鹿谷國小",
+                "phone": "049-2970063",
+                "address": "南投縣仁愛鄉合作村莎都部落1巷23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.184993,
+                    24.035169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "翠巒活動中心",
+                "phone": "04-25960192",
+                "address": "南投縣仁愛鄉翠華村翠巒路38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.203218,
+                    24.183674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "臺灣基督長老教會馬烈霸教會",
+                "phone": "049-2955666",
+                "address": "南投縣仁愛鄉力行村新望洋7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.190389,
+                    24.146274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "瑞岩部落發祥活動中心",
+                "phone": "049-2955670",
+                "address": "南投縣仁愛鄉發祥村瑞和路1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.160616,
+                    24.115579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "德鹿谷長老教會",
+                "phone": "049-2970912",
+                "address": "南投縣仁愛鄉合作村卜溪部落1巷42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.133244,
+                    24.023292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "華崗活動中心",
+                "phone": "04-25960192",
+                "address": "南投縣仁愛鄉翠華村翠華村華崗120號."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.226828,
+                    24.193055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "梅村部落梅村長老教會",
+                "phone": "049-2955745",
+                "address": "南投縣仁愛鄉發祥村溪門巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.179785,
+                    24.15127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "基督長老教會柄史布淦教會",
+                "phone": "049-2955513",
+                "address": "南投縣仁愛鄉發祥村瑞和路19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.16049,
+                    24.115734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "望洋部落力行活動中心",
+                "phone": "049-2955666",
+                "address": "南投縣仁愛鄉力行村新望洋62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.188992,
+                    24.147461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "真耶穌教會慈峰教會",
+                "phone": "049-2955666",
+                "address": "南投縣仁愛鄉發祥村慈峰巷21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.18442,
+                    24.131191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "溫泉部落鄰長住宅",
+                "phone": "049-2955666",
+                "address": "南投縣仁愛鄉力行村溫泉巷18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.180254,
+                    24.163699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "松林活動中心(松林部落)",
+                "phone": "049-2974201",
+                "address": "南投縣仁愛鄉親愛村親和巷74號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.098283,
+                    23.969591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "親愛國小(親愛部落)",
+                "phone": "049-2974033",
+                "address": "南投縣仁愛鄉親愛村高平路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.109247,
+                    23.967763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "史努櫻長老教會",
+                "phone": "04-92802294",
+                "address": "南投縣仁愛鄉永樂巷58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.149255,
+                    24.027968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "廬山基督長老教會",
+                "phone": "049-2970072",
+                "address": "南投縣仁愛鄉精英村中華巷26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.185248,
+                    24.034763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "廬山國民小學",
+                "phone": "049-2970385",
+                "address": "南投縣仁愛鄉精英村中華巷19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.186213,
+                    24.035074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "碧綠溪農場",
+                "phone": "04-25991119",
+                "address": "南投縣仁愛鄉榮興村6鄰碧綠巷27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.279703,
+                    24.226015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "眉溪天主堂",
+                "phone": "049-2920775",
+                "address": "南投縣仁愛鄉南豐村中正路14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.095817,
+                    24.007166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "清流活動中心",
+                "phone": "049-2941162",
+                "address": "南投縣仁愛鄉互助村明月巷80附1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.953368,
+                    24.069317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中原活動中心",
+                "phone": "049-2941162",
+                "address": "南投縣仁愛鄉互助村原名路169號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.972905,
+                    24.066642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新生活動中心",
+                "phone": "049-2941162",
+                "address": "南投縣仁愛鄉新生村山林巷17之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.987902,
+                    24.07992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "萬大電廠活動中心",
+                "phone": "049-2974201",
+                "address": "南投縣仁愛鄉親愛村大安路90之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.127638,
+                    23.974385
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "峨眉國中",
+                "phone": "03-5800208",
+                "address": "新竹縣峨眉鄉峨眉村10鄰峨眉街54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018079,
+                    24.690802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "獅山遊客中心",
+                "phone": "03-5809296",
+                "address": "新竹縣峨眉鄉七星村14鄰六寮60-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.024447,
+                    24.655557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "富興國小",
+                "phone": "03-5806353",
+                "address": "新竹縣峨眉鄉富興村5鄰太平街8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.988463,
+                    24.686813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "石井集會所",
+                "phone": "03-5800116",
+                "address": "新竹縣峨眉鄉石井村4鄰34-7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.000494,
+                    24.698212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "中盛社區活動中心",
+                "phone": "03-5809115",
+                "address": "新竹縣峨眉鄉中盛村5鄰283號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.030135,
+                    24.692688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "湖光社區活動中心",
+                "phone": "037-602521",
+                "address": "新竹縣峨眉鄉湖光村11鄰湖農新村32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.987673,
+                    24.664031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "富興社區活動中心",
+                "phone": "03-5806486",
+                "address": "新竹縣峨眉鄉富興村1鄰富農新邨33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.986549,
+                    24.69047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "峨眉鄉老人文康中心",
+                "phone": "03-5809421",
+                "address": "新竹縣峨眉鄉峨眉村07鄰獅山街7鄰28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.017371,
+                    24.686463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "峨眉國小",
+                "phone": "03-5800674",
+                "address": "新竹縣峨眉鄉峨眉村8鄰峨眉街4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.020109,
+                    24.688953
+                ]
+            }
+        }
+    ]
+}

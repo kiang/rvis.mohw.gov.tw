@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "觀音區公所綠資源中心",
+                "phone": "03-4732121#126",
+                "address": "桃園市觀音區觀音里16鄰觀新路56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.083528,
+                    25.028089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "廣福市民活動中心",
+                "phone": "03-4733334",
+                "address": "桃園市觀音區廣福里福山路二段403巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.153242,
+                    25.018809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "富林國民小學",
+                "phone": "03-4839049#51",
+                "address": "桃園市觀音區富林里大觀路三段466號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.120802,
+                    25.036629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "樹林國民小學",
+                "phone": "03-4830414#510",
+                "address": "桃園市觀音區樹林里新村路二段12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12819,
+                    25.062166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "富林-草新市民活動中心",
+                "phone": "03-4839559",
+                "address": "桃園市觀音區富林里一心路180號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.138639,
+                    25.037789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "草漯國民小學",
+                "phone": "03-4830160#510",
+                "address": "桃園市觀音區草漯里新生路1462號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.143217,
+                    25.045715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大潭市民活動中心",
+                "phone": "03-4732121",
+                "address": "桃園市觀音區大潭里16鄰保生三街61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.057257,
+                    25.024383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "樹林市民活動中心",
+                "phone": "03-4834817",
+                "address": "桃園市觀音區樹林里泰安街209號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.123279,
+                    25.050621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "上大國民小學",
+                "phone": "4901174#511",
+                "address": "桃園市觀音區上大里大湖路一段540號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.146786,
+                    24.978753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "草漯國民中學",
+                "phone": "03-4830146#510",
+                "address": "桃園市觀音區草新里四維路73號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.140567,
+                    25.044378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "崙坪國民小學",
+                "phone": "03-4981286#510",
+                "address": "桃園市觀音區崙坪里學府路123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.151837,
+                    24.999977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "樹林公園",
+                "phone": "03-4732121#109",
+                "address": "桃園市觀音區樹林里建國路、民生路交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.125555,
+                    25.052671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "保生國民小學",
+                "phone": "03-4732054",
+                "address": "桃園市觀音區保生里仁愛路二段521號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.052796,
+                    25.023008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大潭國民小學",
+                "phone": "03-4732087",
+                "address": "桃園市觀音區大潭里濱海路大潭段687號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.059022,
+                    25.021279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "觀音國民中學",
+                "phone": "03-4732034#510",
+                "address": "桃園市觀音區白玉里下庄子53之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.080727,
+                    25.039249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "觀音國民小學",
+                "phone": "03-4732009#510",
+                "address": "桃園市觀音區觀音里文化路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.082832,
+                    25.035359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新坡國民小學",
+                "phone": "03-4981534＃510",
+                "address": "桃園市觀音區新坡里中山路二段717號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.137623,
+                    25.01292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "觀音高級中學",
+                "phone": "03-4981464#310",
+                "address": "桃園市觀音區新坡里中山路二段519號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.132835,
+                    25.014817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "育仁國民小學",
+                "phone": "03-4732720＃530",
+                "address": "桃園市觀音區坑尾里育仁路二段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.102563,
+                    25.013217
+                ]
+            }
+        }
+    ]
+}

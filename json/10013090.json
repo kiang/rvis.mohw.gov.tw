@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "三和國小",
+                "phone": "08-7731198",
+                "address": "屏東縣里港鄉土庫村土庫路111之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.506364,
+                    22.820011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "里港國小",
+                "phone": "08-7752161",
+                "address": "屏東縣里港鄉過江村過江路41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.494547,
+                    22.780725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "玉田國小",
+                "phone": "08-7752816",
+                "address": "屏東縣里港鄉玉田村八德路91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490926,
+                    22.7741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "塔樓國小",
+                "phone": "08-7756625",
+                "address": "屏東縣里港鄉塔樓村塔樓路21之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.483774,
+                    22.765464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "載興國小",
+                "phone": "08-7752271",
+                "address": "屏東縣里港鄉載興村載興路1之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.524545,
+                    22.778199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "土庫社區活動中心",
+                "phone": "08-7731156",
+                "address": "屏東縣里港鄉土庫村土庫路97之12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.506752,
+                    22.821128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "里港鄉立圖書館",
+                "phone": "08-7755754",
+                "address": "屏東縣里港鄉過江村過江路43之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.494014,
+                    22.780183
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南澳高中彩虹館",
+                "phone": "03-9981024",
+                "address": "宜蘭縣南澳鄉南澳村蘇花路二段301號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.800805,
+                    24.465969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "金岳國小原住民族資源教室",
+                "phone": "03-9981636",
+                "address": "宜蘭縣南澳鄉金岳村南澳鄉金岳村金岳路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77735,
+                    24.47092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "武塔國小風雨教室",
+                "phone": "03-9981632",
+                "address": "宜蘭縣南澳鄉武塔村新溪路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.778538,
+                    24.445588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "金洋國小風雨教室",
+                "phone": "03-9981486",
+                "address": "宜蘭縣南澳鄉金洋村南澳鄉金洋村金洋路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74933,
+                    24.425934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "澳花國小學生餐廳",
+                "phone": "03-9985108",
+                "address": "宜蘭縣南澳鄉澳花村中央路19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739569,
+                    24.329312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "東岳村集貨中心場",
+                "phone": "03-9986103",
+                "address": "宜蘭縣南澳鄉東岳村南澳鄉東岳村蘇花路3段141號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.831751,
+                    24.519143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "澳花和平基督長老教會",
+                "phone": "03-9985410",
+                "address": "宜蘭縣南澳鄉澳花村南澳鄉澳花村和平路48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745835,
+                    24.333207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "東澳國小風雨教室",
+                "phone": "03-9986217",
+                "address": "宜蘭縣南澳鄉東岳村南澳鄉東岳村蘇花路3段209號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.832973,
+                    24.521552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "碧候國小原住民族資源教室",
+                "phone": "03-9981634",
+                "address": "宜蘭縣南澳鄉碧候村南澳鄉碧候村碧候路自覺巷38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.784688,
+                    24.474119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南澳國小風雨教室",
+                "phone": "03-9981228",
+                "address": "宜蘭縣南澳鄉南澳村南澳鄉南澳村中正路15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.800586,
+                    24.467302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南澳鄉公所二樓第二會議室",
+                "phone": "03-9981915",
+                "address": "宜蘭縣南澳鄉南澳村蘇花路二段381號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.803745,
+                    24.466072
+                ]
+            }
+        }
+    ]
+}

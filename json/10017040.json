@@ -1,0 +1,437 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "朝棟里民活動中心",
+                "phone": "02-24301122#331",
+                "address": "基隆市仁愛區朝棟里成功一路133巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736133,
+                    25.128591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "仁愛國小",
+                "phone": "02-24289131#31",
+                "address": "基隆市仁愛區和明里仁二路139號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746008,
+                    25.127959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "南榮國小",
+                "phone": "02-24223038#30",
+                "address": "基隆市仁愛區德厚里南榮路321號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7439,
+                    25.1194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "花崗里活動中心",
+                "phone": "02-24301122#323",
+                "address": "基隆市仁愛區花崗里劉銘傳路11巷24弄3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751836,
+                    25.127213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "光華里民活動中心",
+                "phone": "02-24301122#311",
+                "address": "基隆市仁愛區光華里光一路28號5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736712,
+                    25.125216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "明德里民活動中心",
+                "phone": "02-24301122#325",
+                "address": "基隆市仁愛區明德里自來街13巷5之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738968,
+                    25.127624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "同風里民活動中心",
+                "phone": "02-24301122#331",
+                "address": "基隆市仁愛區同風里孝二路39號七樓12室（忠孝大樓）"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739396,
+                    25.128878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "文昌里民活動中心",
+                "phone": "02-24301122#325",
+                "address": "基隆市仁愛區文昌里孝四路10之1號（陸橋下）"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738521,
+                    25.130662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "新店里民活動中心",
+                "phone": "02-24301122#310",
+                "address": "基隆市仁愛區新店里孝一路100之1號2樓旁通道"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740571,
+                    25.128722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "智仁里民活動中心",
+                "phone": "02-24301122#326",
+                "address": "基隆市仁愛區智仁里延平街7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.748604,
+                    25.127168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "和明里民活動中心",
+                "phone": "02-24301122#310",
+                "address": "基隆市仁愛區和明里仁二路137巷2弄1之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745785,
+                    25.126073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "博愛里民活動中心",
+                "phone": "02-24301122#316",
+                "address": "基隆市仁愛區博愛里愛一路8號3樓之7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740804,
+                    25.128145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "吉仁里民活動中心",
+                "phone": "02-24301122#315",
+                "address": "基隆市仁愛區吉仁里南新街29之6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744242,
+                    25.123321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "育仁里民活動中心",
+                "phone": "02-24301122#308",
+                "address": "基隆市仁愛區育仁里南榮路269巷28之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743968,
+                    25.120394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "文安里民活動中心",
+                "phone": "02-24301122#319",
+                "address": "基隆市仁愛區文安里仁五路20號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741161,
+                    25.127064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "兆連里民活動中心",
+                "phone": "02-24301122#309",
+                "address": "基隆市仁愛區兆連里獅球路25巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738854,
+                    25.125319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "獅球書院聯合里民活動中心",
+                "phone": "02-24301122#307#309",
+                "address": "基隆市仁愛區獅球里獅球路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738584,
+                    25.125077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "忠勇里民活動中心",
+                "phone": "02-24301122#324",
+                "address": "基隆市仁愛區忠勇里愛五路6巷32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745,
+                    25.127368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "仁愛區公所",
+                "phone": "02-24301122#602",
+                "address": "基隆市仁愛區光華里光一路28號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736712,
+                    25.125216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "虹橋水錦聯合里民活動中心",
+                "phone": "02-24301122#309#323",
+                "address": "基隆市仁愛區虹橋里仁二路53號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7498,
+                    25.1282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "林泉里民活動中心",
+                "phone": "02-24301122#324",
+                "address": "基隆市仁愛區林泉里復興街60巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752427,
+                    25.125316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "玉田里民活動中心",
+                "phone": "02-24301122#306",
+                "address": "基隆市仁愛區玉田里愛四路2巷22之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743778,
+                    25.127124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "仁德里民活動中心",
+                "phone": "02-24301122#307",
+                "address": "基隆市仁愛區仁德里孝一路82之1號2樓旁通道"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741186,
+                    25.129646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "福仁里民活動中心",
+                "phone": "02-24301122#313",
+                "address": "基隆市仁愛區福仁里南榮路117巷31弄1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743658,
+                    25.125776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "南榮國中",
+                "phone": "02-24282188#34",
+                "address": "基隆市仁愛區英仁里南榮路319巷36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739986,
+                    25.113088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "新忠勇里民活動中心",
+                "phone": "02-24301122#324",
+                "address": "基隆市仁愛區忠勇里仁三路3巷2弄1之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74456,
+                    25.127338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "銘傳國中",
+                "phone": "02-24223120#31",
+                "address": "基隆市仁愛區水錦里劉銘傳路132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750846,
+                    25.123721
+                ]
+            }
+        }
+    ]
+}

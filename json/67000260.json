@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市左鎮區左鎮國小",
+                "phone": "06-5731019",
+                "address": "臺南市左鎮區中正里7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.403775,
+                    23.0560427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市左鎮區老人活動中心",
+                "phone": "06-5731611",
+                "address": "臺南市左鎮區中正里15-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4058711,
+                    23.0580926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市左鎮區公所",
+                "phone": "06-5731611",
+                "address": "臺南市左鎮區中正里171-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.40875,
+                    23.0569559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市左鎮區岡林國小",
+                "phone": "06-5730107",
+                "address": "臺南市左鎮區岡林里31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.414579,
+                    23.0073581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市左鎮區左鎮國中",
+                "phone": "06-5731015",
+                "address": "臺南市左鎮區中正里170號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.410958,
+                    23.0568866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市左鎮區榮和里活動中心",
+                "phone": "06-5732821",
+                "address": "臺南市左鎮區榮和里60-7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3881611,
+                    23.0641608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市左鎮區澄山分校",
+                "phone": "06-5732353",
+                "address": "臺南市左鎮區澄山里77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.385246,
+                    23.0266164
+                ]
+            }
+        }
+    ]
+}

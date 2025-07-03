@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市苓雅區四維國民小學",
+                "phone": "07-3348199#310",
+                "address": "高雄市苓雅區林富里青年一路103號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312653,
+                    22.623092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市苓雅區凱旋國民小學",
+                "phone": "07-2235181#831",
+                "address": "高雄市苓雅區民主里憲政路235號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319935,
+                    22.636415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市苓雅區福康國民小學",
+                "phone": "07-7227134#732",
+                "address": "高雄市苓雅區福康里漢陽街17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.331385,
+                    22.619394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立苓雅國民中學",
+                "phone": "07-3353307#310",
+                "address": "高雄市苓雅區華堂里四維三路176號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306287,
+                    22.618312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市苓雅區公所11樓大禮堂",
+                "phone": "07-33223517#2537",
+                "address": "高雄市苓雅區晴朗里民權一路85號11樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31215,
+                    22.621777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市苓雅區福東國民小學",
+                "phone": "07-7510048#131",
+                "address": "高雄市苓雅區福祥里福德三路96號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326947,
+                    22.624089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市苓雅區苓洲國民小學",
+                "phone": "07-3351804#310",
+                "address": "高雄市苓雅區城西里四維四路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30004,
+                    22.615625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市苓雅區成功國民小學",
+                "phone": "07-3341882#130",
+                "address": "高雄市苓雅區苓東里華新街59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297098,
+                    22.613721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立英明國民中學",
+                "phone": "07-7150949#532",
+                "address": "高雄市苓雅區林貴里英明路147號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324395,
+                    22.615251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市苓雅區五權國民小學",
+                "phone": "07-7511074#10",
+                "address": "高雄市苓雅區林德里三多二路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324166,
+                    22.620619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立中正高級中學",
+                "phone": "07-7491992#8301",
+                "address": "高雄市苓雅區正義里中正一路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.338791,
+                    22.626491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市苓雅區中正國民小學",
+                "phone": "07-7225936#931",
+                "address": "高雄市苓雅區正大里輔仁路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33331,
+                    22.630177
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "五穀國小操場",
+                "phone": "037-226731",
+                "address": "苗栗縣公館鄉五谷村260號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.822453,
+                    24.521121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "鶴岡國中操場",
+                "phone": "037-226204",
+                "address": "苗栗縣公館鄉鶴岡村鶴岡178號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.830618,
+                    24.528659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "開礦國小操場",
+                "phone": "037-224559",
+                "address": "苗栗縣公館鄉開礦村9鄰143號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.865148,
+                    24.461895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "公館鄉公館國小活動中心",
+                "phone": "037-224727",
+                "address": "苗栗縣公館鄉館中村大同路15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.827455,
+                    24.499182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "仁愛國小操場",
+                "phone": "037-235328",
+                "address": "苗栗縣公館鄉館中村仁愛路2段123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.825113,
+                    24.505323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "公館鄉公所3樓4樓",
+                "phone": "037-222210",
+                "address": "苗栗縣公館鄉玉泉村14鄰368-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.82844,
+                    24.505942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "公館鄉老人文康中心",
+                "phone": "037-222210",
+                "address": "苗栗縣公館鄉玉谷村4鄰124號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.824346,
+                    24.515114
+                ]
+            }
+        }
+    ]
+}

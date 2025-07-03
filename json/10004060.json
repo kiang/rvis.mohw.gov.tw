@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "中崙社區活動中心",
+                "phone": "03-5591116#190",
+                "address": "新竹縣新豐鄉中崙村02鄰37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.998205,
+                    24.900085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新豐鄉老人會館新豐鄉老人文康活動中心",
+                "phone": "03-5591116",
+                "address": "新竹縣新豐鄉重興村20鄰長春路89巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.985033,
+                    24.899256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "青埔社區老人會館",
+                "phone": "03-5591116",
+                "address": "新竹縣新豐鄉青埔村06鄰青埔子80-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013326,
+                    24.927965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新豐國小活動中心",
+                "phone": "03-5592081",
+                "address": "新竹縣新豐鄉重興村17鄰明德巷13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.988757,
+                    24.900762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "青埔社區活動中心",
+                "phone": "03-5680368",
+                "address": "新竹縣新豐鄉青埔村06鄰80之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013543,
+                    24.927219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "松柏社區活動中心",
+                "phone": "03-5591116#190",
+                "address": "新竹縣新豐鄉松林村01鄰康樂路一段516號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.988826,
+                    24.869252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "松林國小活動中心",
+                "phone": "03-5573601",
+                "address": "新竹縣新豐鄉松林村33鄰松林街99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.990757,
+                    24.868983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新豐鄉公所地下室",
+                "phone": "03-5591116#190",
+                "address": "新竹縣新豐鄉重興村02鄰新巿路93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.985266,
+                    24.900611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "員山綜合活動中心",
+                "phone": "03-5596986",
+                "address": "新竹縣新豐鄉員山村06鄰忠一街216號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9977,
+                    24.8791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新豐社區活動中心",
+                "phone": "03-5689889",
+                "address": "新竹縣新豐鄉新豐村15鄰池府路149號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.976634,
+                    24.9101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "山崎國小活動中心",
+                "phone": "03-5592714轉831",
+                "address": "新竹縣新豐鄉山崎村17鄰新興路291號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.998785,
+                    24.871926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新豐鄉中正堂",
+                "phone": "03-5591116#160",
+                "address": "新竹縣新豐鄉重興村建興路二段748巷15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.987624,
+                    24.899849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "上坑社區活動中心",
+                "phone": "03-5591116#190",
+                "address": "新竹縣新豐鄉上坑村05鄰坑子口398之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.974084,
+                    24.890803
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大城國中",
+                "phone": "04-8941021",
+                "address": "彰化縣大城鄉東城村南平路224號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324019,
+                    23.85294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大城國小",
+                "phone": "8941135#104",
+                "address": "彰化縣大城鄉大城村中平路176號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32034,
+                    23.85302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大城演藝廳",
+                "phone": "04-89429807",
+                "address": "彰化縣大城鄉大城村中平路132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.320695,
+                    23.853311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "西港國小",
+                "phone": "04-8941029#13",
+                "address": "彰化縣大城鄉東港村東港村中央路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291086,
+                    23.864632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "豐美社區活動中心",
+                "phone": "04-8942980",
+                "address": "彰化縣大城鄉豐美村平和路5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309136,
+                    23.879059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "上山社區活動中心",
+                "phone": "04-8944043",
+                "address": "彰化縣大城鄉上山村大山路2-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.338301,
+                    23.844884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "菜寮社區活動中心",
+                "phone": "04-8941269",
+                "address": "彰化縣大城鄉菜寮村東平路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314666,
+                    23.869028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "頂庄國小",
+                "phone": "04-8941029#13",
+                "address": "彰化縣大城鄉頂庄村東厝路63-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.284758,
+                    23.848699
+                ]
+            }
+        }
+    ]
+}

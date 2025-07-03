@@ -1,0 +1,565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "文欣國小-3類",
+                "phone": "03-3974893#511",
+                "address": "桃園市龜山區文化里文昌五街95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.371658,
+                    25.057796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "山頂國小-3類",
+                "phone": "03-3207244#511",
+                "address": "桃園市龜山區山德里頂興路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.327594,
+                    24.991959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "山福市民活動中心-2類",
+                "phone": "0937956126",
+                "address": "桃園市龜山區山福里中興路152號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.331928,
+                    24.989139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龍華市民活動中心2類",
+                "phone": "02-82001127",
+                "address": "桃園市龜山區龍華里萬壽路一段422巷22弄43-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.40088,
+                    25.017776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "文化市民活動中心-2類",
+                "phone": "03-3979190",
+                "address": "桃園市龜山區文化里文昌五街99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.370577,
+                    25.056775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "山頂市民活動中心-2類",
+                "phone": "03-3293119",
+                "address": "桃園市龜山區山頂里明興街36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.330585,
+                    24.986068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大崗市民活動中心-2類",
+                "phone": "03-3281906",
+                "address": "桃園市龜山區大崗里忠義路二段491號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.358693,
+                    25.051835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大華市民活動中心-1類",
+                "phone": "0932797572",
+                "address": "桃園市龜山區大華里文化七路118巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.366195,
+                    25.050746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大華公園-4類",
+                "phone": "03-3203711#778",
+                "address": "桃園市龜山區大華里文化七路、文華國小旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.36071,
+                    25.054134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "文華國小-3類",
+                "phone": "03-2723078#513",
+                "address": "桃園市龜山區大華里文化七路116號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.365071,
+                    25.051131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龜山區公所3樓禮堂-1類",
+                "phone": "03-3203711#800",
+                "address": "桃園市龜山區新路里中山街26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.337821,
+                    24.992533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "樂善國小-3類",
+                "phone": "03-3281002#511",
+                "address": "桃園市龜山區樂善里樂學路339巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.382634,
+                    25.052381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "幸福國小-3類",
+                "phone": "03-3203571#511",
+                "address": "桃園市龜山區山福里頂興路115巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.330263,
+                    24.989152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龜山國小-3類",
+                "phone": "03-3203571#511",
+                "address": "桃園市龜山區龜山里萬壽路二段 933巷14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.339314,
+                    24.99407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "幸福國中-3類",
+                "phone": "03-3298992#512",
+                "address": "桃園市龜山區幸福里中興路100巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.332102,
+                    24.987998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "迴龍國中小-3類",
+                "phone": "02-82096088#511",
+                "address": "桃園市龜山區迴龍里萬壽路一段168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.405103,
+                    25.019425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龜山國中-3類",
+                "phone": "03-3205681#510",
+                "address": "桃園市龜山區龜山里自強西路66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.338656,
+                    24.997468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新路國小-3類",
+                "phone": "03-3203890#511",
+                "address": "桃園市龜山區新路里永和街12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.336513,
+                    24.995201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "楓樹國小-3類",
+                "phone": "03-3206166#511",
+                "address": "桃園市龜山區楓樹里光峰路277號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.342942,
+                    25.005843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "自強國小-3類",
+                "phone": "03-3590758#510",
+                "address": "桃園市龜山區龜山里龜山區自強東路269號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.339396,
+                    24.99934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "壽山高中-3類",
+                "phone": "03-3501778#510",
+                "address": "桃園市龜山區龜山里龜山區大同路23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.340954,
+                    24.994807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "福源國小-3類",
+                "phone": "03-3297276#514",
+                "address": "桃園市龜山區兔坑里龜山區大同路916號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.358506,
+                    24.988152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龍壽國小-3類",
+                "phone": "03-3203711#806",
+                "address": "桃園市龜山區龍壽里龍壽里龍校街30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.395089,
+                    25.002981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "壽山國小-3類",
+                "phone": "03-3291782#511",
+                "address": "桃園市龜山區嶺頂里萬壽路二段六巷61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.364303,
+                    25.002753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "南美國小-3類",
+                "phone": "03-3126250#512",
+                "address": "桃園市龜山區南美里南上路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.296951,
+                    25.04782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大坑國小-3類",
+                "phone": "03-3252430#510",
+                "address": "桃園市龜山區大坑里大坑路一段850號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31459,
+                    25.044998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大崗國小-3類",
+                "phone": "03-3282457#511",
+                "address": "桃園市龜山區大崗里大湖一路175號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.357744,
+                    25.052326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大湖國小-3類",
+                "phone": "03-3270501#511",
+                "address": "桃園市龜山區大湖里文三二街80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.359663,
+                    25.057645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大崗國中-3類",
+                "phone": "03-3280888#511",
+                "address": "桃園市龜山區文化里文化二路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.371379,
+                    25.052012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "長庚國小-3類",
+                "phone": "03-3182643#510",
+                "address": "桃園市龜山區長庚里長庚醫護新村425號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.387054,
+                    25.06176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大埔國小-3類",
+                "phone": "03-3298329#510",
+                "address": "桃園市龜山區舊路里振興路1169號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.375164,
+                    25.030304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "長庚大學-3類",
+                "phone": "03-2118800#3206",
+                "address": "桃園市龜山區文青里文化一路259號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.389501,
+                    25.033922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "長庚科技大學-3類",
+                "phone": "03-2118999#5521",
+                "address": "桃園市龜山區文青里文化一路261號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38961,
+                    25.029564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "銘傳大學-3類",
+                "phone": "03-3507001#3272",
+                "address": "桃園市龜山區德明路 5 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.344382,
+                    24.984739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "國立體育大學-3類",
+                "phone": "03-3283201#5002",
+                "address": "桃園市龜山區文青里文化一路250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.383537,
+                    25.034455
+                ]
+            }
+        }
+    ]
+}

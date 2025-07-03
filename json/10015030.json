@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "三民社區活動中心",
+                "phone": "03-8841164",
+                "address": "花蓮縣玉里鎮三民里13鄰三民131-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.349841,
+                    23.432147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "長良社區活動中心",
+                "phone": "03-8801087",
+                "address": "花蓮縣玉里鎮長良里8鄰長良143-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.287844,
+                    23.276823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "大禹社區活動中心",
+                "phone": "03-8886193",
+                "address": "花蓮縣玉里鎮大禹里21鄰大禹226號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.32885,
+                    23.380471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "觀音社區活動中心",
+                "phone": "03-8851223",
+                "address": "花蓮縣玉里鎮觀音里16鄰觀音9-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.357281,
+                    23.395147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "松浦社區活動中心",
+                "phone": "03-8851224",
+                "address": "花蓮縣玉里鎮松浦里12鄰松浦214-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.373746,
+                    23.429328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "源城社區活動中心",
+                "phone": "03-8886194",
+                "address": "花蓮縣玉里鎮源城里12鄰水源57-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.300364,
+                    23.321892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "德武里原住民多功能活動中心",
+                "phone": "03-8872814",
+                "address": "花蓮縣玉里鎮德武里5鄰能雅79號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.407408,
+                    23.46693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "樂合社區活動中心",
+                "phone": "03-8886192",
+                "address": "花蓮縣玉里鎮樂合里13鄰樂合65-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.345006,
+                    23.318256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "中正堂",
+                "phone": "03-8886191",
+                "address": "花蓮縣玉里鎮泰昌里中正路144號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.315268,
+                    23.335217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "春日社區活動中心",
+                "phone": "03-8883166#117",
+                "address": "花蓮縣玉里鎮春日里11鄰神農75-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.396705,
+                    23.455013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "樂合國小圖書室",
+                "phone": "03-8886192",
+                "address": "花蓮縣玉里鎮樂合里新民41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.339273,
+                    23.32138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "玉里鎮老人館",
+                "phone": "03-8883166#112",
+                "address": "花蓮縣玉里鎮中城里忠智路72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.319972,
+                    23.328657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "台北榮民總醫院玉里分院長良園區",
+                "phone": "03-8801212",
+                "address": "花蓮縣卓溪鄉卓清村玉里鎮忠義33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.292786,
+                    23.290281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "玉里國中體育館",
+                "phone": "03-8882054",
+                "address": "花蓮縣卓溪鄉太平村玉里鎮民族街30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.311815,
+                    23.335751
+                ]
+            }
+        }
+    ]
+}

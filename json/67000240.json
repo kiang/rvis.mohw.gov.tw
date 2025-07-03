@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市楠西區老人文康活動中心",
+                "phone": "06-5753957",
+                "address": "臺南市楠西區楠西里民族路128號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.482831,
+                    23.180195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市楠西區楠西國小",
+                "phone": "06-5751062",
+                "address": "臺南市楠西區楠西里四維路69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.485212,
+                    23.174154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市楠西區公所",
+                "phone": "06-5751575",
+                "address": "臺南市楠西區楠西里中正路230號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486138,
+                    23.174032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市楠西區楠西公園風雨球場",
+                "phone": "06-5751615",
+                "address": "臺南市楠西區東勢里中華路27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48580813601981,
+                    23.178128942814507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市楠西區東勢里活動中心",
+                "phone": "06-5751615",
+                "address": "臺南市楠西區東勢里東勢路160巷30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48635323223128,
+                    23.17813044050408
+                ]
+            }
+        }
+    ]
+}

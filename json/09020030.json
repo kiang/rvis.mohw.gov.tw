@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮料羅里辦公處",
+                "phone": "082-330889",
+                "address": "金門縣金湖鎮料羅里料羅16-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.436381,
+                    24.416412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮新湖里辦公處",
+                "phone": "082-332528",
+                "address": "金門縣金湖鎮新湖里湖前62-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.410535,
+                    24.436132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮新市里辦公處",
+                "phone": "082-332131",
+                "address": "金門縣金湖鎮新市里林森路6-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.416743,
+                    24.4416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮公所",
+                "phone": "082-332528",
+                "address": "金門縣金湖鎮新市里林森路二號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.417039,
+                    24.441389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮山外里辦公處",
+                "phone": "082-331183",
+                "address": "金門縣金湖鎮山外里山外里80-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.415182,
+                    24.445422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮蓮庵里辦公處",
+                "phone": "082-332265",
+                "address": "金門縣金湖鎮蓮庵里東村43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.445612,
+                    24.4275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮正義里辦公處",
+                "phone": "082-325439",
+                "address": "金門縣金湖鎮正義里成功65-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.390187,
+                    24.439105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮瓊林里辦公處",
+                "phone": "082-332426",
+                "address": "金門縣金湖鎮瓊林里瓊林236-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.372945,
+                    24.455316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮溪湖里辦公處",
+                "phone": "082-332529",
+                "address": "金門縣金湖鎮溪湖里溪邊80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.460274,
+                    24.442613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金門縣綜合體育館金湖館",
+                "phone": "082-335311",
+                "address": "金門縣金湖鎮山外里士校路5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.435903,
+                    24.450778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮下莊社區活動中心",
+                "phone": "0933589874",
+                "address": "金門縣金湖鎮山外里下莊50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.427875,
+                    24.451644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮新市社區活動中心",
+                "phone": "0912540180",
+                "address": "金門縣金湖鎮新市里林森路2-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.418155,
+                    24.442682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮夏興社區活動中心",
+                "phone": "0912152666",
+                "address": "金門縣金湖鎮正義里夏興89-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.394338,
+                    24.439944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮信義新村社區活動中心",
+                "phone": "0933699372",
+                "address": "金門縣金湖鎮新湖里信義新村200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.409707,
+                    24.434885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮小徑村社區活動中心",
+                "phone": "0911193158",
+                "address": "金門縣金湖鎮瓊林里小徑村19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.373247,
+                    24.454346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮正義社區活動中心",
+                "phone": "0911097415",
+                "address": "金門縣金湖鎮正義里成功64-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.389925,
+                    24.438672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮尚義社區活動中心",
+                "phone": "0953118761",
+                "address": "金門縣金湖鎮正義里尚義村24-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.377425,
+                    24.438459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮料羅灣社區活動中心",
+                "phone": "0932817823",
+                "address": "金門縣金湖鎮料羅里料羅里50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.434539,
+                    24.419317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮林兜社區活動中心",
+                "phone": "0932838583",
+                "address": "金門縣金湖鎮新湖里金門縣金湖鎮林兜50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.410084,
+                    24.440404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮后園社區活動中心",
+                "phone": "0908925801",
+                "address": "金門縣金湖鎮新湖里金門縣金湖鎮后園50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.408979,
+                    24.435168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金湖鎮東村社區活動中心",
+                "phone": "0932970287",
+                "address": "金門縣金湖鎮金門縣金湖鎮東村50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.420751,
+                    24.434373
+                ]
+            }
+        }
+    ]
+}

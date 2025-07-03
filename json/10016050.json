@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "中社社區活動中心",
+                "phone": "06-9991013",
+                "address": "澎湖縣望安鄉中社村7鄰61-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.49607,
+                    23.373467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "東坪社區活動中心",
+                "phone": "06-9263829",
+                "address": "澎湖縣望安鄉東坪村46-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.512217,
+                    23.256447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "東安社區活動中心",
+                "phone": "06-9991011",
+                "address": "澎湖縣望安鄉東安村1鄰17-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.502931,
+                    23.356266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "水垵社區活動中心",
+                "phone": "06-9991872",
+                "address": "澎湖縣望安鄉水垵村1鄰1-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.49917,
+                    23.385757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "花嶼社區活動中心",
+                "phone": "06-9991701",
+                "address": "澎湖縣望安鄉花嶼村7鄰76-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.320911,
+                    23.399159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "望安鄉多功能活動中心",
+                "phone": "06-9991131",
+                "address": "澎湖縣望安鄉西安村西安村36-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.498886,
+                    23.362196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "將澳國中風雨教室",
+                "phone": "06-9902079",
+                "address": "澎湖縣望安鄉將軍村12-7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.525906,
+                    23.364992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "東吉啟明宮",
+                "phone": "06-9991311",
+                "address": "澎湖縣望安鄉東吉村72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.668887,
+                    23.254847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "西安社區活動中心",
+                "phone": "06-9991301",
+                "address": "澎湖縣望安鄉西安村11鄰26-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.497457,
+                    23.358063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "西坪社區活動中心",
+                "phone": "06-9991613",
+                "address": "澎湖縣望安鄉西坪村3鄰12-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.509887,
+                    23.267719
+                ]
+            }
+        }
+    ]
+}

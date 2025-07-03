@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市內門區觀亭國民小學",
+                "phone": "07-6671672",
+                "address": "高雄市內門區觀亭里中正路203號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.453514,
+                    22.917525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市內門區溝坪國民小學",
+                "phone": "07-6601788#30",
+                "address": "高雄市內門區溝坪里廣福47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.501231,
+                    22.993331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市內門區內門國民小學",
+                "phone": "07-6672078#250",
+                "address": "高雄市內門區內豊里內埔24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460712,
+                    22.939391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立內門國民中學",
+                "phone": "07-6671002#31",
+                "address": "高雄市內門區觀亭里中正路160巷30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.453517,
+                    22.921882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市內門區金竹國民小學",
+                "phone": "07-6601106#30",
+                "address": "高雄市內門區金竹里吉民28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.514514,
+                    23.009136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市內門區木柵國民小學",
+                "phone": "07-6681183",
+                "address": "高雄市內門區木柵里木柵3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.467861,
+                    22.975345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "內門區老人文康活動中心",
+                "phone": "07-6671211#53",
+                "address": "高雄市內門區內門里內門13-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.461416,
+                    22.942204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "溝坪地區避難收容所",
+                "phone": "07-6671211#53",
+                "address": "高雄市內門區永興里坑口35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.502206,
+                    22.98787
+                ]
+            }
+        }
+    ]
+}

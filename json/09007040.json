@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "東引鄉體育館",
+                "phone": "0933768131",
+                "address": "連江縣東引鄉中柳村95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487894,
+                    26.368364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "東引國中小",
+                "phone": "0836-77210",
+                "address": "連江縣東引鄉中柳村94號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488451,
+                    26.367919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "東引活動中心",
+                "phone": "0933768131",
+                "address": "連江縣東引鄉樂華村72-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487955,
+                    26.366913
+                ]
+            }
+        }
+    ]
+}

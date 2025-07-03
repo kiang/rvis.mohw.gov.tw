@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市大內區二溪社區活動中心",
+                "phone": "06-5763779",
+                "address": "臺南市大內區二溪里二溪198-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.392562,
+                    23.122615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市大內區石子瀨社區活動中心",
+                "phone": "06-5761341",
+                "address": "臺南市大內區石城里石城114-66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.354354,
+                    23.122163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市大內區環湖社區活動中心",
+                "phone": "06-5760039",
+                "address": "臺南市大內區環湖里環湖56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.418173,
+                    23.147655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市大內區曲溪社區活動中心",
+                "phone": "06-5765072",
+                "address": "臺南市大內區曲溪里曲溪51-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.387441,
+                    23.118369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市大內區大內國小",
+                "phone": "06-5761007#8101",
+                "address": "臺南市大內區大內里大內63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.360406,
+                    23.118898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市大內區頭社社區活動中心",
+                "phone": "06-5762925",
+                "address": "臺南市大內區頭社里頭社10-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.384745,
+                    23.143336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市大內區大內國中",
+                "phone": "06-5761010#101",
+                "address": "臺南市大內區內江里內江319-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36384,
+                    23.112956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市大內區二溪國民小學",
+                "phone": "06-5762001#201",
+                "address": "臺南市大內區二溪里154號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.392636,
+                    23.122416
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "福民國小(圖書室)",
+                "phone": "04-25941147#203",
+                "address": "臺中市新社區福興里福民16之7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.881395,
+                    24.16339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大林國小(自然教室及班級教室)",
+                "phone": "04-25941995#212",
+                "address": "臺中市新社區福興里美林38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.864394,
+                    24.159558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市新社區公所(3樓禮堂)",
+                "phone": "04-25811111#138",
+                "address": "臺中市新社區復盛里興社街2段28-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.809431,
+                    24.233995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市新社區中興合作農場",
+                "phone": "04-25931139專線",
+                "address": "臺中市新社區中和里中興街158之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.826702,
+                    24.158632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "多功能綜合商業大樓聯合里活動中心",
+                "phone": "04-25811111#124",
+                "address": "臺中市新社區新社里興社街四段57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.808469,
+                    24.242775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中興嶺停車場",
+                "phone": "04-25811111#222",
+                "address": "臺中市新社區中興里中興嶺99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.796724,
+                    24.20417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "復盛公園",
+                "phone": "04-25811111#225",
+                "address": "臺中市新社區復盛里興社街2段26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.807923,
+                    24.232005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "新社區老人文康活動中心(日照中心)",
+                "phone": "04-25821866",
+                "address": "臺中市新社區復盛里興社街二段26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.807923,
+                    24.232005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "新社高級中學(活動中心)",
+                "phone": "04-25812116#611",
+                "address": "臺中市新社區復盛里中和街三段國中巷10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.80725,
+                    24.23761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大南國小（多功能教室）",
+                "phone": "04-25811574#741",
+                "address": "臺中市新社區大南里興中街47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.804453,
+                    24.226849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "崑山國小(地下室)",
+                "phone": "04-25812496#330",
+                "address": "臺中市新社區崑山里崑崙巷5-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.78747,
+                    24.24165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "馬力埔社區活動中心",
+                "phone": "04-25813032專線",
+                "address": "臺中市新社區永源里中和街一段8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.792591,
+                    24.21929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "協成國小（3樓視聽教室）",
+                "phone": "04-25813437#103",
+                "address": "臺中市新社區協成里興義街219號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.812524,
+                    24.193833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "新社國小（活動中心）",
+                "phone": "04-25811204#104",
+                "address": "臺中市新社區新社里興社街四段一巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.81012,
+                    24.24063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東興國小（1樓課照教室）",
+                "phone": "04-25811467專線",
+                "address": "臺中市新社區東興里興社街一段國校巷13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.819768,
+                    24.206717
+                ]
+            }
+        }
+    ]
+}

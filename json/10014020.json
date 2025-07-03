@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "宜灣天主堂-日托中心 Yi-Wan Catholic Church - day care center",
+                "phone": "089-871100",
+                "address": "臺東縣成功鎮博愛里宜灣路94號No.94, Yiwan Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.400116,
+                    23.210798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣成功鎮成功國民小學Cheng-Kung Elementary School, Chenggon Township",
+                "phone": "089-854033",
+                "address": "臺東縣成功鎮忠仁里太平路28號No.28, Taiping Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.382624,
+                    23.102212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣成功鎮信義國民小學 Xin-Yi Elementary School,Chenggon Township",
+                "phone": "089-841029#13",
+                "address": "臺東縣成功鎮信義里都歷路58號No.58, Duli Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.330869,
+                    23.026859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣立新港國民中學 Taitung Hsin-Kang Junior High School",
+                "phone": "089-851034#156",
+                "address": "臺東縣成功鎮忠智里中正路1號No.1, Jhongjheng Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.376599,
+                    23.101696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "博愛教會-台灣基督長老教會The Presbyterian Church（博愛教會 Bo-ai Church）",
+                "phone": "089-871681",
+                "address": "臺東縣成功鎮博愛里重安路56號No.56, Zhongan Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.396083,
+                    23.192568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "麒麟活動中心 Chi-Lin Community Center",
+                "phone": "089-851004#33",
+                "address": "臺東縣成功鎮忠仁里麒麟路45-12號No.45-12, Chilin Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.356699,
+                    23.092449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "三民里活動中心 San-Min Community Center",
+                "phone": "089-851004#32",
+                "address": "臺東縣成功鎮三民里三民路20號No.20, Sanmin Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.371943,
+                    23.102209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "都歷活動中心 Du-Li Community Center",
+                "phone": "089-851004#37",
+                "address": "臺東縣成功鎮信義里都歷路110號No.110, Duli Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.331374,
+                    23.028634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "小馬活動中心 Siao-Ma Community Center",
+                "phone": "089-851004#37",
+                "address": "臺東縣成功鎮信義里小馬路44號No.44, Siaoma Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.314612,
+                    22.99397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "小港活動中心 Siao-Gang Community Center",
+                "phone": "089-851004#36",
+                "address": "臺東縣成功鎮忠孝里成廣路7號No.7, Chengguang Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.400694,
+                    23.157572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "豐田活動中心 Fong-Tian Community Center",
+                "phone": "089-851004#37",
+                "address": "臺東縣成功鎮信義里豐田路91號No.91, Fongtian Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.338857,
+                    23.050371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "三民里第2市場 San-Min Second Market",
+                "phone": "089-851004#32",
+                "address": "臺東縣成功鎮三民里三民路111號No.111, Sanmin Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.374961,
+                    23.104389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "忠智里活動中心 Jhong-Jhi Community Center",
+                "phone": "089-851004#34",
+                "address": "臺東縣成功鎮忠智里五權路164號No.164, Wucyuan Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.380251,
+                    23.104869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "國立成功商業水產職業學校National Cheng Kung Commercial  Aquaculture Senior Vocational High School",
+                "phone": "089-850011#500",
+                "address": "臺東縣成功鎮忠智里太平路52號No.52, Taiping Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.381984,
+                    23.104483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣成功鎮三仙國民小學San-Xian Elementary School, Chenggon Township",
+                "phone": "089-851960#22",
+                "address": "臺東縣成功鎮三仙里基翬路16號No.16, Jihui Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.393486,
+                    23.120591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣成功鎮忠孝國民小學 Jhong siao Primary school",
+                "phone": "089-871109#23",
+                "address": "臺東縣成功鎮忠孝里成廣路8號No.8, Chengguang Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.399531,
+                    23.156879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣成功鎮三民國民小學San-Min Elementary School, Chenggon Township",
+                "phone": "089-851024#203",
+                "address": "臺東縣成功鎮三民里三民路18號No.18, Sanmin Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.371185,
+                    23.101974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣三民國民小學和平分校He-Ping branch of San-Min Elementary School, Chenggon Township",
+                "phone": "089-851024#11",
+                "address": "臺東縣成功鎮和平里跋邊路24號No.24, Babian Rd., Chenggong Township, Taitung County 961, Taiwan R.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35212,
+                    23.07542
+                ]
+            }
+        }
+    ]
+}

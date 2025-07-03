@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "中和國小",
+                "phone": "05-6962384",
+                "address": "雲林縣崙背鄉草湖村草湖2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33016,
+                    23.792724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "陽明國小",
+                "phone": "05-6967670",
+                "address": "雲林縣崙背鄉水尾村頂街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.355751,
+                    23.785526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "崙背鄉公所",
+                "phone": "05-6962054",
+                "address": "雲林縣崙背鄉東明村行政街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.359167,
+                    23.761986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "崙背鄉立幼兒園",
+                "phone": "05-6962054",
+                "address": "雲林縣崙背鄉南陽村大同路156號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.345577,
+                    23.757831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "崙背國中",
+                "phone": "05-6962013",
+                "address": "雲林縣崙背鄉南陽村大成路91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348939,
+                    23.757978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "崙背國小",
+                "phone": "05-6962004",
+                "address": "雲林縣崙背鄉南陽村大成路154號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348511,
+                    23.758514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東興國小",
+                "phone": "05-6962164",
+                "address": "雲林縣崙背鄉羅厝村東興路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.374054,
+                    23.755745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "大有國小",
+                "phone": "05-6962741",
+                "address": "雲林縣崙背鄉大有村大有路14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308915,
+                    23.764006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "豐榮國小",
+                "phone": "05-6962006",
+                "address": "雲林縣崙背鄉豐榮村豐榮路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312303,
+                    23.79152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東明西榮南陽三村聯合活動中心",
+                "phone": "05-6962054",
+                "address": "雲林縣崙背鄉西榮村民權路386號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35229,
+                    23.76452
+                ]
+            }
+        }
+    ]
+}

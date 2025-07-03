@@ -1,0 +1,517 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "北屯區公所六樓禮堂",
+                "phone": "04-24606022",
+                "address": "臺中市北屯區仁和里崇德路三段10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686671,
+                    24.182691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "四張犁國民中學（活動中心、操場）",
+                "phone": "04-24210380",
+                "address": "臺中市北屯區同榮里后庄路699號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.677079,
+                    24.194085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "北新國民中學（活動中心）",
+                "phone": "04-22449374#732",
+                "address": "臺中市北屯區舊社里柳陽東街180號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.696961,
+                    24.179839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "四維國民小學（活動中心）",
+                "phone": "0933283776",
+                "address": "臺中市北屯區平昌里文心路四段956號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.694954,
+                    24.170446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "青少年活動中心",
+                "phone": "04-24606000#6179",
+                "address": "臺中市北屯區平和里安順東五街13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.682554,
+                    24.174437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大德公園管理室（1、2樓）",
+                "phone": "04-24606000#6091",
+                "address": "臺中市北屯區大德里平德路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.671907,
+                    24.181509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "平順里、平心里、平福里活動中心（3樓）",
+                "phone": "04-24606000#6091",
+                "address": "臺中市北屯區平心里旅順路二段78號三樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68768,
+                    24.174046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "舊社公園活動中心（1、2樓）及舊社公園",
+                "phone": "04-24606000#6091",
+                "address": "臺中市北屯區舊社里松竹路2段59巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699549,
+                    24.181308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "瀋陽公園管理室（活動中心1、2樓）",
+                "phone": "04-24606000#6091",
+                "address": "臺中市北屯區水湳里瀋陽北路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.672421,
+                    24.176863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立東山高級中學禮堂、操場",
+                "phone": "04-24360166#736",
+                "address": "臺中市北屯區水景里景賢六路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.71216,
+                    24.166557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中台科技大學羽球館",
+                "phone": "04-22391647#8316",
+                "address": "臺中市北屯區廍子里廍子路666號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.736067,
+                    24.172519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "僑孝國民小學（活動中心）",
+                "phone": "04-22447049#731",
+                "address": "臺中市北屯區舊社里北屯路435號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69955,
+                    24.177668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "仁愛國民小學（操場）",
+                "phone": "04-22923861#731",
+                "address": "臺中市北屯區仁愛里四平路71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.671526,
+                    24.180195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "新興國民小學（禮堂、操場）",
+                "phone": "04-24258514#731",
+                "address": "臺中市北屯區同榮里新興路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.662499,
+                    24.194704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "建功國民小學（地下室停車場）",
+                "phone": "04-24367042#731",
+                "address": "臺中市北屯區軍功里軍和街43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715447,
+                    24.17595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大坑國小1.2樓教室、操場",
+                "phone": "04-22390748#731",
+                "address": "臺中市北屯區大坑里東山路二段112號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.748181,
+                    24.195971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "后庄社區活動中心",
+                "phone": "04-24600000#6179",
+                "address": "臺中市北屯區后庄里庄內巷11-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.665747,
+                    24.18849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東光國民小學（活動中心、操場）",
+                "phone": "04-24377215#730",
+                "address": "臺中市北屯區東光里東光路926號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.701729,
+                    24.171803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "松竹國民小學（活動中心）",
+                "phone": "04-22447043",
+                "address": "臺中市北屯區松和里昌平路二段12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.689915,
+                    24.180889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大德國民中學（操場）",
+                "phone": "04-22916984#730",
+                "address": "臺中市北屯區大德里雷中街2-23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.668713,
+                    24.180751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "北屯國民小學（禮堂、操場）",
+                "phone": "04-22332110#734",
+                "address": "臺中市北屯區北京里進化北路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.691452,
+                    24.163269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "軍功里活動中心",
+                "phone": "04-24606000#6091",
+                "address": "臺中市北屯區軍功里軍和街123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717991,
+                    24.177212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立三光國民中學（禮堂、操場）",
+                "phone": "04-22313699#730",
+                "address": "臺中市北屯區三光里三光一街77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697836,
+                    24.167589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "文心國民小學（禮堂、操場）",
+                "phone": "04-22445906#732",
+                "address": "臺中市北屯區平和里文心路四段575號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68267,
+                    24.173164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "軍功國民小學（禮堂、操場）",
+                "phone": "04-24370696#731",
+                "address": "臺中市北屯區和平里軍福十三路300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.719295,
+                    24.173247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "陳平國民小學（地下活動中心）",
+                "phone": "04-22973558#731",
+                "address": "臺中市北屯區忠平里陳平路58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.667475,
+                    24.184797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "四民里仁和里仁美里同榮里聯合活動中心室內、室外",
+                "phone": "04-24606000#6091",
+                "address": "臺中市北屯區仁和里豐樂一街78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680843,
+                    24.195074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "四張犁國民小學（操場）",
+                "phone": "04-24227046#731",
+                "address": "臺中市北屯區仁和里后庄路910號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678082,
+                    24.19263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "仁美國民小學（地下室、活動中心、操場）",
+                "phone": "04-24211136#731",
+                "address": "臺中市北屯區仁美里崇德路三段568號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686824,
+                    24.192226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "逢甲國民小學（操場、校舍頂樓）",
+                "phone": "04-22390047",
+                "address": "臺中市北屯區民政里北坑巷60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.755392,
+                    24.166333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "崇德國民中學（崇德館、操場）",
+                "phone": "04-22454081#731",
+                "address": "臺中市北屯區平陽里崇德路二段227號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684574,
+                    24.175127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "文昌國民小學（活動中心-弘文堂、操場）",
+                "phone": "04-22361953#730",
+                "address": "臺中市北屯區平昌里昌平路一段91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.691461,
+                    24.168182
+                ]
+            }
+        }
+    ]
+}

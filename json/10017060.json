@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "武崙里民活動中心",
+                "phone": "02-24301038",
+                "address": "基隆市安樂區武崙里基金一路135巷21弄18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.709622,
+                    25.139766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "興寮里民活動中心",
+                "phone": "02-24329977",
+                "address": "基隆市安樂區興寮里基隆市安樂區基金一路41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.720253,
+                    25.135971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "內寮里民活動中心",
+                "phone": "02-24327738",
+                "address": "基隆市安樂區內寮里基隆市安樂區武聖街九號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.696422,
+                    25.156828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "長樂國小餐廳旁空間",
+                "phone": "02-24323252#31",
+                "address": "基隆市安樂區五福里基隆市安樂區樂利三街30巷123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.711619,
+                    25.126042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "干城里民活動中心",
+                "phone": "02-24237172",
+                "address": "基隆市安樂區干城里基隆市安樂區安一路278巷31之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.729598,
+                    25.132439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "外寮里民活動中心",
+                "phone": "02-24335651",
+                "address": "基隆市安樂區外寮里基隆市安樂區基金一路129巷6-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.713342,
+                    25.138197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "壯觀里民活動中心",
+                "phone": "02-24324741",
+                "address": "基隆市安樂區壯觀里基隆市安樂區樂利二街62巷282號地下層"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.715491,
+                    25.1213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "長樂國小活動中心",
+                "phone": "02-24323252#31",
+                "address": "基隆市安樂區長樂里基隆市安樂區樂利三街30巷123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.718055,
+                    25.12961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中崙里民活動中心",
+                "phone": "02-24310558",
+                "address": "基隆市安樂區中崙里基隆市安樂區基金二路三巷三號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.702299,
+                    25.143024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "安樂區公所二樓禮堂",
+                "phone": "02-24312118 ext.101",
+                "address": "基隆市安樂區鶯歌里基隆市安樂區安樂路二段一六四號二樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723204,
+                    25.12103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "鶯歌里民活動中心",
+                "phone": "02-24319835",
+                "address": "基隆市安樂區鶯歌里基隆市安樂區安樂路二段一六四號九樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723204,
+                    25.12103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "四維里民活動中心",
+                "phone": "02-24335805",
+                "address": "基隆市安樂區四維里基隆市安樂區安和一街一二八之一號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.721638,
+                    25.130464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "三民里民活動中心",
+                "phone": "02-24345158",
+                "address": "基隆市安樂區三民里基隆市安樂區麥金路439巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.718988,
+                    25.126078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "七賢里民活動中心",
+                "phone": "02-24323787",
+                "address": "基隆市安樂區七賢里基隆市安樂區安和一街十號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723082,
+                    25.122834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "安樂國小活動中心",
+                "phone": "02-24220814#37",
+                "address": "基隆市安樂區永康里基隆市安樂區安一路177巷23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.732547,
+                    25.132031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "安樂高中活動中心",
+                "phone": "02-24236600 ext.30",
+                "address": "基隆市安樂區定國里基隆市安樂區安一路360號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.730446,
+                    25.134547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "新西里民活動中心",
+                "phone": "02-24223094",
+                "address": "基隆市安樂區新西里基隆市安樂區新西街106-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.727149,
+                    25.13997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "安和及慈仁里民活動中心",
+                "phone": "02-24227579",
+                "address": "基隆市安樂區安和里基隆市安樂區安一路一七七巷廿三之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.730861,
+                    25.132496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "六合里民活動中心",
+                "phone": "02-24335270",
+                "address": "基隆市安樂區六合里樂利三街229巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.714939,
+                    25.12698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "新崙里民活動中心",
+                "phone": "02-24335133",
+                "address": "基隆市安樂區新崙里基金一路208巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710021,
+                    25.142876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "隆聖國小避難室",
+                "phone": "02-24311480#30",
+                "address": "基隆市安樂區武隆街107號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.693625,
+                    25.155913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "武崙國中活動中心",
+                "phone": "02-24342456#30",
+                "address": "基隆市安樂區武崙街205號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.70643,
+                    25.137574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "西定國小活動中心",
+                "phone": "02-24223856#30",
+                "address": "基隆市安樂區新西街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.732235,
+                    25.136478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "建德國中游泳池",
+                "phone": "02-24321234#31",
+                "address": "基隆市安樂區安和一街29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723082,
+                    25.122834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "建德國小活動中心",
+                "phone": "02-24334216#1031",
+                "address": "基隆市安樂區安和一街392號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.722074,
+                    25.124867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "鶯歌親子公園",
+                "phone": "02-24319835",
+                "address": "基隆市安樂區安和一街十號(七賢里民活動中心對面)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723082,
+                    25.122834
+                ]
+            }
+        }
+    ]
+}

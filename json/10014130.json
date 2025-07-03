@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "桃源村活動中心",
+                "phone": "089-561285#236",
+                "address": "臺東縣延平鄉桃源村臺東縣延平鄉桃源村4鄰78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.084335,
+                    22.902922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "鸞山村活動中心",
+                "phone": "089561285#240",
+                "address": "臺東縣延平鄉鸞山村臺東縣延平鄉鸞山村1鄰16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.155961,
+                    22.915285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "武陵村活動中心",
+                "phone": "089551764#227",
+                "address": "臺東縣延平鄉武陵村臺東縣延平鄉武陵村1鄰15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.119744,
+                    22.967921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "延平鄉立幼兒園",
+                "phone": "089561244",
+                "address": "臺東縣延平鄉永康村泰平路89-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1142,
+                    22.932483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "桃源國小",
+                "phone": "089-561285#236",
+                "address": "臺東縣延平鄉桃源村昇平路4鄰84號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.083537,
+                    22.902995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "延平鄉綜合體育館",
+                "phone": "089-561285#210",
+                "address": "臺東縣延平鄉桃源村昇平路178-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.08089,
+                    22.902915
+                ]
+            }
+        }
+    ]
+}

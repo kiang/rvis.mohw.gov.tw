@@ -1,0 +1,549 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "米都商務飯店",
+                "phone": "055881350",
+                "address": "雲林縣西螺鎮永安里中山路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.464352,
+                    23.800243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "西螺鎮公所",
+                "phone": "055863203",
+                "address": "雲林縣西螺鎮廣福里光復西路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.465509,
+                    23.797927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "西螺鎮立幼兒園",
+                "phone": "055866221",
+                "address": "雲林縣西螺鎮正興里興農西路105巷21之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463337,
+                    23.793271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "福興里活動中心",
+                "phone": "055864354",
+                "address": "雲林縣西螺鎮福興里中市路31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45974,
+                    23.80234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "振興里活動中心",
+                "phone": "055870733",
+                "address": "雲林縣西螺鎮振興里127號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.473581,
+                    23.787962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "新安里活動中心",
+                "phone": "055862440",
+                "address": "雲林縣西螺鎮新安里新社100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.449051,
+                    23.786518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "大新里活動中心",
+                "phone": "055862449",
+                "address": "雲林縣西螺鎮大新里大新163之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487201,
+                    23.791215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東興里活動中心",
+                "phone": "055862443",
+                "address": "雲林縣西螺鎮東興里東興34號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.478275,
+                    23.767821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "鹿場里活動中心",
+                "phone": "055842164",
+                "address": "雲林縣西螺鎮鹿場里鹿場里83之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.473462,
+                    23.749804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "廣興里活動中心",
+                "phone": "055862445",
+                "address": "雲林縣西螺鎮廣興里84號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459976,
+                    23.767823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "西螺鎮調解委員會",
+                "phone": "055864334",
+                "address": "雲林縣西螺鎮廣福里民生路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.465254,
+                    23.798093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "吳厝里活動中心",
+                "phone": "055862180",
+                "address": "雲林縣西螺鎮吳厝里吳厝81之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.423454,
+                    23.745605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "廣興國小",
+                "phone": "055863094",
+                "address": "雲林縣西螺鎮廣興里廣興里59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458097,
+                    23.766853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "大新國小",
+                "phone": "055862974",
+                "address": "雲林縣西螺鎮大新里215號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487001,
+                    23.788685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "吳厝國小",
+                "phone": "055863074",
+                "address": "雲林縣西螺鎮九隆里44號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.431234,
+                    23.751958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東南國中",
+                "phone": "05-6341192",
+                "address": "雲林縣西螺鎮中興里東南路326號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451795,
+                    23.803083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "頂湳里活動中心",
+                "phone": "055862455",
+                "address": "雲林縣西螺鎮頂湳里頂南24之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.452029,
+                    23.770589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "九隆里活動中心",
+                "phone": "055872551",
+                "address": "雲林縣西螺鎮九隆里九隆45之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.432837,
+                    23.752191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "七座里活動中心",
+                "phone": "055862448",
+                "address": "雲林縣西螺鎮七座里七座25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.444491,
+                    23.755869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "詔安里活動中心",
+                "phone": "055862450",
+                "address": "雲林縣西螺鎮詔安里詔安16之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.445646,
+                    23.799655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "河南里活動中心",
+                "phone": "055862451",
+                "address": "雲林縣西螺鎮河南里河南58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.441418,
+                    23.799543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "福田里活動中心",
+                "phone": "055862454",
+                "address": "雲林縣西螺鎮福田里社口87號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.440027,
+                    23.788546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "西螺農工",
+                "phone": "055862024",
+                "address": "雲林縣西螺鎮大園里大同路4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.470992,
+                    23.79456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "中山國小",
+                "phone": "055862039",
+                "address": "雲林縣西螺鎮廣福里新街路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.464551,
+                    23.796903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "文昌國小",
+                "phone": "055862013",
+                "address": "雲林縣西螺鎮中興里延平路504號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.452029,
+                    23.800263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "西螺國中",
+                "phone": "055863522",
+                "address": "雲林縣西螺鎮正興里興農西路217號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460069,
+                    23.792808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "文興國小",
+                "phone": "055863174",
+                "address": "雲林縣西螺鎮新豐里新社257號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44613,
+                    23.788208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "安定國小",
+                "phone": "055863154",
+                "address": "雲林縣西螺鎮安定里埔心路210號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4393,
+                    23.7981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "大園里活動中心",
+                "phone": "055875052",
+                "address": "雲林縣西螺鎮大園里光復東路95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.472485,
+                    23.798304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "漢光里活動中心",
+                "phone": "055872446",
+                "address": "雲林縣西螺鎮漢光里西興南路354號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.456915,
+                    23.793551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "文賢國小",
+                "phone": "055863164",
+                "address": "雲林縣西螺鎮鹿場里文賢路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.464552,
+                    23.749143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "西螺鎮福興宮",
+                "phone": "055865490",
+                "address": "雲林縣西螺鎮福興里延平路180號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460485,
+                    23.801663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "私立西光幼兒園",
+                "phone": "055862310",
+                "address": "雲林縣西螺鎮中興里中山路308號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45358,
+                    23.799175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "公舘里活動中心",
+                "phone": "055862446",
+                "address": "雲林縣西螺鎮公舘里公舘109號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45337,
+                    23.747371
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "茂林基督長老教會",
+                "phone": "07-6801260",
+                "address": "高雄市茂林區茂林里茂林巷90-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666054,
+                    22.887084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "多納里社區活動中心",
+                "phone": "0925585096",
+                "address": "高雄市茂林區多納里多納巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715901,
+                    22.910156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市茂林區多納國民小學",
+                "phone": "07-6801178",
+                "address": "高雄市茂林區多納里多納巷1之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716272,
+                    22.910273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市茂林區茂林國民小學",
+                "phone": "07-6801043",
+                "address": "高雄市茂林區茂林里茂林巷8-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.664368,
+                    22.886479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "鳳山區農會茂林辦事處",
+                "phone": "07-6801115",
+                "address": "高雄市茂林區茂林里茂林巷16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663298,
+                    22.886877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "萬山避難屋",
+                "phone": "07-6801045#207",
+                "address": "高雄市茂林區萬山里萬山316地號預建地"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680189,
+                    22.90903
+                ]
+            }
+        }
+    ]
+}

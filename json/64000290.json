@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "梓官區公所",
+                "phone": "07-6174111轉311或轉315",
+                "address": "高雄市梓官區梓義里梓官路258號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.267245,
+                    22.760643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立梓官國民中學",
+                "phone": "07-6172854#31",
+                "address": "高雄市梓官區梓信里中學路71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.263476,
+                    22.762428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "梓平社區活動中心（備用）",
+                "phone": "6177270",
+                "address": "高雄市梓官區梓平里梓官路城隍巷123-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.269167,
+                    22.756467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "智信蚵社區聯合活動中心（備用）",
+                "phone": "6176687",
+                "address": "高雄市梓官區信蚵里廣澤路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.254588,
+                    22.729634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "赤崁老人活動中心（備用）",
+                "phone": "6174111#312",
+                "address": "高雄市梓官區赤東里中正路519號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.250159,
+                    22.736052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立蚵寮國民中學（備用）",
+                "phone": "6175389#31",
+                "address": "高雄市梓官區智蚵里中正二街60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.25873,
+                    22.728551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市梓官區蚵寮國民小學（備用）",
+                "phone": "6101044#30",
+                "address": "高雄市梓官區禮蚵里光明路177號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.248239,
+                    22.733411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市梓官區梓官國民小學（備用）",
+                "phone": "6176595#1300",
+                "address": "高雄市梓官區梓和里進學路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.264663,
+                    22.759594
+                ]
+            }
+        }
+    ]
+}

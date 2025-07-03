@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東縣立車城國中",
+                "phone": "08-8821045",
+                "address": "屏東縣車城鄉福興村新興路42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716493,
+                    22.072915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "車城福安宮香客大樓",
+                "phone": "08-8821345",
+                "address": "屏東縣車城鄉福安村忠孝路199號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710742,
+                    22.069866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東縣立車城國小射寮分校",
+                "phone": "08-8825798",
+                "address": "屏東縣車城鄉埔墘村埔墘路38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.709289,
+                    22.056291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東縣立車城國小",
+                "phone": "08-8821006#14",
+                "address": "屏東縣車城鄉福興村中山路66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714583,
+                    22.074942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東縣立車城國小溫泉分校",
+                "phone": "08-8821005",
+                "address": "屏東縣車城鄉溫泉村文化路23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.748814,
+                    22.095189
+                ]
+            }
+        }
+    ]
+}

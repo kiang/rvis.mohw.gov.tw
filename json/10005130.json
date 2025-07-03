@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "建中國民小學操場室外",
+                "phone": "037-872007#1131",
+                "address": "苗栗縣三義鄉廣盛村6鄰廣盛80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.769962,
+                    24.413969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "龍騰活動中心",
+                "phone": "037-881418",
+                "address": "苗栗縣三義鄉龍騰村4鄰外庄10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.778002,
+                    24.361131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "鯉魚潭活動中心室內",
+                "phone": "037-881790",
+                "address": "苗栗縣三義鄉鯉魚潭村鯉魚口2鄰47-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.748999,
+                    24.350532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "鯉魚潭村活動中心室外",
+                "phone": "037-881790",
+                "address": "苗栗縣三義鄉鯉魚潭村2鄰鯉魚口47-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.748999,
+                    24.350532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "西湖村活動中心室內",
+                "phone": "037-875702",
+                "address": "苗栗縣三義鄉西湖村4鄰上湖64-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.759595,
+                    24.382539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "西湖村活動中心室外",
+                "phone": "037-875702",
+                "address": "苗栗縣三義鄉西湖村4鄰上湖64-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.759595,
+                    24.382539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "雙湖村活動中心室外",
+                "phone": "037-874023",
+                "address": "苗栗縣三義鄉雙湖村17鄰106-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.77399,
+                    24.42262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "雙湖村活動中心室內",
+                "phone": "037-874023",
+                "address": "苗栗縣三義鄉雙湖村17鄰106-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.77399,
+                    24.42262
+                ]
+            }
+        }
+    ]
+}

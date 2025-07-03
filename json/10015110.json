@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "銅門收容所",
+                "phone": "03-8641057",
+                "address": "花蓮縣秀林鄉文蘭村5鄰79-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.502242,
+                    23.89327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "水源收容所",
+                "phone": "03-8567603",
+                "address": "花蓮縣秀林鄉秀林村107號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63209,
+                    24.125501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "文蘭收容所",
+                "phone": "03-8641151",
+                "address": "花蓮縣秀林鄉文蘭村6鄰79號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506826,
+                    23.947869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "景美活動中心",
+                "phone": "03-8267423",
+                "address": "花蓮縣秀林鄉景美村加灣106號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.632103,
+                    24.125585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "和平活動中心",
+                "phone": "03-8681113",
+                "address": "花蓮縣秀林鄉和平村3鄰108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.748266,
+                    24.308326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "富世國小收容所",
+                "phone": "03-8611431#13",
+                "address": "花蓮縣秀林鄉富世村127號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.629529,
+                    24.147369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "佳民國小收容所",
+                "phone": "03-8264900#12",
+                "address": "花蓮縣秀林鄉佳民村119號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599388,
+                    24.053934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "秀林國小收容所",
+                "phone": "03-8611393",
+                "address": "花蓮縣秀林鄉秀林村秀林路76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63275,
+                    24.125591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "崇德國小收容所",
+                "phone": "03-8621220#202",
+                "address": "花蓮縣秀林鄉秀林村72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.633287,
+                    24.1263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "三棧收容所",
+                "phone": "03-8612116#317",
+                "address": "花蓮縣秀林鄉景美村加灣106號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606724,
+                    24.082494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "和平國小收容所",
+                "phone": "03-8681056#10",
+                "address": "花蓮縣秀林鄉和平村和平112號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749103,
+                    24.307981
+                ]
+            }
+        }
+    ]
+}

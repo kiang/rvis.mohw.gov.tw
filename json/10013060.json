@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "長治國中",
+                "phone": "08-7621193#14",
+                "address": "屏東縣長治鄉德成村中興路578號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544433,
+                    22.693079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "長興國小",
+                "phone": "08-7368567#14",
+                "address": "屏東縣長治鄉新潭村潭頭路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.526096,
+                    22.677168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "德協國小",
+                "phone": "08-7621844#14",
+                "address": "屏東縣長治鄉德成村中興路551號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541524,
+                    22.694092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "繁華國小",
+                "phone": "08-7621254#14",
+                "address": "屏東縣長治鄉繁華村水源路96號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.572196,
+                    22.702275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "百合部落佳暮村避難收容處所",
+                "phone": "08-7902234#113",
+                "address": "屏東縣霧臺鄉佳暮村魯凱街127號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.581425,
+                    22.6937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "美園社區活動中心",
+                "phone": "08-7992009",
+                "address": "屏東縣瑪家鄉三和村美園4-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.599878,
+                    22.697745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "瑪家國中",
+                "phone": "08-7994343#14",
+                "address": "屏東縣瑪家鄉三和村三和巷16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.599592,
+                    22.697203
+                ]
+            }
+        }
+    ]
+}

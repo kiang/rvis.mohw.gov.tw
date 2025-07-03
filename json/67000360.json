@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區億載國小-操場",
+                "phone": "06-2932371",
+                "address": "臺南市安平區億載里郡平路310號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1637581,
+                    22.9897575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區西門實驗小學",
+                "phone": "06-3914141",
+                "address": "臺南市安平區王城里安北路180號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.159521,
+                    23.0026636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區安平國中-安平館",
+                "phone": "06-2990461",
+                "address": "臺南市安平區平通里慶平路687號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1683055,
+                    22.9976177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區沙灘忠誠社區聯合活動中心",
+                "phone": "06-3911821",
+                "address": "臺南市安平區金城里世平路69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.148699,
+                    22.99705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區海頭社區活動中心",
+                "phone": "06-2236473",
+                "address": "臺南市安平區王城里古堡街90巷33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.160307,
+                    23.004247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區石門國小-操場",
+                "phone": "06-2223332",
+                "address": "臺南市安平區天妃里安平路700號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1663193,
+                    22.9995867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區建平里活動中心",
+                "phone": "06-2988787",
+                "address": "臺南市安平區建平里府前三街27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1856973,
+                    22.9938196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區公所",
+                "phone": "06-2951915",
+                "address": "臺南市安平區平通里育平路316號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.168926,
+                    22.99454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區安平國小",
+                "phone": "06-2996735",
+                "address": "臺南市安平區怡平里怡平路392號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.176283,
+                    22.993903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區平通里活動中心",
+                "phone": "06-2959305",
+                "address": "臺南市安平區平通里平通路580巷102號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.170604,
+                    22.996393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區育平里活動中心",
+                "phone": "06-2937503",
+                "address": "臺南市安平區育平里府平路376號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1671995,
+                    22.9871668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區華平里活動中心",
+                "phone": "06-2977777",
+                "address": "臺南市安平區華平里育平九街195號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1718573,
+                    22.9951069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區億載里活動中心",
+                "phone": "06-2989660",
+                "address": "臺南市安平區億載里光州一街29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.162654,
+                    22.9857824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區文平里活動中心",
+                "phone": "06-2971679",
+                "address": "臺南市安平區文平里中華西路二段1巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.185517,
+                    22.9864305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安平區金城國中-操場",
+                "phone": "06-2975816",
+                "address": "臺南市安平區建平里怡平路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1802839,
+                    22.9932366
+                ]
+            }
+        }
+    ]
+}

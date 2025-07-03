@@ -1,0 +1,613 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "老人文康活動中心",
+                "phone": "04-7222141",
+                "address": "彰化縣彰化市陽明里三民路436號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549124,
+                    24.086545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "彰化生活藝文館",
+                "phone": "04-7222141-2004",
+                "address": "彰化縣彰化市光復里民生路259號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54225,
+                    24.081285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "南興社區活動中心",
+                "phone": "04-7222141",
+                "address": "彰化縣彰化市南興里中山路一段189巷49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.532718,
+                    24.057587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "延和社區活動中心",
+                "phone": "04-7222141",
+                "address": "彰化縣彰化市延和里埔西街111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539691,
+                    24.059626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "南北管戲曲音樂館",
+                "phone": "04-7250057#1601",
+                "address": "彰化縣彰化市崙平里平和七街66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.530648,
+                    24.068321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "三民國小",
+                "phone": "7384775",
+                "address": "彰化縣彰化市田中里田中路125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.604311,
+                    24.08649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大快官藝文館",
+                "phone": "04-7222141",
+                "address": "彰化縣彰化市快官里彰南路五段8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.613187,
+                    24.068583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "泰和國小",
+                "phone": "04-7222433#15",
+                "address": "彰化縣彰化市阿夷里泰和路二段145巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551711,
+                    24.092991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "牛埔社區活動中心",
+                "phone": "04-7222141",
+                "address": "彰化縣彰化市牛埔里彰南路三段226號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.597691,
+                    24.081976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "快官社區活動中心",
+                "phone": "04-7222141",
+                "address": "彰化縣彰化市快官里彰南路四段566號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.612662,
+                    24.068923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "忠孝國小",
+                "phone": "04-7523944-13",
+                "address": "彰化縣彰化市西勢里忠誠路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.532196,
+                    24.084239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "石牌國小(活動中心)",
+                "phone": "04-7381672-102",
+                "address": "彰化縣彰化市石牌里田坑路一段9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614358,
+                    24.058413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "彰德國中",
+                "phone": "04-7381791#131",
+                "address": "彰化縣彰化市香山里彰南路二段512巷97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.589534,
+                    24.080359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "彰興國中",
+                "phone": "04-7110743#501",
+                "address": "彰化縣彰化市延和里埔西街107號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538213,
+                    24.059505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "東芳國小",
+                "phone": "04-7523250#710",
+                "address": "彰化縣彰化市東芳里彰馬路45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.516112,
+                    24.062457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "信義國中小",
+                "phone": "04-7635888#143",
+                "address": "彰化縣彰化市向陽里向陽街168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.528452,
+                    24.062891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "桃源社區活動中心",
+                "phone": "04-7222141",
+                "address": "彰化縣彰化市桃源里公園路二段102之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559011,
+                    24.072526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "介壽社區活動中心",
+                "phone": "04-7222141",
+                "address": "彰化縣彰化市介壽里介壽新村21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.552617,
+                    24.069531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "國聖國小",
+                "phone": "04-7321093#103",
+                "address": "彰化縣彰化市國聖里中山路三段608號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.56853,
+                    24.092092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "福山社區活動中心",
+                "phone": "04-7222141",
+                "address": "彰化縣彰化市福山里福山街168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57003,
+                    24.082415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "茄苳社區活動中心",
+                "phone": "04-7222141",
+                "address": "彰化縣彰化市茄苳里茄苳路二段292號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.548253,
+                    24.10376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "陽明國中",
+                "phone": "04-7222263#500",
+                "address": "彰化縣彰化市陽明里長順街76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.550462,
+                    24.086151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "彰安國中",
+                "phone": "04-7236117#230",
+                "address": "彰化縣彰化市彰安里中正路二段530號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535264,
+                    24.070665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "正德高中",
+                "phone": "04-7524109#212",
+                "address": "彰化縣彰化市莿桐里彰水路145號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.518508,
+                    24.058738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "快官國小",
+                "phone": "04-7384814",
+                "address": "彰化縣彰化市快官里彰南路4段566號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.612007,
+                    24.068545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "建國科技大學",
+                "phone": "04-7111111#1515",
+                "address": "彰化縣彰化市建寶里介壽北路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.550056,
+                    24.066306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大成國小",
+                "phone": "04-7353457#103",
+                "address": "彰化縣彰化市下廍里自強路303號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5471,
+                    24.091362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大竹國小",
+                "phone": "04-7381436#213",
+                "address": "彰化縣彰化市大竹里彰南路二段164巷41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.580408,
+                    24.08292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "民生國小",
+                "phone": "04-7224122#14",
+                "address": "彰化縣彰化市民生里民生路338號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543075,
+                    24.083819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "平和國小",
+                "phone": "04-7222355#12",
+                "address": "彰化縣彰化市彰安里中正路二段450號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535156,
+                    24.072469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "彰化女子高中",
+                "phone": "04-7240042#1401",
+                "address": "彰化縣彰化市光復里光復路62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54348,
+                    24.081178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "聯興國小",
+                "phone": "04-7384340",
+                "address": "彰化縣彰化市台鳳里一心南街208號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.598795,
+                    24.076384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "彰泰國中",
+                "phone": "04-7369676#302",
+                "address": "彰化縣彰化市下廍里自強路357號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54843,
+                    24.091619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "彰化藝術高中",
+                "phone": "04-7222844#401",
+                "address": "彰化縣彰化市卦山里卦山路13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.554489,
+                    24.078765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "南興國小",
+                "phone": "04-7622827",
+                "address": "彰化縣彰化市南興里中山路一段213號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534049,
+                    24.058115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "中山國小",
+                "phone": "04-7222033#13",
+                "address": "彰化縣彰化市中山里中山路二段678號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.546638,
+                    24.081909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "師大附工",
+                "phone": "04-7252541#230",
+                "address": "彰化縣彰化市和調里工校街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.555981,
+                    24.082588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "延和公園棒壘球場",
+                "phone": "04-7222141",
+                "address": "彰化縣彰化市延和里埔西街212-246號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540178,
+                    24.059972
+                ]
+            }
+        }
+    ]
+}

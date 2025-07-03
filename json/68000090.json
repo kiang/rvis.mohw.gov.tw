@@ -1,0 +1,389 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "凌雲國中",
+                "phone": "03-4792604#511",
+                "address": "桃園市龍潭區上林里中豐路上林段418號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.202436,
+                    24.858944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "高平第二市民活動中心",
+                "phone": "03-4717359",
+                "address": "桃園市龍潭區高平里高楊南路180號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.212008,
+                    24.835342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "潛龍國小",
+                "phone": "03-4792153#520",
+                "address": "桃園市龍潭區烏林里中豐路401號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.211276,
+                    24.880782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "上華市民活動中心",
+                "phone": "03-4792222",
+                "address": "桃園市龍潭區上華里大順路209號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.217828,
+                    24.85076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龍祥市民活動中心",
+                "phone": "03-4803888",
+                "address": "桃園市龍潭區凌雲里干城路19巷26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.207238,
+                    24.868797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龍潭高中",
+                "phone": "03-4792829#161",
+                "address": "桃園市龍潭區龍星里神龍路155號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.213087,
+                    24.861473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "德龍國小",
+                "phone": "03-4792524#510",
+                "address": "桃園市龍潭區聖德里聖德里聖亭路八德段451巷140號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.194844,
+                    24.88224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "武漢國小",
+                "phone": "03-4792873#510",
+                "address": "桃園市龍潭區武漢里武漢路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.234572,
+                    24.870849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龍潭區婦幼館",
+                "phone": "03-4799509",
+                "address": "桃園市龍潭區凌雲里干城路19巷30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.206745,
+                    24.86882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龍潭運動公園",
+                "phone": "03-4793070#1135",
+                "address": "桃園市龍潭區中山里公園路67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.219295,
+                    24.867388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "雙龍國小",
+                "phone": "03-4991888#510",
+                "address": "桃園市龍潭區中正里神龍路346號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.215153,
+                    24.857313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龍潭國中",
+                "phone": "03-4792075#511",
+                "address": "桃園市龍潭區中正里龍華路460號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.217211,
+                    24.85629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "武漢國中",
+                "phone": "03-4806468#510",
+                "address": "桃園市龍潭區黃唐里武中路227號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.232001,
+                    24.878959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "富林市民活動中心",
+                "phone": "03-4705872",
+                "address": "桃園市龍潭區富林里建國路278號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.231578,
+                    24.84685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龍星國小",
+                "phone": "03-4797299#510",
+                "address": "桃園市龍潭區龍星里中正路269號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.217971,
+                    24.862749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "凌雲市民活動中心",
+                "phone": "03-4793070#1114",
+                "address": "桃園市龍潭區凌雲里干城路19巷28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.207046,
+                    24.868855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新生醫護管理專科學校",
+                "phone": "03-4117578#410",
+                "address": "桃園市龍潭區高平里中豐路高平段418號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.207098,
+                    24.832353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龍源國小",
+                "phone": "03-4717149#510",
+                "address": "桃園市龍潭區高平里龍源路121巷110弄39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.211941,
+                    24.825821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "三和國小",
+                "phone": "03-4792154#510",
+                "address": "桃園市龍潭區三和里龍新路三和段1356號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.167978,
+                    24.847835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龍潭國小",
+                "phone": "03-4792014#510",
+                "address": "桃園市龍潭區龍潭里南龍路13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.213652,
+                    24.86391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "石門國小",
+                "phone": "03-4711752#512",
+                "address": "桃園市龍潭區佳安里文化路188號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.241266,
+                    24.841982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "石門國中",
+                "phone": "03-4713610#510",
+                "address": "桃園市龍潭區佳安里文化路137號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.240105,
+                    24.840798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "三坑國小",
+                "phone": "03-4713627#510",
+                "address": "桃園市龍潭區三坑里永昌路51巷85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.248452,
+                    24.836296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "高原國小",
+                "phone": "03-4717009#520",
+                "address": "桃園市龍潭區高原里高原路568號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.194156,
+                    24.830207
+                ]
+            }
+        }
+    ]
+}

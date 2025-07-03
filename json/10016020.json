@@ -1,0 +1,373 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "沙港社區農漁民活動中心",
+                "phone": "06-9213663",
+                "address": "澎湖縣湖西鄉沙港村澎湖縣湖西鄉沙港村75-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.624844,
+                    23.606922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "湖西國中活動中心",
+                "phone": "06-9921929",
+                "address": "澎湖縣湖西鄉湖西村澎湖縣湖西鄉湖西村43之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.653696,
+                    23.584617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "白坑社區活動中心",
+                "phone": "06-9922430",
+                "address": "澎湖縣湖西鄉白坑村澎湖縣湖西鄉白坑村1之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.658839,
+                    23.59403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "南寮活動中心",
+                "phone": "06-9921555",
+                "address": "澎湖縣湖西鄉南寮村澎湖縣湖西鄉南寮村46之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.670384,
+                    23.583278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "成功社區暨漁民活動中心",
+                "phone": "06-9215071",
+                "address": "澎湖縣湖西鄉成功村澎湖縣湖西鄉成功村80-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.624004,
+                    23.580905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "沙港國小活動中心",
+                "phone": "06-9210087",
+                "address": "澎湖縣湖西鄉沙港村澎湖縣湖西鄉沙港村75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.624955,
+                    23.606532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "太武村民眾活動中心",
+                "phone": "06-9212109",
+                "address": "澎湖縣湖西鄉太武村澎湖縣湖西鄉太武村14號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.633128,
+                    23.572105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "隘門國小、學生活動中心、禮堂、多元化教室",
+                "phone": "06-9212692",
+                "address": "澎湖縣湖西鄉隘門村澎湖縣湖西鄉隘門村15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.636219,
+                    23.564309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "尖山社區老人活動中心",
+                "phone": "06-9921487",
+                "address": "澎湖縣湖西鄉尖山村澎湖縣湖西鄉尖山村29之6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.66217,
+                    23.565535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "龍門國小禮堂",
+                "phone": "06-9921202",
+                "address": "澎湖縣湖西鄉尖山村澎湖縣湖西鄉尖山村4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.668999,
+                    23.566507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "湖西社區活動中心",
+                "phone": "06-9921108",
+                "address": "澎湖縣湖西鄉湖西村澎湖縣湖西鄉湖西村11之6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.658567,
+                    23.58554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "青螺村活動中心",
+                "phone": "06-9921330",
+                "address": "澎湖縣湖西鄉青螺村澎湖縣湖西鄉青螺村1之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.647374,
+                    23.59892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "林投村活動中心",
+                "phone": "06-9921170",
+                "address": "澎湖縣湖西鄉林投村澎湖縣湖西鄉林投村12之23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.642936,
+                    23.562401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "北寮社區活動中心",
+                "phone": "06-9922121",
+                "address": "澎湖縣湖西鄉北寮村澎湖縣湖西鄉北寮村"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.672038,
+                    23.596259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "西溪國小視聽教室",
+                "phone": "06-9921082",
+                "address": "澎湖縣湖西鄉西溪村澎湖縣湖西鄉西溪村130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.641902,
+                    23.582816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "中西社區活動中心",
+                "phone": "06-9216002",
+                "address": "澎湖縣湖西鄉中西村澎湖縣湖西鄉中西村19-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.613864,
+                    23.597522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "潭邊社區活動中心",
+                "phone": "06-9213710",
+                "address": "澎湖縣湖西鄉潭邊村澎湖縣湖西鄉潭邊村47號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.607245,
+                    23.594557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "鼎灣社區活動中心",
+                "phone": "06-9214923",
+                "address": "澎湖縣湖西鄉鼎灣村澎湖縣湖西鄉鼎灣村37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.616924,
+                    23.593041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "城北村民眾活動中心",
+                "phone": "06-9211083",
+                "address": "澎湖縣湖西鄉城北村澎湖縣湖西鄉城北村39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.623614,
+                    23.565387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "湖東社區活動中心",
+                "phone": "06-9922259",
+                "address": "澎湖縣湖西鄉湖東村澎湖縣湖西鄉湖東村54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.662937,
+                    23.582114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "紅羅社區活動中心",
+                "phone": "06-9922923",
+                "address": "澎湖縣湖西鄉紅羅村澎湖縣湖西鄉紅羅村31之5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.642512,
+                    23.587219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "隘門社區活動中心",
+                "phone": "06-9213362",
+                "address": "澎湖縣湖西鄉隘門村澎湖縣湖西鄉隘門村28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.636292,
+                    23.562852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "菓葉健康園區",
+                "phone": "06-9272162",
+                "address": "澎湖縣湖西鄉菓葉村澎湖縣湖西鄉菓葉村171號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.676418,
+                    23.57982
+                ]
+            }
+        }
+    ]
+}

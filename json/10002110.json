@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "樂水社區活動中心",
+                "phone": "03-9801419",
+                "address": "宜蘭縣大同鄉樂水村大同鄉樂水村碼崙巷46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551249,
+                    24.611768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "崙埤社區活動中心",
+                "phone": "03-9801174",
+                "address": "宜蘭縣大同鄉崙埤村大同鄉崙埤村朝陽10-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.609748,
+                    24.678073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "復興社區活動中心",
+                "phone": "03-9892690",
+                "address": "宜蘭縣大同鄉復興村大同鄉復興村泰雅一路61巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606435,
+                    24.631781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "大同國中",
+                "phone": "03-9809653",
+                "address": "宜蘭縣大同鄉太平村大同鄉泰雅路4段35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.477926,
+                    24.574262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "茂安社區活動中心",
+                "phone": "03-9809653",
+                "address": "宜蘭縣大同鄉茂安村茂安村1鄰志航15-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472448,
+                    24.554141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "四季社區活動中心",
+                "phone": "03-9809422",
+                "address": "宜蘭縣大同鄉四季村大同鄉四季村5鄰和勳巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.426312,
+                    24.487687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南山社區活動中心",
+                "phone": "03-9809140",
+                "address": "宜蘭縣大同鄉南山村大同鄉南山村4鄰埤南巷9-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3792,
+                    24.436672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "松羅社區活動中心",
+                "phone": "03-9801173",
+                "address": "宜蘭縣大同鄉松羅村大同鄉松羅村南巷81-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.578991,
+                    24.656119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "寒溪社區活動中心",
+                "phone": "03-9517475",
+                "address": "宜蘭縣大同鄉寒溪村大同鄉寒溪村8鄰寒溪巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.68611,
+                    24.609057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "英士活動中心",
+                "phone": "03-9801316",
+                "address": "宜蘭縣大同鄉英士村大同鄉英士村梵梵90之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.525188,
+                    24.612836
+                ]
+            }
+        }
+    ]
+}

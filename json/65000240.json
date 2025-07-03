@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "平湖市民活動中心",
+                "phone": "02-24958889",
+                "address": "新北市平溪區平湖里大湖10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.781288,
+                    25.025617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "嶺腳市民活動中心",
+                "phone": "02-24951930",
+                "address": "新北市平溪區嶺腳里嶺腳寮14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.748146,
+                    25.029722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "菁桐市民活動中心",
+                "phone": "02-24951016",
+                "address": "新北市平溪區菁桐里菁桐街65-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726168,
+                    25.023534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "平溪國小",
+                "phone": "02-4951038#204",
+                "address": "新北市平溪區平溪里平溪街56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736782,
+                    25.026955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "白石市民活動中心",
+                "phone": "02-2495-1510#174",
+                "address": "新北市平溪區白石里9鄰靜安路2段241號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.724746,
+                    25.022133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "菁桐國小",
+                "phone": "02-24951009#13",
+                "address": "新北市平溪區菁桐里菁桐街45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72672,
+                    25.023548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "十分國小",
+                "phone": "02-2495-8305#49",
+                "address": "新北市平溪區十分里十分街157號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.777697,
+                    25.043478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "平溪市民活動中心",
+                "phone": "02-24951510#155",
+                "address": "新北市平溪區石底里公園街17號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737185,
+                    25.024681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "平溪國中",
+                "phone": "02-2495-1010#161",
+                "address": "新北市平溪區石底里靜安路二段295號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.733621,
+                    25.023479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "老人文康活動中心",
+                "phone": "02-2495-8073",
+                "address": "新北市平溪區十分里十分街66巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.775806,
+                    25.04193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "薯榔市民活動中心",
+                "phone": "02-24951540",
+                "address": "新北市平溪區薯榔里靜安路二段63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71539,
+                    25.020783
+                ]
+            }
+        }
+    ]
+}

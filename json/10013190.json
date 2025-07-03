@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "仁和村多功能活動中心",
+                "phone": "08-8750114",
+                "address": "屏東縣林邊鄉仁和村和平路41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.512698,
+                    22.433731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "林邊國中",
+                "phone": "08-8752051",
+                "address": "屏東縣林邊鄉光林村和平路43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.510465,
+                    22.432516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "崎峰活動中心",
+                "phone": "08-8753668",
+                "address": "屏東縣林邊鄉崎峯村成功路600號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490188,
+                    22.429798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "仁和國小",
+                "phone": "08-8752201",
+                "address": "屏東縣林邊鄉仁和村中山路417號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.511347,
+                    22.436889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "竹林國小",
+                "phone": "8752884-14",
+                "address": "屏東縣林邊鄉竹林村中興122號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.519789,
+                    22.449968
+                ]
+            }
+        }
+    ]
+}

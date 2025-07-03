@@ -1,0 +1,485 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立鳳翔國民中學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區保安里保義街100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348012,
+                    22.596789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區大東國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區南興里大東一路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.361352,
+                    22.62256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區鎮北國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區鎮北里鳳北路170號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36738,
+                    22.641798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區中崙國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區中崙里中崙四路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.350584,
+                    22.599139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區忠孝國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區國富里新富路630號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349678,
+                    22.617193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區誠正國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區生明里黃埔新村國校巷78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.363954,
+                    22.616757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "鳳山區公所大禮堂",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區新興里經武路30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.362638,
+                    22.627099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "基督教鳳山長老教會",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區光明里中正路172號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.361041,
+                    22.628371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區鳳西國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區和興里光華東路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358728,
+                    22.617149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區鳳山國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區興仁里中山路231號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.356506,
+                    22.624822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區文德國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區文德里文衡路356號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353925,
+                    22.640692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立鳳山國民中學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區瑞竹里中山東路227號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.372009,
+                    22.625285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立青年國民中學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區忠孝里青年路二段89號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349,
+                    22.630785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立中崙國民中學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區中榮里中崙二路487號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353555,
+                    22.603304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區正義國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區正義里南昌街55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340127,
+                    22.603997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立曹公國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區縣衙里曹公路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.357521,
+                    22.62769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區瑞興國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區瑞興里博愛路271號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368353,
+                    22.630179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立福誠高級中學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區福誠里五甲三路176號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324,
+                    22.59
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立鳳甲國民中學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區新強里輜汽路300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.342588,
+                    22.616575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區文華國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區文華里文化路52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.352746,
+                    22.634399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立五甲國民中學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區龍成里龍成路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328691,
+                    22.598112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區鳳翔國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區二甲里鳳育路63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340798,
+                    22.595331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區新甲國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區新強里新富路255號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340121,
+                    22.613254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "國立鳳山高級中學中山堂",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區忠孝里光復路二段130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.345723,
+                    22.629892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區南成國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區南成里南和街101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.335487,
+                    22.594315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區福誠國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區福誠里忠誠路145號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325055,
+                    22.596813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區過埤國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區過埤里過埤路176號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.362405,
+                    22.590382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區中正國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區埤頂里勝利路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.37408,
+                    22.628249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立忠孝國民中學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區國隆里國泰路2段81號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346519,
+                    22.619938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳳山區中山國民小學",
+                "phone": "07-7422111#376",
+                "address": "高雄市鳳山區忠孝里光復路一段120巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.350616,
+                    22.629959
+                ]
+            }
+        }
+    ]
+}

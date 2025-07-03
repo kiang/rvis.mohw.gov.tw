@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "松嶺社區活動中心",
+                "phone": "0912-781239",
+                "address": "南投縣名間鄉松山村豐柏路38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.633861,
+                    23.834242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新民村集會所",
+                "phone": "049-2734560",
+                "address": "南投縣名間鄉新民村外埔巷11之28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692424,
+                    23.818466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "竹圍村社區活動中心",
+                "phone": "049-2734350",
+                "address": "南投縣名間鄉竹圍村竹圍巷39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.638182,
+                    23.858229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "赤水社區活動中心",
+                "phone": "049-2271519",
+                "address": "南投縣名間鄉赤水村南田路258之10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.631699,
+                    23.859515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "松柏村集會所",
+                "phone": "049-2581563",
+                "address": "南投縣名間鄉松柏村名松路二段216之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635408,
+                    23.834645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新厝村集會所",
+                "phone": "049-2732768",
+                "address": "南投縣名間鄉新厝村新厝路74號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.659069,
+                    23.842718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "東仁社區活動中心",
+                "phone": "0928-923943",
+                "address": "南投縣名間鄉東湖村大老巷34號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699941,
+                    23.864998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "三崙社區活動中心",
+                "phone": "0952795056",
+                "address": "南投縣名間鄉三崙村中庄巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636713,
+                    23.846761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "炭寮村集會所",
+                "phone": "049-2734560",
+                "address": "南投縣名間鄉炭寮村炭寮巷1之50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.676464,
+                    23.827349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "濁水村集會所",
+                "phone": "049-2732409",
+                "address": "南投縣名間鄉濁水村福興巷14號（福興宮旁）"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.712096,
+                    23.83079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "仁和村集會所",
+                "phone": "049-2735246",
+                "address": "南投縣名間鄉仁和村山腳巷17-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70556,
+                    23.856141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "大庄村集會所",
+                "phone": "049-2271037",
+                "address": "南投縣名間鄉大庄村大廈巷82-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.655077,
+                    23.872199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "萬丹社區活動中心",
+                "phone": "049-2220496",
+                "address": "南投縣名間鄉萬丹村新丹巷38-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.706293,
+                    23.882691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "田仔社區活動中心",
+                "phone": "0933503156",
+                "address": "南投縣名間鄉田仔村田仔巷41之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675087,
+                    23.870204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "公所中山堂",
+                "phone": "2732116-110",
+                "address": "南投縣名間鄉中正村彰南路40-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703232,
+                    23.838134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "錦梓社區活動中心",
+                "phone": "049-2272889",
+                "address": "南投縣名間鄉赤水村皮子寮巷21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.627551,
+                    23.866707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新街村集會所",
+                "phone": "049-2231373",
+                "address": "南投縣名間鄉新街村彰南路472號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.693359,
+                    23.879739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "虎坑社區活動中心",
+                "phone": "0936-497425",
+                "address": "南投縣名間鄉東湖村虎坑巷6之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.695667,
+                    23.862461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "南雅村集會所",
+                "phone": "049-2731383",
+                "address": "南投縣名間鄉南雅村市場巷20-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.702834,
+                    23.837015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "廈新社區活動中心",
+                "phone": "0919-024516",
+                "address": "南投縣名間鄉新光村大廈巷30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675809,
+                    23.856759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "廍下社區活動中心",
+                "phone": "0932-271018",
+                "address": "南投縣名間鄉廍下村大岩巷30之8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63542,
+                    23.876391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "埔中村民眾活動中心",
+                "phone": "0933-420047",
+                "address": "南投縣名間鄉埔中村埔中巷11-12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643583,
+                    23.820957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "崁腳村民眾活動中心",
+                "phone": "049-2582662",
+                "address": "南投縣名間鄉崁腳村名松路一段350號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.660022,
+                    23.835349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中山村集會所",
+                "phone": "049-2731889",
+                "address": "南投縣名間鄉中山村名松路一段83號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.693155,
+                    23.841908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "弓鞋社區活動中心",
+                "phone": "0912-582851",
+                "address": "南投縣名間鄉三崙村弓鞋巷16之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626169,
+                    23.850406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "大坑村集會所",
+                "phone": "049-2271297",
+                "address": "南投縣名間鄉大坑村武東巷11之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.657816,
+                    23.86045
+                ]
+            }
+        }
+    ]
+}

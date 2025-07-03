@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "水美社區活動中心",
+                "phone": "04-26879697#專線",
+                "address": "臺中市外埔區水美里水美路129號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626439,
+                    24.335654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "水美國小勤學樓",
+                "phone": "04-26876508#專線",
+                "address": "臺中市外埔區水美里二崁路390巷63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636444,
+                    24.326239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "外埔區老人文康活動中心",
+                "phone": "04-26832216#309",
+                "address": "臺中市外埔區大同里外埔路952號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.651038,
+                    24.332386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "外埔國小綜合教學大樓禮堂",
+                "phone": "04-26832865#713",
+                "address": "臺中市外埔區大同里外埔路878號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653497,
+                    24.332564
+                ]
+            }
+        }
+    ]
+}

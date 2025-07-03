@@ -1,0 +1,389 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "溝壩國小",
+                "phone": "05-5220734-203",
+                "address": "雲林縣斗六市溝埧里仁義路93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537499,
+                    23.674111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "永光老人養護中心",
+                "phone": "05-5829727",
+                "address": "雲林縣古坑鄉永光村光興路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.558115,
+                    23.619479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東和國民中學",
+                "phone": "05-5262697",
+                "address": "雲林縣古坑鄉東和村文化路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567899,
+                    23.686177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東和國小",
+                "phone": "05-5263153",
+                "address": "雲林縣古坑鄉東和村文化路120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.568635,
+                    23.684913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "棋山國小",
+                "phone": "05-5263673",
+                "address": "雲林縣古坑鄉棋盤村棋山49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.603834,
+                    23.686416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "華南實驗國民小學",
+                "phone": "05-5901529",
+                "address": "雲林縣古坑鄉華南村華南28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574737,
+                    23.596447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "永光國小",
+                "phone": "05-6341139",
+                "address": "雲林縣古坑鄉永光村文昌路84號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.553693,
+                    23.626731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "桂林國小",
+                "phone": "05-5901048",
+                "address": "雲林縣古坑鄉桂林村桂林村95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.60786,
+                    23.611958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "田心社區活動中心",
+                "phone": "05-5826671",
+                "address": "雲林縣古坑鄉田心村田心路59號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541308,
+                    23.669286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "高林社區活動中心",
+                "phone": "05-5265188",
+                "address": "雲林縣古坑鄉高林村高林路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570199,
+                    23.673689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "興昌國小",
+                "phone": "05-5821060",
+                "address": "雲林縣古坑鄉崁腳村南昌6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537531,
+                    23.611581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "麻園社區活動中心",
+                "phone": "05-5823501",
+                "address": "雲林縣古坑鄉麻園村中洲路41-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.513974,
+                    23.628188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "新光國小",
+                "phone": "05-5260572",
+                "address": "雲林縣古坑鄉新庄村新庄村1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.633,
+                    23.657215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "湳仔社區活動中心",
+                "phone": "05-5823966",
+                "address": "雲林縣古坑鄉湳仔村湳仔村崙子路30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545743,
+                    23.650504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "樟湖生態國民中小學",
+                "phone": "05-5811044",
+                "address": "雲林縣古坑鄉石橋50-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.631468,
+                    23.603869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "水碓國小",
+                "phone": "05-5821049",
+                "address": "雲林縣古坑鄉水碓村97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.56458,
+                    23.662602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "古坑國民中小學國中部活動中心",
+                "phone": "05-5821004",
+                "address": "雲林縣古坑鄉朝陽村朝陽路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566986,
+                    23.646222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "古坑國民中小學小學部活動中心",
+                "phone": "05-5821024",
+                "address": "雲林縣古坑鄉古坑村朝陽路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567246,
+                    23.645842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "調解會暨古坑三村聯合辦公處",
+                "phone": "05-5822760",
+                "address": "雲林縣古坑鄉古坑村中山路45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561616,
+                    23.642676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "山峰華德福教育實驗國民小學",
+                "phone": "5822075",
+                "address": "雲林縣古坑鄉荷苞村山峰路17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.618385,
+                    23.641954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "草嶺生態地質國民小學",
+                "phone": "05-5831010",
+                "address": "雲林縣古坑鄉草嶺村草嶺56-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.694675,
+                    23.586096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "私立福智國民中學活動中心",
+                "phone": "05-5828222",
+                "address": "雲林縣古坑鄉麻園村平和23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.522189,
+                    23.634547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "中華科技大學雲林校區",
+                "phone": "05-7709666",
+                "address": "雲林縣古坑鄉崁腳村南昌6-26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543037,
+                    23.616129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "劍湖山股份世界股份有限公司(渡假大飯店)",
+                "phone": "05-5828111",
+                "address": "雲林縣古坑鄉永光村大湖口67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579616,
+                    23.615831
+                ]
+            }
+        }
+    ]
+}

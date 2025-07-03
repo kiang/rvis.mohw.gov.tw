@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "四美社區活動中心",
+                "phone": "05-6993505",
+                "address": "雲林縣東勢鄉四美村東勢鄉四美村四美路65-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244119,
+                    23.72246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "龍潭社區活動中心",
+                "phone": "05-6992734",
+                "address": "雲林縣東勢鄉龍潭村東勢鄉龍潭村仁愛路43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.23737,
+                    23.695505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "程海集會所活動中心",
+                "phone": "05-6991748",
+                "address": "雲林縣東勢鄉程海村東勢鄉程海村程海路56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.232606,
+                    23.675954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "安南國民小學活動中心",
+                "phone": "05-6991454",
+                "address": "雲林縣東勢鄉安南村東勢鄉安南村安南路109號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.249083,
+                    23.703202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東南社區活動中心",
+                "phone": "05-6992674",
+                "address": "雲林縣東勢鄉東南村東勢鄉東南村東榮路29-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.253415,
+                    23.675924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "安南社區活動中心",
+                "phone": "05-6992744",
+                "address": "雲林縣東勢鄉安南村東勢鄉安南村安南路2之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.242757,
+                    23.704198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東北社區活動中心",
+                "phone": "05-6991606",
+                "address": "雲林縣東勢鄉東北村東勢鄉東北村民權路110號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.258273,
+                    23.677883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "復興社區活動中心",
+                "phone": "05-6991717",
+                "address": "雲林縣東勢鄉復興村東勢鄉復興村復興路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27537,
+                    23.67978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "昌南社區活動中心",
+                "phone": "05-6992754",
+                "address": "雲林縣東勢鄉昌南村東勢鄉昌南村昌南路119-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.260792,
+                    23.695388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "新坤社區活動中心",
+                "phone": "05-6993651",
+                "address": "雲林縣東勢鄉新坤村東勢鄉新坤村新吉路5-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251028,
+                    23.715554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東勢國民中學活動中心",
+                "phone": "05-6991035",
+                "address": "雲林縣東勢鄉嘉隆村東勢鄉嘉隆村東榮路65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.253862,
+                    23.67405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東勢鄉賜安宮香客大樓",
+                "phone": "05-6991025",
+                "address": "雲林縣東勢鄉東南村四安路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.254181,
+                    23.674417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東勢國民小學活動中心",
+                "phone": "05-6991036",
+                "address": "雲林縣東勢鄉東南村東榮路29巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.257101,
+                    23.674264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "嘉隆社區活動中心",
+                "phone": "05-6992704",
+                "address": "雲林縣東勢鄉嘉隆村東勢鄉嘉隆村守密街51之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.259191,
+                    23.665572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "同安國小風雨教室",
+                "phone": "05-6991244",
+                "address": "雲林縣東勢鄉同安村東勢鄉同安村同安路67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.265742,
+                    23.711561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "同安集會所活動中心",
+                "phone": "05-6992764",
+                "address": "雲林縣東勢鄉同安村同安路150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.266896,
+                    23.710507
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "九如鄉九如國民小學",
+                "phone": "08-7392159#14",
+                "address": "屏東縣九如鄉九清村九如路二段3-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486469,
+                    22.726282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "九如鄉公所二樓中庭",
+                "phone": "08-7392210",
+                "address": "屏東縣九如鄉東寧村九如路二段416號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490442,
+                    22.74039
+                ]
+            }
+        }
+    ]
+}

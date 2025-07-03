@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "二崙國民中學",
+                "phone": "05-5982020",
+                "address": "雲林縣二崙鄉崙西村中正路88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.406899,
+                    23.773817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "二崙國民小學",
+                "phone": "05-5982241",
+                "address": "雲林縣二崙鄉崙東村中興路36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.412992,
+                    23.772196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "永定國民小學",
+                "phone": "05-5982796",
+                "address": "雲林縣二崙鄉永定村永定路 238 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.419223,
+                    23.79613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "來惠國小",
+                "phone": "05-5982995",
+                "address": "雲林縣二崙鄉來惠村惠來路12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.398246,
+                    23.769265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "三和國民小學",
+                "phone": "05-5982795#12",
+                "address": "雲林縣二崙鄉三和村三和路17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4057491,
+                    23.7512327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "油車國民小學",
+                "phone": "05-5982600",
+                "address": "雲林縣二崙鄉港後村港後村60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.396568,
+                    23.803298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "賜福宮",
+                "phone": "05-5990333",
+                "address": "雲林縣二崙鄉田尾村12鄰92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.415856,
+                    23.755842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "旭光國民小學",
+                "phone": "05-5982601",
+                "address": "雲林縣二崙鄉大庄村酒姑路54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.365694,
+                    23.804829
+                ]
+            }
+        }
+    ]
+}

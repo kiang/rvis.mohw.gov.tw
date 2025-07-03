@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "育英國中-育英堂1、2樓\/操場",
+                "phone": "04-22115313#730",
+                "address": "臺中市東區樂成里育英路30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699394,
+                    24.136222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "六順多功能活動中心(1~3樓\/停車場)",
+                "phone": "04-22151988",
+                "address": "臺中市東區東門里六順路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699524,
+                    24.124974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東區區公所禮堂(1~2樓)",
+                "phone": "04-22151988#401",
+                "address": "臺中市東區東信里長福路245號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703798,
+                    24.136513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "進德國小一樓活動中心(1樓\/操場)",
+                "phone": "04-22126834#730",
+                "address": "臺中市東區東勢里進化路135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.694188,
+                    24.145216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大智國小2樓禮堂(2樓\/操場)",
+                "phone": "04-22825683#731",
+                "address": "臺中市東區東橋里大智路359號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690785,
+                    24.128613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "國立中興大學附屬臺中高級農業職業學校禮堂(1樓及操場)",
+                "phone": "04-22810010#400",
+                "address": "臺中市東區東興里臺中路283號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685648,
+                    24.126587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立東峰國中(1樓\/操場)",
+                "phone": "04-22825133#731",
+                "address": "臺中市東區東興里仁和路330號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685858,
+                    24.125295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東區樂業國小(操場)",
+                "phone": "04-22121293#730",
+                "address": "臺中市東區泉源里樂業路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.694391,
+                    24.138086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "力行國小活動中心(2樓\/操場)",
+                "phone": "04-23604412#730",
+                "address": "臺中市東區東勢里進化路223號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.693933,
+                    24.150694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中國小活動中心(1樓\/操場)",
+                "phone": "04-22815103#733",
+                "address": "臺中市東區振興里臺中路153號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684715,
+                    24.131516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "樂成公園",
+                "phone": "04-22289111#33510",
+                "address": "臺中市東區東信里長福路245-1號旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703798,
+                    24.136513
+                ]
+            }
+        }
+    ]
+}

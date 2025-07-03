@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大同區延平國小",
+                "phone": "02-25942439#636",
+                "address": "臺北市大同區國慶里昌吉街97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512362,
+                    25.06603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立重慶國民中學",
+                "phone": "02-25948631#210",
+                "address": "臺北市大同區重慶里敦煌路19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517906,
+                    25.07593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立忠孝國民中學",
+                "phone": "02-25524890#11",
+                "address": "臺北市大同區玉泉里大同區西寧北路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511861,
+                    25.050737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立建成國民中學",
+                "phone": "02-25587042#601",
+                "address": "臺北市大同區建泰里臺北市大同區長安西路37之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519696,
+                    25.050367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "玉泉公園",
+                "phone": "02-25850192#201",
+                "address": "臺北市大同區玉泉里西寧北路28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.507773,
+                    25.04979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大同運動中心",
+                "phone": "02-2570-2330#6458",
+                "address": "臺北市大同區蓬萊里大龍街51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516103,
+                    25.064791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大同區大同國民小學",
+                "phone": "02-25965407#358",
+                "address": "臺北市大同區蓬萊里大龍街51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516103,
+                    25.064791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大同區大橋國民小學",
+                "phone": "02-25944413#101",
+                "address": "臺北市大同區隆和里大同區重慶北路3段2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513379,
+                    25.064287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大同區大龍國民小學",
+                "phone": "02-25942635#888",
+                "address": "臺北市大同區保安里哈密街47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516721,
+                    25.073405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大同區太平國民小學",
+                "phone": "02-25532229#801",
+                "address": "臺北市大同區南芳里大同區延平北路2段239號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513396,
+                    25.06276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大同區日新國民小學",
+                "phone": "02-25584819#120",
+                "address": "臺北市大同區星明里大同區太原路151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516476,
+                    25.054386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立民權國民中學",
+                "phone": "02-25931951#168",
+                "address": "臺北市大同區隆和里大同區重慶北路3段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513914,
+                    25.063564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大同區永樂國民小學",
+                "phone": "02-25534882#401",
+                "address": "臺北市大同區南芳里臺北市大同區延平北路2段266號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511134,
+                    25.061693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立成淵高級中學",
+                "phone": "02-25531969#100",
+                "address": "臺北市大同區民權里大同區承德路2段235號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513733,
+                    25.062097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大同區明倫高級中學",
+                "phone": "02-25961567#101",
+                "address": "臺北市大同區重慶里臺北市大同區承德路3段336號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51989,
+                    25.075533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大同區蓬萊國民小學",
+                "phone": "02-25569835#660",
+                "address": "臺北市大同區星明里大同區寧夏路35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514335,
+                    25.05506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大同區雙蓮國民小學",
+                "phone": "02-25570309#1001",
+                "address": "臺北市大同區民權里大同區錦西街51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516672,
+                    25.060117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立蘭州國民中學",
+                "phone": "02-25918269#168",
+                "address": "臺北市大同區至聖里大同區大龍街187巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514971,
+                    25.068919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "大同251號綠地",
+                "phone": "02-23329386",
+                "address": "臺北市大同區老師里環河北路與敦煌路口三角綠地"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509289,
+                    25.07728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "建成公園",
+                "phone": "02-25850192#201",
+                "address": "臺北市大同區光能里承德路二段35號旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518435,
+                    25.054794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處大龍市場地下停車場",
+                "phone": "02-25505220#2146",
+                "address": "臺北市大同區重慶里臺北市大同區重慶北路三段347號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514073,
+                    25.074784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "國慶區活動中心",
+                "phone": "02-25975323轉604",
+                "address": "臺北市大同區國慶里臺北市大同區重慶北路3段76號4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513444,
+                    25.066168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館大同分館",
+                "phone": "02-25943236",
+                "address": "臺北市大同區老師里臺北市大同區重慶北路三段318號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513563,
+                    25.074278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館延平分館",
+                "phone": "02-25528534",
+                "address": "臺北市大同區延平里臺北市大同區保安街47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512148,
+                    25.059256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館建成分館",
+                "phone": "02-25582320",
+                "address": "臺北市大同區星明里臺北市大同區民生西路198-20號4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516088,
+                    25.056943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北轉運站",
+                "phone": "02-77335888#3234",
+                "address": "臺北市大同區建明里臺北市大同區市民大道1段209號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51835,
+                    25.048893
+                ]
+            }
+        }
+    ]
+}

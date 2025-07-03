@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "上岐村辦公處",
+                "phone": "082-364503",
+                "address": "金門縣烈嶼鄉上岐村青岐90號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.225498,
+                    24.415489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "上林村辦公處",
+                "phone": "082-362401",
+                "address": "金門縣烈嶼鄉上林村上林78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.232212,
+                    24.427924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金門縣烈嶼鄉體育館",
+                "phone": "082-364675",
+                "address": "金門縣烈嶼鄉林湖村后井40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.257402,
+                    24.42746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "黃埔村辦公處",
+                "phone": "082-363761",
+                "address": "金門縣烈嶼鄉黃埔村黃厝45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.251842,
+                    24.446732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "林湖村辦公處",
+                "phone": "082-360401",
+                "address": "金門縣烈嶼鄉林湖村東林24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.249516,
+                    24.428965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "西口村辦公處",
+                "phone": "082-364750",
+                "address": "金門縣烈嶼鄉西口村西方76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.236608,
+                    24.436121
+                ]
+            }
+        }
+    ]
+}

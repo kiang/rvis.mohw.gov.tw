@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "柳鳳集會所活動中心",
+                "phone": "04-8225836",
+                "address": "彰化縣田尾鄉柳鳳村民生路二段338號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.518046,
+                    23.911075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "田尾國小",
+                "phone": "04-8832745#113",
+                "address": "彰化縣田尾鄉饒平村中山路一段449號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.528588,
+                    23.891877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "南鎮國小",
+                "phone": "04-8227962#126",
+                "address": "彰化縣田尾鄉南鎮村光復路一段295號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5607,
+                    23.886533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "仁豐國小",
+                "phone": "04-8830347#72",
+                "address": "彰化縣田尾鄉新厝村中正路二段101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.508227,
+                    23.902512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "田尾社區活動中心",
+                "phone": "0937-720001",
+                "address": "彰化縣田尾鄉田尾村光復路三段538巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.51935,
+                    23.897862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "北鎮社區活動中心",
+                "phone": "04-8231700",
+                "address": "彰化縣田尾鄉北鎮村平和路二段151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.554156,
+                    23.897386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "溪畔社區活動中心",
+                "phone": "04-8221022",
+                "address": "彰化縣田尾鄉溪畔村溪畔巷157號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537522,
+                    23.904474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "睦宜社區活動中心",
+                "phone": "04-8831305",
+                "address": "彰化縣田尾鄉睦宜村聖德巷162號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551109,
+                    23.884077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "南曾社區活動中心",
+                "phone": "04-8831256",
+                "address": "彰化縣田尾鄉南曾村福德巷185號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536976,
+                    23.891504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "福田社區活動中心",
+                "phone": "0926-253567",
+                "address": "彰化縣田尾鄉福田村光復路一段98巷181號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564335,
+                    23.889907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "豐田集會所活動中心",
+                "phone": "04-8836955",
+                "address": "彰化縣田尾鄉豐田村光復路四段161號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.511065,
+                    23.903549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "打簾社區活動中心",
+                "phone": "04-8224597",
+                "address": "彰化縣田尾鄉打簾村民生路一段245號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.532,
+                    23.904865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新厝社區活動中心",
+                "phone": "04-8832295",
+                "address": "彰化縣田尾鄉新厝村光明巷54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.506046,
+                    23.90052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "陸豐社區活動中心",
+                "phone": "04-8233883",
+                "address": "彰化縣田尾鄉陸豐村陸豐路48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.503328,
+                    23.919485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "溪頂社區活動中心",
+                "phone": "0932597380",
+                "address": "彰化縣田尾鄉溪頂村三溪路一段209號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.510506,
+                    23.897421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "仁里社區活動中心",
+                "phone": "04-8831888",
+                "address": "彰化縣田尾鄉仁里村中正路二段103巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.506647,
+                    23.904153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "天乙宮",
+                "phone": "04-8833905",
+                "address": "彰化縣田尾鄉饒平村建平路一段66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.528733,
+                    23.885556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "海豐村活動中心",
+                "phone": "04-8815581",
+                "address": "彰化縣田尾鄉海豐村中正路三段396巷36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.501105,
+                    23.921948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "正義社區活動中心",
+                "phone": "0922-567322",
+                "address": "彰化縣田尾鄉正義村中正路一段232號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.518911,
+                    23.891448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "南鎮社區活動中心",
+                "phone": "0937710615",
+                "address": "彰化縣田尾鄉南鎮村平和路一段140號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.557187,
+                    23.892496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "北曾社區活動中心",
+                "phone": "04-8832468",
+                "address": "彰化縣田尾鄉北曾村福德巷359號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536092,
+                    23.894772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新興社區活動中心",
+                "phone": "04-8733961",
+                "address": "彰化縣田尾鄉新興村新興路280號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560873,
+                    23.898481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "陸豐國小",
+                "phone": "04-8222563#13",
+                "address": "彰化縣田尾鄉陸豐村民生路3段200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.505044,
+                    23.917345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新生社區活動中心",
+                "phone": "04-8834790",
+                "address": "彰化縣田尾鄉新生村延平路150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55088,
+                    23.889243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "田尾國中",
+                "phone": "04-8832174#25",
+                "address": "彰化縣田尾鄉饒平村中學路二段18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533797,
+                    23.890784
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,373 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東榮國中-室內",
+                "phone": "05-3733803",
+                "address": "嘉義縣東石鄉永屯村39-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.17267,
+                    23.462506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "三家福靈宮",
+                "phone": "05-3732528",
+                "address": "嘉義縣東石鄉三家村8鄰73-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.171901,
+                    23.471041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東石鄉老人文康中心",
+                "phone": "05-3732201#25",
+                "address": "嘉義縣東石鄉猿樹村151-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.150572,
+                    23.4583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "網寮國小-室內",
+                "phone": "05-3451544",
+                "address": "嘉義縣東石鄉網寮村嘉義縣東石鄉網寮村004鄰塩田２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.155846,
+                    23.431502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "塭仔村圓明寺",
+                "phone": "05-3454681",
+                "address": "嘉義縣東石鄉塭仔村3鄰69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.174967,
+                    23.43852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "龍崗國小-室內",
+                "phone": "05-3451070",
+                "address": "嘉義縣東石鄉西崙村008鄰栗子崙131號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183206,
+                    23.436371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東石鄉公所",
+                "phone": "05-3732201",
+                "address": "嘉義縣東石鄉東石村3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.142667,
+                    23.45266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東石國小-室內",
+                "phone": "05-3732295",
+                "address": "嘉義縣東石鄉猿樹村005鄰東石１１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.154252,
+                    23.461086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "塭港國小-室內",
+                "phone": "05-3732653",
+                "address": "嘉義縣東石鄉塭港村001鄰塭港１７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.145892,
+                    23.471661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "三江國小-室內",
+                "phone": "05-3732634",
+                "address": "嘉義縣東石鄉三家村012鄰三塊厝１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.174362,
+                    23.471402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "港口宮",
+                "phone": "05-3601002",
+                "address": "嘉義縣東石鄉港口村008鄰蚶子寮５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.185858,
+                    23.495612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "下楫國小-室內",
+                "phone": "05-3601508",
+                "address": "嘉義縣東石鄉下揖村147號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.187557,
+                    23.492191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "港墘國小-室內",
+                "phone": "05-3795350",
+                "address": "嘉義縣東石鄉港墘村010鄰港墘６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.213778,
+                    23.463854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東榮國中-室外",
+                "phone": "05-3733803",
+                "address": "嘉義縣東石鄉永屯村39-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.17267,
+                    23.462506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "港墘國小-室外",
+                "phone": "05-3795350",
+                "address": "嘉義縣東石鄉港墘村010鄰港墘６４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.213778,
+                    23.463854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "塭港國小-室外",
+                "phone": "05-3732653",
+                "address": "嘉義縣東石鄉塭港村001鄰塭港１７０號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.145892,
+                    23.471661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "洲仔代天府",
+                "phone": "05-3706841",
+                "address": "嘉義縣東石鄉洲仔村4鄰44-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.194655,
+                    23.451744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "龍港國小-室外",
+                "phone": "05-3732671",
+                "address": "嘉義縣東石鄉龍港村004鄰港墘厝113號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.176987,
+                    23.484721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "下楫國小-室外",
+                "phone": "05-3601508",
+                "address": "嘉義縣東石鄉下揖村147號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.187557,
+                    23.492191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "網寮國小-室外",
+                "phone": "05-3451544",
+                "address": "嘉義縣東石鄉網寮村嘉義縣東石鄉網寮村004鄰塩田２７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.155846,
+                    23.431502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "三江國小-室外",
+                "phone": "05-3732634",
+                "address": "嘉義縣東石鄉三家村012鄰三塊厝１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.174362,
+                    23.471402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "龍崗國小-室外",
+                "phone": "05-3451070",
+                "address": "嘉義縣東石鄉西崙村008鄰栗子崙１３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183206,
+                    23.436371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東石國小-室外",
+                "phone": "05-3732295",
+                "address": "嘉義縣東石鄉猿樹村005鄰東石１１７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.154252,
+                    23.461086
+                ]
+            }
+        }
+    ]
+}

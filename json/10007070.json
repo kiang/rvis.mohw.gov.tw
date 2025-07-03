@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "秀水鄉農會",
+                "phone": "04-7691321",
+                "address": "彰化縣秀水鄉安東村中山路328號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.501464,
+                    24.035008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "馬興國小",
+                "phone": "04-7526247",
+                "address": "彰化縣秀水鄉馬興村培英巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.496979,
+                    24.062156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "秀水高工",
+                "phone": "04-697020",
+                "address": "彰化縣秀水鄉福安村中山路364號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.499242,
+                    24.034413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "秀水國小",
+                "phone": "04-7692756",
+                "address": "彰化縣秀水鄉安東村中山路257號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.502657,
+                    24.034866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "育民國小",
+                "phone": "04-7694845-813",
+                "address": "彰化縣秀水鄉下崙村民生街262號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.505593,
+                    24.004344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "秀水鄉立體育館",
+                "phone": "04-7687418",
+                "address": "彰化縣秀水鄉安東村瓦瑤街17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.503613,
+                    24.040692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "陜西國小",
+                "phone": "04-7692242",
+                "address": "彰化縣秀水鄉金興村番花路261號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.517463,
+                    24.012014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "華龍國小",
+                "phone": "04-7692713",
+                "address": "彰化縣秀水鄉秀水村花秀路51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.514168,
+                    24.038049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "明正國小",
+                "phone": "04-7258908",
+                "address": "彰化縣秀水鄉埔崙村彰水路二段341號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.492732,
+                    24.026724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "秀水鄉老人文康中心",
+                "phone": "04-7697024-303",
+                "address": "彰化縣秀水鄉莊雅村中山路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.507329,
+                    24.038325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "秀水社區活動中心",
+                "phone": "04-7694735",
+                "address": "彰化縣秀水鄉秀水村花秀路46號對面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.515378,
+                    24.03843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "陝西社區活動中心",
+                "phone": "04-7694737",
+                "address": "彰化縣秀水鄉陝西村埔南巷92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.517829,
+                    24.009505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "金陵村村里集會所活動中心",
+                "phone": "04-7685467",
+                "address": "彰化縣秀水鄉金陵村竹圍巷3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.506409,
+                    24.00774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "玉陵宮廣場",
+                "phone": "04-7685467",
+                "address": "彰化縣秀水鄉金陵村番花路450巷46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.505711,
+                    24.014918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "莊雅社區活動中心",
+                "phone": "04-7694740",
+                "address": "彰化縣秀水鄉莊雅村秀中街82巷67弄臨15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.507364,
+                    24.031735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "埔崙社區活動中心",
+                "phone": "04-7692735",
+                "address": "彰化縣秀水鄉埔崙村蘇周巷162號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495277,
+                    24.021871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "安溪社區活動中心",
+                "phone": "04-7638056",
+                "address": "彰化縣秀水鄉安溪村安溪街98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.509934,
+                    24.044938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "福安社區活動中心清龍巖",
+                "phone": "04-7689186",
+                "address": "彰化縣秀水鄉福安村民意街64號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.494778,
+                    24.02991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "鶴鳴社區活動中心",
+                "phone": "04-7694741",
+                "address": "彰化縣秀水鄉鶴鳴村明山街41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.502444,
+                    24.05468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "下崙社區活動中心",
+                "phone": "04-7696219",
+                "address": "彰化縣秀水鄉下崙村民生街206號天慈宮"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.50618,
+                    24.001747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "安東社區活動中心",
+                "phone": "04-7694739",
+                "address": "彰化縣秀水鄉安東村枋林巷60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.501245,
+                    24.039283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "曾厝社區活動中心",
+                "phone": "04-7694406",
+                "address": "彰化縣秀水鄉曾厝村大厝巷66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.509303,
+                    24.020612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "馬興社區活動中心",
+                "phone": "04-7526742",
+                "address": "彰化縣秀水鄉馬興村西銘巷6-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495684,
+                    24.062733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "義興村聖靈宮",
+                "phone": "04-7614027",
+                "address": "彰化縣秀水鄉義興村義雅巷臨 5 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.492166,
+                    24.066718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "馬興村村里集會所活動中心",
+                "phone": "04-7526742",
+                "address": "彰化縣秀水鄉馬興村雅興街260巷8-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.498876,
+                    24.075164
+                ]
+            }
+        }
+    ]
+}

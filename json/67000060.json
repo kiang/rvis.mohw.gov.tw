@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "吉貝耍國小",
+                "phone": "06-6231149",
+                "address": "臺南市東山區東河里15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.38611,
+                    23.29473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "東原國中",
+                "phone": "06-6861009",
+                "address": "臺南市東山區東原里70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4523,
+                    23.27266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "聖賢國小",
+                "phone": "06-6353170",
+                "address": "臺南市東山區聖賢里田尾29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36271,
+                    23.30597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "東原老人文康活動中心",
+                "phone": "06-6864367",
+                "address": "臺南市東山區東原里東原8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44649,
+                    23.2655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "東山國中",
+                "phone": "06-6802175",
+                "address": "臺南市東山區東中里青葉路一段132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.40284,
+                    23.31684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "東山國小",
+                "phone": "06-6802274",
+                "address": "臺南市東山區東中里青葉路二段49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.40463,
+                    23.3233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "東山區公所綜合大樓",
+                "phone": "06-6802100#130",
+                "address": "臺南市東山區東山里225-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.40384,
+                    23.3261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "青山國小",
+                "phone": "06-6861041",
+                "address": "臺南市東山區青山里16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46734,
+                    23.28047
+                ]
+            }
+        }
+    ]
+}

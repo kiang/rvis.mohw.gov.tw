@@ -1,0 +1,533 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "漳興里災民收容所社區活動中心",
+                "phone": "049-2227563",
+                "address": "南投縣南投市漳興里漳興巷51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68101,
+                    23.914618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "軍功里災民收容所里活動中心",
+                "phone": "049-2201451",
+                "address": "南投縣南投市軍功里軍功路140巷76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700267,
+                    23.920788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "永豐里災民收容所里辦公處",
+                "phone": "049-2253667",
+                "address": "南投縣南投市永豐里中華路190巷50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.670303,
+                    23.938459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "平和里災民收容所平和國小活動中心",
+                "phone": "049-2222028",
+                "address": "南投縣南投市平和里育樂路62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69119,
+                    23.913202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "東山里災民收容所觀音寺",
+                "phone": "049-2222950",
+                "address": "南投縣南投市東山里東山路13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716665,
+                    23.923762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "營北里災民收容所營北里辦公處",
+                "phone": "049-2371449",
+                "address": "南投縣南投市營北里中正路152-7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.688385,
+                    23.951948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "福山里災民收容所社區活動中心",
+                "phone": "049-2291241",
+                "address": "南投縣南投市福山里八卦路521之12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.637677,
+                    23.913088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "光華里災民收容所光華國小活動中心",
+                "phone": "049-2332549",
+                "address": "南投縣南投市光華里光華四路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.691024,
+                    23.952584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "鳳鳴里災民收容所鳳鳴國中禮堂",
+                "phone": "049-2291831",
+                "address": "南投縣南投市鳳鳴里八卦路896號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63966,
+                    23.924775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "光輝里災民收容所里集會所",
+                "phone": "049-2324530",
+                "address": "南投縣南投市光輝里府西路79號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686096,
+                    23.960137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新興里災民收容所新豐國小禮堂",
+                "phone": "049-2251804",
+                "address": "南投縣南投市新興里彰南路三段221號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.672438,
+                    23.929444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "彰仁里，崇文里災民收容所南投國小活動中心",
+                "phone": "049-2222038",
+                "address": "南投縣南投市南投里彰南路一段1059號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684845,
+                    23.908829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "永興里災民收容所社區活動中心",
+                "phone": "049-2235456",
+                "address": "南投縣南投市永興里八卦路58巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.638904,
+                    23.892582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "南投里仁和里災民收容所市區七里聯合辦公處",
+                "phone": "049-2244089",
+                "address": "南投縣南投市仁和里民生街33之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685815,
+                    23.910104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "平山里災民收容所平山里辦公處",
+                "phone": "049-2260565",
+                "address": "南投縣南投市平山里平山二路47巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.674931,
+                    23.920952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "鳳山里災民收容所鳳山寺",
+                "phone": "049-2291356",
+                "address": "南投縣南投市鳳山里八卦路1310號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.637625,
+                    23.940803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "振興里災民收容所里辦公處",
+                "phone": "049-2237190",
+                "address": "南投縣南投市振興里振興巷29巷18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.701211,
+                    23.903624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "嘉和里，嘉興里災民收容所嘉和里集會所",
+                "phone": "049-2240693",
+                "address": "南投縣南投市嘉和里嘉和一路232巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687078,
+                    23.895479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "三民里災民收容所南投高中",
+                "phone": "049-2231175",
+                "address": "南投縣南投市三民里建國路137號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.682479,
+                    23.9084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "三和里災民收容所里集會所",
+                "phone": "049-2225041",
+                "address": "南投縣南投市三和里彰南路一段992號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686007,
+                    23.903683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "內新里災民收容所德興國小活動中心",
+                "phone": "049-2359050",
+                "address": "南投縣南投市內新里中興路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692981,
+                    23.932493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "福興里災民收容所三玄宮",
+                "phone": "049-2252889",
+                "address": "南投縣南投市福興里吉利路126號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.659347,
+                    23.946662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "千秋里災民收容所社區活動中心",
+                "phone": "049-2227180",
+                "address": "南投縣南投市千秋里千秋路222號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.706076,
+                    23.893377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "光明里災民收容所光復國小導師室地下室",
+                "phone": "049-2332587",
+                "address": "南投縣南投市光明里光明一路67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70242,
+                    23.941614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "營南里災民收容所營南里集會所",
+                "phone": "049-2329087",
+                "address": "南投縣南投市營南里營盤路113號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675358,
+                    23.943798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "內興里災民收容所中興國中活動中心",
+                "phone": "049-2335283",
+                "address": "南投縣南投市內新里新興路309號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692831,
+                    23.933693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "三興里災民收容所南投高商活動中心",
+                "phone": "049-2222269",
+                "address": "南投縣南投市三興里彰南路一段993號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685319,
+                    23.903863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "康壽里，龍泉里災民收容所康壽國小活動中心",
+                "phone": "049-2243457",
+                "address": "南投縣南投市康壽里南陽路269號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686336,
+                    23.913264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "光榮里災民收容所光榮國小活動中心",
+                "phone": "049-2332550",
+                "address": "南投縣南投市光榮里光榮北路19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697013,
+                    23.946045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "漳和里災民收容所漳和里活動中心",
+                "phone": "049-2240384",
+                "address": "南投縣南投市漳和里文化路532號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.673878,
+                    23.913841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "漳和里災民收容所南投國中活動中心",
+                "phone": "049-2222549",
+                "address": "南投縣南投市漳和里祖祠路361號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.676946,
+                    23.913743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "福興里災民收容所福興里集會所",
+                "phone": "049-2252889",
+                "address": "南投縣南投市福興里彰南路三段953號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.665769,
+                    23.94412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "嘉和里災民收容所嘉和里神木社區活動中心",
+                "phone": "049-2222110",
+                "address": "南投縣南投市嘉和里樂利三街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.669713,
+                    23.892788
+                ]
+            }
+        }
+    ]
+}

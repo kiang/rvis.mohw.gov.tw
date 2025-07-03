@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "德音國民小學",
+                "phone": "02-22924152#831",
+                "address": "新北市五股區水碓里明德路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43455,
+                    25.07137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "五股國民中學",
+                "phone": "02-22915224#114",
+                "address": "新北市五股區五股里成泰路二段49巷15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.435723,
+                    25.083272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "憲訓中心",
+                "phone": "02-22928271#695410",
+                "address": "新北市五股區德音里成泰路一段175號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.434894,
+                    25.075847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "更寮國民小學",
+                "phone": "02-29824591#510",
+                "address": "新北市五股區興珍里四維路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.467714,
+                    25.069769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "成州國民小學",
+                "phone": "02-22933613#831",
+                "address": "新北市五股區成州里成泰路3段493號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.450517,
+                    25.099771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "公民會館",
+                "phone": "02-22916051#213",
+                "address": "新北市五股區成泰里御史路1巷59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.440248,
+                    25.090328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "觀音市民活動中心",
+                "phone": "02-22916051#213",
+                "address": "新北市五股區觀音里凌雲路三段17之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.429996,
+                    25.107676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "五股國民小學",
+                "phone": "02-22917191#821",
+                "address": "新北市五股區五股里成泰路2段49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.437361,
+                    25.082653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "成功市民活動中心",
+                "phone": "02-22916051#213",
+                "address": "新北市五股區成功里西雲路163號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.446082,
+                    25.094418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "成州市民活動中心",
+                "phone": "02-22916051#213",
+                "address": "新北市五股區成州里西雲路267號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.449355,
+                    25.098099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "立體停車場",
+                "phone": "02-27225051#227",
+                "address": "新北市五股區五股里工商路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.439278,
+                    25.08296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "更新市民活動中心",
+                "phone": "02-22916051#213",
+                "address": "新北市五股區更寮里更洲路47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.457261,
+                    25.079366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "防災體健公園",
+                "phone": "02-2291-6051#408",
+                "address": "新北市五股區成德里成泰路三段與成州八路交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.451721,
+                    25.101006
+                ]
+            }
+        }
+    ]
+}

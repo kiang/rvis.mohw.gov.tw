@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市北區明德活動中心",
+                "phone": "04-22951419專線",
+                "address": "臺中市北區明德里北區明德里太原四街23號二樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6693,
+                    24.16537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市北區太平國小大禮堂及操場",
+                "phone": "04-22211101#731",
+                "address": "臺中市北區錦平里北區錦平里太平路74號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6818,
+                    24.14903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "省三國小育德館及操場",
+                "phone": "04-22318092#733",
+                "address": "臺中市北區建興里崇德路一段107號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6848,
+                    24.15983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市北區長青里活動中心",
+                "phone": "04-22918691專線",
+                "address": "臺中市北區長青里北區長青里陝西路66之2號三樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6686,
+                    24.16899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市北區賴興活動中心",
+                "phone": "04-22956505專線",
+                "address": "臺中市北區賴興里北區賴興里山西路二段125號三、四樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6758,
+                    24.17169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市北區乾溝子活動中心",
+                "phone": "04-22314031*234",
+                "address": "臺中市北區淡溝里北區淡溝里西屯路一段299號一樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6659,
+                    24.15901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中一中康樂館及操場",
+                "phone": "04-22226081#401",
+                "address": "臺中市北區新北里育才街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687,
+                    24.14937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "健行國小行健館及操場",
+                "phone": "04-22038064#731",
+                "address": "臺中市北區健行里健行路666號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6736,
+                    24.15941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "五權國中避難室及操場",
+                "phone": "04-22012180#730",
+                "address": "臺中市北區五常里臺中市北區英才路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6793,
+                    24.15507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "北區行政大樓",
+                "phone": "04-22314031*153",
+                "address": "臺中市北區賴厝里永興街301號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.682358,
+                    24.166063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中正公園",
+                "phone": "04-22289111#33510",
+                "address": "臺中市北區邱厝里學士路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6827,
+                    24.15671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大湖里光大里聯合活動中心",
+                "phone": "04-22010259專線",
+                "address": "臺中市北區大湖里柳川東路四段28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6794,
+                    24.14996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中達里育德里邱厝里聯合活動中心",
+                "phone": "04-22314031*234",
+                "address": "臺中市北區中達里英才路172號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675,
+                    24.15591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "台中公園",
+                "phone": "04-22289111#33510",
+                "address": "臺中市北區新興里自由路二段與公園路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6844,
+                    24.14241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "英士公園",
+                "phone": "04-22289111*33510",
+                "address": "臺中市北區文莊里文化街與英士路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675851,
+                    24.151779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "英才公園",
+                "phone": "04-22289111*33510",
+                "address": "臺中市北區淡溝里017鄰民權路３１３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.671235,
+                    24.154741
+                ]
+            }
+        }
+    ]
+}

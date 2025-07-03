@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市七股區私立昭明國中",
+                "phone": "06-7872053",
+                "address": "臺南市七股區大埕里大埕315號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.142161,
+                    23.142496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市七股區城內里活動中心",
+                "phone": "06-7943168",
+                "address": "臺南市七股區後港里城內16-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.143041,
+                    23.178626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "行政院國軍退除役官兵輔導委員會佳里榮譽國民之家",
+                "phone": "06-7880664",
+                "address": "臺南市七股區三股里三股147號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.123064,
+                    23.104616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市七股區義合里多功能活動中心",
+                "phone": "06-7891113",
+                "address": "臺南市七股區義合里義合72之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.142238,
+                    23.101544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市七股區大潭里漁民活動中心",
+                "phone": "06-7941118",
+                "address": "臺南市七股區大潭里台潭28-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.132624,
+                    23.187965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市七股區樹林社區活動中心",
+                "phone": "06-7891009",
+                "address": "臺南市七股區樹林里樹林5-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.156958,
+                    23.114536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市七股區佳里國中後港校區操場",
+                "phone": "06-7941357",
+                "address": "臺南市七股區大潭里頂潭93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.134632,
+                    23.188103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市七股區竹橋國小操場",
+                "phone": "06-7891041",
+                "address": "臺南市七股區竹橋里竹橋130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.158884,
+                    23.101748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市七股區三股國小操場",
+                "phone": "06-7880744",
+                "address": "臺南市七股區三股里三股100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.116966,
+                    23.101856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市七股區龍山里漁民活動中心",
+                "phone": "06-7872072",
+                "address": "臺南市七股區龍山里龍山211-33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.114595696012,
+                    23.1374183951259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市七股區大埕里漁民活動中心",
+                "phone": "06-7875039",
+                "address": "臺南市七股區大埕里大埕271-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.141837,
+                    23.144665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市七股區後港國小操場",
+                "phone": "06-7941305",
+                "address": "臺南市七股區大潭里台潭1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.136865,
+                    23.184546
+                ]
+            }
+        }
+    ]
+}

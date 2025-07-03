@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "竹坑活動中心",
+                "phone": "08-8771344",
+                "address": "屏東縣獅子鄉竹坑村竹坑一巷1鄰8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.701207,
+                    22.145429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "獅子鄉立綜合體育館",
+                "phone": "08-8771129#20",
+                "address": "屏東縣獅子鄉楓林村舊庄路280號(更正為屏東縣枋山鄉楓港村舊庄路280號)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698263,
+                    22.191624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "楓林國小",
+                "phone": "08-8771371",
+                "address": "屏東縣獅子鄉楓林村楓林二巷22之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.707421,
+                    22.199497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "內獅國小",
+                "phone": "08-8720003",
+                "address": "屏東縣獅子鄉內獅村1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646004,
+                    22.297729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "獅子活動中心",
+                "phone": "08-8761194",
+                "address": "屏東縣獅子鄉獅子村3鄰35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686162,
+                    22.232897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "內文活動中心",
+                "phone": "08-8700056",
+                "address": "屏東縣獅子鄉內文村3鄰26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.850742,
+                    22.218156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "草埔社區活動中心",
+                "phone": "08-8701434",
+                "address": "屏東縣獅子鄉草埔村6鄰64號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.787688,
+                    22.215012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "丹路國小",
+                "phone": "08-8771455",
+                "address": "屏東縣獅子鄉丹路村丹路一巷39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.751471,
+                    22.203353
+                ]
+            }
+        }
+    ]
+}

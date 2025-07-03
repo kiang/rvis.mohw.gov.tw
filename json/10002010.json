@@ -1,0 +1,485 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "育才國小中興堂",
+                "phone": "03-9253794轉120",
+                "address": "宜蘭縣宜蘭市進士里進士路1段32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740875,
+                    24.736176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "力行國小英才館",
+                "phone": "03-9322309轉282",
+                "address": "宜蘭縣宜蘭市孝廉里力行路１５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754786,
+                    24.763964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "凱旋國小展藝館",
+                "phone": "03-9253793-104",
+                "address": "宜蘭縣宜蘭市南津里凱旋路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763212,
+                    24.72447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "凱旋國民中學樂活館",
+                "phone": "03-92556003",
+                "address": "宜蘭縣宜蘭市建業里縣政七街50巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7572,
+                    24.725982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "宜蘭國小活動中心",
+                "phone": "03-9322210轉511",
+                "address": "宜蘭縣宜蘭市神農里崇聖街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754332,
+                    24.753254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "復興國中群育館",
+                "phone": "03-93229422#5033",
+                "address": "宜蘭縣宜蘭市文化里復興路二段77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746853,
+                    24.749036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "社福大樓2樓",
+                "phone": "03-9325164分機502",
+                "address": "宜蘭縣宜蘭市神農里民權路一段65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753945,
+                    24.752555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "黎明國小體育館",
+                "phone": "03-9383792分機104",
+                "address": "宜蘭縣宜蘭市東村里校舍路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762685,
+                    24.751455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "五大社區活動中心",
+                "phone": "03-9325164",
+                "address": "宜蘭縣宜蘭市延平里東港路1段186巷50弄21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.783783,
+                    24.75037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "國立宜蘭高商四維堂",
+                "phone": "03-93841470#500",
+                "address": "宜蘭縣宜蘭市慈安里延平路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7655,
+                    24.7549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "黎明里社區活動中心",
+                "phone": "03-9383053",
+                "address": "宜蘭縣宜蘭市黎明里黎明二路239號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.774204,
+                    24.744821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "梅洲社區活動中心",
+                "phone": "03-9283552",
+                "address": "宜蘭縣宜蘭市梅洲里金同春路48號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744273,
+                    24.7631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "慶和社區活動中心1樓",
+                "phone": "03-9325164",
+                "address": "宜蘭縣宜蘭市北門里碧霞街136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752097,
+                    24.76248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "東園社區活動中心",
+                "phone": "03-9320883",
+                "address": "宜蘭縣宜蘭市菜園里宜蘭市新興路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.756155,
+                    24.759357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "七張社區活動中心",
+                "phone": "03-9305306",
+                "address": "宜蘭縣宜蘭市七張里七張路537號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769568,
+                    24.764192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "凱旋社區活動中心",
+                "phone": "03-9254187",
+                "address": "宜蘭縣宜蘭市凱旋里鎮安路23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768181,
+                    24.727552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南橋社區活動中心",
+                "phone": "03-9252790",
+                "address": "宜蘭縣宜蘭市南橋里南橋路240號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741218,
+                    24.73073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "新生社區活動中心",
+                "phone": "0911230201",
+                "address": "宜蘭縣宜蘭市新生里大福路1段243號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76421,
+                    24.764576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "中華國中",
+                "phone": "03-9382704分機502",
+                "address": "宜蘭縣宜蘭市東村里女中路一段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767255,
+                    24.74888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "宜蘭國中活動中心",
+                "phone": "03-9322519#100",
+                "address": "宜蘭縣宜蘭市小東里樹人路37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.758382,
+                    24.761984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "光復國小五育館",
+                "phone": "03-9322077轉1833",
+                "address": "宜蘭縣宜蘭市負郭里泰山路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747761,
+                    24.754771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "國立宜蘭高中體育館",
+                "phone": "03-9324153轉300",
+                "address": "宜蘭縣宜蘭市建軍里復興路三段8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742785,
+                    24.751114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "新生國小體育館",
+                "phone": "03-9283791轉410",
+                "address": "宜蘭縣宜蘭市茭白里大坡路一段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754518,
+                    24.770685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "國立宜蘭大學體育館",
+                "phone": "03-9317276#7269",
+                "address": "宜蘭縣宜蘭市思源里神農路一段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747629,
+                    24.746281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "茭白社區活動中心",
+                "phone": "03-9283827",
+                "address": "宜蘭縣宜蘭市茭白里一結路98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750603,
+                    24.776315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南屏國小活動中心",
+                "phone": "03-9323795轉1601",
+                "address": "宜蘭縣宜蘭市負郭里泰山路98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742637,
+                    24.753962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "中山國小小巨蛋",
+                "phone": "03-9322064-122",
+                "address": "宜蘭縣宜蘭市神農里崇聖街4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754624,
+                    24.753979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "建業社區活動中心",
+                "phone": "03-9369029",
+                "address": "宜蘭縣宜蘭市建業里建業路57號86巷"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750632,
+                    24.727214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "北津社區活動中心",
+                "phone": "03-9283835",
+                "address": "宜蘭縣宜蘭市北津里金同春路231號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749872,
+                    24.767544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "宜蘭縣立體育館",
+                "phone": "03-9254034#20",
+                "address": "宜蘭縣宜蘭市建業里宜蘭市中山路一段755號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751879,
+                    24.737473
+                ]
+            }
+        }
+    ]
+}

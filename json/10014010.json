@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東市公所",
+                "phone": "089-325301",
+                "address": "臺東縣臺東市文化里博愛路365號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.146637,
+                    22.754695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "富豐社區活動中心",
+                "phone": "0937-600483",
+                "address": "臺東縣臺東市富岡里吉林路１段２４９巷３號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15948,
+                    22.783249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "中華社區活動中心",
+                "phone": "0919-873800",
+                "address": "臺東縣臺東市中華里華泰街231號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.158116,
+                    22.761527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "卑南里民眾活動中心",
+                "phone": "089-221917",
+                "address": "臺東縣臺東市卑南里南清街23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.122367,
+                    22.782039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "豐田里民眾活動中心",
+                "phone": "089-384919",
+                "address": "臺東縣臺東市豐田里中興路4段735號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.086381,
+                    22.774331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東市老人文康活動中心",
+                "phone": "0937-600483",
+                "address": "臺東縣臺東市富岡里吉林路二段699巷22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.184468,
+                    22.792068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "豐里社區活動中心",
+                "phone": "0939-215530",
+                "address": "臺東縣臺東市豐里里豐里街756巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.116004,
+                    22.732187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "知本社區活動中心",
+                "phone": "0928-349892",
+                "address": "臺東縣臺東市知本里知本路三段13巷40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.055645,
+                    22.705462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "新園社區活動中心",
+                "phone": "089-380311",
+                "address": "臺東縣臺東市新園里中興路6段708號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.052452,
+                    22.763998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣臺東市新園國小",
+                "phone": "089-382590-13",
+                "address": "臺東縣臺東市新園里新園路88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.062352,
+                    22.765066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "財團法人臺東縣私立台東仁愛之家",
+                "phone": "089-227592",
+                "address": "臺東縣臺東市豐年里中興路三段579巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.106271,
+                    22.771996
+                ]
+            }
+        }
+    ]
+}

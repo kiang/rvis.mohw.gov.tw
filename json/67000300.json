@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市龍崎區老人文康活動中心",
+                "phone": "06-5941326",
+                "address": "臺南市龍崎區崎頂里4鄰新市子201號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35998,
+                    22.96488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市龍崎區石嘈里民活動中心",
+                "phone": "06-5947207",
+                "address": "臺南市龍崎區石[石曹]里3鄰刺子崙13之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.403867,
+                    22.956559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市龍崎區大坪里民活動中心",
+                "phone": "06-5941576",
+                "address": "臺南市龍崎區4鄰大坪37之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.39178,
+                    22.92698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市龍崎區區民活動中心",
+                "phone": "06-5941326",
+                "address": "臺南市龍崎區崎頂里1鄰新市子38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35942,
+                    22.96467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市立龍崎國民小學",
+                "phone": "06-5941204#11",
+                "address": "臺南市龍崎區崎頂里1鄰新市子41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35924,
+                    22.96411
+                ]
+            }
+        }
+    ]
+}

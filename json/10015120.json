@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "萬榮國小活動中心",
+                "phone": "03-8751497",
+                "address": "花蓮縣萬榮鄉萬榮村1鄰32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.411016,
+                    23.716207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "明利社區活動中心",
+                "phone": "03-8751114",
+                "address": "花蓮縣萬榮鄉明利村2鄰34-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.412328,
+                    23.704763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "紅葉社區活動中心",
+                "phone": "03-8871426",
+                "address": "花蓮縣萬榮鄉紅葉村1鄰11-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.344127,
+                    23.495764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "西林社區活動中心",
+                "phone": "03-8771524",
+                "address": "花蓮縣萬榮鄉西林村8鄰134號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.442297,
+                    23.809709
+                ]
+            }
+        }
+    ]
+}

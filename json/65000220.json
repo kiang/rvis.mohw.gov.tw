@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "石門市民活動中心",
+                "phone": "02-26381721#310",
+                "address": "新北市石門區石門里石門區石門里中山路34號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566233,
+                    25.290458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "草里市民活動中心",
+                "phone": "02-26381721#308",
+                "address": "新北市石門區草里里石門區草里里阿里荖坑路33-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606658,
+                    25.280756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "茂林市民活動中心",
+                "phone": "02-26381721#303",
+                "address": "新北市石門區茂林里石門區茂林里茂林社區1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.591831,
+                    25.271879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "石門實驗國民中學",
+                "phone": "02-26381273#101",
+                "address": "新北市石門區石門里石門區石門里中央路1-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564533,
+                    25.291219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "老梅實驗小學",
+                "phone": "02-26381258#11",
+                "address": "新北市石門區老梅里石門區老梅里老梅路10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.547562,
+                    25.282862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "石門區公所",
+                "phone": "02-26381721#700",
+                "address": "新北市石門區尖鹿里石門區尖鹿里中山路66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.578757,
+                    25.261602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "乾華國小",
+                "phone": "02-26381269#200",
+                "address": "新北市石門區茂林里石門區茂林里茂林社區74號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.592344,
+                    25.269259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "石門區體育館",
+                "phone": "02-26381273#101",
+                "address": "新北市石門區石門里石門區石門里中央路1-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564533,
+                    25.291219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "石門國小",
+                "phone": "02-26381263#10",
+                "address": "新北市石門區尖鹿里石門區尖鹿里中央路9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.568558,
+                    25.292801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "老梅市民活動中心",
+                "phone": "02-26381721#312",
+                "address": "新北市石門區老梅里石門區老梅里老梅路43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.545733,
+                    25.289459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "山溪市民活動中心",
+                "phone": "02-26381721#301",
+                "address": "新北市石門區山溪里石門區山溪里老崩山6-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55172,
+                    25.290889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "富基市民活動中心",
+                "phone": "02-26381721#316",
+                "address": "新北市石門區富基里石門區富基里楓林37-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.537733,
+                    25.268919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "尖鹿市民活動中心",
+                "phone": "02-26381721#313",
+                "address": "新北市石門區尖鹿里石門區尖鹿里中央路9-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566841,
+                    25.292021
+                ]
+            }
+        }
+    ]
+}

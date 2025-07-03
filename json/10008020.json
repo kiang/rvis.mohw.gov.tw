@@ -1,0 +1,549 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "成功里集會所",
+                "phone": "049-2913566",
+                "address": "南投縣埔里鎮成功里種瓜路87-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.894527,
+                    23.957774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "房里里集會所",
+                "phone": "049-2912456",
+                "address": "南投縣埔里鎮房里里房里路25-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.949093,
+                    23.978923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "清新里集會所",
+                "phone": "049-2986999",
+                "address": "南投縣埔里鎮清新里育英街18號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.962299,
+                    23.963547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "同聲集會所",
+                "phone": "049-2988835",
+                "address": "南投縣埔里鎮同聲里光華街115號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96552,
+                    23.959409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "愛蘭里集會所",
+                "phone": "049-2913035",
+                "address": "南投縣埔里鎮愛蘭里梅村路110號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.943726,
+                    23.970617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "史港國小",
+                "phone": "049-2931521#60",
+                "address": "南投縣埔里鎮史港里獅子路9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.957627,
+                    24.012077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "太平社區活動中心",
+                "phone": "0958-236963",
+                "address": "南投縣埔里鎮合成里西安路三段167巷23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.925239,
+                    24.033418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "南門里集會所",
+                "phone": "049-2986294",
+                "address": "南投縣埔里鎮南門里南昌街115巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.966925,
+                    23.96369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "桃米里集會所",
+                "phone": "049-2912770",
+                "address": "南投縣埔里鎮桃米里桃米巷48-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.930376,
+                    23.942716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "向善里集會所",
+                "phone": "049-2914967",
+                "address": "南投縣埔里鎮向善里向善路75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.925304,
+                    23.988727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "廣成里社區活動中心",
+                "phone": "049-2913856",
+                "address": "南投縣埔里鎮廣成里西安路3段88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.949788,
+                    24.024985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "利河伯社福基金會附設私立基督仁愛之家",
+                "phone": "049-2930390-234",
+                "address": "南投縣埔里鎮福興里福興路146巷48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.975566,
+                    24.007397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "北安里集會所",
+                "phone": "049-2984897",
+                "address": "南投縣埔里鎮北安里北安路56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971772,
+                    23.969253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "醒覺堂",
+                "phone": "049-2995149",
+                "address": "南投縣埔里鎮珠格里珠生路59-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.956663,
+                    23.945028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "良善堂",
+                "phone": "049-2926755",
+                "address": "南投縣埔里鎮水頭里中正路121號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.979896,
+                    23.944642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "蜈蚣里集會所",
+                "phone": "049-2984622",
+                "address": "南投縣埔里鎮蜈蚣里蜈蚣路36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.989733,
+                    23.976737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "珠格里集會所",
+                "phone": "049-2991892",
+                "address": "南投縣埔里鎮珠格里珠生路36-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9584,
+                    23.937594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "枇杷里集會所",
+                "phone": "049-2988860",
+                "address": "南投縣埔里鎮枇杷里和二街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.976571,
+                    23.95793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "泰安里集會所",
+                "phone": "049-2980005",
+                "address": "南投縣埔里鎮泰安里民族二街58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.975553,
+                    23.96707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "籃城社區活動中心",
+                "phone": "0912-916713",
+                "address": "南投縣埔里鎮籃城里籃城路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.956712,
+                    23.980981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "福興里集會所",
+                "phone": "049-2932755",
+                "address": "南投縣埔里鎮福興里福興路260號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.969013,
+                    24.00831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "國立暨南國際大學",
+                "phone": "049-2910960#2462",
+                "address": "南投縣埔里鎮桃米里大學路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.930818,
+                    23.951191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "忠孝國小",
+                "phone": "049-2931582#203",
+                "address": "南投縣埔里鎮牛眠里守城路28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.979803,
+                    23.991035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "杷城里集會所",
+                "phone": "049-2982362",
+                "address": "南投縣埔里鎮杷城里民有二街69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.969925,
+                    23.958793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "薰化里集會所",
+                "phone": "049-2988639",
+                "address": "南投縣埔里鎮薰化里育英街18號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.962576,
+                    23.962676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "麒麟國小",
+                "phone": "049-2925941#16",
+                "address": "南投縣埔里鎮麒麟里武界路7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.990021,
+                    23.93044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "義民祠",
+                "phone": "0928-953866",
+                "address": "南投縣埔里鎮南村里南村路8-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.944578,
+                    23.963823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "受鎮宮",
+                "phone": "049-2913856",
+                "address": "南投縣埔里鎮廣成里西安路三段88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.949788,
+                    24.024985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "東門里集會所",
+                "phone": "049-2989181",
+                "address": "南投縣埔里鎮東門里四維路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971193,
+                    23.964193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "埔里鎮公所清潔隊",
+                "phone": "049-2910242",
+                "address": "南投縣埔里鎮籃城里中正路1039號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.954905,
+                    23.992982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "北門里集會所",
+                "phone": "049-2995377",
+                "address": "南投縣埔里鎮東門里四維路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971193,
+                    23.964193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "水尾國小",
+                "phone": "049-2932506#113",
+                "address": "南投縣埔里鎮一新里中正路511號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92959,
+                    23.99888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中峰國小",
+                "phone": "049-2982542#115",
+                "address": "南投縣埔里鎮大湳里中山路一段228號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.984249,
+                    23.976524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "埔里高工",
+                "phone": "049-2982225#407",
+                "address": "南投縣埔里鎮枇杷里中山路一段435號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.978454,
+                    23.972218
+                ]
+            }
+        }
+    ]
+}

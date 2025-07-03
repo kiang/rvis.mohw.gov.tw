@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "外埔國小教室",
+                "phone": "037-431809",
+                "address": "苗栗縣後龍鎮外埔里6鄰外埔18-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.77902,
+                    24.650822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "同光國小操場",
+                "phone": "037-450738#14",
+                "address": "苗栗縣後龍鎮龍津里龍津里10鄰同興94號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.761765,
+                    24.610126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "後龍國中活動中心",
+                "phone": "037-722028#230",
+                "address": "苗栗縣後龍鎮南龍里23鄰勝利街250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.784617,
+                    24.616631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "後龍國中操場",
+                "phone": "037-722028#230",
+                "address": "苗栗縣後龍鎮南龍里23鄰勝利街250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.784617,
+                    24.616631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "溪洲國小綜合球場",
+                "phone": "037-723853#10",
+                "address": "苗栗縣後龍鎮溪洲里87-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.776741,
+                    24.620956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "成功國小操場",
+                "phone": "037-722211#14",
+                "address": "苗栗縣後龍鎮水尾里水尾里12鄰104-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.761747,
+                    24.63268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "龍坑國小操場",
+                "phone": "037-722027#13",
+                "address": "苗栗縣後龍鎮龍坑里龍坑里十班坑158號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.778154,
+                    24.601925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "北龍社區活動中心",
+                "phone": "037-730935",
+                "address": "苗栗縣後龍鎮北龍里7鄰東門街151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.790786,
+                    24.615404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "後龍國小活動中心",
+                "phone": "037-722049#832",
+                "address": "苗栗縣後龍鎮大庄里成功路254號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.796137,
+                    24.613833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "新港國中小活動中心",
+                "phone": "037-722547#241",
+                "address": "苗栗縣後龍鎮校椅里校椅二路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.826607,
+                    24.610593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大山國小教室",
+                "phone": "037-432784#13",
+                "address": "苗栗縣後龍鎮灣寶里7鄰109號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.809528,
+                    24.645664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "海寶國小教室",
+                "phone": "037-431235#13",
+                "address": "苗栗縣後龍鎮海寶里5鄰52-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.821738,
+                    24.661822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "龍坑國小教室",
+                "phone": "037-722027#13",
+                "address": "苗栗縣後龍鎮龍坑里龍坑里十班坑158號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.778154,
+                    24.601925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "中和國小綜合教室",
+                "phone": "037-921451#13",
+                "address": "苗栗縣後龍鎮中和里中和里14鄰152號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.734731,
+                    24.588097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "新港國中小操場",
+                "phone": "037-722547#241",
+                "address": "苗栗縣後龍鎮校椅里校椅二路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.826607,
+                    24.610593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大山國小操場",
+                "phone": "037-432784#13",
+                "address": "苗栗縣後龍鎮灣寶里7鄰龍山路109號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.806507,
+                    24.642104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "海寶國小操場",
+                "phone": "037-431235#13",
+                "address": "苗栗縣後龍鎮海寶里5鄰52-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.821738,
+                    24.661822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "維真國中活動中心",
+                "phone": "037-722537#23",
+                "address": "苗栗縣後龍鎮大庄里中山路252號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.794681,
+                    24.612202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "後龍國小操場",
+                "phone": "037-722049-832",
+                "address": "苗栗縣後龍鎮大庄里成功路254號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.796137,
+                    24.613833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "外埔國小操場",
+                "phone": "037-431809",
+                "address": "苗栗縣後龍鎮外埔里6鄰外埔18-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.77902,
+                    24.650822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "中和國小操場",
+                "phone": "037-921451#13",
+                "address": "苗栗縣後龍鎮中和里中和里14鄰152號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.734731,
+                    24.588097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "維真國中操場",
+                "phone": "037-722537#23",
+                "address": "苗栗縣後龍鎮大庄里中山路252號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.794681,
+                    24.612202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "中龍社區活動中心",
+                "phone": "037-730603",
+                "address": "苗栗縣後龍鎮中龍里13鄰中南街167號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.78616,
+                    24.61351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苗栗縣老人福利服務中心",
+                "phone": "037-721664",
+                "address": "苗栗縣後龍鎮新民里中心路121-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.814187,
+                    24.614069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "溪洲國小教室及圖書館",
+                "phone": "037-723853#10",
+                "address": "苗栗縣後龍鎮溪洲里87-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.776741,
+                    24.620956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苗栗縣後龍鎮公所",
+                "phone": "037-721388",
+                "address": "苗栗縣後龍鎮大庄里中山路152號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.792333,
+                    24.614073
+                ]
+            }
+        }
+    ]
+}

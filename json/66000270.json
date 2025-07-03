@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "光隆國小〈圖書室2樓〉",
+                "phone": "04-22713626#732",
+                "address": "臺中市太平區光隆里光興路487巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.724411,
+                    24.111312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "宜欣國小〈宜學樓、南大樓〉",
+                "phone": "04-22701567#730",
+                "address": "臺中市太平區宜欣里新平路二段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715262,
+                    24.139187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "黃竹國小〈戶外操場〉",
+                "phone": "04-22715933#230",
+                "address": "臺中市太平區黃竹里竹村路41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.752628,
+                    24.083486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "建平國小〈戶外操場〉",
+                "phone": "04-22779532#731",
+                "address": "臺中市太平區建國里精美路201號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.724549,
+                    24.124127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "新平國小〈南棟B1〉",
+                "phone": "04-23914533#731",
+                "address": "臺中市太平區新坪里樹孝路336巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720119,
+                    24.154726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "長億國小〈行政大樓B1〉",
+                "phone": "04-22737653#730",
+                "address": "臺中市太平區長億里太平三街 295 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715402,
+                    24.113351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "長億高中〈體育館〉",
+                "phone": "04-22704022#101",
+                "address": "臺中市太平區長億里長億六街一號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721619,
+                    24.113067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東汴國小〈行政教學大樓〉",
+                "phone": "04-22702664#730",
+                "address": "臺中市太平區東汴里山田路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.795789,
+                    24.117425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東汴里活動中心",
+                "phone": "04-22789685（專線）",
+                "address": "臺中市太平區東汴里長龍路3段135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.771576,
+                    24.103483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "新光國小〈行政大樓B1〉",
+                "phone": "04-23956005#731",
+                "address": "臺中市太平區新光里新興路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7069,
+                    24.1594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "新光國中〈活動中心〉",
+                "phone": "04-23957597#601",
+                "address": "臺中市太平區新興里樹德九街139號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.709324,
+                    24.157905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "長億永成里活動中心",
+                "phone": "04-22785777（專線）",
+                "address": "臺中市太平區長億里長億路1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720938,
+                    24.119168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "頭汴國小〈行政大樓B1〉",
+                "phone": "04-22703129#730",
+                "address": "臺中市太平區頭汴里北田路 20 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.752287,
+                    24.122879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "勤益科技大學〈工程館B1〉",
+                "phone": "04-23924505#2576",
+                "address": "臺中市太平區坪林里中山路二段57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.733421,
+                    24.146401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "坪林國小〈南棟大樓B1〉",
+                "phone": "04-23927677#730",
+                "address": "臺中市太平區坪林里坪林路45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.737088,
+                    24.144984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "太平國中〈行政大樓B1〉",
+                "phone": "04-23922540#101",
+                "address": "臺中市太平區坪林里中山路二段116號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.734647,
+                    24.148318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中平國中〈活動中心〉",
+                "phone": "04-22767416#101",
+                "address": "臺中市太平區中平里太平路 300 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.718272,
+                    24.123068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中華國小〈前棟B1〉",
+                "phone": "04-23920870#741",
+                "address": "臺中市太平區中山里大源路1-20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.725947,
+                    24.147334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "興隆里活動中心",
+                "phone": "04-22750921",
+                "address": "臺中市太平區興隆里興隆路76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.732519,
+                    24.111664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "福隆里活動中心",
+                "phone": "04-22786206（專線）",
+                "address": "臺中市太平區福隆里光興路1463巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.734309,
+                    24.126132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中政里活動中心",
+                "phone": "04-22792535（專線）",
+                "address": "臺中市太平區中政里太平路446號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715632,
+                    24.124832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "坪林國小坪廍分校〈音樂教室.綜合教室〉",
+                "phone": "04-23924646（專線）",
+                "address": "臺中市太平區大興里廍仔坑路95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.756821,
+                    24.156668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "祥順運動公園",
+                "phone": "04-22289111#51332",
+                "address": "臺中市太平區宜佳里宜昌路87巷"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.712768,
+                    24.138255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "馬卡龍公園（北側開放空間含籃球場）",
+                "phone": "04-22289111#33915",
+                "address": "臺中市太平區新高里臺中市太平區環中東路四段與市民大道620巷交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7127799,
+                    24.1482944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "太平國民小學（體育館）",
+                "phone": "04-22783631",
+                "address": "臺中市太平區中政里中興路35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717471,
+                    24.127228
+                ]
+            }
+        }
+    ]
+}

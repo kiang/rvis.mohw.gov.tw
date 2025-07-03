@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "社頭鄉公所大禮堂",
+                "phone": "04-8732621",
+                "address": "彰化縣社頭鄉仁雅村社斗路一段295號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.585836,
+                    23.896806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "社頭鄉運動公園體育館",
+                "phone": "04-8732621",
+                "address": "彰化縣社頭鄉美雅村彰化縣社頭鄉美雅村中山路1段172號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.586654,
+                    23.886959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "彰化特教",
+                "phone": "04-8727303",
+                "address": "彰化縣社頭鄉仁雅村中山路一段306號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.584506,
+                    23.892717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "社頭鄉老人文康活動中心",
+                "phone": "04-8732621",
+                "address": "彰化縣社頭鄉舊社村南勢巷9-16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.593639,
+                    23.896153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "張厝村集會所",
+                "phone": "04-8732621",
+                "address": "彰化縣社頭鄉張厝村張厝村大圳巷9-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.576779,
+                    23.90016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "湳雅國小活動中心",
+                "phone": "04-8735007",
+                "address": "彰化縣社頭鄉湳雅村山腳路三段395號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.60348,
+                    23.920449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "清聖宮",
+                "phone": "04-8736944",
+                "address": "彰化縣社頭鄉清水村清興路50巷71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.607941,
+                    23.889211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "朝興國小",
+                "phone": "04-8732484",
+                "address": "彰化縣社頭鄉朝興村社石路91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.606493,
+                    23.908321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "橋頭國小禮堂",
+                "phone": "04-8731265#15",
+                "address": "彰化縣社頭鄉橋頭村員集路三段528號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.581747,
+                    23.917679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "社頭國小",
+                "phone": "04-8732039#19",
+                "address": "彰化縣社頭鄉社頭村社斗路一段258號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58656,
+                    23.8975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "社頭國中",
+                "phone": "04-8732047",
+                "address": "彰化縣社頭鄉廣興村中興路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.583955,
+                    23.901475
+                ]
+            }
+        }
+    ]
+}

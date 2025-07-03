@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "北區區公所",
+                "phone": "03-5152525#300",
+                "address": "新竹市北區光華里新竹市國華街69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.972489,
+                    24.81636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "南華國中",
+                "phone": "03-5362204#152",
+                "address": "新竹市北區海濱里新竹市海濱里海濱路55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.930166,
+                    24.841443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "舊社國小",
+                "phone": "03-5342023-#1050",
+                "address": "新竹市北區金竹里新竹市北區金竹路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.973122,
+                    24.822785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "南寮國小",
+                "phone": "03-5363448#838",
+                "address": "新竹市北區南寮里新竹市東大路三段465號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.939307,
+                    24.839102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "清華大學附設實驗小學",
+                "phone": "03-5282420#301",
+                "address": "新竹市北區育英里新竹市四維路47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.959609,
+                    24.797951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "磐石中學",
+                "phone": "03-5223946#232",
+                "address": "新竹市北區磐石里新竹市西大路683號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.956295,
+                    24.811112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "載熙國小",
+                "phone": "03-5316675#151",
+                "address": "新竹市北區武陵里新竹市北區東大路二段386號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.962858,
+                    24.819486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "光華國中",
+                "phone": "03-5316605#131",
+                "address": "新竹市北區光華里新竹市光華北街10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.974072,
+                    24.817993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "北門國小",
+                "phone": "03-5316668#205",
+                "address": "新竹市北區光田里新竹市水田街33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.966928,
+                    24.814893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "西門國小",
+                "phone": "03-5222492分機2040",
+                "address": "新竹市北區西雅里新竹市北大路450號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95732,
+                    24.799593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "竹光國中",
+                "phone": "03-5246683#631",
+                "address": "新竹市北區新雅里新竹市和平路一號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.955614,
+                    24.807262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "民富國小",
+                "phone": "03-5222102#830",
+                "address": "新竹市北區民富里新竹市西大路561號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96016,
+                    24.808199
+                ]
+            }
+        }
+    ]
+}

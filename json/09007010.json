@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "馬祖高中禮堂",
+                "phone": "0836-25668",
+                "address": "連江縣南竿鄉介壽村374號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.949788,
+                    26.154322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "介壽村老人活動中心",
+                "phone": "0836-25022",
+                "address": "連江縣南竿鄉介壽村156號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.952173,
+                    26.15538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "介壽國中小",
+                "phone": "0836-22192",
+                "address": "連江縣南竿鄉介壽村13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.949813,
+                    26.160321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "行政旅運大樓",
+                "phone": "0836-22948",
+                "address": "連江縣南竿鄉福沃村185-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.942359,
+                    26.152525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "仁愛國小禮堂",
+                "phone": "0836-22146",
+                "address": "連江縣南竿鄉仁愛村95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.92581,
+                    26.141178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "中正國中小禮堂",
+                "phone": "0836-22196",
+                "address": "連江縣南竿鄉馬祖村4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.920092,
+                    26.159358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "馬祖綜合福利園區",
+                "phone": "0836-22033",
+                "address": "連江縣南竿鄉清水村131號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.938374,
+                    26.154011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "連江縣縣民樂活多功能體育館",
+                "phone": "0836-22135#22",
+                "address": "連江縣南竿鄉介壽村353-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.951088,
+                    26.1547
+                ]
+            }
+        }
+    ]
+}

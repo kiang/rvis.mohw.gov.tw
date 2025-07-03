@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "厚里社區活動中心",
+                "phone": "04-25562116#705",
+                "address": "臺中市后里區厚里里九甲一路259號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715697,
+                    24.313452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "后里區立活動中心",
+                "phone": "04-25562116#119",
+                "address": "臺中市后里區墩東里文化路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714865,
+                    24.306929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "義里社區活動中心",
+                "phone": "04-25575340專線",
+                "address": "臺中市后里區義里里梅里路11-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.731399,
+                    24.308387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "墩東社區活動中心",
+                "phone": "04-25561806專線",
+                "address": "臺中市后里區墩東里平安路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715474,
+                    24.307148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立后里幼兒園-太平聯合分所1樓",
+                "phone": "04-25579233#10",
+                "address": "臺中市后里區太平里四月路23之6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680037,
+                    24.31125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "后里國中B1地下停車場、操場",
+                "phone": "04-25562409#100",
+                "address": "臺中市后里區眉山里中眉路169號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.695276,
+                    24.308039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "月眉國小1樓視聽教室、操場",
+                "phone": "04-25562342#730",
+                "address": "臺中市后里區眉山里甲后路二段588號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690892,
+                    24.315315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "七星國小二樓禮堂、操場",
+                "phone": "04-25562608#333",
+                "address": "臺中市后里區墩南里南村路389號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.711465,
+                    24.301472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "墩北社區活動中心",
+                "phone": "04-25561888專線",
+                "address": "臺中市后里區墩北里三光路139號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.711912,
+                    24.308015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "舊社社區活動中心",
+                "phone": "04-25566550",
+                "address": "臺中市后里區舊社里舊社路93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.701357,
+                    24.294916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "育英國小活動中心、操場",
+                "phone": "04-25562374*371",
+                "address": "臺中市后里區太平里四月路23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.679217,
+                    24.310774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "后里國小藝德堂、操場",
+                "phone": "04-25562294#733",
+                "address": "臺中市后里區義里里甲后路一段168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.729432,
+                    24.309982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "后里社區活動中心",
+                "phone": "04-25581487專線",
+                "address": "臺中市后里區后里里甲后路1段501巷48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720569,
+                    24.308216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "公館社區活動中心",
+                "phone": "04-25569277",
+                "address": "臺中市后里區公館里三豐路5段352巷163號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.733016,
+                    24.33286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "泰安國小風雨操場、操場",
+                "phone": "04-25562363",
+                "address": "臺中市后里區泰安里安眉路5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.750457,
+                    24.32525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "后綜高中行政大樓地下室",
+                "phone": "04-25562012#1311",
+                "address": "臺中市后里區廣福里三豐路三段968號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72262,
+                    24.306225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "泰安社區活動中心",
+                "phone": "00-00000000",
+                "address": "臺中市后里區泰安里福興路67-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.743465,
+                    24.321828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "內埔國小南棟地下室、操場",
+                "phone": "04-25562003",
+                "address": "臺中市后里區墩東里文化路30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714515,
+                    24.307541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "義德里義里里聯合活動中心",
+                "phone": "04-25584161",
+                "address": "臺中市后里區義德里大山路211號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.726573,
+                    24.305617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "墩南社區活動中心",
+                "phone": "04-25586558",
+                "address": "臺中市后里區墩南里南村路303巷1-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714856,
+                    24.296381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "太平里聯合里聯合活動中心",
+                "phone": "04-25560546",
+                "address": "臺中市后里區太平里四月路72-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.658936,
+                    24.314352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "廣福七星活動中心",
+                "phone": "04-25562116#230",
+                "address": "臺中市后里區廣福里寺山路38巷60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.733627,
+                    24.300545
+                ]
+            }
+        }
+    ]
+}

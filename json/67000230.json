@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "沙田里活動中心",
+                "phone": "06-5742716",
+                "address": "臺南市玉井區沙田里沙田33-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47977964,
+                    23.110435537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "望明里活動中心",
+                "phone": "06-5747729",
+                "address": "臺南市玉井區望明里望明76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45615,
+                    23.10609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "豐里里活動中心",
+                "phone": "06-5742514",
+                "address": "臺南市玉井區豐里里豐里59-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44417,
+                    23.124417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "玉井國小",
+                "phone": "06-5742047#330",
+                "address": "臺南市玉井區玉井里中正路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45824728,
+                    23.12073172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "玉井國中",
+                "phone": "06-5742214#19",
+                "address": "臺南市玉井區玉田里大成路152號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47096362,
+                    23.12315192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "玉井區公所",
+                "phone": "06-5741141#31",
+                "address": "臺南市玉井區玉井里中正路27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4601109,
+                    23.1237866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "清芳社區活動中心",
+                "phone": "06-5743327",
+                "address": "臺南市玉井區中正里健康街10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.469169,
+                    23.130707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "玉井工商",
+                "phone": "06-5741101#805",
+                "address": "臺南市玉井區玉田里中山路1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45923068,
+                    23.1208742
+                ]
+            }
+        }
+    ]
+}

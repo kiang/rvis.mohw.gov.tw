@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "大義社區活動中心臨時收容站",
+                "phone": "03-9890610",
+                "address": "宜蘭縣三星鄉大義村上將路3段375巷31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.70406,
+                    24.684366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "三星國小臨時收容站",
+                "phone": "03-9892026#10",
+                "address": "宜蘭縣三星鄉義德村三星路5段86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.650719,
+                    24.666267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "大洲多功能館臨時收容站",
+                "phone": "03-9892018",
+                "address": "宜蘭縣三星鄉大洲村五分路2段180號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.730625,
+                    24.692294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "憲明國小臨時收容站",
+                "phone": "03-9892049#11",
+                "address": "宜蘭縣三星鄉天山村福山街119號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.618664,
+                    24.660819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "大隱社區活動中心臨時收容站",
+                "phone": "03-9892018",
+                "address": "宜蘭縣三星鄉大隱村三星路1段533巷48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.714701,
+                    24.668759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "萬富社區活動中心臨時收容站",
+                "phone": "03-9892864",
+                "address": "宜蘭縣三星鄉萬富村7鄰萬富五路300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.675914,
+                    24.679075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "行健社區活動中心臨時收容站",
+                "phone": "03-9892018",
+                "address": "宜蘭縣三星鄉行健村行健三路2段13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.688253,
+                    24.672647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "萬德社區活動中心臨時收容站",
+                "phone": "03-9892018",
+                "address": "宜蘭縣三星鄉萬德村楓林九路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.656475,
+                    24.675846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "三星國中臨時收容站",
+                "phone": "03-9899553",
+                "address": "宜蘭縣三星鄉月眉村星義路72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65373,
+                    24.6678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "員山社區活動中心臨時收容站",
+                "phone": "03-9894502",
+                "address": "宜蘭縣三星鄉員山村泰雅一路203巷清水66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.596712,
+                    24.644065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "三星鄉公所",
+                "phone": "03-9892018#205",
+                "address": "宜蘭縣三星鄉集慶村集義路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.654145,
+                    24.665357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "大隱尊親館",
+                "phone": "03-9894985",
+                "address": "宜蘭縣三星鄉大隱村25鄰三星路二段99巷17弄68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.707382,
+                    24.668417
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "南屯區公所4樓開放式會議室",
+                "phone": "04-24752799#505",
+                "address": "臺中市南屯區向心里永春東路679號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.644264,
+                    24.134426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "春社里活動中心2、3樓",
+                "phone": "04-23828390",
+                "address": "臺中市南屯區春社里忠勇路23之12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.611974,
+                    24.137353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大同里活動中心3樓",
+                "phone": "04-24723432",
+                "address": "臺中市南屯區大同里大墩六街161號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.65024,
+                    24.142507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "永定里社區活動中心",
+                "phone": "04-23803248",
+                "address": "臺中市南屯區永定里南美街70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63665,
+                    24.140398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "楓樹兒童青少年活動中心",
+                "phone": "04-24752799#212",
+                "address": "臺中市南屯區楓樹里楓樹西街200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.628862,
+                    24.116126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "惠智公園管理室1、2樓",
+                "phone": "04-22552857",
+                "address": "臺中市南屯區三和里大墩11街518號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63906,
+                    24.14891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "田新公園管理室",
+                "phone": "04-23817999",
+                "address": "臺中市南屯區田心里大墩六街319巷41號1.2.3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.644329,
+                    24.142354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "南屯里活動中心",
+                "phone": "04-23890685",
+                "address": "臺中市南屯區南屯里萬和路一段50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63909,
+                    24.136479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "黎明里活動中心",
+                "phone": "04-22542999",
+                "address": "臺中市南屯區黎明里干城街150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.629571,
+                    24.155479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "惠文國小活動中心\/操場",
+                "phone": "04-22596907#731",
+                "address": "臺中市南屯區三義里公益路二段300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.638322,
+                    24.152189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大新活動中心3樓",
+                "phone": "04-23267870",
+                "address": "臺中市南屯區大業里大墩11街64號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652758,
+                    24.148924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "文心森林公園",
+                "phone": "04-22289111#33501",
+                "address": "臺中市南屯區田心里文心路一段289號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.644949,
+                    24.144919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "南屯國小五育館\/操場",
+                "phone": "04-23894238#731",
+                "address": "臺中市南屯區南屯里黎明路一段968號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.637393,
+                    24.136773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "永春國小活動中心\/操場",
+                "phone": "04-24757468#730",
+                "address": "臺中市南屯區向心里永春東路288號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.648259,
+                    24.13502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "萬和國中活動中心\/操場",
+                "phone": "04-23817264#731",
+                "address": "臺中市南屯區豐樂里永春東路885號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640309,
+                    24.134108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "黎新公園",
+                "phone": "04-22289111#33509",
+                "address": "臺中市南屯區新生里龍富路五段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626405,
+                    24.152045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐樂雕塑公園",
+                "phone": "04-22289111#33509",
+                "address": "臺中市南屯區豐樂里文心南五路一段331號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643401,
+                    24.131571
+                ]
+            }
+        }
+    ]
+}

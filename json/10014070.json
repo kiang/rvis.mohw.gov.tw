@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "泰源國小",
+                "phone": "089-891011",
+                "address": "臺東縣東河鄉泰源村本部落11鄰297號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.285041,
+                    22.998414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "泰源社區活動中心",
+                "phone": "089-891143",
+                "address": "臺東縣東河鄉泰源村8鄰225號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.286154,
+                    22.998049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "北源國小",
+                "phone": "089-891103公",
+                "address": "臺東縣東河鄉北源村順那21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.292706,
+                    23.039731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "北源社區活動中心",
+                "phone": "089-891173村辦公處",
+                "address": "臺東縣東河鄉北源村美蘭19鄰43-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.286649,
+                    23.031351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "東河鄉公所2樓大會議室",
+                "phone": "089-896200",
+                "address": "臺東縣東河鄉東河村11鄰南東河311號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.302729,
+                    22.969096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "興隆國小",
+                "phone": "089-531283",
+                "address": "臺東縣東河鄉興昌村155號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.24875,
+                    22.895302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "隆昌社區活動中心",
+                "phone": "089-541186",
+                "address": "臺東縣東河鄉隆昌村18鄰230號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.26935,
+                    22.928146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "尚德國小",
+                "phone": "089-892328宅089-891113村辦公處",
+                "address": "臺東縣東河鄉尚德村前寮43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.240692,
+                    22.962729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "都蘭國小",
+                "phone": "089-531224",
+                "address": "臺東縣東河鄉都蘭村都蘭431號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.226932,
+                    22.877955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "都蘭社區活動中心",
+                "phone": "089-530110",
+                "address": "臺東縣東河鄉都蘭村39鄰372號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.22701,
+                    22.876135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "都蘭國中",
+                "phone": "089-531234",
+                "address": "臺東縣東河鄉都蘭村都蘭398號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.223928,
+                    22.874846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "東河國小",
+                "phone": "089-896160",
+                "address": "臺東縣東河鄉東河村16鄰35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.303927,
+                    22.971219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "東河社區活動中心",
+                "phone": "089-896183",
+                "address": "臺東縣東河鄉東河村東河村16鄰30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.304337,
+                    22.970558
+                ]
+            }
+        }
+    ]
+}

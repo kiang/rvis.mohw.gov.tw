@@ -1,0 +1,565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區溪北里活動中心",
+                "phone": "06-2511066",
+                "address": "臺南市安南區溪北里文安街66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2129576217852,
+                    23.02701626451013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區理想大安社區活動中心",
+                "phone": "0914101587",
+                "address": "臺南市安南區理想里大安街135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19288389477268,
+                    23.033236503968624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區佃東佃西社區活動中心",
+                "phone": "06-2466319",
+                "address": "臺南市安南區佃西里公學路四段325號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.17475495738847,
+                    23.065586401303985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區城西里活動中心",
+                "phone": "06-2577688",
+                "address": "臺南市安南區城西里城西街三段431號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.09561966904,
+                    23.0568688175285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區鹿耳門天后宮-公館",
+                "phone": "06-2841386",
+                "address": "臺南市安南區顯宮里媽祖宮一街136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.12426015799709,
+                    23.03752028666906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區塩田里活動中心",
+                "phone": "06-3841797",
+                "address": "臺南市安南區塩田里塩安路28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.14525334820506,
+                    23.03377718122101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區正統鹿耳門土城聖母廟",
+                "phone": "06-2577547",
+                "address": "臺南市安南區城中里城安路160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1273532,
+                    23.0668559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區城南里活動中心",
+                "phone": "06-2573727",
+                "address": "臺南市安南區城南里城西街一段61巷28弄98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1270656,
+                    23.0604151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區安南國中",
+                "phone": "06-2567384#135",
+                "address": "臺南市安南區淵西里安中路三段252號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1780777,
+                    23.0485612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區溪墘里活動中心",
+                "phone": "06-2580792",
+                "address": "臺南市安南區溪墘里海佃路一段372巷50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.192186107693,
+                    23.0279354729088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區東和里活動中心",
+                "phone": "06-3563912",
+                "address": "臺南市安南區東和里長和路一段805號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2285837566608,
+                    23.06175272362074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區州北里活動中心",
+                "phone": "06-3559357",
+                "address": "臺南市安南區州北里安昌街22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21788081448123,
+                    23.0676572535649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區海佃國民中學",
+                "phone": "06-3507486#130",
+                "address": "臺南市安南區溪東里安富街166號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1985039,
+                    23.0281029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區學東里活動中心",
+                "phone": "06-2872927",
+                "address": "臺南市安南區學東里公學路六段661號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1429397,
+                    23.0781374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區安順國中",
+                "phone": "06-3559652#140",
+                "address": "臺南市安南區安順里安和路三段227號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2183764,
+                    23.0491176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區布袋里活動中心",
+                "phone": "06-3840087",
+                "address": "臺南市安南區布袋里長和路四段231巷60弄41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2071759,
+                    23.0632192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區塭南里活動中心",
+                "phone": "06-3560368",
+                "address": "臺南市安南區[土昷]南里安昌街130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.219737,
+                    23.0706921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區海東國民小學",
+                "phone": "06-2567146#804",
+                "address": "臺南市安南區海東里安中路三段381號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.17481100122,
+                    23.0487773203324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區長安國民小學",
+                "phone": "06-2569914",
+                "address": "臺南市安南區長安里長溪路三段249號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.197829,
+                    23.065157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區城東里活動中心",
+                "phone": "06-2572101",
+                "address": "臺南市安南區城東里城安路73號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.128023005061,
+                    23.0663828610501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區南興國民小學",
+                "phone": "06-2873204#113",
+                "address": "臺南市安南區南興里公學路五段627號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1607458,
+                    23.0737047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區媽祖宮社區活動中心",
+                "phone": "06-2841343",
+                "address": "臺南市安南區顯宮里媽祖宮五街10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1248041,
+                    23.0384463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區青草里活動中心",
+                "phone": "06-2571178",
+                "address": "臺南市安南區青草里青砂街二段371巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.11181708355882,
+                    23.076342869489444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區安富里活動中心",
+                "phone": "06-3582225",
+                "address": "臺南市安南區安富里郡安路5段164巷12弄1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1966725,
+                    23.0273837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區四草里活動中心",
+                "phone": "06-2840277",
+                "address": "臺南市安南區四草里大眾路656號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.128080458573,
+                    23.0167917195545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區和順國民中學",
+                "phone": "06-355144#158",
+                "address": "臺南市安南區州北里安和路5段84巷66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2204849,
+                    23.0658757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區學東國民小學",
+                "phone": "06-2870017",
+                "address": "臺南市安南區學東里公學路6段589號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1454398,
+                    23.0781511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區安東里活動中心",
+                "phone": "06-2462476",
+                "address": "臺南市安南區安東里安和路一段478巷2弄120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2134509,
+                    23.0340946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區土城國民小學",
+                "phone": "06-2577645#833",
+                "address": "臺南市安南區城東里城北路195號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1309285,
+                    23.0663493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區青草國民小學",
+                "phone": "06-2577631#820",
+                "address": "臺南市安南區青草里青砂街二段105巷32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1168604,
+                    23.0771128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區安西里活動中心",
+                "phone": "06-2461234",
+                "address": "臺南市安南區安西里安西路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.208853808272,
+                    23.0317982960872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區安慶國民小學",
+                "phone": "06-2460334#1707",
+                "address": "臺南市安南區梅花里安中路一段703巷80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1929444,
+                    23.0404859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區砂崙里活動中心",
+                "phone": "06-2572618",
+                "address": "臺南市安南區砂崙里城北路871巷94弄17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1275447,
+                    23.0791702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區安佃國民小學",
+                "phone": "06-2567642",
+                "address": "臺南市安南區佃西里海佃路4段493號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1733152,
+                    23.0640273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安南區和順國民小學",
+                "phone": "06-3563568#159",
+                "address": "臺南市安南區州北里安和路五段178巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.218504934008,
+                    23.0666372724495
+                ]
+            }
+        }
+    ]
+}

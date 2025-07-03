@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "東莒國小綜合教室",
+                "phone": "0836-89034",
+                "address": "連江縣莒光鄉大坪村4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.973665,
+                    25.960093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "田沃老人活動中心",
+                "phone": "0836-89146",
+                "address": "連江縣莒光鄉田沃村52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.94069,
+                    25.976329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "莒指部國軍文康中心",
+                "phone": "0916512973",
+                "address": "連江縣莒光鄉西坵村莒光指揮部國軍文康中心"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.930574,
+                    25.974744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "敬恆國中小禮堂",
+                "phone": "0836-88179",
+                "address": "連江縣莒光鄉青帆村18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.934652,
+                    25.970343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "莒光遊客中心",
+                "phone": "0836-89388",
+                "address": "連江縣莒光鄉福正村1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.981095,
+                    25.965129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "東莒老人活動中心",
+                "phone": "0933077104",
+                "address": "連江縣莒光鄉大坪村57-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.973072,
+                    25.959468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "青帆活動中心",
+                "phone": "0836-89146#21",
+                "address": "連江縣莒光鄉青帆村18-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.93376,
+                    25.969635
+                ]
+            }
+        }
+    ]
+}

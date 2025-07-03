@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "達仁鄉立土坂幼兒園",
+                "phone": "089-761893",
+                "address": "臺東縣達仁鄉土坂村1鄰106號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.886088,
+                    22.454775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣立土坂國小",
+                "phone": "089-761225#13",
+                "address": "臺東縣達仁鄉土坂村1鄰10 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.88763,
+                    22.453859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣台坂國民小學",
+                "phone": "089-761252#12",
+                "address": "臺東縣達仁鄉台坂村10鄰59-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.907377,
+                    22.477615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "啦里吧活動中心",
+                "phone": "089-761170",
+                "address": "臺東縣達仁鄉台坂村9鄰啦里吧54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.913417,
+                    22.48147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "台坂活動中心",
+                "phone": "089-761170",
+                "address": "臺東縣達仁鄉台坂村10鄰56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.913467,
+                    22.481601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "安朔活動中心",
+                "phone": "089-702126",
+                "address": "臺東縣達仁鄉安朔村8鄰安朔路103號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.868199,
+                    22.294794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "森永活動中心",
+                "phone": "089-702136",
+                "address": "臺東縣達仁鄉森永村3鄰森永31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.864812,
+                    22.28068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "南田活動中心",
+                "phone": "089-702285",
+                "address": "臺東縣達仁鄉南田村1鄰10-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.888816,
+                    22.286902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "達仁鄉公所禮堂",
+                "phone": "089-702249#601",
+                "address": "臺東縣達仁鄉安朔村9鄰復興路14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.883062,
+                    22.297005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "土坂天主堂",
+                "phone": "089-761310",
+                "address": "臺東縣達仁鄉土坂村1鄰22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.887105,
+                    22.453959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣立安朔國小新化分校",
+                "phone": "089-702257#13",
+                "address": "臺東縣達仁鄉新化村57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.856773,
+                    22.381551
+                ]
+            }
+        }
+    ]
+}

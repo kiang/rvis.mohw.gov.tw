@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "員林市僑信國小",
+                "phone": "04-8320810",
+                "address": "彰化縣員林市三信里中山路二段280號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.571613,
+                    23.967029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "員林市育英國小",
+                "phone": "04-8320130#713",
+                "address": "彰化縣員林市黎明里光明街31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574194,
+                    23.952572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "員林市西區體育館",
+                "phone": "8397375",
+                "address": "彰化縣員林市新生里雙景街50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564228,
+                    23.958697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "員林市東山國小",
+                "phone": "04-8310749#805",
+                "address": "彰化縣員林市南東里山腳路四段212號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.601305,
+                    23.967939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "靜修國小群英館",
+                "phone": "04-8320341#801",
+                "address": "彰化縣員林市南平里靜修路74號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565529,
+                    23.962529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "員林市公所三樓禮堂",
+                "phone": "04-8347171#662",
+                "address": "彰化縣員林市中正里三民街18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574331,
+                    23.959074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "員林市員東國小",
+                "phone": "04-8311022#804",
+                "address": "彰化縣員林市浮圳里員東路二段12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.587327,
+                    23.96191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "東北社區活動中心",
+                "phone": "04-8347171",
+                "address": "彰化縣員林市東北里山腳路三段2巷150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.592275,
+                    23.979074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大明社區活動中心",
+                "phone": "04-8347171",
+                "address": "彰化縣員林市大明里員集路二段177巷65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.576348,
+                    23.939741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "員林國中勤學地下室",
+                "phone": "04-8320873#130",
+                "address": "彰化縣員林市南興里南潭路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560253,
+                    23.962928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大同國中",
+                "phone": "04-8358382#600",
+                "address": "彰化縣員林市三和里大同路一段345號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.578974,
+                    23.963386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "源潭社區活動中心",
+                "phone": "04-8347171",
+                "address": "彰化縣員林市源潭里三潭巷27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549834,
+                    23.965896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "中央社區活動中心",
+                "phone": "04-8347171",
+                "address": "彰化縣員林市南平里新生路354號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.568844,
+                    23.963927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "鎮興社區活動中心",
+                "phone": "04-8347171",
+                "address": "彰化縣員林市鎮興里員林市山腳路六段20號510"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.602276,
+                    23.957616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "員林市員林國小",
+                "phone": "04-8320145#771",
+                "address": "彰化縣員林市中正里三民東街221號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57763,
+                    23.959531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "崇實高工體育館",
+                "phone": "04-8347106",
+                "address": "彰化縣員林市新興里育英路103號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575292,
+                    23.961161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "三義社區活動中心",
+                "phone": "04-8347171",
+                "address": "彰化縣員林市三義里員鹿路245巷112號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.563931,
+                    23.952576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "出水社區活動中心",
+                "phone": "04-8347171",
+                "address": "彰化縣員林市浮圳里浮圳巷8號之15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.593414,
+                    23.963989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "員林農工體育館",
+                "phone": "04-360105",
+                "address": "彰化縣員林市萬年里員水路二段313號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.581827,
+                    23.954661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "中東社區活動中心",
+                "phone": "04-8347171",
+                "address": "彰化縣員林市中東里山腳路五段184巷86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.600603,
+                    23.973386
+                ]
+            }
+        }
+    ]
+}

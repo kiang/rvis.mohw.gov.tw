@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大美社區活動中心",
+                "phone": "05-2952414",
+                "address": "嘉義縣大林鎮大美里1鄰大埔美33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.504292,
+                    23.601042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大林鎮老人體育活動中心",
+                "phone": "05-2653211#114",
+                "address": "嘉義縣大林鎮平林里新興街116號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458355,
+                    23.599921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "排路社區活動中心",
+                "phone": "05-2694274",
+                "address": "嘉義縣大林鎮排路里排子路167號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.424277,
+                    23.613052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大林鎮公所三樓禮堂",
+                "phone": "05-2653211#215",
+                "address": "嘉義縣大林鎮三和里中興路二段239號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.471177,
+                    23.603977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "三和國小室外",
+                "phone": "05-2952145#12",
+                "address": "嘉義縣大林鎮三和里中興路二段937號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488597,
+                    23.605834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大林國小排路分校室外",
+                "phone": "05-2652061#940",
+                "address": "嘉義縣大林鎮排路里排子路231號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.422162,
+                    23.610149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "平林國小室外",
+                "phone": "05-2650887#204",
+                "address": "嘉義縣大林鎮平林里民權路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.461605,
+                    23.599786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大林國小室外",
+                "phone": "05-2652061#940",
+                "address": "嘉義縣大林鎮西林里中正路423號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.453604,
+                    23.602446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中林國小室外",
+                "phone": "05-2653941#22",
+                "address": "嘉義縣大林鎮中林里中林147號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.476682,
+                    23.590129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大林鎮運動公園",
+                "phone": "05-2652003",
+                "address": "嘉義縣大林鎮平林里新興街138號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458206,
+                    23.598562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "社團國小室外",
+                "phone": "05-2952504#04",
+                "address": "嘉義縣大林鎮三角里下林頭51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.49594,
+                    23.617666
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "原斗國民中小學",
+                "phone": "04-8904600",
+                "address": "彰化縣二林鎮原斗里斗苑路一段865號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.427034,
+                    23.896283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "二林國小",
+                "phone": "04-8960057#701",
+                "address": "彰化縣二林鎮豐田里斗苑路五段22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.377267,
+                    23.89992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "二林鎮鎮立幼兒園",
+                "phone": "04-8952421",
+                "address": "彰化縣二林鎮豐田里斗苑路四段586號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.375424,
+                    23.900455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "二林工商",
+                "phone": "04-8962132#301",
+                "address": "彰化縣二林鎮豐田里斗苑路4段500號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.377267,
+                    23.89992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "中興國小",
+                "phone": "04-8683458",
+                "address": "彰化縣二林鎮華崙里光復路73號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.442785,
+                    23.94819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "二林文化教育園區",
+                "phone": "04-8960145",
+                "address": "彰化縣二林鎮西平里西和一街65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36207,
+                    23.897338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "東勢社區活動中心",
+                "phone": "04-8901538",
+                "address": "彰化縣二林鎮東勢里面前巷2之20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.436171,
+                    23.907181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "南光社區活動中心",
+                "phone": "04-8960343",
+                "address": "彰化縣二林鎮南光里懷仁街8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36617,
+                    23.893958
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區永康公園",
+                "phone": "06-2991111#8252",
+                "address": "臺南市永康區復興里興國街100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.243982,
+                    23.0027238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區永仁高級中學",
+                "phone": "06-3115538#501",
+                "address": "臺南市永康區神洲里忠孝路74號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2402294,
+                    23.0033954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區中華里活動中心",
+                "phone": "06-2010308",
+                "address": "臺南市永康區中華里忠勇街51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2377952,
+                    23.0001309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區崑山里活動中心",
+                "phone": "06-2729843",
+                "address": "臺南市永康區崑山里崑山街222巷11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2600379,
+                    23.0051467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區永康國民小學",
+                "phone": "06-2324462#933",
+                "address": "臺南市永康區永康里中山南路637號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2550815,
+                    23.0265964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區埔園龍埔里活動中心",
+                "phone": "06-2337763",
+                "address": "臺南市永康區埔園里永大路三段618巷111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2612111,
+                    23.0384771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區東灣里活動中心",
+                "phone": "06-2721561",
+                "address": "臺南市永康區東灣里民族路291號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.269078,
+                    23.0054051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區公所",
+                "phone": "06-2010308",
+                "address": "臺南市永康區永康里中山南路655號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2569745,
+                    23.0262828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區社教中心",
+                "phone": "06-2029666",
+                "address": "臺南市永康區永康里永大二路88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2598021,
+                    23.0188399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區體一運動公園",
+                "phone": "06-2029666",
+                "address": "臺南市永康區三民里中正北路底豐化橋南端"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27426,
+                    23.05657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區復華里活動中心",
+                "phone": "06-2010308",
+                "address": "臺南市永康區復華里國華街110號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24698,
+                    23.0145546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區六合里活動中心",
+                "phone": "06-3037611",
+                "address": "臺南市永康區六合里中華二路358巷43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2298613,
+                    23.0095959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區探索教育公園",
+                "phone": "06-2010308#120",
+                "address": "臺南市永康區永康里永平街469巷13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.259094,
+                    23.020631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區東橋里活動中心",
+                "phone": "06-2010308",
+                "address": "臺南市永康區東橋里東橋十街158號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2344819,
+                    23.0227414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區鹽行鹽興社教文化會館",
+                "phone": "06-2541236",
+                "address": "臺南市永康區塩洲里正南八街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.232814,
+                    23.0383591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區崑山國民小學",
+                "phone": "06-711640#732",
+                "address": "臺南市永康區崑山里國光五街72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2581165,
+                    23.0061799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市永康區龍潭國民小學",
+                "phone": "06-2324313#708",
+                "address": "臺南市永康區龍潭里龍潭街214號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.267904,
+                    23.0334853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市立大橋國民中學",
+                "phone": "06-3021793#25",
+                "address": "臺南市永康區東橋里東橋十街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.231436,
+                    23.022449
+                ]
+            }
+        }
+    ]
+}

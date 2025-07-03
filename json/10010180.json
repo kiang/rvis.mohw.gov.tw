@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "阿里山聯合社區活動中心",
+                "phone": "05-2679756",
+                "address": "嘉義縣阿里山鄉中正村3鄰東阿里山52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.804247,
+                    23.511583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "十字村活動中心",
+                "phone": "05-2511080",
+                "address": "嘉義縣阿里山鄉十字村002鄰十字路５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.75481,
+                    23.491251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "豐山國小-室外",
+                "phone": "05-2661071",
+                "address": "嘉義縣阿里山鄉豐山村003鄰石鼓盤４７號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.750028,
+                    23.575862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "達邦國小里佳分校-室外",
+                "phone": "05-2511017",
+                "address": "嘉義縣阿里山鄉里佳村003鄰里佳５２號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720088,
+                    23.405587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "鄉屬災變庇護所",
+                "phone": "05-2562547#172",
+                "address": "嘉義縣阿里山鄉樂野村2鄰69之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.713708,
+                    23.471776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "新美國小-室外",
+                "phone": "05-2513015",
+                "address": "嘉義縣阿里山鄉新美村004鄰新美７８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683345,
+                    23.337733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "茶山國小",
+                "phone": "05-2513014",
+                "address": "嘉義縣阿里山鄉茶山村003鄰茶山７４號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666749,
+                    23.300346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "達邦國小-室外",
+                "phone": "05-2511017",
+                "address": "嘉義縣阿里山鄉達邦村001鄰達邦１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.749376,
+                    23.453204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "十字國小-室外",
+                "phone": "05-2511087",
+                "address": "嘉義縣阿里山鄉十字村001鄰十字路１６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.75402,
+                    23.492484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "香林國小-室外",
+                "phone": "05-2679713",
+                "address": "嘉義縣阿里山鄉香林村002鄰西阿里山４１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.808612,
+                    23.516493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "茶山活動中心",
+                "phone": "05-2513063",
+                "address": "嘉義縣阿里山鄉茶山村003鄰來吉７５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666625,
+                    23.300651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "里佳村辦公處",
+                "phone": "05-2511172",
+                "address": "嘉義縣阿里山鄉里佳村002鄰里佳３１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720934,
+                    23.405245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "新美活動中心",
+                "phone": "05-2513076",
+                "address": "嘉義縣阿里山鄉新美村004鄰新美６５號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683442,
+                    23.337392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "山美saviki集會所",
+                "phone": "05-2586092",
+                "address": "嘉義縣阿里山鄉山美村004鄰山美７２之３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.671948,
+                    23.378412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "來吉活動中心",
+                "phone": "05-2661170",
+                "address": "嘉義縣阿里山鄉來吉村004鄰來吉９６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.73998,
+                    23.529268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "山美saviki社區集會所(旁空地)",
+                "phone": "05-2586092",
+                "address": "嘉義縣阿里山鄉山美村004鄰山美７２之３８號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.671948,
+                    23.378412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "來吉籃球場",
+                "phone": "05-2661170",
+                "address": "嘉義縣阿里山鄉來吉村001鄰來吉11號(蘭后民宿旁)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.745647,
+                    23.519459
+                ]
+            }
+        }
+    ]
+}

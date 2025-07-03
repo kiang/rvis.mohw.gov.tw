@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市下營區中營國小",
+                "phone": "06-6892600#205",
+                "address": "臺南市下營區開化里中營270號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.276394,
+                    23.213298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市下營區中營地區民眾活動中心",
+                "phone": "06-6895001",
+                "address": "臺南市下營區茅營里茅港尾81-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.284032,
+                    23.219356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市下營區甲中里活動中心",
+                "phone": "06-6899827",
+                "address": "臺南市下營區紅甲里十六甲29-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.273932,
+                    23.250748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市下營區賀建國小",
+                "phone": "06-6891109#11",
+                "address": "臺南市下營區賀建里麻豆寮49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296846,
+                    23.254404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市下營區下營地區民眾活動中心",
+                "phone": "06-6792971",
+                "address": "臺南市下營區後街里大孝街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.26257,
+                    23.239711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市下營區公所",
+                "phone": "06-6892019",
+                "address": "臺南市下營區下營里中山路1段170號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.264338,
+                    23.235429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市下營區下營國小",
+                "phone": "06-6892181#814",
+                "address": "臺南市下營區仁里里中山路二段72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.260519,
+                    23.23156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市下營區下營國中",
+                "phone": "06-6891105#130",
+                "address": "臺南市下營區新興里中山路一段412號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.271449,
+                    23.239045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市下營區東興國小",
+                "phone": "06-6892478",
+                "address": "臺南市下營區新興里東興一街112號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.267177,
+                    23.238956
+                ]
+            }
+        }
+    ]
+}

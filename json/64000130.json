@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立林園高級中學",
+                "phone": "07-6412059#420",
+                "address": "高雄市林園區王公里林園北路481號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.39492,
+                    22.513749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市林園區林園國民小學",
+                "phone": "07-6412125#45",
+                "address": "高雄市林園區林園里忠孝西路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.39312,
+                    22.507299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市林園區中芸國民小學",
+                "phone": "07-6412342#40",
+                "address": "高雄市林園區中芸里中芸路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.396711,
+                    22.487112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立中芸國民中學",
+                "phone": "07-6425223#41",
+                "address": "高雄市林園區中芸里中芸路3-100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.395311,
+                    22.485875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市林園區王公國民小學",
+                "phone": "07-6420503#42",
+                "address": "高雄市林園區廣應里王公二路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.388254,
+                    22.504698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市林園區汕尾國民小學",
+                "phone": "07-6412334#32",
+                "address": "高雄市林園區中汕里北汕路58巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.411254,
+                    22.479285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市林園區港埔國民小學",
+                "phone": "07-6412282#41",
+                "address": "高雄市林園區頂厝里校前路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.378585,
+                    22.504297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市林園區金潭國民小學",
+                "phone": "07-6425223#45",
+                "address": "高雄市林園區中厝里金潭路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.396063,
+                    22.528089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市林園區東汕西汕中汕北汕里里民活動中心",
+                "phone": "07-6412511#281",
+                "address": "高雄市林園區中汕里中汕路218號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.408257,
+                    22.481117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市林園區長青活動中心",
+                "phone": "07-6412511#308",
+                "address": "高雄市林園區林園里林園北路191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.394486,
+                    22.508674
+                ]
+            }
+        }
+    ]
+}

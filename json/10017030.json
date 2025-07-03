@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "暖東里民活動中心",
+                "phone": "02-24577684",
+                "address": "基隆市暖暖區暖東里東勢街54-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.748039,
+                    25.083295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "碇祥里民活動中心",
+                "phone": "02-24570118",
+                "address": "基隆市暖暖區碇祥里碇內街100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75384,
+                    25.095475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "基隆市暖暖區公所",
+                "phone": "02-24579121",
+                "address": "基隆市暖暖區暖同里東勢街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736014,
+                    25.100186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "碇安里民活動中心",
+                "phone": "02-24577135",
+                "address": "基隆市暖暖區碇安里源遠路277巷23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.755543,
+                    25.099844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "基隆高中",
+                "phone": "02-24582052",
+                "address": "基隆市暖暖區八堵里源遠路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.732918,
+                    25.107683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "碇內國中",
+                "phone": "02-24586105#31",
+                "address": "基隆市暖暖區碇內里源遠路152巷75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754001,
+                    25.099844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "八南里民活動中心",
+                "phone": "02-24562205",
+                "address": "基隆市暖暖區八南里源遠路27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.731928,
+                    25.108461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "暖暖里民活動中心",
+                "phone": "02-24574808",
+                "address": "基隆市暖暖區暖暖里暖暖街281巷58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735418,
+                    25.097118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "暖同里民活動中心",
+                "phone": "02-24573552",
+                "address": "基隆市暖暖區暖同里暖暖街16巷41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737261,
+                    25.101545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "碇內里民活動中心",
+                "phone": "02-24576802",
+                "address": "基隆市暖暖區碇內里暖碇路15巷136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753761,
+                    25.09582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "暖西里民活動中心",
+                "phone": "02-24573552",
+                "address": "基隆市暖暖區暖西里東勢街26巷69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737984,
+                    25.095115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "八西里民活動中心",
+                "phone": "02-24313501",
+                "address": "基隆市暖暖區八西里八堵路35-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735698,
+                    25.110548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "碇和里民活動中心",
+                "phone": "02-2457-1568",
+                "address": "基隆市暖暖區碇和里暖碇路170之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751442,
+                    25.095874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "碇內15號公園",
+                "phone": "02-24579121#101",
+                "address": "基隆市暖暖區碇祥里碇內街100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75384,
+                    25.095475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "暖暖高中",
+                "phone": "02-24575534#135",
+                "address": "基隆市暖暖區暖中路112號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737604,
+                    25.10793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "暖西國小",
+                "phone": "02-24588583#80",
+                "address": "基隆市暖暖區暖西里暖暖街350號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735197,
+                    25.093845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "碇內國小",
+                "phone": "02-24581300",
+                "address": "基隆市暖暖區碇內里源遠路258號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754113,
+                    25.098099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "暖暖國小",
+                "phone": "02-24583795#30",
+                "address": "基隆市暖暖區暖暖里暖暖街121號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737156,
+                    25.100553
+                ]
+            }
+        }
+    ]
+}

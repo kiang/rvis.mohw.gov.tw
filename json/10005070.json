@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "卓蘭國小操場",
+                "phone": "04-25892008",
+                "address": "苗栗縣卓蘭鎮新厝里中山路125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.824783,
+                    24.312207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "景山國小操場",
+                "phone": "04-25921221",
+                "address": "苗栗縣卓蘭鎮景山里5鄰88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.865255,
+                    24.35263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "雙連國小操場",
+                "phone": "04-25892794",
+                "address": "苗栗縣卓蘭鎮坪林里雙連16-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.848562,
+                    24.337764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "上新社區籃球場",
+                "phone": "0425892101",
+                "address": "苗栗縣卓蘭鎮上新里水廠段912,913,916,917,919,920地號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.829444,
+                    24.308646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "豐田國小操場",
+                "phone": "04-25892164",
+                "address": "苗栗縣卓蘭鎮豐田里3鄰36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.823438,
+                    24.324925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "卓蘭國小活動中心",
+                "phone": "04-25892008",
+                "address": "苗栗縣卓蘭鎮新厝里中山路125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.824783,
+                    24.312207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "上新老人文康中心(地下一樓至1樓)",
+                "phone": "04-25892101#179",
+                "address": "苗栗縣卓蘭鎮上新里3鄰41-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.83172,
+                    24.302705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "內灣國小操場",
+                "phone": "04-25892094",
+                "address": "苗栗縣卓蘭鎮內灣里內灣里120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.849485,
+                    24.299095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "坪林國小操場",
+                "phone": "04-25921334",
+                "address": "苗栗縣卓蘭鎮坪林里7鄰86-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.875749,
+                    24.335934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "坪林社區文康中心",
+                "phone": "04-25921458",
+                "address": "苗栗縣卓蘭鎮坪林里4鄰41之8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.8745,
+                    24.334399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "景山國小教室(13間)",
+                "phone": "04-25921221",
+                "address": "苗栗縣卓蘭鎮景山里5鄰88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.865255,
+                    24.35263
+                ]
+            }
+        }
+    ]
+}

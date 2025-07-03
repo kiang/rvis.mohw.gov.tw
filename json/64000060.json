@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市新興區大同國民小學",
+                "phone": "07-2823039#731",
+                "address": "高雄市新興區榮治里大同一路231號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298454,
+                    22.627951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市新興區七賢國民小學",
+                "phone": "07-2351150#813",
+                "address": "高雄市新興區中東里七賢一路393號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306945,
+                    22.633899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立高雄高級商業職業學校",
+                "phone": "07-2699757#1411",
+                "address": "高雄市新興區浩然里五福二路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309892,
+                    22.624915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市新興區信義國民小學",
+                "phone": "07-2365163#31",
+                "address": "高雄市新興區興昌里中正三路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310909,
+                    22.631232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市新興區新興國民小學",
+                "phone": "07-2412119#131",
+                "address": "高雄市新興區永寧里民生一路321號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304987,
+                    22.626584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "新興區行政中心10樓大禮堂",
+                "phone": "07-2368146",
+                "address": "高雄市新興區中東里中正三路34號4樓10樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310081,
+                    22.631074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立新興高級中學",
+                "phone": "07-2727127#3010",
+                "address": "高雄市新興區玉衡里五福二路218號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304089,
+                    22.624351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "新興老人活動中心",
+                "phone": "07-2222272",
+                "address": "高雄市新興區光耀里黃海街62號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3111,
+                    22.629767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "忠孝老人活動中心",
+                "phone": "07-2352655",
+                "address": "高雄市新興區南港里忠孝一路417號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30618,
+                    22.634865
+                ]
+            }
+        }
+    ]
+}

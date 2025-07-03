@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "文峰國小",
+                "phone": "037-981143#105",
+                "address": "苗栗縣銅鑼鄉樟樹村樟樹12之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.785795,
+                    24.464505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "新隆國小思源館",
+                "phone": "037-971102#12",
+                "address": "苗栗縣銅鑼鄉新隆村2鄰18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.808989,
+                    24.429659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "廣德宮廣場",
+                "phone": "037-981508",
+                "address": "苗栗縣銅鑼鄉竹森村4鄰22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.782798,
+                    24.504503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "興隆國小",
+                "phone": "037-982804#13",
+                "address": "苗栗縣銅鑼鄉興隆村117號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.81197,
+                    24.462869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "銅鑼國小",
+                "phone": "037-981013#2121",
+                "address": "苗栗縣銅鑼鄉福興村文化街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.791343,
+                    24.490836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "中興國小",
+                "phone": "037-224458#105",
+                "address": "苗栗縣銅鑼鄉中平村150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.805333,
+                    24.497845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "九湖國小",
+                "phone": "037-981149#31",
+                "address": "苗栗縣銅鑼鄉九湖村10鄰91之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.776794,
+                    24.472111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "竹森社區活動中心",
+                "phone": "037-981888",
+                "address": "苗栗縣銅鑼鄉竹森村4鄰22-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.78285,
+                    24.504117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "文峰國小操場",
+                "phone": "037-981143",
+                "address": "苗栗縣銅鑼鄉樟樹村樟樹12之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.785795,
+                    24.464505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "九湖國小操場",
+                "phone": "037-981149",
+                "address": "苗栗縣銅鑼鄉九湖村10鄰91之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.776794,
+                    24.472111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "新隆國小操場",
+                "phone": "037-971102",
+                "address": "苗栗縣銅鑼鄉新隆村2鄰18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.808989,
+                    24.429659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "銅鑼國小操場",
+                "phone": "037-981013#2121",
+                "address": "苗栗縣銅鑼鄉福興村文化街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.791343,
+                    24.490836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "中興國小操場",
+                "phone": "037-224458",
+                "address": "苗栗縣銅鑼鄉中平村150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.805333,
+                    24.497845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "興隆國小操場",
+                "phone": "037-982804#13",
+                "address": "苗栗縣銅鑼鄉興隆村117號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.81197,
+                    24.462869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "銅鑼鄉中平集會所",
+                "phone": "037-982130#31",
+                "address": "苗栗縣銅鑼鄉中平村12鄰中平157之5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.808797,
+                    24.496428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "銅鑼灣會館",
+                "phone": "037-982130#31",
+                "address": "苗栗縣銅鑼鄉銅鑼村36鄰新興路78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.793701,
+                    24.484328
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區善化國中",
+                "phone": "06-5817043",
+                "address": "臺南市善化區溪美里溪尾656號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287655,
+                    23.147099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區文正社區活動中心",
+                "phone": "06-5837226*211",
+                "address": "臺南市善化區文正里文正路25巷18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286214,
+                    23.136682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區善化國小",
+                "phone": "06-5817020",
+                "address": "臺南市善化區文正里進學路63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288777,
+                    23.135687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區陽明國小",
+                "phone": "06-5817165",
+                "address": "臺南市善化區胡家里胡厝寮300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.273186,
+                    23.143256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區大同國小",
+                "phone": "06-5837352",
+                "address": "臺南市善化區六德里六分寮200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305654,
+                    23.155842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區田寮里活動中心",
+                "phone": "06-5837226*217",
+                "address": "臺南市善化區田寮里15鄰六分寮168之9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304524,
+                    23.153434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區茄拔國小",
+                "phone": "06-5837031",
+                "address": "臺南市善化區嘉北里茄拔280號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324766,
+                    23.138611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區大成國小",
+                "phone": "06-5837520",
+                "address": "臺南市善化區坐駕里大成路385號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295008,
+                    23.128722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區六德里活動中心",
+                "phone": "06-5837226*231",
+                "address": "臺南市善化區六德里六分寮227之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303917,
+                    23.15547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區文康育樂中心",
+                "phone": "06-5812454",
+                "address": "臺南市善化區文正里進學路150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289175,
+                    23.136628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區牛庄里活動中心",
+                "phone": "06-5837226*212",
+                "address": "臺南市善化區牛庄里牛庄138號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.316922,
+                    23.138815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區老人文康活動中心",
+                "phone": "06-5837226*221",
+                "address": "臺南市善化區嘉北里茄拔271號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324741,
+                    23.139025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區蓮潭國中小",
+                "phone": "06-5837755",
+                "address": "臺南市善化區蓮潭里陽光大道366號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308156,
+                    23.116287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區小新國小",
+                "phone": "06-5837019",
+                "address": "臺南市善化區小新里小新里97之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310824,
+                    23.124618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市善化區嘉南社區活動中心",
+                "phone": "06-5837226*221",
+                "address": "臺南市善化區嘉南里茄拔80號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326662,
+                    23.135197
+                ]
+            }
+        }
+    ]
+}

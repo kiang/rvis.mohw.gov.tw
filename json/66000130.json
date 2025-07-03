@@ -1,0 +1,469 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "福興社區活動中心",
+                "phone": "09-55966682",
+                "address": "臺中市沙鹿區福興里鎮南路二段299巷36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567169,
+                    24.224834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "斗抵社區活動中心",
+                "phone": "0934283397",
+                "address": "臺中市沙鹿區斗抵里斗潭路197號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.554311,
+                    24.2257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "南勢社區活動中心",
+                "phone": "09-88896718",
+                "address": "臺中市沙鹿區南勢里南陽路458號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567735,
+                    24.217376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "六路社區活動中心",
+                "phone": "04-26312999",
+                "address": "臺中市沙鹿區六路里北勢東路267號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579567,
+                    24.216096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "清泉社區活動中心",
+                "phone": "04-26151920",
+                "address": "臺中市沙鹿區清泉里東大路二段1579號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614614,
+                    24.241869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "公明社區活動中心",
+                "phone": "09-31640646",
+                "address": "臺中市沙鹿區公明里中清路6段263巷68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.607547,
+                    24.245571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "鹿寮社區活動中心",
+                "phone": "04-26628320",
+                "address": "臺中市沙鹿區鹿寮里賢義街162號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566971,
+                    24.242922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "晉江社區活動中心",
+                "phone": "04-26529646",
+                "address": "臺中市沙鹿區晉江里晉武路35巷33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.581002,
+                    24.222943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "美仁社區活動中心",
+                "phone": "04-26627678",
+                "address": "臺中市沙鹿區美仁里中正街3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561589,
+                    24.235726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "居仁社區活動中心",
+                "phone": "0910-496565",
+                "address": "臺中市沙鹿區居仁里新生街8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562351,
+                    24.238748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市鹿峰國小禮堂及操場",
+                "phone": "04-26224210#620",
+                "address": "臺中市沙鹿區鹿峰里星河路209號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570096,
+                    24.255859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "三鹿社區活動中心",
+                "phone": "04-26326151",
+                "address": "臺中市沙鹿區三鹿里自強路293號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567763,
+                    24.201699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市北勢國小禮堂",
+                "phone": "04-26315032#732",
+                "address": "臺中市沙鹿區六路里南陽路376號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.571909,
+                    24.216369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市北勢國中禮堂及操場",
+                "phone": "04-26322236#731",
+                "address": "臺中市沙鹿區北勢里英才路150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.569183,
+                    24.22537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "興安社區活動中心",
+                "phone": "09-37494007",
+                "address": "臺中市沙鹿區興仁里鎮南路二段500號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564096,
+                    24.23409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "興仁社區活動中心",
+                "phone": "09-28336308",
+                "address": "臺中市沙鹿區興仁里鎮南路二段500號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564096,
+                    24.23409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市沙鹿國小禮堂",
+                "phone": "04-26625014#116",
+                "address": "臺中市沙鹿區美仁里中正街3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561589,
+                    24.235726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市竹林國小禮堂及操場",
+                "phone": "04-26620175#751",
+                "address": "臺中市沙鹿區竹林里臺灣大道七段821號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567131,
+                    24.238205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市鹿寮國中禮堂及操場",
+                "phone": "04-26622207#66",
+                "address": "臺中市沙鹿區鹿寮里光華路385號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566597,
+                    24.243919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "鹿鳴公園",
+                "phone": "04-26634223",
+                "address": "臺中市沙鹿區北勢里沙鹿區鹿寮里賢正街75號對面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566633,
+                    24.231051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "公館國民小學操場",
+                "phone": "04-26154353#521",
+                "address": "臺中市沙鹿區西勢里中航路2段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.595607,
+                    24.26049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市公明國小禮堂及操場",
+                "phone": "04-26150963#731",
+                "address": "臺中市沙鹿區公明里忠貞路213號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.609264,
+                    24.244122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市公明國中操場及教室",
+                "phone": "04-26154262#235",
+                "address": "臺中市沙鹿區公明里中清路6段567號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.599524,
+                    24.249281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "文昌街、日新街口停車場",
+                "phone": "04-26625014#116",
+                "address": "臺中市沙鹿區洛泉里文昌街31號對面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561766,
+                    24.236999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市沙鹿國中禮堂及操場",
+                "phone": "04-26622163#730",
+                "address": "臺中市沙鹿區美仁里中正街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.56243,
+                    24.235766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "鎮立公園",
+                "phone": "04-26634223",
+                "address": "臺中市沙鹿區北勢里鎮政路16號對面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566398,
+                    24.23477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "沙鹿幼兒園埔子分班",
+                "phone": "04-26317047",
+                "address": "臺中市沙鹿區埔子里正義路218號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.573716,
+                    24.204875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "六福公園",
+                "phone": "04-26634223",
+                "address": "臺中市沙鹿區六路里北勢東路267號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579567,
+                    24.216096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市沙鹿區公所5樓禮堂",
+                "phone": "04-26634212",
+                "address": "臺中市沙鹿區北勢里鎮政路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566244,
+                    24.233349
+                ]
+            }
+        }
+    ]
+}

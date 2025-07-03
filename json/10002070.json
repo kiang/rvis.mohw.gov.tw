@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "尚德社區活動中心",
+                "phone": "03-9228171",
+                "address": "宜蘭縣員山鄉尚德村三鬮路35巷13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.722128,
+                    24.737618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "惠好社區活動中心",
+                "phone": "03-9222406",
+                "address": "宜蘭縣員山鄉惠好村賢德路二段66巷50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.730742,
+                    24.731738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "七賢村民眾活動中心",
+                "phone": "03-9228171",
+                "address": "宜蘭縣員山鄉七賢村賢德路一段61巷25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735106,
+                    24.714634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "深溝村集會所",
+                "phone": "03-9221346",
+                "address": "宜蘭縣員山鄉深溝村深洲一路37巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71978,
+                    24.715727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "蓁巷社區活動中心",
+                "phone": "03-9225776",
+                "address": "宜蘭縣員山鄉蓁巷村成功路45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.695581,
+                    24.713571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "中華村集會所",
+                "phone": "03-9231377",
+                "address": "宜蘭縣員山鄉中華村粗坑路304號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.646618,
+                    24.709402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "湖東社區活動中心",
+                "phone": "03-9228171",
+                "address": "宜蘭縣員山鄉湖東村茄苳路68-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.70628,
+                    24.746471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "內城社區活動中心",
+                "phone": "03-9228171",
+                "address": "宜蘭縣員山鄉內城村榮光路321號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.688925,
+                    24.720742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "逸仙社區活動中心",
+                "phone": "03-9221759",
+                "address": "宜蘭縣員山鄉逸仙村大湖十六路181巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.700435,
+                    24.738714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "內城國民中小學化育分校",
+                "phone": "03-9231103",
+                "address": "宜蘭縣員山鄉中華村員山路三段256號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.652466,
+                    24.711572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "永和社區活動中心",
+                "phone": "03-9224617",
+                "address": "宜蘭縣員山鄉永和村溫泉路62-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712503,
+                    24.748944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "同樂社區活動中心",
+                "phone": "03-9232254",
+                "address": "宜蘭縣員山鄉同樂村同新路182號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.729719,
+                    24.762076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "枕山社區活動中心",
+                "phone": "03-9231666",
+                "address": "宜蘭縣員山鄉枕山村慶安路97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.718597,
+                    24.768242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "湖北社區活動中心",
+                "phone": "03-9231482",
+                "address": "宜蘭縣員山鄉湖北村大湖五路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.697802,
+                    24.745093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "結頭份社區活動中心",
+                "phone": "03-9228749",
+                "address": "宜蘭縣員山鄉頭分村永同路2段186之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.720384,
+                    24.760946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "老人文康中心",
+                "phone": "03-9227971",
+                "address": "宜蘭縣員山鄉員山村員山鄉文化路156號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.722886,
+                    24.745244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "雙湖社區活動中心",
+                "phone": "03-9228171",
+                "address": "宜蘭縣員山鄉湖西村隘界路131號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.68547,
+                    24.748286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "員山鄉公所",
+                "phone": "03-9231991#651",
+                "address": "宜蘭縣員山鄉員山村員山路1段322號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723343,
+                    24.743317
+                ]
+            }
+        }
+    ]
+}

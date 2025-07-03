@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "建山里社區活動中心",
+                "phone": "07-6881940",
+                "address": "高雄市桃源區建山里建山巷86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683955,
+                    23.106653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高中里活動中心",
+                "phone": "07-6881132",
+                "address": "高雄市桃源區高中里興中巷45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.719147,
+                    23.128914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "勤和里活動中心",
+                "phone": "07-6861132",
+                "address": "高雄市桃源區勤和里南橫公路3段平台巷36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.775639,
+                    23.171597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "馬舒霍爾文化聚會所梅山里活動中心",
+                "phone": "07-6866051",
+                "address": "高雄市桃源區梅山里梅山35之8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.825885,
+                    23.27325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "拉芙蘭里活動中心",
+                "phone": "07-6861132",
+                "address": "高雄市桃源區拉芙蘭里南橫公路5段108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.811623,
+                    23.23901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "桃源區公所文物館收容所",
+                "phone": "07-686132",
+                "address": "高雄市桃源區桃源里南進巷180號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.766304,
+                    23.159116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "桃源區寶山里活動中心",
+                "phone": "07-6861132",
+                "address": "高雄市桃源區寶山里寶山巷14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.708432,
+                    23.036076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "復興里活動中心",
+                "phone": "07-686132",
+                "address": "高雄市桃源區復興里愛玉路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.8044,
+                    23.217395
+                ]
+            }
+        }
+    ]
+}

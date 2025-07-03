@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立中正高級工業職業學校",
+                "phone": "07-7232301*501",
+                "address": "高雄市前鎮區竹西里光華二路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317629,
+                    22.610595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立前鎮國民中學",
+                "phone": "07-8217677*31",
+                "address": "高雄市前鎮區明道里新衙路17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.321031,
+                    22.583366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前鎮區樂群國民小學",
+                "phone": "07-7225846*731",
+                "address": "高雄市前鎮區竹內里育樂路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.322489,
+                    22.608234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立獅甲國民中學",
+                "phone": "07-3331522*31",
+                "address": "高雄市前鎮區建隆里中山三路43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308345,
+                    22.605091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前鎮區瑞豐國民小學",
+                "phone": "07-7110846",
+                "address": "高雄市前鎮區瑞華里瑞隆路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.337024,
+                    22.606069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立興仁國民中學",
+                "phone": "07-8218110*32",
+                "address": "高雄市前鎮區興仁里德昌路345號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313899,
+                    22.586338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立光華國民中學",
+                "phone": "07-7222622*532",
+                "address": "高雄市前鎮區竹東里和平二路170號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.322944,
+                    22.61083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前鎮區光華國民小學",
+                "phone": "07-7222846*11",
+                "address": "高雄市前鎮區竹中里廣西路57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32046,
+                    22.615341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前鎮區瑞祥國民小學",
+                "phone": "07-7221212*731",
+                "address": "高雄市前鎮區瑞祥里班超路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326798,
+                    22.600691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前鎮區佛公國民小學",
+                "phone": "07-8229801*131",
+                "address": "高雄市前鎮區草衙里后平路135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.320909,
+                    22.572651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前鎮區鎮昌國民小學",
+                "phone": "07-8116575*831",
+                "address": "高雄市前鎮區鎮海里樹人路261號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317983,
+                    22.590547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立瑞豐國民中學",
+                "phone": "07-7713181*310",
+                "address": "高雄市前鎮區瑞文里瑞興街99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.331091,
+                    22.611084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立前鎮高級中學",
+                "phone": "07-8226841*301",
+                "address": "高雄市前鎮區平等里鎮中路132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319908,
+                    22.587325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前鎮區前鎮國民小學",
+                "phone": "07-8212448*831",
+                "address": "高雄市前鎮區興化里新生路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308702,
+                    22.585436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前鎮區愛群國民小學",
+                "phone": "07-3320323*31",
+                "address": "高雄市前鎮區忠孝里二聖二路194號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312715,
+                    22.613959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前鎮區明正國民小學",
+                "phone": "07-8110965*310",
+                "address": "高雄市前鎮區明正里明道路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326581,
+                    22.580242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前鎮區民權國民小學",
+                "phone": "07-5367177*310",
+                "address": "高雄市前鎮區民權里沱江街200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314443,
+                    22.608481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立瑞祥高級中學",
+                "phone": "07-8152271*310",
+                "address": "高雄市前鎮區瑞南里班超路63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324758,
+                    22.602208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前鎮區復興國民小學",
+                "phone": "07-3351784*731",
+                "address": "高雄市前鎮區西山里民權二路331號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311425,
+                    22.608203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "崗山仔南區里聯合活動中心",
+                "phone": "07-8215176*179",
+                "address": "高雄市前鎮區瑞平里保泰路 303號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.333209,
+                    22.602397
+                ]
+            }
+        }
+    ]
+}

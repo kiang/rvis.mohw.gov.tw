@@ -1,0 +1,613 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區麗山國民小學",
+                "phone": "02-26574158#211",
+                "address": "臺北市內湖區麗山里臺北市內湖區港華街100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.577318,
+                    25.080278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區碧湖國民小學",
+                "phone": "02-27907161#181",
+                "address": "臺北市內湖區內湖里臺北市內湖區金龍路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.591108,
+                    25.085301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區麗湖國民小學",
+                "phone": "02-26343888#100",
+                "address": "臺北市內湖區金湖里內湖區金湖路363巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601277,
+                    25.073074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區大湖國民小學",
+                "phone": "02-27915870#100",
+                "address": "臺北市內湖區大湖里內湖區大湖山莊街170號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600361,
+                    25.088165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區康寧國民小學",
+                "phone": "02-27901237#118",
+                "address": "臺北市內湖區清白里內湖區星雲街121號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.594945,
+                    25.080034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "大湖公園",
+                "phone": "02-26586601#201",
+                "address": "臺北市內湖區秀湖里成功路五段31號旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.603982,
+                    25.082834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "內湖區行政大樓",
+                "phone": "02-27925828#320",
+                "address": "臺北市內湖區湖興里民權東路6段99號8樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.588922,
+                    25.069226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖運動中心",
+                "phone": "02-2570-2330#6428",
+                "address": "臺北市內湖區港墘里洲子街12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.575042,
+                    25.07822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立內湖高級中學",
+                "phone": "02-27977035#666",
+                "address": "臺北市內湖區紫陽里內湖區文德路218號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.586522,
+                    25.078403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區內湖國民小學",
+                "phone": "02-27998085#1001",
+                "address": "臺北市內湖區港富里內湖區內湖路2段41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.580211,
+                    25.079098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立內湖高級工業職業學校",
+                "phone": "02-26574874#301",
+                "address": "臺北市內湖區港墘里內湖路1段520號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.575447,
+                    25.079737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立明湖國民中學",
+                "phone": "02-26320616#100",
+                "address": "臺北市內湖區葫洲里內湖區康寧路3段60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610694,
+                    25.070644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立三民國民中學",
+                "phone": "02-27924772#100",
+                "address": "臺北市內湖區湖興里內湖區民權東路6段45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.586268,
+                    25.069167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立東湖國民中學",
+                "phone": "02-26330373#601",
+                "address": "臺北市內湖區樂康里內湖區康樂街131號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.619504,
+                    25.072268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區東湖國民小學",
+                "phone": "02-26339984#800",
+                "address": "臺北市內湖區東湖里內湖區東湖路115號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.615782,
+                    25.068539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區文湖國民小學",
+                "phone": "02-26583515#6000",
+                "address": "臺北市內湖區西康里內湖區文湖街15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.560131,
+                    25.085832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區西湖國民小學",
+                "phone": "02-27971267#101",
+                "address": "臺北市內湖區西湖里內湖區環山路1段25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.565679,
+                    25.0838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市西湖實驗國民中學",
+                "phone": "02-27991817#101",
+                "address": "臺北市內湖區西湖里內湖區環山路1段27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.565674,
+                    25.085836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立內湖國民中學",
+                "phone": "02-27900843#200",
+                "address": "臺北市內湖區紫陽里內湖區陽光街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.588723,
+                    25.076993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區明湖國民小學",
+                "phone": "02-26323477#71",
+                "address": "臺北市內湖區明湖里內湖區康寧路3段105號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61057,
+                    25.071097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區南湖高級中學",
+                "phone": "02-26308889#401",
+                "address": "臺北市內湖區南湖里內湖區康寧路3段220號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61113,
+                    25.066901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區南湖國民小學",
+                "phone": "02-26321296#11",
+                "address": "臺北市內湖區南湖里臺北市內湖區康寧路3段200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.611844,
+                    25.068086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區新湖國民小學",
+                "phone": "02-27963721#310",
+                "address": "臺北市內湖區湖興里臺北市內湖區民權東路6段138號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.588719,
+                    25.068826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市內湖區潭美國民小學",
+                "phone": "02-27917334#281",
+                "address": "臺北市內湖區週美里內湖區新明路22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.587759,
+                    25.062179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立麗山高級中學",
+                "phone": "02-26570435#100",
+                "address": "臺北市內湖區港華里臺北市內湖區環山路2段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.577928,
+                    25.084112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立麗山國民中學",
+                "phone": "02-27991867#101",
+                "address": "臺北市內湖區港都里內湖區內湖路1段629巷42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.575182,
+                    25.081741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "碧湖公園",
+                "phone": "02-26586601#201",
+                "address": "臺北市內湖區湖濱里內湖路二段175號,國立台灣戲曲學院旁."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.585794,
+                    25.081168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處臺北市花卉批發市場",
+                "phone": "02-2790-9729#100",
+                "address": "臺北市內湖區湖元里臺北市內湖區新湖三路28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.574206,
+                    25.062863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處西湖市場停車場",
+                "phone": "02-25505220#2119",
+                "address": "臺北市內湖區西湖里臺北市內湖區內湖路1段285號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566599,
+                    25.082411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "西湖區民活動中心",
+                "phone": "02-27925828#252",
+                "address": "臺北市內湖區西湖里臺北市內湖區內湖路1段285號7樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566599,
+                    25.082411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "港華區民活動中心",
+                "phone": "02-27925828#251",
+                "address": "臺北市內湖區港華里臺北市內湖區環山路二段68巷14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.575086,
+                    25.08671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "港墘區民活動中心",
+                "phone": "02-27925828#261",
+                "address": "臺北市內湖區港墘里臺北市內湖區內湖路一段552號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.576989,
+                    25.078724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "湖興區民活動中心",
+                "phone": "02-27925828#217",
+                "address": "臺北市內湖區湖興里臺北市內湖區成功路二段320巷19號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.589949,
+                    25.067733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館內湖分館",
+                "phone": "02-27918772#9",
+                "address": "臺北市內湖區湖興里臺北市內湖區民權東路六段99號6樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.588922,
+                    25.069226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館西中分館",
+                "phone": "02-87515497",
+                "address": "臺北市內湖區西湖里臺北市內湖區內湖路1段285巷66號1-2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566667,
+                    25.084824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館西湖分館",
+                "phone": "02-27973183",
+                "address": "臺北市內湖區港墘里臺北市內湖區內湖路一段594號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57726,
+                    25.078799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館東湖分館",
+                "phone": "02-26323378",
+                "address": "臺北市內湖區五分里臺北市內湖區五分街6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.612416,
+                    25.068659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "樂康區民活動中心",
+                "phone": "02-27925828#370",
+                "address": "臺北市內湖區樂康里臺北市內湖區康樂街150號6樓之一"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.619241,
+                    25.072627
+                ]
+            }
+        }
+    ]
+}

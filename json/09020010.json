@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金門縣立體育館",
+                "phone": "082-372361",
+                "address": "金門縣金城鎮南門里民族路261號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.314515,
+                    24.430116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金城鎮公所",
+                "phone": "082-325058#502",
+                "address": "金門縣金城鎮東門里民生路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.320224,
+                    24.432518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "前水頭社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮金水里前水頭150-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.295341,
+                    24.41264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "和平社區活動中心",
+                "phone": "082-373516",
+                "address": "金門縣金城鎮珠沙里和平新村130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.328457,
+                    24.414894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金門城社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮古城里金門城85-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.305763,
+                    24.402009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "賢庵里辦公處",
+                "phone": "082-323214",
+                "address": "金門縣金城鎮賢庵里賢聚25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.309881,
+                    24.417857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "官裡社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮賢庵里官裡1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.317867,
+                    24.411647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "賢聚社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮賢庵里賢聚10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.310334,
+                    24.416683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "吳厝社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮吳厝18-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.317468,
+                    24.420031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "泗湖社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮39-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.336345,
+                    24.412779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "珠山社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮珠山83-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.320927,
+                    24.402794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "小西門社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮珠沙里小西門22-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.327486,
+                    24.412986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "庵前社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮賢庵里庵前40-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.322,
+                    24.420235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "東沙社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮珠沙里東沙20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.3251,
+                    24.405181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "向陽吉第社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮西海路3段86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.310632,
+                    24.419612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "後豐港社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮金水里後豐港33-3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.301748,
+                    24.419776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "燕南山社區活動中心",
+                "phone": "082-325058",
+                "address": "金門縣金城鎮賢庵里古區28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.312841,
+                    24.410007
+                ]
+            }
+        }
+    ]
+}

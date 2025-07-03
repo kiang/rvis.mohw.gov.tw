@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "深坑第二市民活動中心",
+                "phone": "02-26623116-201",
+                "address": "新北市深坑區深坑里深坑里北深路2段166號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.614698,
+                    25.002514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "深坑國中",
+                "phone": "02-26621455#32",
+                "address": "新北市深坑區深坑里深坑里文化街41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.618263,
+                    25.00174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "深坑國小",
+                "phone": "02-26624675#212",
+                "address": "新北市深坑區深坑里深坑里文化街45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.615416,
+                    25.001847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "土庫第一市民活動中心",
+                "phone": "02-26627777",
+                "address": "新北市深坑區土庫里土庫里北深路1段83巷8弄36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.634587,
+                    25.010023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "阿柔市民活動中心",
+                "phone": "02-26624285",
+                "address": "新北市深坑區阿柔里阿柔里阿柔洋66號旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6066,
+                    24.998873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "昇高市民活動中心",
+                "phone": "02-26621648",
+                "address": "新北市深坑區昇高里昇高里旺耽路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.617357,
+                    24.997975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "東南科技大學",
+                "phone": "02-86625801",
+                "address": "新北市深坑區萬福里萬福里北深路3段152號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.604744,
+                    25.004432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "深坑區公所",
+                "phone": "02-26623116-218",
+                "address": "新北市深坑區深坑里深坑街10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.615966,
+                    25.002523
+                ]
+            }
+        }
+    ]
+}

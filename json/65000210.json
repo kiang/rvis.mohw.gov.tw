@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "馬偕醫學院",
+                "phone": "26360303#1136",
+                "address": "新北市三芝區埔坪里中正路三段46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.503528,
+                    25.258261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市三芝區公所",
+                "phone": "02-26362111-213",
+                "address": "新北市三芝區埔頭里新北區三芝區中山路一段32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.500283,
+                    25.259409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "橫山國小",
+                "phone": "02-26362473-13",
+                "address": "新北市三芝區橫山里大坑86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529765,
+                    25.258894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市三芝區八賢市民活動中心",
+                "phone": "02-26362111-265",
+                "address": "新北市三芝區八賢里八連溪41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513105,
+                    25.237065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市三芝區圓山市民活動中心",
+                "phone": "02-26362111-265",
+                "address": "新北市三芝區圓山里木屐寮32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5295,
+                    25.221698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市三芝區埔坪巿民活動中心",
+                "phone": "02-26362111-265",
+                "address": "新北市三芝區埔坪里新北市三芝區民生街31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.503562,
+                    25.256402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "興華國小",
+                "phone": "02-26371366-205",
+                "address": "新北市三芝區興華里田心子5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501531,
+                    25.203711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三芝國小",
+                "phone": "02-26362005-130",
+                "address": "新北市三芝區埔頭里新北市三芝區育英街22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501124,
+                    25.255825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三芝國中",
+                "phone": "02-26362004-19",
+                "address": "新北市三芝區埔坪里新北區三芝區淡金路一段38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.503381,
+                    25.258424
+                ]
+            }
+        }
+    ]
+}

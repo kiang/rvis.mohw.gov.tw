@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "吉安國小",
+                "phone": "8523984 #118",
+                "address": "花蓮縣吉安鄉吉安村吉安路二段97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56281,
+                    23.973416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "北昌活動中心",
+                "phone": "0920-659688",
+                "address": "花蓮縣吉安鄉北昌村建昌路45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.594724,
+                    23.986993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "勝安活動中心",
+                "phone": "0972-287285",
+                "address": "花蓮縣吉安鄉勝安村慈惠一街30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.586614,
+                    23.975515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "太昌活動中心",
+                "phone": "0921-632962",
+                "address": "花蓮縣吉安鄉太昌村太昌路488號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.563914,
+                    23.993638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "永安活動中心",
+                "phone": "0935-143999",
+                "address": "花蓮縣吉安鄉永安村太昌路202號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.573172,
+                    23.989177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "宜昌活動中心",
+                "phone": "0919-908192",
+                "address": "花蓮縣吉安鄉宜昌村吉祥六街52巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.583276,
+                    23.975722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "干城活動中心",
+                "phone": "0961-159846",
+                "address": "花蓮縣吉安鄉干城村干城一街97巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544965,
+                    23.947368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "仁里活動中心",
+                "phone": "0928-299197",
+                "address": "花蓮縣吉安鄉仁里村仁里五街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.592479,
+                    23.96843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "南華活動中心",
+                "phone": "0910-915328",
+                "address": "花蓮縣吉安鄉南華村南華四街123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551349,
+                    23.952855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "光華國小",
+                "phone": "8421611 #13",
+                "address": "花蓮縣吉安鄉光華村2鄰光華二街180號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.579143,
+                    23.935441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "東昌活動中心",
+                "phone": "0987-075937",
+                "address": "花蓮縣吉安鄉東昌村東海六街74號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.595557,
+                    23.96594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "光華活動中心",
+                "phone": "0972-600386",
+                "address": "花蓮縣吉安鄉光華村光華村光華二街200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.585075,
+                    23.937739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "化仁國中",
+                "phone": "8543471-100",
+                "address": "花蓮縣吉安鄉東昌村東海十街3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.593222,
+                    23.965509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "稻香活動中心",
+                "phone": "0933-996426",
+                "address": "花蓮縣吉安鄉稻香村廣豐路79號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.575749,
+                    23.954871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "南昌活動中心",
+                "phone": "0976-842952",
+                "address": "花蓮縣吉安鄉南昌村文化七街62之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.579795,
+                    23.970365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "新慶豐活動中心",
+                "phone": "0911-277100",
+                "address": "花蓮縣吉安鄉慶豐村慶北一街237之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.563432,
+                    23.982506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "福興活動中心",
+                "phone": "0911-275511",
+                "address": "花蓮縣吉安鄉福興村福興村福德街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.562485,
+                    23.969214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "仁和活動中心",
+                "phone": "03-8520012",
+                "address": "花蓮縣吉安鄉仁和村南海三街314號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.587619,
+                    23.956273
+                ]
+            }
+        }
+    ]
+}

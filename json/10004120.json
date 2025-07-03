@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "石磊國小",
+                "phone": "03-5847001",
+                "address": "新竹縣尖石鄉玉峰村10鄰石磊49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.326417,
+                    24.655545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "養老真耶穌教會",
+                "phone": "03-5847919",
+                "address": "新竹縣尖石鄉秀巒村12鄰養老9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.267051,
+                    24.588291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "玉峰國小",
+                "phone": "03-5847200",
+                "address": "新竹縣尖石鄉玉峰村05鄰59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.301204,
+                    24.660115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "義興分校",
+                "phone": "03-5841600",
+                "address": "新竹縣尖石鄉義興村08鄰51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.177772,
+                    24.689458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "拿互依長老教會",
+                "phone": "03-5842575",
+                "address": "新竹縣尖石鄉嘉樂村03鄰153號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.208352,
+                    24.706845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "宇老派出所",
+                "phone": "03-5847238",
+                "address": "新竹縣尖石鄉玉峰村01鄰宇老1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.281792,
+                    24.667546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "梅花村長老教會",
+                "phone": "03-5842351",
+                "address": "新竹縣尖石鄉梅花村04鄰95-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.204029,
+                    24.67311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新光天主堂",
+                "phone": "03-5847706",
+                "address": "新竹縣尖石鄉秀巒村08鄰26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.303466,
+                    24.578551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "玉峰村集會所",
+                "phone": "03-5847080",
+                "address": "新竹縣尖石鄉玉峰村05鄰38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.32659,
+                    24.654723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "嘉樂舊派出所",
+                "phone": "03-5841481",
+                "address": "新竹縣尖石鄉嘉樂村06鄰9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.226434,
+                    24.728148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "鎮西堡長老教會",
+                "phone": "03-5847713",
+                "address": "新竹縣尖石鄉秀巒村09鄰28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.303882,
+                    24.571035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "秀巒國小田埔分校",
+                "phone": "03-5847823",
+                "address": "新竹縣尖石鄉秀巒村01鄰田埔5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.278525,
+                    24.641417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "嘉興國小",
+                "phone": "03-5841004",
+                "address": "新竹縣尖石鄉嘉樂村03鄰麥樹仁177號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210712,
+                    24.705255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "錦屏村集會所",
+                "phone": "03-5841480",
+                "address": "新竹縣尖石鄉錦屏村01鄰4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.220038,
+                    24.692885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "那羅基督長老教會",
+                "phone": "03-5841034",
+                "address": "新竹縣尖石鄉錦屏村10鄰113號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.247787,
+                    24.680053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新樂集會所",
+                "phone": "03-5841486",
+                "address": "新竹縣尖石鄉新樂村01鄰水田29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.251157,
+                    24.732357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "尖石文化館",
+                "phone": "03-5841001",
+                "address": "新竹縣尖石鄉嘉樂村02鄰36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.201251,
+                    24.705095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "田埔天主堂",
+                "phone": "03-5841001",
+                "address": "新竹縣尖石鄉秀巒村01鄰田埔37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.278667,
+                    24.639993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "田埔文健站",
+                "phone": "03-5842301",
+                "address": "新竹縣尖石鄉秀巒村02鄰田埔66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.274755,
+                    24.638981
+                ]
+            }
+        }
+    ]
+}

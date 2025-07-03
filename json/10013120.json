@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "泰武活動中心",
+                "phone": "08-7831467",
+                "address": "屏東縣泰武鄉泰武村大武山一街38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.610874,
+                    22.604679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "佳佐國小",
+                "phone": "08-7832018",
+                "address": "屏東縣萬巒鄉佳和村佳興路59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59555,
+                    22.571172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "志成佛寺",
+                "phone": "08-7811510",
+                "address": "屏東縣萬巒鄉鹿寮村永康路31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562895,
+                    22.561446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬金天主教堂",
+                "phone": "08-7832005",
+                "address": "屏東縣萬巒鄉萬金村萬興路24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.611217,
+                    22.595082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "西方道堂",
+                "phone": "08-7832248",
+                "address": "屏東縣萬巒鄉新厝村富山路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.629699,
+                    22.580169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "佳佐國小中興分校",
+                "phone": "08-7832300",
+                "address": "屏東縣萬巒鄉新置村中興路27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.612303,
+                    22.54906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "五溝國小",
+                "phone": "08-7832285",
+                "address": "屏東縣萬巒鄉五溝村西盛路89號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.593982,
+                    22.590786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬巒鄉立幼兒園泗溝分班",
+                "phone": "08-7812460",
+                "address": "屏東縣萬巒鄉泗溝村永平路53-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57892,
+                    22.587859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬巒國小",
+                "phone": "08-7811627",
+                "address": "屏東縣萬巒鄉萬全村褒忠路28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.572284,
+                    22.57272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬巒國中",
+                "phone": "08-7812537#14",
+                "address": "屏東縣萬巒鄉萬和村褒忠路5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574724,
+                    22.570975
+                ]
+            }
+        }
+    ]
+}

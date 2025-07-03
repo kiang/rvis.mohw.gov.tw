@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大葛里集會所",
+                "phone": "05-3795102#221",
+                "address": "嘉義縣朴子市大葛里嘉義縣朴子市大葛里016鄰大槺榔50之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.264349,
+                    23.455976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "梅華活動中心",
+                "phone": "05-3795102#229",
+                "address": "嘉義縣朴子市梅華里嘉義縣朴子市梅華里002鄰牛挑灣3之20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.257891,
+                    23.408967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "朴子配天宮",
+                "phone": "05-3794265",
+                "address": "嘉義縣朴子市安福里黎明路1-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.246602,
+                    23.469436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "朴子市公所(多功能會議室)",
+                "phone": "05-3795102#101",
+                "address": "嘉義縣朴子市竹圍里嘉義縣朴子市竹圍里026鄰四維路一段551號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245963,
+                    23.458152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "雙溪口活動中心",
+                "phone": "05-3795102#226",
+                "address": "嘉義縣朴子市双溪里嘉義縣朴子市双溪里004鄰双溪口40之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.279195,
+                    23.48517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "祥和國小[室外]",
+                "phone": "05-3621839#208",
+                "address": "嘉義縣朴子市大葛里嘉義縣朴子市大葛里026鄰祥和二路西段9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287141,
+                    23.456986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "朴子國中[室外]",
+                "phone": "05-3792201#201",
+                "address": "嘉義縣朴子市竹圍里嘉義縣朴子市竹圍里009鄰大同路245號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.238873,
+                    23.461046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東石國中[室外]",
+                "phone": "05-3792027#210",
+                "address": "嘉義縣朴子市安福里嘉義縣朴子市安福里022鄰山通路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.250386,
+                    23.467822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "朴子國小[室外]",
+                "phone": "05-3792032#101",
+                "address": "嘉義縣朴子市安福里嘉義縣朴子市安福里010鄰山通路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247936,
+                    23.466659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "竹村國小[室外]",
+                "phone": "05-3693628#10",
+                "address": "嘉義縣朴子市竹村里嘉義縣朴子市竹村里004鄰鴨母寮36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.238856,
+                    23.434934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "雙溪國小[室外]",
+                "phone": "05-3795549#15",
+                "address": "嘉義縣朴子市双溪里嘉義縣朴子市双溪里003鄰双溪口30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.277822,
+                    23.483815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大同國小[室外]",
+                "phone": "05-3792144#100",
+                "address": "嘉義縣朴子市竹圍里嘉義縣朴子市竹圍里009鄰大同路239號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.240472,
+                    23.461029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "松梅國小[室外]",
+                "phone": "05-3691083#17",
+                "address": "嘉義縣朴子市松華里嘉義縣朴子市松華里020鄰牛挑灣345號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.250491,
+                    23.411473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大鄉國小[室外]",
+                "phone": "05-3792952#11",
+                "address": "嘉義縣朴子市大鄉里嘉義縣朴子市大鄉里015鄰大槺榔560號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.261236,
+                    23.453968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "崁後社區活動中心",
+                "phone": "05-3795102#227",
+                "address": "嘉義縣朴子市崁後里嘉義縣朴子市崁後里005鄰崁後37-9附1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.229082,
+                    23.447557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "朴子國小活動中心",
+                "phone": "05-3792032#101",
+                "address": "嘉義縣朴子市安福里嘉義縣朴子市安福里010鄰山通路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247936,
+                    23.466659
+                ]
+            }
+        }
+    ]
+}

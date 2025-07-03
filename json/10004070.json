@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新竹縣農會3樓",
+                "phone": "03-5921018#104",
+                "address": "新竹縣芎林鄉上山村10鄰文山路989號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.068668,
+                    24.787457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "秀湖社區活動中心",
+                "phone": "03-5931965",
+                "address": "新竹縣芎林鄉秀湖村04鄰五和街3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.116898,
+                    24.733726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "芎林村活動中心",
+                "phone": "03-5921135",
+                "address": "新竹縣芎林鄉芎林村07鄰文富街39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.07717,
+                    24.775023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "五龍村集會所",
+                "phone": "03-5921135",
+                "address": "新竹縣芎林鄉五龍村4鄰富林路1段138巷91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.122344,
+                    24.736276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "石潭社區活動中心",
+                "phone": "03-5921135",
+                "address": "新竹縣芎林鄉石潭村08鄰福昌街300巷47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.100607,
+                    24.748657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "華龍村集會所",
+                "phone": "03-5932729",
+                "address": "新竹縣芎林鄉華龍村06鄰176之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.135598,
+                    24.742721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "碧潭國小(僅提供室外收容)",
+                "phone": "03-5923191#666",
+                "address": "新竹縣芎林鄉石潭村11鄰福昌街90號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.103542,
+                    24.746746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "永興社區活動中心",
+                "phone": "03-5931800",
+                "address": "新竹縣芎林鄉永興村07鄰39之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.111239,
+                    24.749044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "中坑村集會所",
+                "phone": "03-5922731",
+                "address": "新竹縣芎林鄉中坑村02鄰7之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.092359,
+                    24.774958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "水坑村集會所",
+                "phone": "03-5921135",
+                "address": "新竹縣芎林鄉水坑村04鄰文華街183號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.098162,
+                    24.781742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "上山村活動中心",
+                "phone": "03-5921135",
+                "address": "新竹縣芎林鄉上山村05鄰綠獅三街6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.07445,
+                    24.783448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "芎林國中(僅提供室外收容)",
+                "phone": "03-5922775#51",
+                "address": "新竹縣芎林鄉新鳳村74號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.08857,
+                    24.764828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "文林村集會所",
+                "phone": "03-5921135",
+                "address": "新竹縣芎林鄉文林村07鄰文山路327號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.081428,
+                    24.774691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新鳳村集會所",
+                "phone": "03-5921135",
+                "address": "新竹縣芎林鄉新鳳村05鄰文衡路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.08801,
+                    24.767893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "敏實科技大學(僅提供室外收容)",
+                "phone": "03-5927700#2410",
+                "address": "新竹縣芎林鄉水坑村大華路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.092524,
+                    24.780439
+                ]
+            }
+        }
+    ]
+}

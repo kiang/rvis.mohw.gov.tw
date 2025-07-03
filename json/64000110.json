@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市小港區二苓國民小學",
+                "phone": "07-8016837#31",
+                "address": "高雄市小港區二苓里立群路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353258,
+                    22.56379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市小港區港和國民小學",
+                "phone": "07-8131506#330",
+                "address": "高雄市小港區港南里平和南路300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.337879,
+                    22.568097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市小港區華山國民小學",
+                "phone": "07-8062280#732",
+                "address": "高雄市小港區山明里華仁街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.365706,
+                    22.567696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市小港區明義國民小學",
+                "phone": "07-7917035#350",
+                "address": "高雄市小港區孔宅里明義街77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.367838,
+                    22.583386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "國立高雄餐旅大學附屬餐旅高級中等學校",
+                "phone": "07-8060705#35",
+                "address": "高雄市小港區山明里松和路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.371763,
+                    22.566216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立小港國民中學",
+                "phone": "07-8215929*330",
+                "address": "高雄市小港區港南里平和南路185號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.338348,
+                    22.56614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立小港高級中學",
+                "phone": "07-8062628#301",
+                "address": "高雄市小港區二苓里學府路117號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.356849,
+                    22.565266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立中山國民中學",
+                "phone": "07-8036006#533",
+                "address": "高雄市小港區順苓里漢民路352號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.355795,
+                    22.566087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市小港區青山國民小學",
+                "phone": "07-8014543#132",
+                "address": "高雄市小港區濟南里飛機路153號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36059,
+                    22.573022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市小港區鳳林國民中學",
+                "phone": "07-8711130#31",
+                "address": "高雄市小港區鳳興里龍鳳路559號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348552,
+                    22.521671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市小港區鳳林國民小學",
+                "phone": "07-8712367#731",
+                "address": "高雄市小港區鳳源里鳳林路207號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34199,
+                    22.526485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市小港區鳳陽國民小學",
+                "phone": "07-8010865#31",
+                "address": "高雄市小港區山明里鳳陽街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.370153,
+                    22.561457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市小港區鳳鳴國民小學",
+                "phone": "07-8714561#130",
+                "address": "高雄市小港區龍鳳里鳳鳴路191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.357365,
+                    22.51549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市小港區小港國民小學",
+                "phone": "07-8215923#311",
+                "address": "高雄市小港區港正里平和路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.335041,
+                    22.561717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市小港區漢民國民小學",
+                "phone": "07-8036569#731",
+                "address": "高雄市小港區六苓里漢民路500號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.359185,
+                    22.566704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立明義國民中學",
+                "phone": "07-7911296#31",
+                "address": "高雄市小港區孔宅里明義街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368241,
+                    22.582011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市小港區桂林國民小學",
+                "phone": "07-7910766*732",
+                "address": "高雄市小港區桂林里桂陽路390號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.350386,
+                    22.582908
+                ]
+            }
+        }
+    ]
+}

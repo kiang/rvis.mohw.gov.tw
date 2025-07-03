@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "東清國小",
+                "phone": "089-732989#11",
+                "address": "臺東縣蘭嶼鄉東清村1鄰東清1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564695,
+                    22.05685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "野銀社區發展協會",
+                "phone": "089-732854",
+                "address": "臺東縣蘭嶼鄉東清村13鄰野銀197之6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566979,
+                    22.039248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "舊蘭嶼國小",
+                "phone": "089-731633",
+                "address": "臺東縣蘭嶼鄉紅頭村3鄰紅頭78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552955,
+                    22.025974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "蘭恩活動中心",
+                "phone": "089-732073",
+                "address": "臺東縣蘭嶼鄉紅頭村11鄰漁人147號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539046,
+                    22.025978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "朗島國小",
+                "phone": "089-732109",
+                "address": "臺東縣蘭嶼鄉朗島村1鄰朗島17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.528577,
+                    22.079149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "蘭嶼國小",
+                "phone": "089-731576",
+                "address": "臺東縣蘭嶼鄉紅頭村1鄰紅頭1號 之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.562854,
+                    22.019642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "椰油國小",
+                "phone": "089-732017",
+                "address": "臺東縣蘭嶼鄉椰油村1鄰椰油1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51758,
+                    22.045279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "蘭嶼高中",
+                "phone": "089-732016#231",
+                "address": "臺東縣蘭嶼鄉椰油村1鄰椰油37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512118,
+                    22.048649
+                ]
+            }
+        }
+    ]
+}

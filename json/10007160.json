@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "永靖鄉立幼兒園",
+                "phone": "04-8238746",
+                "address": "彰化縣永靖鄉港西村彰化縣永靖鄉永社路267號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545804,
+                    23.915192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "老人文康活動中心",
+                "phone": "04-8221191*246",
+                "address": "彰化縣永靖鄉港西村彰化縣永靖鄉永社路266號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.546384,
+                    23.915188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "崙子社區活動中心",
+                "phone": "04-8223801",
+                "address": "彰化縣永靖鄉崙子村九分路192-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566427,
+                    23.930527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "湳墘社區活動中心",
+                "phone": "04-8231321",
+                "address": "彰化縣永靖鄉湳墘村忠心路13-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.528244,
+                    23.93539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "光雲社區活動中心",
+                "phone": "04-8221389",
+                "address": "彰化縣永靖鄉光雲村意善巷78-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55625,
+                    23.927423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "永靖國中",
+                "phone": "04-8221929#123",
+                "address": "彰化縣永靖鄉瑚璉村錫壽路123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55118,
+                    23.930029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "竹子社區活動中心",
+                "phone": "04-8242522",
+                "address": "彰化縣永靖鄉竹子村竹中巷41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.504003,
+                    23.924282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "港西社區活動中心",
+                "phone": "0927627773",
+                "address": "彰化縣永靖鄉港西村福德巷36-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541357,
+                    23.913983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新莊社區活動中心",
+                "phone": "04-8237777",
+                "address": "彰化縣永靖鄉新莊村永社路75-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.553833,
+                    23.906797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "五汴社區活動中心",
+                "phone": "0932546879",
+                "address": "彰化縣永靖鄉五汴村五汴巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560028,
+                    23.931315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "崙美社區活動中心",
+                "phone": "0925379229",
+                "address": "彰化縣永靖鄉崙美村獨鰲路270巷8-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.517923,
+                    23.917223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "同安社區活動中心",
+                "phone": "04-8222025",
+                "address": "彰化縣永靖鄉同安村西畔巷11-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.527666,
+                    23.925487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "永南社區活動中心",
+                "phone": "04-8221997",
+                "address": "彰化縣永靖鄉永南村永西路155號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542484,
+                    23.918572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "同仁社區活動中心",
+                "phone": "04-8247678",
+                "address": "彰化縣永靖鄉同仁村東畔路7-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531457,
+                    23.925588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "四芳集會所",
+                "phone": "04-8240568",
+                "address": "彰化縣永靖鄉四芳村四湳路55-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.523994,
+                    23.92394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "福興社區活動中心",
+                "phone": "04-8222097",
+                "address": "彰化縣永靖鄉福興村中肚巷52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.513739,
+                    23.918716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "永靖高工活動中心",
+                "phone": "04-8221810#516",
+                "address": "彰化縣永靖鄉永北村永坡路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545505,
+                    23.926687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "敦厚獨鰲聯合集會所",
+                "phone": "04-8239795",
+                "address": "彰化縣永靖鄉獨鰲村獨鰲路2段9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531503,
+                    23.919298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "五福社區活動中心",
+                "phone": "04-8225153",
+                "address": "彰化縣永靖鄉五福村五福村五福巷99-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540751,
+                    23.911083
+                ]
+            }
+        }
+    ]
+}

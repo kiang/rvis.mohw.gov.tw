@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東勢客家文化園區",
+                "phone": "04-25872106#46",
+                "address": "臺中市東勢區廣興里中山路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.831801,
+                    24.25764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區慶福里社區活動中心戶外停車場",
+                "phone": "04-25854978",
+                "address": "臺中市東勢區慶福里東勢區慶福里慶福街77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.845263,
+                    24.190722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區延平社區活動中心",
+                "phone": "04-25886293專線",
+                "address": "臺中市東勢區延平里本街40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.829159,
+                    24.252521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區東勢國小",
+                "phone": "04-25873442分機204",
+                "address": "臺中市東勢區廣興里第五橫街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.830899,
+                    24.258088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區東新國小",
+                "phone": "04-25881083分機731",
+                "address": "臺中市東勢區東新里東蘭路1之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.827553,
+                    24.260281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區東華國中",
+                "phone": "04-25853219分機302",
+                "address": "臺中市東勢區慶東里東關路五段490號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.839322,
+                    24.204996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區上城社區活動中心",
+                "phone": "04-25853520專線",
+                "address": "臺中市東勢區上城里上城街170巷16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.839237,
+                    24.219232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立東勢工業高級中等學校",
+                "phone": "04-25872136",
+                "address": "臺中市東勢區新盛里東關路六段1328號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.833837,
+                    24.243006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區新盛國小",
+                "phone": "04-25876642",
+                "address": "臺中市東勢區新盛里新盛街342號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.83132,
+                    24.243382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區新成國小",
+                "phone": "04-25853447",
+                "address": "臺中市東勢區上城里上城街260號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.839015,
+                    24.221798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立東勢國中",
+                "phone": "04-25873843",
+                "address": "臺中市東勢區泰昌里東崎路5段415號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.832336,
+                    24.250698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立中山國小",
+                "phone": "04-25872471分機12",
+                "address": "臺中市東勢區泰昌里中泰街88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.83538,
+                    24.252911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區明正國小",
+                "phone": "04-25874455分機14",
+                "address": "臺中市東勢區明正里東蘭路永盛巷57-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.790858,
+                    24.309314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區石角國小",
+                "phone": "04-25873011分機201",
+                "address": "臺中市東勢區隆興里東坑路西盛巷22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.850494,
+                    24.237648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區石城國小",
+                "phone": "04-25873152分機703",
+                "address": "臺中市東勢區茂興里石城街182巷26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.792462,
+                    24.28581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區東新國中",
+                "phone": "04-25872684分機51",
+                "address": "臺中市東勢區東新里東環街123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.829704,
+                    24.262892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東勢區鯉魚伯公公園",
+                "phone": "04-25872106#46",
+                "address": "臺中市東勢區東安里中正路東勢幼兒園旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.82564,
+                    24.255102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區成功國小",
+                "phone": "04-25852040",
+                "address": "臺中市東勢區慶東里東關路五段600號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.839265,
+                    24.206938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大甲溪河濱公園",
+                "phone": "04-25872106#46",
+                "address": "臺中市東勢區南平里臺八線起點暨大甲溪旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.827203,
+                    24.253164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區下城社區活動中心",
+                "phone": "04-25852877專線",
+                "address": "臺中市東勢區下城里城興街136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.836637,
+                    24.219816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區中科國小",
+                "phone": "04-25872534",
+                "address": "臺中市東勢區中嵙里東崎路4段92巷16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.851296,
+                    24.257189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市東勢區慶福社區活動中心",
+                "phone": "04-25854978專線",
+                "address": "臺中市東勢區慶福里東關路4段1068號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.84078,
+                    24.182867
+                ]
+            }
+        }
+    ]
+}

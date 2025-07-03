@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "麻豆太子宮",
+                "phone": "06-5711181",
+                "address": "臺南市麻豆區安業里安業272-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244592,
+                    23.161635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市麻豆區公所",
+                "phone": "06-5721131#115",
+                "address": "臺南市麻豆區東角里忠孝路250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.258442,
+                    23.18488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "麻豆代天府",
+                "phone": "06-5722133",
+                "address": "臺南市麻豆區南勢里關帝廟60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.260063,
+                    23.19022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "國立曾文高級農工職業學校",
+                "phone": "06-5721137#503",
+                "address": "臺南市麻豆區南勢里南勢1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.262621,
+                    23.187457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "麻豆國中",
+                "phone": "06-5722128#42",
+                "address": "臺南市麻豆區南勢里南勢36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.259968,
+                    23.18295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市麻豆區麻口社區活動中心",
+                "phone": "06-5702059",
+                "address": "臺南市麻豆區麻口里麻豆口54號之6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.218645,
+                    23.180041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "麻豆國小",
+                "phone": "06-5722145",
+                "address": "臺南市麻豆區東角里文昌路18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.253325,
+                    23.186292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "文正國小",
+                "phone": "06-5722168#86",
+                "address": "臺南市麻豆區南勢里南勢86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.266082,
+                    23.187542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "國立曾文高級家商職業學校",
+                "phone": "06-5722079#502",
+                "address": "臺南市麻豆區中興里和平路9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.246101,
+                    23.178379
+                ]
+            }
+        }
+    ]
+}

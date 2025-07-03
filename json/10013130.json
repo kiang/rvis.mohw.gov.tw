@@ -1,0 +1,373 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "大社村辦公處含活動中心",
+                "phone": "09-12024772",
+                "address": "屏東縣三地門鄉大社村和平路2段35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.637733,
+                    22.694157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "榮華國小",
+                "phone": "08-7701004轉13",
+                "address": "屏東縣內埔鄉建興村建興路216號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564547,
+                    22.660893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "東寧國小育英分校",
+                "phone": "08-7793004轉13",
+                "address": "屏東縣內埔鄉興南村育文路73號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.581515,
+                    22.62065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "內埔國中",
+                "phone": "08-7792013轉14",
+                "address": "屏東縣內埔鄉內埔村文化路262號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570496,
+                    22.611246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "東勢國小",
+                "phone": "7792449,7798691",
+                "address": "屏東縣內埔鄉東勢村大同路3段20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574109,
+                    22.637035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "新生國小",
+                "phone": "08-7708211轉14",
+                "address": "屏東縣內埔鄉大新村大新路109號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.590722,
+                    22.667221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "黎明國小",
+                "phone": "08-7701200轉14",
+                "address": "屏東縣內埔鄉黎明村西淇路177號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.596866,
+                    22.687445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "隘寮國小",
+                "phone": "08-7991036轉14",
+                "address": "屏東縣內埔鄉隘寮村清涼路二段238號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635726,
+                    22.702397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "泰安國小",
+                "phone": "08-7783031轉14",
+                "address": "屏東縣內埔鄉老埤村壽比路116號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.594317,
+                    22.630814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "內埔鄉文康中心",
+                "phone": "08-7781184",
+                "address": "屏東縣內埔鄉內埔村文化路183號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.569412,
+                    22.611028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "東寧國小",
+                "phone": "08-7785563轉23",
+                "address": "屏東縣內埔鄉內田村自強路85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562932,
+                    22.616071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "富田國小",
+                "phone": "08-7791034轉14",
+                "address": "屏東縣內埔鄉富田村里仁路202號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540446,
+                    22.615995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "崇文國小",
+                "phone": "7701004",
+                "address": "屏東縣內埔鄉龍泉村原勝路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.600219,
+                    22.666898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "崇文國中",
+                "phone": "08-7701864轉25",
+                "address": "屏東縣內埔鄉龍潭村昭勝路438號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.602107,
+                    22.678581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "內埔國小",
+                "phone": "08-7792055轉14",
+                "address": "屏東縣內埔鄉內埔村廣濟路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565999,
+                    22.609459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "豐田國小",
+                "phone": "7792445轉14",
+                "address": "屏東縣內埔鄉豐田村新中路49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540617,
+                    22.62655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "內埔鄉公所",
+                "phone": "08-7792001#710",
+                "address": "屏東縣內埔鄉內埔村南華路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570376,
+                    22.608347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "瑪家社區活動中心",
+                "phone": "08-7997056",
+                "address": "屏東縣瑪家鄉瑪家村瑪卡札亞街 1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647896,
+                    22.703502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "北葉社區活動中心",
+                "phone": "08-7991091",
+                "address": "屏東縣瑪家鄉北葉村風景巷1-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646867,
+                    22.708558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "佳義基督長老教會教育館",
+                "phone": "08-7990050",
+                "address": "屏東縣瑪家鄉佳義村76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.630947,
+                    22.654067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "北葉國小體育館",
+                "phone": "08-7991649",
+                "address": "屏東縣瑪家鄉北葉村1鄰風景1-22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646516,
+                    22.706688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "佳義社區活動中心",
+                "phone": "08-7990209",
+                "address": "屏東縣瑪家鄉佳義村泰平巷11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63096,
+                    22.653393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "玉泉社區活動中心",
+                "phone": "08-7992009",
+                "address": "屏東縣瑪家鄉三和村三和村1鄰玉泉1-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.619335,
+                    22.707917
+                ]
+            }
+        }
+    ]
+}

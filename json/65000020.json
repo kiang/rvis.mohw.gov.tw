@@ -1,0 +1,549 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三重高中",
+                "phone": "02-29760501#150",
+                "address": "新北市三重區光明里集美街212號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491473,
+                    25.054693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "過圳市民活動中心",
+                "phone": "02-29824583",
+                "address": "新北市三重區過田里過圳街19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48815,
+                    25.060112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "五華國小",
+                "phone": "02-28578087#502",
+                "address": "新北市三重區富貴里集賢路89號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.493449,
+                    25.086714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "碧華國中",
+                "phone": "02-29851121#650",
+                "address": "新北市三重區富貴里三信路166號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.489048,
+                    25.087232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "金陵女中",
+                "phone": "02-29956776#200",
+                "address": "新北市三重區中興里重新路五段656號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.466399,
+                    25.042508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "和平市民活動中心",
+                "phone": "02-89857814",
+                "address": "新北市三重區立德里自強路二段90號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.488345,
+                    25.070333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "厚德國小體操館地下室大禮堂",
+                "phone": "02-29868825#31",
+                "address": "新北市三重區立德里自強路二段93號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.488362,
+                    25.070723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "二重國中",
+                "phone": "02-29800137#301",
+                "address": "新北市三重區福田里忠孝路三段89號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.480479,
+                    25.065712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三重商工",
+                "phone": "02-29715606-400",
+                "address": "新北市三重區培德里中正北路163號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.480073,
+                    25.069648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "正義國小",
+                "phone": "02-29853138-2060",
+                "address": "新北市三重區正義里信義西街31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496116,
+                    25.064444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "正義市民活動中心",
+                "phone": "02-29817284",
+                "address": "新北市三重區雙園里雙園街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.497535,
+                    25.068238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "興穀國小",
+                "phone": "02-29990725-130",
+                "address": "新北市三重區五谷里神農街101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.474268,
+                    25.050578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "厚德國小",
+                "phone": "02-29868825#35",
+                "address": "新北市三重區立德里忠孝路一段70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48873,
+                    25.071822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "二重國小",
+                "phone": "02-29846446#151",
+                "address": "新北市三重區二重里大有街10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47797,
+                    25.065198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "永福國小",
+                "phone": "02-22876716#844",
+                "address": "新北市三重區永福里永福街66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.480638,
+                    25.077006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三光國小",
+                "phone": "02-29753308-631",
+                "address": "新北市三重區同安里大同南路157號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496746,
+                    25.056153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "修德國小",
+                "phone": "02-29800495#402",
+                "address": "新北市三重區重陽里重陽路三段3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4897286,
+                    25.0658348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "光興國小",
+                "phone": "02-29755352#130",
+                "address": "新北市三重區光輝里正義南路62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.498908,
+                    25.058881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三重國小",
+                "phone": "02-29722095-181",
+                "address": "新北市三重區奕壽里三和路三段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.497293,
+                    25.070412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "明志國中",
+                "phone": "02-29844132#120",
+                "address": "新北市三重區重陽里中正北路107號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.488986,
+                    25.063431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "格致中學",
+                "phone": "02-29855892#162",
+                "address": "新北市三重區永德里大智街260號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.488727,
+                    25.073839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "永盛市民活動中心",
+                "phone": "02-22800772",
+                "address": "新北市三重區永盛里車路頭街133號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.484838,
+                    25.075731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "菜寮市民活動中心",
+                "phone": "02-29742121",
+                "address": "新北市三重區菜寮里中寮街57巷18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.492768,
+                    25.057794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "六張市民活動中心",
+                "phone": "02-89816705",
+                "address": "新北市三重區福安里六張街66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.493807,
+                    25.070153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "穀保家商",
+                "phone": "02-29712343#352",
+                "address": "新北市三重區大有里中正北路560巷38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.471146,
+                    25.06971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "東海高中",
+                "phone": "02-29822788#602",
+                "address": "新北市三重區二重里忠孝路三段93巷12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.478958,
+                    25.064782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北高中",
+                "phone": "02-28577326#121",
+                "address": "新北市三重區富貴里三信路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.489287,
+                    25.087173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三重區綜合運動場防災公園",
+                "phone": "02-29867046",
+                "address": "新北市三重區過田里中正北路特2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4825841,
+                    25.067421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "重陽國小",
+                "phone": "02-29826272#131",
+                "address": "新北市三重區六福里中正北路113號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.484505,
+                    25.066306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "光榮國小",
+                "phone": "02-29730392#300",
+                "address": "新北市三重區奕壽里介壽路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501318,
+                    25.070927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "光榮國中",
+                "phone": "02-29721430#601",
+                "address": "新北市三重區奕壽里介壽路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.499921,
+                    25.070456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三和國中",
+                "phone": "02-22879890#301",
+                "address": "新北市三重區永盛里三和路四段216號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.486502,
+                    25.076578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "集美國小",
+                "phone": "02-89725390#301",
+                "address": "新北市三重區光明里集美街10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.487924,
+                    25.056467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "碧華國小",
+                "phone": "02-28577792#734",
+                "address": "新北市三重區富福里五華街160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.490769,
+                    25.084405
+                ]
+            }
+        }
+    ]
+}

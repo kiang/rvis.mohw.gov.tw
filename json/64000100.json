@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市旗津區中洲國民小學",
+                "phone": "07-5712225#731",
+                "address": "高雄市旗津區上竹里旗津二路275號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292788,
+                    22.580044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市旗津區公所5樓大禮堂",
+                "phone": "07-5712500#309",
+                "address": "高雄市旗津區南汕里旗津三路2號5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.284549,
+                    22.590402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立旗津國民中學",
+                "phone": "07-5712274#31",
+                "address": "高雄市旗津區南汕里中洲二路207號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285874,
+                    22.589252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市旗津區大汕國民小學",
+                "phone": "07-5712434#31",
+                "address": "高雄市旗津區南汕里中洲二路203號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287683,
+                    22.587852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市旗津區旗津國民小學",
+                "phone": "07-5715133#731",
+                "address": "高雄市旗津區慈愛里中洲三路623號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.271554,
+                    22.608982
+                ]
+            }
+        }
+    ]
+}

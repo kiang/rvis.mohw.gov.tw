@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "林中國小",
+                "phone": "05-5892064#2103",
+                "address": "雲林縣林內鄉林中村公園4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.615341,
+                    23.75485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "林內國小",
+                "phone": "05-5892019#13",
+                "address": "雲林縣林內鄉林南村中正路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.617534,
+                    23.75946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "淵明國中",
+                "phone": "05-5892027#046",
+                "address": "雲林縣林內鄉林中村公園路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.615035,
+                    23.758001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "林中社區活動中心",
+                "phone": "05-5892113",
+                "address": "雲林縣林內鄉林中村榮興路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614617,
+                    23.758835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "湖本社區活動中心",
+                "phone": "05-5898730",
+                "address": "雲林縣林內鄉湖本村三權路28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.622902,
+                    23.726638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "成功國小",
+                "phone": "05-5892090",
+                "address": "雲林縣林內鄉坪頂村坪頂1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640255,
+                    23.756871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "林內國中",
+                "phone": "05-5899306#105",
+                "address": "雲林縣林內鄉烏麻村長源路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57794,
+                    23.748125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "九芎國小",
+                "phone": "05-5892647#114",
+                "address": "雲林縣林內鄉九芎村文化路10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.603094,
+                    23.744057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "重興國小",
+                "phone": "05-5892044#046",
+                "address": "雲林縣林內鄉重興村重興15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57913,
+                    23.764068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "民生國小",
+                "phone": "05-5892714#203",
+                "address": "雲林縣林內鄉烏塗村華興路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59768302539368,
+                    23.76771611333259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "九芎社區活動中心(二)",
+                "phone": "05-5893175",
+                "address": "雲林縣林內鄉九芎村中央路160-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.600767,
+                    23.747119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "林內鄉公所大禮堂",
+                "phone": "05-5892001#251",
+                "address": "雲林縣林內鄉林中村中正路340號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.61297,
+                    23.756152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "九芎社區活動中心(一)",
+                "phone": "05-5893175",
+                "address": "雲林縣林內鄉九芎村中央路160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.601166,
+                    23.74676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "重興社區活動中心",
+                "phone": "05-5892001#251",
+                "address": "雲林縣林內鄉重興村重興70-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577209,
+                    23.767818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "林南社區活動中心",
+                "phone": "0918-892427",
+                "address": "雲林縣林內鄉林南村成功路13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.616573,
+                    23.758458
+                ]
+            }
+        }
+    ]
+}

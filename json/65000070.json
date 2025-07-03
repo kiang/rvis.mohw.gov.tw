@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三多市民活動中心",
+                "phone": "02-26812106#1518",
+                "address": "新北市樹林區三福里福興街17號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.404343,
+                    25.016611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "樹林體育場",
+                "phone": "02-26812106#1601",
+                "address": "新北市樹林區樹東里水源街81號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.425713,
+                    24.982386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "育林國小",
+                "phone": "02-26832112#302",
+                "address": "新北市樹林區樹南里復興路395號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.415668,
+                    24.985766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三多國中",
+                "phone": "02-86881501#502",
+                "address": "新北市樹林區獇寮里三多路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.414039,
+                    25.005866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "樹林區公所",
+                "phone": "02-26812106#1104",
+                "address": "新北市樹林區樹東里鎮前街93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.424488,
+                    24.990041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "樹林高中",
+                "phone": "02-86852011#2113",
+                "address": "新北市樹林區和平里中華路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.422462,
+                    24.982937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "柑園國中",
+                "phone": "02-26801958#114",
+                "address": "新北市樹林區柑園里柑園街二段125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.384209,
+                    24.954463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "武林國小",
+                "phone": "02-26812475#831",
+                "address": "新北市樹林區金寮里保安街二段151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.415363,
+                    25.001646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大同國小",
+                "phone": "02-86865486#842",
+                "address": "新北市樹林區大同里大同街43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.41752,
+                    24.981311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "樹林國小",
+                "phone": "02-26812014#833",
+                "address": "新北市樹林區樹西里育英街176號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.41783,
+                    24.989426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "山佳國小",
+                "phone": "02-26806673#831",
+                "address": "新北市樹林區山佳里中山路三段5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.401751,
+                    24.975518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "桃子腳國中小",
+                "phone": "02-89703225#8310",
+                "address": "新北市樹林區南園里學勤路555號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.382829,
+                    24.949026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "東陽市民活動中心",
+                "phone": "02-26812106#1518",
+                "address": "新北市樹林區東陽里鎮前街467號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.412602,
+                    24.982185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "文林國小",
+                "phone": "02-26812625#841",
+                "address": "新北市樹林區潭底里千歲街59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4261,
+                    24.997506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "山佳市民活動中心",
+                "phone": "02-26812106#1518",
+                "address": "新北市樹林區山佳里新興街3-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.400813,
+                    24.974042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "彭福國小",
+                "phone": "02-86866589#803",
+                "address": "新北市樹林區和平里忠孝街30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42344,
+                    24.98193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三多國小",
+                "phone": "02-26880698#145",
+                "address": "新北市樹林區三福里三福街52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.406436,
+                    25.016363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "育德國小",
+                "phone": "02-26805557#131",
+                "address": "新北市樹林區中山里佳園路一段34號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.392501,
+                    24.970894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "柑園國小",
+                "phone": "02-26802507#232",
+                "address": "新北市樹林區柑園里柑園街一段353號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.389476,
+                    24.955669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "育林國中",
+                "phone": "02-26841160#401",
+                "address": "新北市樹林區樹南里復興路395號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.415668,
+                    24.985766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "樂山市民活動中心",
+                "phone": "02-26812106#1518",
+                "address": "新北市樹林區樂山里中和街38號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.389858,
+                    24.973637
+                ]
+            }
+        }
+    ]
+}

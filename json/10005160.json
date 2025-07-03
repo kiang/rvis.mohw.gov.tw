@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "北埔社區活動中心",
+                "phone": "037-831224",
+                "address": "苗栗縣三灣鄉北埔村3鄰41-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.947852,
+                    24.644373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "永和三元宮",
+                "phone": "037-832747",
+                "address": "苗栗縣三灣鄉永和村石馬店3鄰11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.942142,
+                    24.637045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大河社區活動中心",
+                "phone": "037-831401",
+                "address": "苗栗縣三灣鄉大河村6鄰57-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.948051,
+                    24.617445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "三灣國中室外集合場",
+                "phone": "037831002",
+                "address": "苗栗縣三灣鄉三灣村忠信路17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.953587,
+                    24.649621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "三灣國小室內活動中心",
+                "phone": "037831006#2012",
+                "address": "苗栗縣三灣鄉三灣村中山路49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.955043,
+                    24.655698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "三灣國小操場",
+                "phone": "037831006#2012",
+                "address": "苗栗縣三灣鄉三灣村中山路49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.955043,
+                    24.655698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "三灣鄉老人文康中心(與「幼兒園」為同建築，第4層作為避難收容所)",
+                "phone": "037-832880",
+                "address": "苗栗縣三灣鄉三灣村肚兜角22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.954986,
+                    24.653538
+                ]
+            }
+        }
+    ]
+}

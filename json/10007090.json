@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "富山國小",
+                "phone": "0492522084",
+                "address": "彰化縣芬園鄉大埔村大埔路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.619494,
+                    24.02719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "芬園國小",
+                "phone": "0492522208",
+                "address": "彰化縣芬園鄉社口村彰南路4段27巷28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.62717,
+                    24.012067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "茄荖國小",
+                "phone": "0492523018",
+                "address": "彰化縣芬園鄉茄荖村嘉北街96號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643418,
+                    24.015331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "芬園鄉公所",
+                "phone": "049-2522949",
+                "address": "彰化縣芬園鄉社口村芬草路二段300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.629031,
+                    24.013718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "寶山國小",
+                "phone": "0492525010",
+                "address": "彰化縣芬園鄉圳墘村彰南路二段36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640063,
+                    23.986868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "同安國小",
+                "phone": "04-8590502",
+                "address": "彰化縣芬園鄉中崙村大彰路二段400巷36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.621268,
+                    23.977809
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "徐匯中學",
+                "phone": "22817565-8301",
+                "address": "新北市蘆洲區溪墘里中山一路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.479975,
+                    25.080266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "財團法人新北市基督徒蘆洲禮拜堂",
+                "phone": "22816700",
+                "address": "新北市蘆洲區仁德里三民路26巷71弄2號B1地下室"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.478567,
+                    25.083476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "忠義國小",
+                "phone": "22899591-201",
+                "address": "新北市蘆洲區正義里光榮路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.463854,
+                    25.089297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "永安兒童公園市民活動中心",
+                "phone": "8282-1087",
+                "address": "新北市蘆洲區恆德里永安北路二段42之6號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.481855,
+                    25.081662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "永平市民活動中心",
+                "phone": "82826354",
+                "address": "新北市蘆洲區永樂里永平街1號4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.459174,
+                    25.090358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "長安市民活動中心",
+                "phone": "28476141",
+                "address": "新北市蘆洲區忠義里長安街96號4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46194,
+                    25.080732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "重陽市民活動中心",
+                "phone": "82828010",
+                "address": "新北市蘆洲區樓厝里集賢路221巷11號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.483695,
+                    25.085719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "鷺江國小",
+                "phone": "22819980-9505",
+                "address": "新北市蘆洲區鷺江里民族路7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.476136,
+                    25.084357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "蘆洲國小",
+                "phone": "22816202-104",
+                "address": "新北市蘆洲區保和里中正路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.469947,
+                    25.084275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "得仁市民活動中心",
+                "phone": "82832126",
+                "address": "新北市蘆洲區得仁里中山一路415號6樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.469027,
+                    25.076702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "蘆洲區公所",
+                "phone": "02-22811484-145",
+                "address": "新北市蘆洲區保和里三民路95號7樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.473777,
+                    25.084699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "成功國小",
+                "phone": "22858998-840",
+                "address": "新北市蘆洲區成功里長安街311號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.457458,
+                    25.085673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "鷺江國中",
+                "phone": "82862517-112",
+                "address": "新北市蘆洲區正義里長樂路235號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461969,
+                    25.090264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三民高中",
+                "phone": "22894675-230",
+                "address": "新北市蘆洲區保和里三民路96號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.473007,
+                    25.086461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "蘆洲國中",
+                "phone": "22811571-310",
+                "address": "新北市蘆洲區中原里中正路265號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.466382,
+                    25.087088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "仁愛國小",
+                "phone": "22838815-830",
+                "address": "新北市蘆洲區水湳里民族路488號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.470993,
+                    25.091453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "民生市民活動中心",
+                "phone": "82828750",
+                "address": "新北市蘆洲區民和里民生街129巷14號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47354,
+                    25.078669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "水湳市民活動中心",
+                "phone": "22859885",
+                "address": "新北市蘆洲區水湳里民族路426巷17號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.473051,
+                    25.092713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "溪墘湧蓮市民活動中心",
+                "phone": "8282-8294",
+                "address": "新北市蘆洲區溪墘里信義路65號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.476051,
+                    25.079571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "蘆洲柳堤防災公園",
+                "phone": "02-22811484-126",
+                "address": "新北市蘆洲區正義里光榮路與長榮路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.459678,
+                    25.088373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "仁愛市民活動中心",
+                "phone": "0920430628",
+                "address": "新北市蘆洲區水湳里民權路143號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.471279,
+                    25.091017
+                ]
+            }
+        }
+    ]
+}

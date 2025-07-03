@@ -1,0 +1,501 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "員林高中活動中心",
+                "phone": "04-8320364",
+                "address": "彰化縣員林市南興里靜修路79號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.988108,
+                    24.778289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "東園國小",
+                "phone": "03-5712496#8604",
+                "address": "新竹市東區綠水里新竹市園後街25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.985302,
+                    24.800121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "建功國小",
+                "phone": "03-5713447#804",
+                "address": "新竹市東區軍功里新竹市建功1路104巷22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.998071,
+                    24.800457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "陽明交通大學",
+                "phone": "03-5712121#51508",
+                "address": "新竹市東區光明里新竹市大學路1001號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.999493,
+                    24.789142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "清華大學南大校區",
+                "phone": "03-5731305",
+                "address": "新竹市東區新興里新竹市南大路521號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.964826,
+                    24.794298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "清華大學",
+                "phone": "03-5730734",
+                "address": "新竹市東區光明里新竹市光復路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.999438,
+                    24.790528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "三民國小",
+                "phone": "03-326345#16",
+                "address": "新竹市東區復興里新竹市自由路66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.981454,
+                    24.812639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "曙光女中",
+                "phone": "03-5325709#601",
+                "address": "新竹市東區錦華里新竹市北大路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.972297,
+                    24.812284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "育賢國中",
+                "phone": "03-5223075#402",
+                "address": "新竹市東區光鎮里新竹市南大路569號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.965699,
+                    24.790028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "培英國中",
+                "phone": "03-5721301#304",
+                "address": "新竹市東區建華里新竹市學府路4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97814,
+                    24.794355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "水源國小",
+                "phone": "03-5711125#107",
+                "address": "新竹市東區水源里新竹市仰德路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.995624,
+                    24.818904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "新竹國小",
+                "phone": "03-522215#261",
+                "address": "新竹市東區振興里新竹市南大路500號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.966396,
+                    24.796182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "青草湖國小",
+                "phone": "03-5200360#2040",
+                "address": "新竹市東區明湖里新竹市東區明湖路 1211 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.978466,
+                    24.768951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "曙光國小",
+                "phone": "03-5328283",
+                "address": "新竹市東區文華里新竹市北大路70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97092,
+                    24.81229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "新竹高中",
+                "phone": "03-5736666#306",
+                "address": "新竹市東區東山里新竹市學府路36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.977971,
+                    24.795736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "新竹高商",
+                "phone": "03-5722150#201",
+                "address": "新竹市東區綠水里新竹市學府路128號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.984713,
+                    24.796855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "建華國中",
+                "phone": "03-238075#130",
+                "address": "新竹市東區建華里新竹市學府路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.976798,
+                    24.793842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "新竹高工",
+                "phone": "03-5318742",
+                "address": "新竹市東區三民里新竹市中華路二段2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.983046,
+                    24.809429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "東區區公所",
+                "phone": "03-5218231",
+                "address": "新竹市東區育賢里新竹市民族路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.973479,
+                    24.804248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "光武國中",
+                "phone": "03-5773934#700",
+                "address": "新竹市東區龍山里新竹市光復路1段512號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011864,
+                    24.786031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "東門國小",
+                "phone": "03-5222109#8601",
+                "address": "新竹市東區育賢里新竹市民族路33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.972509,
+                    24.805696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "三民國中",
+                "phone": "03-5332158",
+                "address": "新竹市東區復興里新竹市自由路95巷15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97954,
+                    24.813084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "科園國小",
+                "phone": "03-6668421#130",
+                "address": "新竹市東區科園里新竹市東區科園里7鄰科學園路171號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.012285,
+                    24.781942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "龍山國小",
+                "phone": "035774287#713",
+                "address": "新竹市東區龍山里新竹市東區光復路一段574號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.007464,
+                    24.789273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "建功高中",
+                "phone": "03-5745892#300",
+                "address": "新竹市東區立功里新竹市建功二路17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00218,
+                    24.797908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "新科國中",
+                "phone": "03-6686387#851",
+                "address": "新竹市東區金山里新竹市光復路一段89巷88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.023695,
+                    24.780048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "陽光國小",
+                "phone": "03-5629600#115",
+                "address": "新竹市東區新光里新竹市明湖路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.968253,
+                    24.790679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "關東國小",
+                "phone": "03-5775645#306",
+                "address": "新竹市東區關東里新竹市關東路53號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.021165,
+                    24.784472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "新竹實驗中學",
+                "phone": "03-5777011#251",
+                "address": "新竹市東區科園里新竹市介壽路300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.016192,
+                    24.777396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "光復中學",
+                "phone": "03-5753515",
+                "address": "新竹市東區光明里新竹市光復路二段153號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.993039,
+                    24.798743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "新竹女中",
+                "phone": "03-5456611#500",
+                "address": "新竹市東區三民里新竹市中華路二段270號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.975603,
+                    24.804828
+                ]
+            }
+        }
+    ]
+}

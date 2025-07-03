@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "和平國小",
+                "phone": "02-26631405#206",
+                "address": "新北市石碇區隆盛里靜安路一段5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.641724,
+                    25.011662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "石碇國小",
+                "phone": "02-26631244#18",
+                "address": "新北市石碇區石碇里石碇西街15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.658955,
+                    24.990262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "石碇綜合活動大樓",
+                "phone": "02-26631080#296",
+                "address": "新北市石碇區豐林里楓子林32-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.642308,
+                    25.010135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "雲海國小",
+                "phone": "02-26651715#11",
+                "address": "新北市石碇區格頭里北宜路五段坑內巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.637192,
+                    24.953129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "石碇高中",
+                "phone": "02-26631224#300",
+                "address": "新北市石碇區隆盛里八分寮45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.642596,
+                    25.012743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "永定國小",
+                "phone": "02-26631288#2022",
+                "address": "新北市石碇區永定里靜安路一段245號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.688007,
+                    25.007795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "彭山市民活動中心",
+                "phone": "02-26633697",
+                "address": "新北市石碇區彭山里崩山33-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.677834,
+                    24.964345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "石碇區公所",
+                "phone": "02-26631080#296",
+                "address": "新北市石碇區潭邊里碇坪路一段37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.657929,
+                    24.991503
+                ]
+            }
+        }
+    ]
+}

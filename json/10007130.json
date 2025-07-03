@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "加錫及貢旗聯合集會所",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉加錫村加錫二巷3之8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.525623,
+                    23.985378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大西國小",
+                "phone": "04-8522677",
+                "address": "彰化縣大村鄉大崙村大崙路10號之55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.52538,
+                    23.984697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "村上國小",
+                "phone": "04-8533680#103",
+                "address": "彰化縣大村鄉村上村中山路2段242號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564763,
+                    23.988947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "村東國小",
+                "phone": "04-8526328#515",
+                "address": "彰化縣大村鄉福興村山腳路102號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.585559,
+                    23.993551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大葉大學",
+                "phone": "04-8511888#1130",
+                "address": "彰化縣大村鄉福興村學府路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.596309,
+                    24.001239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大村鄉公所",
+                "phone": "048-520149#131",
+                "address": "彰化縣大村鄉大村村中正西路338號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547192,
+                    23.99348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大村國中",
+                "phone": "04-8521231#210",
+                "address": "彰化縣大村鄉村上村中山路2段240號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565504,
+                    23.988171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大村國小",
+                "phone": "04-8522794#120",
+                "address": "彰化縣大村鄉大村村中正西路381號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545413,
+                    23.993722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大崙及新興聯合集會所",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉大崙村大崙二巷28之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.514656,
+                    23.989142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "茄苳社區活動中心",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉茄苳村茄苳路二段141巷31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538887,
+                    24.008638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "美港社區活動中心",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉美港村中山路一段118號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.572303,
+                    23.977739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大橋社區活動中心",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉大橋村中山路三段193巷69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.555699,
+                    23.999631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "擺塘社區活動中心",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉擺塘村擺塘橫巷1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559718,
+                    23.985299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大村村社區活動中心",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉大村村茄苳路一段203號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544287,
+                    23.998141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "貢旗社區活動中心",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉貢旗村大崙路2-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538747,
+                    23.988316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "田洋社區活動中心",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉田洋村田洋巷11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533225,
+                    23.996389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新興社區活動中心",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉新興村新興巷6-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5366,
+                    23.974003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "村上社區活動中心",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉村上村中正東路98巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566688,
+                    23.988848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "過溝社區活動中心",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉過溝村過溝三巷36-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55396,
+                    23.992857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "過溝集會所",
+                "phone": "04-8529583",
+                "address": "彰化縣大村鄉過溝村過溝村鎮安二巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.558124,
+                    23.99191
+                ]
+            }
+        }
+    ]
+}

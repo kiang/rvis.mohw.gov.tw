@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "燕巢區公所禮堂",
+                "phone": "07-6161411#171",
+                "address": "高雄市燕巢區安招里中安路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.362078,
+                    22.78808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "燕巢老人活動中心（備用）",
+                "phone": "07-6165771",
+                "address": "高雄市燕巢區南燕里中南路23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.364223,
+                    22.791456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "東燕社區活動中心（備用）",
+                "phone": "07-6160978",
+                "address": "高雄市燕巢區中華路10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.369225,
+                    22.795297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "安招社區活動中心（備用）",
+                "phone": "07-6142095",
+                "address": "高雄市燕巢區安招里安南路1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340802,
+                    22.786232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "尖山社區活動中心（備用）",
+                "phone": "07-6169696",
+                "address": "高雄市燕巢區尖山里紅山巷91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.366498,
+                    22.807641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "鳳雄社區活動中心（備用）",
+                "phone": "0933-369-338",
+                "address": "高雄市燕巢區鳳雄里鳳旗路152-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.354885,
+                    22.754587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市燕巢區深水國民小學（備用）",
+                "phone": "07-6152447#204",
+                "address": "高雄市燕巢區深水里深中路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.405278,
+                    22.777038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市燕巢區橫山國民小學（備用）",
+                "phone": "07-6152479#40",
+                "address": "高雄市燕巢區橫山里橫山路24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.379471,
+                    22.768542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市燕巢區燕巢國民小學（備用）",
+                "phone": "07-6161495#130",
+                "address": "高雄市燕巢區東燕里中華路177號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36587,
+                    22.795258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市燕巢區安招國民小學（備用）",
+                "phone": "07-6162553#40",
+                "address": "高雄市燕巢區瓊林里安招路170號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33783,
+                    22.790854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市燕巢區金山國民小學（備用）",
+                "phone": "07-6164328#731",
+                "address": "高雄市燕巢區金山里番田路29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.398079,
+                    22.811802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市燕巢區鳳雄國民小學（備用）",
+                "phone": "07-6153782#40",
+                "address": "高雄市燕巢區鳳雄里鳳加路52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358357,
+                    22.753298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "燕巢區民眾活動中心",
+                "phone": "07-6161411#171",
+                "address": "高雄市燕巢區南燕里中興路427號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.362246,
+                    22.782475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立燕巢國民中學（備用）",
+                "phone": "07-6161267#31",
+                "address": "高雄市燕巢區南燕里中興路267號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.362844,
+                    22.785833
+                ]
+            }
+        }
+    ]
+}

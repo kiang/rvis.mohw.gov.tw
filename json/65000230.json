@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "商港公園",
+                "phone": "02-2610-2621#253",
+                "address": "新北市八里區訊塘里商港一路和商港八路交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.397839,
+                    25.14806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "聖心國小",
+                "phone": "2618-2330#101",
+                "address": "新北市八里區龍源里龍米路一段261號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.450368,
+                    25.134217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "聖心女中",
+                "phone": "02-26182287#115",
+                "address": "新北市八里區龍源里龍米路一段263號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.449562,
+                    25.134812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大埤頂市民活動中心",
+                "phone": "02-86305857",
+                "address": "新北市八里區大崁里中山路1段95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.415234,
+                    25.159078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "米倉國小",
+                "phone": "02-26182202#231",
+                "address": "新北市八里區米倉里龍米路2段129巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.445396,
+                    25.146849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "龍米市民活動中心",
+                "phone": "02-26181246",
+                "address": "新北市八里區龍源里龍源里龍米路1段223號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.451074,
+                    25.131962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "文化活動中心",
+                "phone": "02-86303264",
+                "address": "新北市八里區舊城里中山路2段251號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.402921,
+                    25.148741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "長坑市民活動中心",
+                "phone": "02-26102621#122",
+                "address": "新北市八里區長坑里中華路三段190號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.389672,
+                    25.128335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "八里國小",
+                "phone": "02-26102217#6300",
+                "address": "新北市八里區舊城里中山路二段338號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.403031,
+                    25.149515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "長坑國小",
+                "phone": "02-26102037#116",
+                "address": "新北市八里區長坑里中華路三段236號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.390474,
+                    25.125544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "八里國中",
+                "phone": "02-26102016#500",
+                "address": "新北市八里區荖阡里荖阡坑路15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.40128,
+                    25.1399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大崁國小",
+                "phone": "02-86305678#150",
+                "address": "新北市八里區大崁里忠八街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.419406,
+                    25.160305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "八里區公所文康活動中心",
+                "phone": "02-26102621#365",
+                "address": "新北市八里區頂罟里八里大道22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.409733,
+                    25.156891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大崁老人活動中心",
+                "phone": "02-26102621#155",
+                "address": "新北市八里區大崁里中山路1段21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.422099,
+                    25.158923
+                ]
+            }
+        }
+    ]
+}

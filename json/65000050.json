@@ -1,0 +1,581 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "頭前防災公園",
+                "phone": "02-29929891#1223",
+                "address": "新北市新莊區頭前里頭前路123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.468396,
+                    25.052624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "私立恆毅高級中學",
+                "phone": "02-29923619#132",
+                "address": "新北市新莊區立人里中正路108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45376,
+                    25.036553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "丹鳳高中",
+                "phone": "02-29089627#121",
+                "address": "新北市新莊區龍鳳里龍安路72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.416169,
+                    25.021198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "輔仁大學",
+                "phone": "02-29052381",
+                "address": "新北市新莊區營盤里中正路510號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.434105,
+                    25.032937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "國泰國小",
+                "phone": "02-29043693#402",
+                "address": "新北市新莊區營盤里中正路386號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.441711,
+                    25.034171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "頭前國小",
+                "phone": "02-29920238#831",
+                "address": "新北市新莊區頭前里化成路231號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.466129,
+                    25.052925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中港國小",
+                "phone": "02-29925550#832",
+                "address": "新北市新莊區立志里中港一街142號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447166,
+                    25.045069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "思賢國小",
+                "phone": "02-29980443#831",
+                "address": "新北市新莊區自立里自立街229號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.456556,
+                    25.045562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "丹鳳國小",
+                "phone": "02-29035355#138",
+                "address": "新北市新莊區雙鳳里新北大道七段437號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.413815,
+                    25.024184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "瓊泰活動中心",
+                "phone": "02-22065514",
+                "address": "新北市新莊區瓊林里瓊泰路85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.443139,
+                    25.029306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新莊國中",
+                "phone": "02-22766326#213",
+                "address": "新北市新莊區榮和里中正路211號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.452488,
+                    25.035938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新泰市民活動中心",
+                "phone": "02-29924125",
+                "address": "新北市新莊區忠孝里建中街116巷3弄2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.445587,
+                    25.037061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "四維市民活動中心",
+                "phone": "02-22033453",
+                "address": "新北市新莊區南港里四維路186巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.421825,
+                    25.02117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "全安市民活動中心",
+                "phone": "02-29929891#122",
+                "address": "新北市新莊區全安里新莊路527號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447891,
+                    25.033283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新莊高中",
+                "phone": "02-29912391#202",
+                "address": "新北市新莊區立基里中平路135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.444658,
+                    25.048183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "豐年市民活動中心",
+                "phone": "02-22065646",
+                "address": "新北市新莊區泰豐里豐年街57號之5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.446718,
+                    25.03037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "牡丹心市民活動中心",
+                "phone": "02-29033753",
+                "address": "新北市新莊區雙鳳里雙鳳路75號5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.414928,
+                    25.027664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新泰國中",
+                "phone": "02-29960745#501",
+                "address": "新北市新莊區立泰里新泰路359號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.444378,
+                    25.042594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "昌平國小",
+                "phone": "02-85215492#751",
+                "address": "新北市新莊區昌平里昌平街200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.455581,
+                    25.056404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "福營國中",
+                "phone": "02-22048741#254",
+                "address": "新北市新莊區萬安里富國路105號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42251,
+                    25.025324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "頭前國中",
+                "phone": "02-85222862#301",
+                "address": "新北市新莊區和平里中原路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.459484,
+                    25.055184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中平國中",
+                "phone": "02-29908092#831",
+                "address": "新北市新莊區立廷里中平路385號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.444531,
+                    25.053756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新莊國小",
+                "phone": "2993-1201#831",
+                "address": "新北市新莊區立人里中正路86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.456423,
+                    25.036968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "民安國小",
+                "phone": "02-22056777#34",
+                "address": "新北市新莊區民全里民安路261號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.427798,
+                    25.021633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "福營行政大樓",
+                "phone": "02-29929891#3717",
+                "address": "新北市新莊區四維里四維路9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.423751,
+                    25.024294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新泰國小",
+                "phone": "02-29971005#221",
+                "address": "新北市新莊區忠孝里公園一路91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.443787,
+                    25.037841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "裕民國小",
+                "phone": "02-29062407#761",
+                "address": "新北市新莊區裕民里裕民街123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.418001,
+                    25.021856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "昌隆國小",
+                "phone": "02-29962351#512",
+                "address": "新北市新莊區昌隆里昌隆街63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.455404,
+                    25.051403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "興化國小",
+                "phone": "02-22991001#402",
+                "address": "新北市新莊區福興里五工二路50巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461637,
+                    25.065916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "豐年國小",
+                "phone": "02-22017102#26",
+                "address": "新北市新莊區國泰里瓊泰路116號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.443332,
+                    25.03093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "光華國小",
+                "phone": "02-22058866#834",
+                "address": "新北市新莊區光明里龍安路452號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.425203,
+                    25.017901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "榮富國小",
+                "phone": "02-22769020#847",
+                "address": "新北市新莊區中平里中和街193號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447398,
+                    25.051431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中信國小",
+                "phone": "02-85211131#403",
+                "address": "新北市新莊區中原里中信街168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447991,
+                    25.056274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "福壽市民活動中心",
+                "phone": "02-29940609",
+                "address": "新北市新莊區信義里昌明街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.457633,
+                    25.052213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新莊區公所",
+                "phone": "02-29929891#3720",
+                "address": "新北市新莊區興漢里中正路176號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.450558,
+                    25.035834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新莊體育場(防災公園)",
+                "phone": "02-29929891#1223",
+                "address": "新北市新莊區立德里公園路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448185,
+                    25.039698
+                ]
+            }
+        }
+    ]
+}

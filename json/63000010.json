@@ -1,0 +1,501 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立民生國民中學",
+                "phone": "02-27653433#111",
+                "address": "臺北市松山區新東里新東街30巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.567329,
+                    25.059828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市松山區三民國民小學",
+                "phone": "02-27646080#299",
+                "address": "臺北市松山區莊敬里民權東路5段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564279,
+                    25.063275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立敦化國民中學",
+                "phone": "02-87717890#611",
+                "address": "臺北市松山區中正里南京東路3段300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546792,
+                    25.051524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市松山區民生國民小學",
+                "phone": "02-27122452#880",
+                "address": "臺北市松山區中華里敦化北路199巷18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552044,
+                    25.056508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "民權公園",
+                "phone": "02-25850192#201",
+                "address": "臺北市松山區東榮里民權東路四段、新中街交叉口民權國小旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55627,
+                    25.061803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市松山運動中心",
+                "phone": "02-2570-2330#6429",
+                "address": "臺北市松山區中正里敦化北路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.550144,
+                    25.048929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北田徑場",
+                "phone": "02-25702330#6541",
+                "address": "臺北市松山區中正里敦化北路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.550952,
+                    25.049886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北體育館",
+                "phone": "02-25702330#6552",
+                "address": "臺北市松山區中正里南京東路4段10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551958,
+                    25.051327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立中山國民中學",
+                "phone": "02-27126701#101",
+                "address": "臺北市松山區民有里復興北路361巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.545533,
+                    25.06054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立中崙高級中學",
+                "phone": "02-27535316#100",
+                "address": "臺北市松山區吉祥里八德路4段101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.561069,
+                    25.048705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "民生公園",
+                "phone": "02-25850192#201",
+                "address": "臺北市松山區介壽里民生東路五段36巷4弄與8弄間."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557203,
+                    25.057839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立介壽國民中學",
+                "phone": "02-27664496#288",
+                "address": "臺北市松山區介壽里延壽街401號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.556529,
+                    25.056405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市松山區民族國民小學",
+                "phone": "02-27124872#910",
+                "address": "臺北市松山區精忠里民生東路四段97巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55191,
+                    25.058875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立西松高級中學",
+                "phone": "02-25286618#101",
+                "address": "臺北市松山區鵬程里健康路325巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.567099,
+                    25.055571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市松山區西松國民小學",
+                "phone": "02-27609221#100",
+                "address": "臺北市松山區東光里三民路5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.563614,
+                    25.052198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市松山區松山國民小學",
+                "phone": "02-27672907#601",
+                "address": "臺北市松山區慈祐里八德路四段746號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.579269,
+                    25.051205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市松山區健康國民小學",
+                "phone": "02-25282814#100",
+                "address": "臺北市松山區自強里延壽街168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.562923,
+                    25.056622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "敦化國小",
+                "phone": "02-27414065#160",
+                "address": "臺北市松山區中正里敦化北路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.548541,
+                    25.049102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市松山區民權國民小學",
+                "phone": "02-27652327#688",
+                "address": "臺北市松山區三民里民權東路四段200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.562298,
+                    25.062508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "南京復興站",
+                "phone": "25505600#5182",
+                "address": "臺北市松山區中正里臺北市松山區南京東路3段253號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544404,
+                    25.05205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處嘟嘟房敦北頂好站停車場",
+                "phone": "2550-5220 #5016",
+                "address": "臺北市松山區精忠里臺北市松山區敦化北路199巷5號地下1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55153,
+                    25.056992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館三民分館",
+                "phone": "02-27600408",
+                "address": "臺北市松山區三民里臺北市松山區民生東路五段163-1號5、6樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.562907,
+                    25.059287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館中崙分館",
+                "phone": "02-87736858",
+                "address": "臺北市松山區中正里臺北市松山區長安東路二段229號7-10樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.545169,
+                    25.048369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館民生分館",
+                "phone": "02-27138083",
+                "address": "臺北市松山區精忠里臺北市松山區敦化北路199巷5號4、5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55153,
+                    25.056992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館啟明分館",
+                "phone": "02-25148443",
+                "address": "臺北市松山區中華里臺北市松山區敦化北路155巷76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551475,
+                    25.054319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處龍城市場地下停車場",
+                "phone": "02-25505220#2118",
+                "address": "臺北市松山區龍田里臺北市松山區光復北路190巷39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554216,
+                    25.054682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "中正區民活動中心",
+                "phone": "02-87878787#815",
+                "address": "臺北市松山區中正里臺北市松山區長安東路2段229號11樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.545169,
+                    25.048369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "民有區民活動中心",
+                "phone": "02-87878787#815",
+                "address": "臺北市松山區民有里臺北市松山區民權東路三段140巷15號4、5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546741,
+                    25.0605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "自強區民活動中心",
+                "phone": "02-87878787#815",
+                "address": "臺北市松山區自強里臺北市松山區三民路35巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.562472,
+                    25.055319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "慈祐區民活動中心",
+                "phone": "02-87878787#815",
+                "address": "臺北市松山區慈祐里臺北市松山區八德路4段568號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.573452,
+                    25.050128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "鵬程區民活動中心",
+                "phone": "02-87878787#815",
+                "address": "臺北市松山區鵬程里臺北市松山區健康路399號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.568859,
+                    25.054601
+                ]
+            }
+        }
+    ]
+}

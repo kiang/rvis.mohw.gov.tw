@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "小坵村活動中心",
+                "phone": "0910551761",
+                "address": "金門縣烏坵鄉小坵村16號媽祖廟旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.47,
+                    24.98
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "大坵村避難所",
+                "phone": "0826-66039",
+                "address": "金門縣烏坵鄉大坵村烏坵鄉公所旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.453178,
+                    24.988739
+                ]
+            }
+        }
+    ]
+}

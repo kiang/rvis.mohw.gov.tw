@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "新化區北勢里活動中心",
+                "phone": "06-5988195",
+                "address": "臺南市新化區北勢里北勢39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291225,
+                    23.045731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新化區保生大帝廟",
+                "phone": "06-5987996",
+                "address": "臺南市新化區豐榮里洋子127號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295845,
+                    23.033716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新化區那拔國小操場",
+                "phone": "06-5911591#73",
+                "address": "臺南市新化區那拔里那拔54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349594,
+                    23.067945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "新化區老人文康活動中心",
+                "phone": "06-5905648",
+                "address": "臺南市新化區東榮里和平街31巷10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3099,
+                    23.033048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新化區大新國小大禮堂",
+                "phone": "06-5982953#703",
+                "address": "臺南市新化區協興里太平街176 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299006,
+                    23.038164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新化區公所3樓展演廳",
+                "phone": "06-5905009#111",
+                "address": "臺南市新化區護國里中山路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310773,
+                    23.038515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新化區新化國中大禮堂",
+                "phone": "06-5902269#250",
+                "address": "臺南市新化區東榮里中興路722號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312361,
+                    23.033429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新化區體育公園",
+                "phone": "06-5905009#501",
+                "address": "臺南市新化區武安里公園路110號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306618,
+                    23.029755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新化區口奉口順天宮",
+                "phone": "06-5987872",
+                "address": "臺南市新化區口奉口里口奉口142號之26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290058,
+                    23.040997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "新化區崙頂社區活動中心",
+                "phone": "06-5986227",
+                "address": "臺南市新化區崙頂里崙子頂422號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287879,
+                    23.022566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "新化區聯合活動中心",
+                "phone": "06-5905356",
+                "address": "臺南市新化區太平里民生路269號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307053,
+                    23.041792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新化區接天寺",
+                "phone": "06-5911764",
+                "address": "臺南市新化區羊林里那拔林500號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348138,
+                    23.064843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "那拔及羊林里活動中心",
+                "phone": "0936980611",
+                "address": "臺南市新化區那拔里那拔林329號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.350223,
+                    23.06617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新化區大坑里活動中心",
+                "phone": "06-5802828",
+                "address": "臺南市新化區大坑里大坑尾182號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.384806,
+                    23.009326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新化區新化國民小學",
+                "phone": "06-5902035#740",
+                "address": "臺南市新化區護國里中山路173號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310993,
+                    23.037658
+                ]
+            }
+        }
+    ]
+}

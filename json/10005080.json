@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "南湖國中操場",
+                "phone": "037-991209#101",
+                "address": "苗栗縣大湖鄉義和村蔗部坪12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.868434,
+                    24.397457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大湖國中操場",
+                "phone": "037-991054#66",
+                "address": "苗栗縣大湖鄉靜湖村民族路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.870983,
+                    24.426857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "栗林國小操場",
+                "phone": "037-951335#101",
+                "address": "苗栗縣大湖鄉栗林村5鄰四份61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.843208,
+                    24.373791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大湖農工操場",
+                "phone": "037-992216#300",
+                "address": "苗栗縣大湖鄉大寮村17鄰竹高屋68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.861571,
+                    24.421354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "東興國小",
+                "phone": "037-992815",
+                "address": "苗栗縣大湖鄉東興村下湖37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.882371,
+                    24.380402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "東興國小操場",
+                "phone": "037-992815",
+                "address": "苗栗縣大湖鄉東興村下湖37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.882371,
+                    24.380402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大湖農工活動中心",
+                "phone": "037-992216#300",
+                "address": "苗栗縣大湖鄉大寮村17鄰竹高屋68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.861571,
+                    24.421354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大湖國中",
+                "phone": "037-991054#66",
+                "address": "苗栗縣大湖鄉靜湖村民族路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.870983,
+                    24.426857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "南湖國中活動中心",
+                "phone": "037-991209#101",
+                "address": "苗栗縣大湖鄉義和村3鄰蔗篰坪12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.868275,
+                    24.397395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "武榮社區活動中心",
+                "phone": "037-990461",
+                "address": "苗栗縣大湖鄉武榮村4鄰武榮14之5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.864455,
+                    24.375197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "栗林社區活動中心",
+                "phone": "037-951263",
+                "address": "苗栗縣大湖鄉栗林村5鄰四份61號之2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.84277,
+                    24.373346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大湖國小活動中心",
+                "phone": "037-991008#701",
+                "address": "苗栗縣大湖鄉大湖村中正路育英巷11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.869805,
+                    24.421368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大湖國小操場",
+                "phone": "037-991008#701",
+                "address": "苗栗縣大湖鄉大湖村中正路育英巷11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.869805,
+                    24.421368
+                ]
+            }
+        }
+    ]
+}

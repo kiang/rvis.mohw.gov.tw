@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "慶安社區活動中心",
+                "phone": "06-7955872",
+                "address": "臺南市西港區慶安里新興街107巷32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.200301,
+                    23.12379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "後營國小金砂分校",
+                "phone": "06-7952131#706",
+                "address": "臺南市西港區金砂里砂凹子10-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.205457,
+                    23.15699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "永樂里活動中心",
+                "phone": "06-7950656",
+                "address": "臺南市西港區永樂里大塭寮59-35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.179019,
+                    23.103967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "西港區圖書館",
+                "phone": "06-7951840",
+                "address": "臺南市西港區西港里中山路370號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.203326,
+                    23.123446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "港東里活動中心",
+                "phone": "06-7953001",
+                "address": "臺南市西港區港東里烏竹林58-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.216094,
+                    23.123139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "成功國小",
+                "phone": "06-7952204#2820",
+                "address": "臺南市西港區竹林里大竹林11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.180449,
+                    23.121407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "西港區老人文康活動中心",
+                "phone": "06-7961482",
+                "address": "臺南市西港區營西里後營1-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.215876,
+                    23.139342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "西港國中",
+                "phone": "06-7952071#166",
+                "address": "臺南市西港區西港里文化路41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.204986,
+                    23.124172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "新復里活動中心",
+                "phone": "06-7957668",
+                "address": "臺南市西港區新復里溪埔寮19-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.184563,
+                    23.085166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "私立港明中學",
+                "phone": "06-7952025#18",
+                "address": "臺南市西港區南海里慶安路229號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.195728,
+                    23.119147
+                ]
+            }
+        }
+    ]
+}

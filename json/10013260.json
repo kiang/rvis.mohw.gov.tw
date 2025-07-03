@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "賽嘉國小",
+                "phone": "08-7992220#12",
+                "address": "屏東縣三地門鄉賽嘉村賽嘉巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639444,
+                    22.743069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "口社國小",
+                "phone": "08-7956495#14",
+                "address": "屏東縣三地門鄉口社村信義巷65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.644648,
+                    22.765605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "安坡村辦公處",
+                "phone": "08-7957637",
+                "address": "屏東縣三地門鄉安坡村高山巷1-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.630408,
+                    22.792732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "地磨兒國小",
+                "phone": "08-7991462#14",
+                "address": "屏東縣三地門鄉三地村行政街9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.654518,
+                    22.714903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "青山國小",
+                "phone": "08-7962493#14",
+                "address": "屏東縣三地門鄉青山村民族巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.641368,
+                    22.817112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "青山村辦公處",
+                "phone": "08-7965822",
+                "address": "屏東縣三地門鄉青山村民族巷60-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640011,
+                    22.816168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "青葉國小",
+                "phone": "08-7961997#14",
+                "address": "屏東縣三地門鄉青葉村光復巷1-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639123,
+                    22.837692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "三地門鄉立體育館",
+                "phone": "08-7991104#703",
+                "address": "屏東縣三地門鄉三地村行政街11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653127,
+                    22.713956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "三地門鄉立幼兒園口社分班",
+                "phone": "08-7958450",
+                "address": "屏東縣三地門鄉口社村1鄰2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.642117,
+                    22.771177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "三地門鄉立幼兒園青葉分班",
+                "phone": "08-7966245",
+                "address": "屏東縣三地門鄉青葉村光復巷65-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.638699,
+                    22.837748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "三地門鄉立幼兒園",
+                "phone": "08-7993010",
+                "address": "屏東縣三地門鄉賽嘉村賽嘉巷43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.638369,
+                    22.743663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "三地村集會所",
+                "phone": "08-7991104#707",
+                "address": "屏東縣三地門鄉三地村行政街10-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653219,
+                    22.713073
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "泰武國中",
+                "phone": "08-7831025#14",
+                "address": "屏東縣泰武鄉佳平村120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.633019,
+                    22.591875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "武潭村活動中心",
+                "phone": "08-7836615",
+                "address": "屏東縣泰武鄉武潭村潭中巷83號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635338,
+                    22.578218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬安村辦公處",
+                "phone": "7836609",
+                "address": "屏東縣泰武鄉萬安村1鄰3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.638733,
+                    22.626998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "佳興村辦公處",
+                "phone": "7920014",
+                "address": "屏東縣泰武鄉佳興村28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.661745,
+                    22.569659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "平和村辦公處",
+                "phone": "08-7850778",
+                "address": "屏東縣泰武鄉平和村太和巷17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.629315,
+                    22.552752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "佳平活動中心",
+                "phone": "08-7835474",
+                "address": "屏東縣泰武鄉佳平村佳平巷12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.628947,
+                    22.591405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "台灣基督長老教會比悠瑪教會",
+                "phone": "7850044教會",
+                "address": "屏東縣泰武鄉平和村太和巷53號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.629842,
+                    22.552326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "武潭國小柔道館",
+                "phone": "08-7833179#14",
+                "address": "屏東縣泰武鄉武潭村潭中巷45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.634462,
+                    22.578385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "武潭國小平和分校多功能教室",
+                "phone": "08-7851265",
+                "address": "屏東縣泰武鄉平和村太和巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.631817,
+                    22.55403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "武潭國小佳平分校多功能教室",
+                "phone": "08-7833198",
+                "address": "屏東縣泰武鄉佳平村118號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.631596,
+                    22.591196
+                ]
+            }
+        }
+    ]
+}

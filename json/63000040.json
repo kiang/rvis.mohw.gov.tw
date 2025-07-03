@@ -1,0 +1,581 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立五常國民中學",
+                "phone": "02-25014320#311",
+                "address": "臺北市中山區下埤里復興北路430巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543092,
+                    25.06349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山區中山國民小學",
+                "phone": "02-25914085#8010",
+                "address": "臺北市中山區恆安里民權東路1段69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.526315,
+                    25.062913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "榮星花園公園",
+                "phone": "02-25850192#201",
+                "address": "臺北市中山區行仁里民權東路3段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541034,
+                    25.062591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山區行政中心大禮堂",
+                "phone": "02-25031369#618",
+                "address": "臺北市中山區行政里松江路367號10樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533501,
+                    25.064395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山運動中心",
+                "phone": "02-2570-2330#6467",
+                "address": "臺北市中山區民安里中山北路二段44巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521563,
+                    25.054843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "新生公園棒球場",
+                "phone": "02-25702330#6504",
+                "address": "臺北市中山區新庄里新生北路三段105號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.528778,
+                    25.070225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立大同高級中學",
+                "phone": "02-25054269#102",
+                "address": "臺北市中山區中央里中山區長春路167號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5348594,
+                    25.0565183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山區大佳國民小學",
+                "phone": "02-25035816#100",
+                "address": "臺北市中山區大佳里中山區濱江街107號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.535954,
+                    25.073302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立大直高級中學",
+                "phone": "02-25334017#111",
+                "address": "臺北市中山區劍潭里中山區北安路420號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54285,
+                    25.079432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山區大直國民小學",
+                "phone": "02-25333953#66",
+                "address": "臺北市中山區大直里中山區大直街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546432,
+                    25.080494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立中山女子高級中學",
+                "phone": "02-25073148#100",
+                "address": "臺北市中山區力行里長安東路2段141號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.537161,
+                    25.048532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山區中正國民小學",
+                "phone": "02-25070932#100",
+                "address": "臺北市中山區力行里龍江路62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540263,
+                    25.050622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立五常國民小學",
+                "phone": "02-25023416#888",
+                "address": "臺北市中山區下埤里五常街16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542213,
+                    25.064195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山區北安國民中學",
+                "phone": "02-2533-3888#210",
+                "address": "臺北市中山區劍潭里明水路325號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541624,
+                    25.077788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山區永安國民小學",
+                "phone": "02-25335672#201",
+                "address": "臺北市中山區永安里明水路397巷19弄1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549392,
+                    25.078735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山區吉林國民小學",
+                "phone": "02-25219196#888",
+                "address": "臺北市中山區中原里長春路116號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52963,
+                    25.054717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山區長安國民小學",
+                "phone": "02-25617600#100",
+                "address": "臺北市中山區興亞里吉林路15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530182,
+                    25.049759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立長安國民中學",
+                "phone": "02-25112382#101",
+                "address": "臺北市中山區興亞里松江路70巷11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.531925,
+                    25.049413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山區長春國民小學",
+                "phone": "02-25024366#101",
+                "address": "臺北市中山區中央里長春路165號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533883,
+                    25.054948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山區濱江國民小學",
+                "phone": "02-85021571#1000",
+                "address": "臺北市中山區金泰里樂群二路266巷99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.561684,
+                    25.077313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市濱江實驗國民中學",
+                "phone": "02-85020126#102",
+                "address": "臺北市中山區金泰里樂群二路262號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.560716,
+                    25.079598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中山區懷生國民小學",
+                "phone": "02-27710846#100",
+                "address": "臺北市中山區埤頭里安東街16巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541745,
+                    25.045276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "花博公園圓山園區",
+                "phone": "02-25850192#201",
+                "address": "臺北市中山區圓山里玉門街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520497,
+                    25.070359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "下塔悠(公7)公園",
+                "phone": "02-25850192#201",
+                "address": "臺北市中山區金泰里樂群一路旁，基隆河截彎取直範圍內"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.558379,
+                    25.08031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "華山公園",
+                "phone": "02-25850192#201",
+                "address": "臺北市中山區正守里市民大道二段"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.528698,
+                    25.046854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "金泰(公8)公園",
+                "phone": "02-25850192#201",
+                "address": "臺北市中山區金泰里樂群一路旁,基隆河截彎取直範圍內"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.558379,
+                    25.08031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "明水公園",
+                "phone": "02-25850192#201",
+                "address": "臺北市中山區永安里北安路538巷1弄1號前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.548015,
+                    25.079785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處臺北市第二果菜市場",
+                "phone": "02-2516-0028",
+                "address": "臺北市中山區行孝里民族東路336號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.537341,
+                    25.067923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處臺北市民族魚市",
+                "phone": "2309-0327",
+                "address": "臺北市中山區行孝里臺北市中山區民族東路410巷2弄18、20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538038,
+                    25.066746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "松江南京站",
+                "phone": "25505600#5172",
+                "address": "臺北市中山區中吉里松江路126號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532765,
+                    25.052709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處長春市場地下停車場",
+                "phone": "2550-5220 #2124",
+                "address": "臺北市中山區龍洲里長春路299號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542265,
+                    25.054735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立美術館",
+                "phone": "02-25957656#514",
+                "address": "臺北市中山區圓山里中山北路181號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524637,
+                    25.072444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館大直分館",
+                "phone": "02-25336535",
+                "address": "臺北市中山區大直里大直街25號3-5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546614,
+                    25.081855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館中山分館",
+                "phone": "02-25026442",
+                "address": "臺北市中山區行政里松江路367號8樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533501,
+                    25.064395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館長安分館",
+                "phone": "02-25625540",
+                "address": "臺北市中山區民安里長安西路3號4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521201,
+                    25.050163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "中山地下街",
+                "phone": "2550-5600#3223",
+                "address": "臺北市中山區民安里長安西路52-1號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5201925,
+                    25.0500519
+                ]
+            }
+        }
+    ]
+}

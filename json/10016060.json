@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "澎湖縣七美鄉公所",
+                "phone": "06-9971007#62",
+                "address": "澎湖縣七美鄉中和村2鄰10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.424576,
+                    23.206814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "東湖社區暨農漁民活動中心",
+                "phone": "06-9971007#62",
+                "address": "澎湖縣七美鄉東湖村3鄰39號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.437595,
+                    23.210998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "西湖社區活動中心",
+                "phone": "06-9971007#62",
+                "address": "澎湖縣七美鄉西湖村西湖村6鄰38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.429418,
+                    23.214766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "七美鄉老人文康活動中心",
+                "phone": "06-9971007#62",
+                "address": "澎湖縣七美鄉中和村中和村10鄰55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.42856,
+                    23.202463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "中和社區活動中心",
+                "phone": "06-9971007#62",
+                "address": "澎湖縣七美鄉中和村中和村5鄰41號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.433477,
+                    23.205559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "平和社區活動中心",
+                "phone": "06-9971007#62",
+                "address": "澎湖縣七美鄉平和村平和村8鄰23號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.421285,
+                    23.20923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "海豐社區活動中心",
+                "phone": "06-9971007#62",
+                "address": "澎湖縣七美鄉海豐村海豐村9鄰3號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.425213,
+                    23.203993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "南港社區活動中心",
+                "phone": "06-9971007#62",
+                "address": "澎湖縣七美鄉南港村1鄰43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.425799,
+                    23.193284
+                ]
+            }
+        }
+    ]
+}

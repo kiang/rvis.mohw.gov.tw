@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市六甲區七甲龍湖聯合多功能活動中心",
+                "phone": "06-6982032",
+                "address": "臺南市六甲區七甲里七甲街89巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.345192,
+                    23.221966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市六甲區龜港里活動中心",
+                "phone": "06-6982117",
+                "address": "臺南市六甲區龜港里龜子港80巷38弄8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31444,
+                    23.2517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市六甲區菁埔里活動中心",
+                "phone": "06-6984657",
+                "address": "臺南市六甲區菁埔里菁埔83號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302508,
+                    23.236217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市六甲區六甲國中",
+                "phone": "06-6892040",
+                "address": "臺南市六甲區六甲里民權街43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34889,
+                    23.227405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市六甲區公所",
+                "phone": "06-6982001",
+                "address": "臺南市六甲區水林里中山路202號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.347466,
+                    23.231847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市六甲區六甲國小",
+                "phone": "06-6982041",
+                "address": "臺南市六甲區六甲里中正路319號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.350282,
+                    23.225895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市六甲區多功能運動公園",
+                "phone": "06-6982001",
+                "address": "臺南市六甲區二甲里和平街479號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.343529,
+                    23.231909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市六甲區大丘里活動中心",
+                "phone": "06-6988386",
+                "address": "臺南市六甲區大丘里大丘園5號派出所旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.436862,
+                    23.219372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市六甲區林鳳國小",
+                "phone": "06-6983583#123",
+                "address": "臺南市六甲區中社里中社240號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325519,
+                    23.238593
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "順安村活動中心",
+                "phone": "03-8611280",
+                "address": "花蓮縣新城鄉順安村12鄰草林84-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63737,
+                    24.118354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "新城鄉原住民多功能活動中心",
+                "phone": "03-8267223",
+                "address": "花蓮縣新城鄉大漢村大安街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.604782,
+                    24.040462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "興田社區活動中心",
+                "phone": "03-8611519",
+                "address": "花蓮縣新城鄉新城村新興1街62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.649857,
+                    24.129625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "七星潭社區活動中心",
+                "phone": "03-8265717",
+                "address": "花蓮縣新城鄉大漢村明潭街27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.629793,
+                    24.027056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "樹林腳社區活動中心",
+                "phone": "03-8269669",
+                "address": "花蓮縣新城鄉北埔村樹林街57巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597728,
+                    24.040683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "大漢村活動中心",
+                "phone": "03-8265717",
+                "address": "花蓮縣新城鄉大漢村19鄰民有街101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.609982,
+                    24.036819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "秀林國中活動中心",
+                "phone": "03-8611010",
+                "address": "花蓮縣新城鄉新城村中山路56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.653226,
+                    24.125909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "康樂村活動中心",
+                "phone": "03-8267223",
+                "address": "花蓮縣新城鄉康樂村大漢街390號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.608362,
+                    24.049502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "財團法人基督教芥菜種會花蓮習藝所",
+                "phone": "03-8260653#3210",
+                "address": "花蓮縣新城鄉北埔路13之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606219,
+                    24.02746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "佳林社區活動中心",
+                "phone": "038-261745",
+                "address": "花蓮縣新城鄉佳林村民有二街29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.602335,
+                    24.021114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "嘉新社區活動中心",
+                "phone": "038-8226694",
+                "address": "花蓮縣新城鄉嘉新村嘉南一街43巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.612252,
+                    24.005469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "嘉里村社區活動中心",
+                "phone": "038-266684",
+                "address": "花蓮縣新城鄉嘉里村嘉里二街31巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.607776,
+                    24.017396
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,693 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "社口社區活動中心",
+                "phone": "05-2535375",
+                "address": "嘉義縣中埔鄉社口村嘉義縣中埔鄉社口村9鄰番仔坑7號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.546817,
+                    23.439041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中埔鄉公所",
+                "phone": "05-2533321#103",
+                "address": "嘉義縣中埔鄉中埔村嘉義縣中埔鄉中埔村15鄰中埔128號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.52294,
+                    23.425166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "龍門社區活動中心",
+                "phone": "05-2533810",
+                "address": "嘉義縣中埔鄉龍門村嘉義縣中埔鄉4鄰龍門村龍山脚33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.508852,
+                    23.422058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "和興社區活動中心",
+                "phone": "05-2395564",
+                "address": "嘉義縣中埔鄉和興村嘉義縣中埔鄉和興村33鄰中華路305巷246號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451614,
+                    23.439478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "三和公園活動中心",
+                "phone": "05-2305520",
+                "address": "嘉義縣中埔鄉和睦村嘉義縣中埔鄉和睦村13鄰中華路630巷43-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.457071,
+                    23.444542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "灣潭社區活動中心",
+                "phone": "05-2536025",
+                "address": "嘉義縣中埔鄉灣潭村嘉義縣中埔鄉灣潭村16鄰客庄17號之2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559563,
+                    23.428166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "和睦社區活動中心",
+                "phone": "05-2305520",
+                "address": "嘉義縣中埔鄉和睦村嘉義縣中埔鄉和睦村15鄰公舘42-18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459211,
+                    23.444507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "社口國小禮堂-室內",
+                "phone": "05-2531094",
+                "address": "嘉義縣中埔鄉隆興村嘉義縣中埔鄉隆興村2鄰8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540665,
+                    23.438224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中埔國小活動中心-室內",
+                "phone": "05-2531003",
+                "address": "嘉義縣中埔鄉中埔村嘉義縣中埔村中正路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541201,
+                    23.419591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "和睦國小綜合教室-室內",
+                "phone": "05-2304511",
+                "address": "嘉義縣中埔鄉和美村嘉義縣中埔鄉和美村10鄰後庄16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463166,
+                    23.452228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中山國小視聽教室-室內",
+                "phone": "05-2531231",
+                "address": "嘉義縣中埔鄉石硦村嘉義縣中埔鄉石硦村13鄰22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549034,
+                    23.410654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大有國小圖書館-室內",
+                "phone": "05-2531561",
+                "address": "嘉義縣中埔鄉裕民村嘉義縣中埔鄉裕民村石頭厝17號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.498697,
+                    23.433261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中山藤寮分校童軍營區前排教室-室內",
+                "phone": "05-2531231",
+                "address": "嘉義縣中埔鄉石硦村嘉義縣中埔鄉石硦村6鄰藤寮54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545227,
+                    23.418368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東興社區活動中心",
+                "phone": "05-2537652",
+                "address": "嘉義縣中埔鄉東興村嘉義縣中埔鄉東興村5鄰25-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541312,
+                    23.355858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "興化廍社區活動中心",
+                "phone": "05-2394656",
+                "address": "嘉義縣中埔鄉富收村嘉義縣中埔鄉富收村19鄰興化廍23-60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.474722,
+                    23.442439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "和美社區活動中心",
+                "phone": "05-2301768",
+                "address": "嘉義縣中埔鄉和美村嘉義縣中埔鄉和美村7鄰忠明路40巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.471194,
+                    23.453747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "同仁社區活動中心",
+                "phone": "05-2535665",
+                "address": "嘉義縣中埔鄉同仁村嘉義縣中埔鄉同仁村11鄰同仁164號之5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.512179,
+                    23.40726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "石硦村活動中心",
+                "phone": "05-2534788",
+                "address": "嘉義縣中埔鄉石硦村石硦村13鄰22-33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54893,
+                    23.411337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "和興國小圖書館-室內",
+                "phone": "05-2306717",
+                "address": "嘉義縣中埔鄉和興村嘉義縣中埔鄉和興村33鄰和興路91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.453581,
+                    23.44291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "同仁國小-室內",
+                "phone": "05-2531205",
+                "address": "嘉義縣中埔鄉同仁村嘉義縣中埔鄉同仁村4鄰24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.512085,
+                    23.403683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "灣潭國小視聽教室-室內",
+                "phone": "05-2531094",
+                "address": "嘉義縣中埔鄉灣潭村嘉義縣中埔鄉灣潭村17鄰1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.556625,
+                    23.42784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義仁社區活動中心",
+                "phone": "05-2535638",
+                "address": "嘉義縣中埔鄉義仁村嘉義縣中埔鄉義仁村3鄰挖仔厝17號前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.529096,
+                    23.444324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "金蘭社區活動中心",
+                "phone": "05-2535265",
+                "address": "嘉義縣中埔鄉金蘭村嘉義縣中埔鄉金蘭村1鄰金蘭14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.506818,
+                    23.440142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "瑞豐社區活動中心",
+                "phone": "05-2536830",
+                "address": "嘉義縣中埔鄉瑞豐村嘉義縣中埔鄉瑞豐村7鄰43-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533277,
+                    23.396906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "沄水社區活動中心",
+                "phone": "05-2533765",
+                "address": "嘉義縣中埔鄉沄水村嘉義縣中埔鄉沄水村11鄰竹頭崎19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.519345,
+                    23.393488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "裕民社區活動中心",
+                "phone": "05-2533489",
+                "address": "嘉義縣中埔鄉裕民村嘉義縣中埔鄉裕民村1鄰石頭厝8號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.51257,
+                    23.431571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "深坑社區活動中心",
+                "phone": "05-2534954",
+                "address": "嘉義縣中埔鄉深坑村嘉義縣中埔鄉深坑村9鄰深坑85號之2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5095,
+                    23.393932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "隆興社區活動中心",
+                "phone": "05-2535949",
+                "address": "嘉義縣中埔鄉隆興村嘉義縣中埔鄉隆興村中正路515號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.527343,
+                    23.438365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "頂埔社區活動中心",
+                "phone": "05-2534414",
+                "address": "嘉義縣中埔鄉頂埔村嘉義縣中埔鄉頂埔村8鄰頂埔10-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.529875,
+                    23.412562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "灣潭國小 室外",
+                "phone": "05-2531094",
+                "address": "嘉義縣中埔鄉灣潭村嘉義縣中埔鄉灣潭村17鄰下庄1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.556625,
+                    23.42784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中山國小 室外",
+                "phone": "05-2531231",
+                "address": "嘉義縣中埔鄉石硦村嘉義縣中埔鄉石硦村13鄰22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549034,
+                    23.410654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "頂六國小-室外",
+                "phone": "05-2394042",
+                "address": "嘉義縣中埔鄉金蘭村嘉義縣中埔鄉金蘭村14鄰頂山門25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495769,
+                    23.44571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中埔國小-室外",
+                "phone": "05-2531003",
+                "address": "嘉義縣中埔鄉中埔村嘉義縣中埔鄉中埔村中正路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.52421,
+                    23.423082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "和睦國小 室外",
+                "phone": "05-2304511",
+                "address": "嘉義縣中埔鄉和美村嘉義縣中埔鄉和美村10鄰後庄16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463166,
+                    23.452228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中埔國中活動中心-室內",
+                "phone": "05-2531002",
+                "address": "嘉義縣中埔鄉中埔村嘉義縣中埔鄉中埔村16鄰中埔177號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.521614,
+                    23.424271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "同仁國小 室外",
+                "phone": "05-2531205",
+                "address": "嘉義縣中埔鄉同仁村嘉義縣中埔鄉同仁村4鄰同仁24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.512085,
+                    23.403683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中埔鄉沄水國小餐廳室內",
+                "phone": "05-2531654",
+                "address": "嘉義縣中埔鄉沄水村嘉義縣中埔鄉沄水村5鄰試驗場16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.530664,
+                    23.381602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "頂六國小活動中心-室內",
+                "phone": "05-2394042",
+                "address": "嘉義縣中埔鄉金蘭村嘉義縣中埔鄉金蘭村14鄰頂山門25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495769,
+                    23.44571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "和興國小-室外",
+                "phone": "05-2306717",
+                "address": "嘉義縣中埔鄉和興村嘉義縣中埔鄉和興村和興路91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.453581,
+                    23.44291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大有國小-室外",
+                "phone": "05-2531561",
+                "address": "嘉義縣中埔鄉裕民村嘉義縣中埔鄉裕民村2鄰石頭厝17之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.512449,
+                    23.430833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中埔國中-室外",
+                "phone": "05-2531002",
+                "address": "嘉義縣中埔鄉中埔村嘉義縣中埔鄉中埔村16鄰中埔177號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.521614,
+                    23.424271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "社口國小 室外",
+                "phone": "05-2531094",
+                "address": "嘉義縣中埔鄉隆興村嘉義縣中埔鄉隆興村2鄰8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540665,
+                    23.438224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中埔鄉沄水國小室外",
+                "phone": "05-2531654",
+                "address": "嘉義縣中埔鄉沄水村嘉義縣中埔鄉沄水村5鄰試驗場16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.530664,
+                    23.381602
+                ]
+            }
+        }
+    ]
+}

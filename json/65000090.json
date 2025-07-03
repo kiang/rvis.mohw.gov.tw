@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "有木國小",
+                "phone": "02-26720067分機13",
+                "address": "新北市三峽區有木里有木131號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.437343,
+                    24.853252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "長青市民活動中心",
+                "phone": "02-26711017分機204",
+                "address": "新北市三峽區永舘里中山路69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.367063,
+                    24.93487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "竹崙市民活動中心",
+                "phone": "02-26711017分機204",
+                "address": "新北市三峽區竹崙里竹崙路146號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.434898,
+                    24.908778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "建安國小",
+                "phone": "02-26726783分機102",
+                "address": "新北市三峽區安坑里建安路67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4473811,
+                    24.926596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大有市民活動中心",
+                "phone": "02-26711017分機204",
+                "address": "新北市三峽區插角里插角25-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.40447,
+                    24.872572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "五寮市民活動中心",
+                "phone": "02-26711017分機204",
+                "address": "新北市三峽區五寮里五寮89之7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.359511,
+                    24.856662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "明德高中",
+                "phone": "02-26723302分機240",
+                "address": "新北市三峽區大埔里中正路二段399號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.36391,
+                    24.906932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "成福國小",
+                "phone": "02-86764945分機12",
+                "address": "新北市三峽區溪東里溪東路213號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.405689,
+                    24.933202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "臺北榮家",
+                "phone": "02-26731201#670",
+                "address": "新北市三峽區嘉添里白雞127號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.393705,
+                    24.910246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三峽國小",
+                "phone": "02-26711018#831",
+                "address": "新北市三峽區永舘里中山路16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.367549,
+                    24.934999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中園國小",
+                "phone": "02-86712590分機831",
+                "address": "新北市三峽區中埔里弘園街22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.367185,
+                    24.927828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "介壽國小",
+                "phone": "02-26712392分機40",
+                "address": "新北市三峽區介壽里大同路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.378519,
+                    24.929829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大埔國小",
+                "phone": "02-26712523分機150",
+                "address": "新北市三峽區大埔里大埔路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.366463,
+                    24.905743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大成國小",
+                "phone": "02-26726521分機115",
+                "address": "新北市三峽區成福里成福路215巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.424238,
+                    24.928196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "安溪國小",
+                "phone": "02-26731488#231",
+                "address": "新北市三峽區安溪里中華路42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.372221,
+                    24.931222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "民義國小",
+                "phone": "02-26711895分機830",
+                "address": "新北市三峽區嘉添里白雞路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.375459,
+                    24.912037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三峽國中",
+                "phone": "02-26738030",
+                "address": "新北市三峽區鳶山里復興路238號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.367709,
+                    24.93877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "安溪國中",
+                "phone": "02-26717851分機150",
+                "address": "新北市三峽區中正里大同路135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.372761,
+                    24.926568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "龍埔國小",
+                "phone": "02-26745666分機830",
+                "address": "新北市三峽區龍埔里大學路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3775187,
+                    24.9411397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "北大高中",
+                "phone": "02-26742666#600",
+                "address": "新北市三峽區龍學里大義路277號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.376105,
+                    24.948608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "北大國小",
+                "phone": "02-86716836分機830",
+                "address": "新北市三峽區龍埔里國光街100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.372986,
+                    24.939198
+                ]
+            }
+        }
+    ]
+}

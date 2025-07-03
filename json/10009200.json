@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "宏仁國小",
+                "phone": "05-7857080",
+                "address": "雲林縣水林鄉灣東村宏仁路30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.241328,
+                    23.604323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "水燦林國小",
+                "phone": "05-7852845",
+                "address": "雲林縣水林鄉水北村水林路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2469,
+                    23.572997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "溪墘社區活動中心",
+                "phone": "05-7854977",
+                "address": "雲林縣水林鄉溪墘村溪墘厝41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.265389,
+                    23.537908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "誠正國小",
+                "phone": "05-7921114",
+                "address": "雲林縣水林鄉蘇秦村蘇秦路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.261564,
+                    23.620612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "水林鄉公所",
+                "phone": "05-7850001",
+                "address": "雲林縣水林鄉水北村水林路12號　"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245968,
+                    23.573149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "碧清寺",
+                "phone": "05-7854369",
+                "address": "雲林縣水林鄉灣東村宏仁路38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24012,
+                    23.605091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "塭底村集會所",
+                "phone": "057841705",
+                "address": "雲林縣水林鄉塭底村塭底路90號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.200818,
+                    23.516728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "松北社區活動中心",
+                "phone": "05-7842609",
+                "address": "雲林縣水林鄉松北村松東路24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.236429,
+                    23.523478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "豐德宮(廣場)",
+                "phone": "05-7921124",
+                "address": "雲林縣水林鄉蘇秦村海豊路56-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.255548,
+                    23.6312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "蔦松藝術高中",
+                "phone": "05-7841801",
+                "address": "雲林縣水林鄉松北村蔦松路1-1號　"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.230421,
+                    23.521704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "文正國小",
+                "phone": "05-7841051",
+                "address": "雲林縣水林鄉山腳村蕃東路1號　"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224785,
+                    23.539173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "蔦松國小",
+                "phone": "05-7841230",
+                "address": "雲林縣水林鄉松中村蔦松路213號　"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.229682,
+                    23.514005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "中興國小",
+                "phone": "05-7841064",
+                "address": "雲林縣水林鄉瓊埔村瓊埔路48號　"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.210133,
+                    23.514506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "尖山國小",
+                "phone": "05-7851756",
+                "address": "雲林縣水林鄉大山村大山村大山路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.222892,
+                    23.560334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "大興國小",
+                "phone": "05-7851300",
+                "address": "雲林縣水林鄉大溝村大溝路1號　"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21047,
+                    23.566326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "水林國中",
+                "phone": "05-7852618",
+                "address": "雲林縣水林鄉水北村水林路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247394,
+                    23.572765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "瓊埔村集會所",
+                "phone": "05-7840389",
+                "address": "雲林縣水林鄉瓊埔村瓊埔路83之10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.210218,
+                    23.512464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "水燦林國小(水林校區)",
+                "phone": "05-7852845",
+                "address": "雲林縣水林鄉水北村文化路45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245797,
+                    23.573723
+                ]
+            }
+        }
+    ]
+}

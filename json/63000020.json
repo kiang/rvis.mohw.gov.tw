@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市信義區博愛國民小學",
+                "phone": "02-23450677",
+                "address": "臺北市信義區安康里信義區松仁路95巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.571134,
+                    25.036442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市信義區吳興國民小學",
+                "phone": "02-27200226#10",
+                "address": "臺北市信義區三張里臺北市信義區松仁路226號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56859,
+                    25.026015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立信義國民中學",
+                "phone": "02-27236771#101",
+                "address": "臺北市信義區三張里信義區松仁路158巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.567932,
+                    25.02861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立興雅國民中學",
+                "phone": "02-27232771#100",
+                "address": "臺北市信義區安康里信義區松德路168巷15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.572355,
+                    25.036438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市信義區信義國民小學",
+                "phone": "02-27204005#891",
+                "address": "臺北市信義區景新里信義區松勤街60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.563225,
+                    25.031832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "松德公園",
+                "phone": "02-27884255",
+                "address": "臺北市信義區安康里松德路180巷興雅國中西側"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.574141,
+                    25.035278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市信義運動中心",
+                "phone": "02-2570-2330#6467",
+                "address": "臺北市信義區三張里松勤路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.566756,
+                    25.031804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市信義區三興國民小學",
+                "phone": "02-27364687＃100",
+                "address": "臺北市信義區景聯里信義區基隆路2段99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.558027,
+                    25.02972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市信義區雙永國民小學",
+                "phone": "02-87858111#1100",
+                "address": "臺北市信義區永春里松山路287巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.579753,
+                    25.043347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立永吉國民中學",
+                "phone": "02-27649066#168",
+                "address": "臺北市信義區四育里信義區松隆路161號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.574141,
+                    25.048335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立永春高級中學",
+                "phone": "02-27272983#100",
+                "address": "臺北市信義區松隆里信義區松山路654號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.578661,
+                    25.03271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市信義區雙永國民小學",
+                "phone": "02-87858111#1100",
+                "address": "臺北市信義區永春里松山路225巷48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.579753,
+                    25.043347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市信義區光復國民小學",
+                "phone": "02-27585076#888",
+                "address": "臺北市信義區興隆里光復南路271號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55782,
+                    25.040243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立松山高級工農職業學校",
+                "phone": "02-27226616#101",
+                "address": "臺北市信義區廣居里臺北市信義區忠孝東路5段236巷15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.572419,
+                    25.038824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立松山高級商業家事職業學校",
+                "phone": "02-27261118#100",
+                "address": "臺北市信義區松隆里信義區松山路655號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.580164,
+                    25.034829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立松山高級中學",
+                "phone": "02-27535968#210",
+                "address": "臺北市信義區新仁里信義區基隆路1段156號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.565825,
+                    25.043877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立瑠公國民中學",
+                "phone": "02-27261481#100",
+                "address": "臺北市信義區中行里臺北市信義區福德街221巷15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.585327,
+                    25.037068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市信義區福德國民小學",
+                "phone": "02-27277992#10",
+                "address": "臺北市信義區中行里信義區福德街253號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58653,
+                    25.0389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市信義區興雅國民小學",
+                "phone": "02-27618156#601",
+                "address": "臺北市信義區雅祥里信義區基隆路1段83巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570074,
+                    25.046766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "景勤1號公園",
+                "phone": "02-27884255",
+                "address": "臺北市信義區景勤里吳興街220巷59弄旁陸軍保養廠"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.561274,
+                    25.026633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "景勤2號公園",
+                "phone": "02-27884255",
+                "address": "臺北市信義區景勤里信安街、吳興街220巷交口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55829,
+                    25.027926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "三興市場大樓地下停車場",
+                "phone": "2550-5220#5011",
+                "address": "臺北市信義區景勤里臺北市信義區吳興街156巷6號B1、B2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.561176,
+                    25.029014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館永春分館",
+                "phone": "02-27609730",
+                "address": "臺北市信義區長春里臺北市信義區松山路294號3-4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.577648,
+                    25.043016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "市府轉運站",
+                "phone": "02-27221166#9",
+                "address": "臺北市信義區興雅里臺北市信義區忠孝東路5段6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.565153,
+                    25.040866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處全聯松山松興店地下二樓停車場",
+                "phone": "02-25505220#5011",
+                "address": "臺北市信義區興雅里臺北市信義區松隆路36號地下二樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.567544,
+                    25.043393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館六合分館",
+                "phone": "02-27292485",
+                "address": "臺北市信義區六合里松仁路240巷19號3-5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.568794,
+                    25.02445
+                ]
+            }
+        }
+    ]
+}

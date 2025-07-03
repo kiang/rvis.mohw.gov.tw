@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安定區體育運動公園",
+                "phone": "06-5921116",
+                "address": "臺南市安定區安加里安定243-5號旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.238083,
+                    23.117204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安定區公所",
+                "phone": "06-5921116",
+                "address": "臺南市安定區安定里安定59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.237089,
+                    23.121568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安定區海寮社區活動中心",
+                "phone": "06-5938880",
+                "address": "臺南市安定區海寮里海寮15之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.211057,
+                    23.096754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安定區安定國中",
+                "phone": "06-5922003",
+                "address": "臺南市安定區安加里安加262-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.233855,
+                    23.113989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安定區南安國小",
+                "phone": "06-5922023",
+                "address": "臺南市安定區文科里油車62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224836,
+                    23.09869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安定區老人文康活動中心",
+                "phone": "06-5923876",
+                "address": "臺南市安定區安定里安定131之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.237046,
+                    23.12008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安定區大同社區活動中心",
+                "phone": "06-5931480",
+                "address": "臺南市安定區嘉同里大同81號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.223513,
+                    23.083776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安定區南興國小",
+                "phone": "06-5931038",
+                "address": "臺南市安定區嘉同里六塊寮30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.218864,
+                    23.080123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市安定區安定國小",
+                "phone": "06-5922024",
+                "address": "臺南市安定區安定里1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.254013,
+                    23.113779
+                ]
+            }
+        }
+    ]
+}

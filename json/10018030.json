@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "虎林國小",
+                "phone": "03-5381820#805",
+                "address": "新竹市香山區虎林里新竹市延平路二段78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.941191,
+                    24.805278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "虎林國中",
+                "phone": "03-5309433#214",
+                "address": "新竹市香山區虎林里新竹市延平路二段76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.941982,
+                    24.805281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "南隘國小",
+                "phone": "03-5371405#202",
+                "address": "新竹市香山區南隘里新竹市南隘路二段31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.929101,
+                    24.7267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "富禮國中",
+                "phone": "03-5374793#611",
+                "address": "新竹市香山區朝山里新竹市富禮街16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.912682,
+                    24.764123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "香山國小",
+                "phone": "03-5386164#2117",
+                "address": "新竹市香山區中埔里新竹市牛埔東路260號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.947363,
+                    24.794625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "大庄國小",
+                "phone": "03-5384035#606",
+                "address": "新竹市香山區香山里新竹市香山里大庄路48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92788,
+                    24.789401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "內湖國小",
+                "phone": "03-5373184#130",
+                "address": "新竹市香山區內湖里新竹市香山區內湖路109號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.90636,
+                    24.742106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "頂埔國小",
+                "phone": "03-386204#130",
+                "address": "新竹市香山區頂福里新竹市頂埔路23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.950165,
+                    24.797696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "茄苳國小",
+                "phone": "03-5373543#12",
+                "address": "新竹市香山區茄苳里新竹市香山區茄苳里茄苳路70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.946066,
+                    24.755754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "大湖國小",
+                "phone": "03-5374609#11",
+                "address": "新竹市香山區大湖里新竹市香山區大湖里五福路一段530號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.933413,
+                    24.745972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "內湖國中",
+                "phone": "03-5373484#27",
+                "address": "新竹市香山區內湖里新竹市五福路一段12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.911199,
+                    24.742222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "港南國小",
+                "phone": "03-5382964#13",
+                "address": "新竹市香山區港南里新竹市港南里海埔路171巷91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.922905,
+                    24.814129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "中華大學",
+                "phone": "03-5186343",
+                "address": "新竹市香山區東香里新竹市五福路二段707號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.952318,
+                    24.757337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "元培科技大學",
+                "phone": "03-6102250",
+                "address": "新竹市香山區香村里新竹市元培街306號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.931731,
+                    24.775054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "玄奘大學",
+                "phone": "03-5302255#2170",
+                "address": "新竹市香山區東香里新竹市玄奘路48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.955038,
+                    24.76976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "香山高中",
+                "phone": "03-5384332#401",
+                "address": "新竹市香山區香山里新竹市元培街124號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.925864,
+                    24.79163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "朝山國小",
+                "phone": "03-5374304#213",
+                "address": "新竹市香山區朝山里新竹市中華路五段648巷126號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.914019,
+                    24.765692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹市",
+                "name": "成德高中",
+                "phone": "03-5258748#501",
+                "address": "新竹市北區曲溪里新竹市北區曲溪里崧嶺路128巷38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.953205,
+                    24.790949
+                ]
+            }
+        }
+    ]
+}

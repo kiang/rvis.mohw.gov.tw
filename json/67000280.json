@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市歸仁區沙崙國中",
+                "phone": "06-3032062#301",
+                "address": "臺南市歸仁區武東里歸仁六路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.281559,
+                    22.929065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市歸仁區歸仁國小",
+                "phone": "06-2304740#730",
+                "address": "臺南市歸仁區歸仁里文化街一段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296484,
+                    22.970047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市歸仁區紅瓦厝國小",
+                "phone": "06-2309012#740",
+                "address": "臺南市歸仁區崙頂里信義南路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298541,
+                    22.961993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市歸仁區保西國小",
+                "phone": "06-2309683#830",
+                "address": "臺南市歸仁區媽廟里中正北路三段60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293529,
+                    22.99219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市歸仁區文化國小",
+                "phone": "06-3301666#840",
+                "address": "臺南市歸仁區文化里文化街二段136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289051,
+                    22.97109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市歸仁區大潭國小",
+                "phone": "06-2781953#140",
+                "address": "臺南市歸仁區大潭里中正南路三段97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27173,
+                    22.91412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市歸仁區歸仁國中",
+                "phone": "06-2301873#111",
+                "address": "臺南市歸仁區文化里文化街二段2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293892,
+                    22.969901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市歸仁區歸南國小",
+                "phone": "06-2304930#113",
+                "address": "臺南市歸仁區辜厝里民權南路171號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288178,
+                    22.964456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市歸仁區公所",
+                "phone": "06-2301518#201",
+                "address": "臺南市歸仁區後市里中山路二段2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293961,
+                    22.967227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市歸仁區公所（體育公園）",
+                "phone": "06-2301518#616",
+                "address": "臺南市歸仁區許厝里公園路71之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296918,
+                    22.962982
+                ]
+            }
+        }
+    ]
+}

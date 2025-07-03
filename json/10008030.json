@@ -1,0 +1,725 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中原國小禮堂",
+                "phone": "049-2554631",
+                "address": "南投縣草屯鎮中原里坪腳巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.719516,
+                    23.988835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "上林老人活動中心",
+                "phone": "049-2335114",
+                "address": "南投縣草屯鎮上林里草溪路599巷2弄8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.67635,
+                    23.969079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "南埔社區活動中心",
+                "phone": "049-2552410",
+                "address": "南投縣草屯鎮南埔里中正路青宅巷56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721138,
+                    23.981041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "龍泉宮",
+                "phone": "049-2568513",
+                "address": "南投縣草屯鎮北勢里玉屏巷24-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.742315,
+                    23.992671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "坪頂國小",
+                "phone": "049-2552074",
+                "address": "南投縣草屯鎮坪頂里南坪路40-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.739692,
+                    23.967269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "石川社區活動中心",
+                "phone": "049-2356627",
+                "address": "南投縣草屯鎮石川里石川路46-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.650057,
+                    24.001287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "碧洲社區活動中心",
+                "phone": "049-2380262",
+                "address": "南投縣草屯鎮碧洲里立人路781巷51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66911,
+                    23.960788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "嘉長宮活動中心",
+                "phone": "049-2354886",
+                "address": "南投縣草屯鎮加老里加老東路68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66645,
+                    24.000675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "加老里集會所",
+                "phone": "049-2326497",
+                "address": "南投縣草屯鎮加老里加老路268號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.656385,
+                    24.001223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新庄里集會所",
+                "phone": "049-2330669",
+                "address": "南投縣草屯鎮新庄里芬草路二段342號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.672186,
+                    23.992213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "南埔里集會所",
+                "phone": "049-2553300",
+                "address": "南投縣草屯鎮南埔里中正路305號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721046,
+                    23.980083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中原里集會所",
+                "phone": "049-2554436",
+                "address": "南投縣草屯鎮中原里中和路57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.71831,
+                    23.987891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "永和宮",
+                "phone": "049-2560359",
+                "address": "南投縣草屯鎮中原里中和路57-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.718293,
+                    23.987616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "北勢里集會所",
+                "phone": "049-2567052",
+                "address": "南投縣草屯鎮北勢里玉屏路129-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717268,
+                    23.99522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "敦和宮地下室",
+                "phone": "049-2323793",
+                "address": "南投縣草屯鎮敦和里敦和路74號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.679918,
+                    23.980353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "富功國小禮堂",
+                "phone": "049-2569213",
+                "address": "南投縣草屯鎮富寮里中正路567號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69821,
+                    23.979727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "草屯國中禮堂",
+                "phone": "049-2362050",
+                "address": "南投縣草屯鎮炎峰里虎山路808號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686437,
+                    23.977284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "虎山國小禮堂",
+                "phone": "049-2339107",
+                "address": "南投縣草屯鎮山腳里新生路76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684486,
+                    23.962855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "雙冬國小",
+                "phone": "049-2571362",
+                "address": "南投縣草屯鎮雙冬里中正路34-7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.795112,
+                    23.984712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "敦和里集會所",
+                "phone": "049-2311679",
+                "address": "南投縣草屯鎮敦和里仁愛街156號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678675,
+                    23.982246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "坪頂里集會所",
+                "phone": "049-2553889",
+                "address": "南投縣草屯鎮坪頂里南坪路40-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.73896,
+                    23.966919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "南埔將軍廟文教中心",
+                "phone": "049-2568603",
+                "address": "南投縣草屯鎮南埔里中正路344-46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.71801,
+                    23.977941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "御史里新集會所",
+                "phone": "049-2311471",
+                "address": "南投縣草屯鎮御史里登輝路163號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.691317,
+                    23.9892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "鎮立幼兒園",
+                "phone": "049-2313114",
+                "address": "南投縣草屯鎮復興里復興路475號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.667997,
+                    23.969833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "雙冬里集會所",
+                "phone": "049-2571599",
+                "address": "南投縣草屯鎮雙冬里中正路63-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.790458,
+                    23.983051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "北投社區活動中心",
+                "phone": "0936-493170",
+                "address": "南投縣草屯鎮北投里史舘路北勢巷54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.660647,
+                    23.985558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新庄國小禮堂",
+                "phone": "049-2333104",
+                "address": "南投縣草屯鎮新庄里新庄三路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.667891,
+                    23.99511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "平林里集會所",
+                "phone": "049-2572288",
+                "address": "南投縣草屯鎮平林里健行路65巷31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.764291,
+                    23.991133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "富寮社區活動中心",
+                "phone": "049-2564899",
+                "address": "南投縣草屯鎮富寮里富頂路一段103號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700511,
+                    23.977754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "土城國小禮堂",
+                "phone": "049-2552024",
+                "address": "南投縣草屯鎮土城里中正路189號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.742786,
+                    23.983998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "碧峰國小禮堂",
+                "phone": "049-2334304",
+                "address": "南投縣草屯鎮碧峰里立人路439號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.665664,
+                    23.969203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "石川里集會所",
+                "phone": "049-2327162",
+                "address": "南投縣草屯鎮石川里石川路37-37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649601,
+                    23.993812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "敦和國小禮堂",
+                "phone": "049-2365074",
+                "address": "南投縣草屯鎮敦和里敦和路72-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.677511,
+                    23.981673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "草屯國小禮堂",
+                "phone": "049-2362007",
+                "address": "南投縣草屯鎮玉峰里玉屏路210號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687178,
+                    23.98128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "紫微宮",
+                "phone": "049-2358902",
+                "address": "南投縣草屯鎮上林里草溪路214號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680874,
+                    23.96482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "永安宮",
+                "phone": "049-2568513",
+                "address": "南投縣草屯鎮北勢里玉屏路129號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717198,
+                    23.995222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "平林國小",
+                "phone": "049-2571761",
+                "address": "南投縣草屯鎮平林里健行路65巷90號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.762353,
+                    23.992281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "復興里集會所",
+                "phone": "049-2336449",
+                "address": "南投縣草屯鎮復興里復興路432-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.668519,
+                    23.968848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "碧峰里集會所",
+                "phone": "049-2314208",
+                "address": "南投縣草屯鎮碧峰里碧峰路135巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.660573,
+                    23.97189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新厝里集會所暨活動中心",
+                "phone": "049-2367999",
+                "address": "南投縣草屯鎮新厝里新富一街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68579,
+                    23.969732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "山腳里集會所暨活動中心",
+                "phone": "049-2332160",
+                "address": "南投縣草屯鎮山腳里虎山路299號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685379,
+                    23.964962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "土城里集會所",
+                "phone": "049-2552140",
+                "address": "南投縣草屯鎮土城里中正路167之15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.743967,
+                    23.984362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "旭光高中禮堂",
+                "phone": "049-2563472",
+                "address": "南投縣草屯鎮富寮里中正路568-23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69474,
+                    23.980096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新豐社區活動中心",
+                "phone": "049-2323152",
+                "address": "南投縣草屯鎮新豐里番子田路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.676585,
+                    24.000966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "碧洲里集會所",
+                "phone": "049-2380262",
+                "address": "南投縣草屯鎮碧洲里碧峰路669巷21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663289,
+                    23.959871
+                ]
+            }
+        }
+    ]
+}

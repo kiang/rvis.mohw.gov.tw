@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "臺西國中學生活動中心",
+                "phone": "05-6981400",
+                "address": "雲林縣臺西鄉海口村中山路408號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.191644,
+                    23.701132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "明聖宮香客大樓",
+                "phone": "05-6981719",
+                "address": "雲林縣臺西鄉溪頂村溪頂路165-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.188227,
+                    23.685137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "安海宮香客大樓",
+                "phone": "05-6982479",
+                "address": "雲林縣臺西鄉台西村民權路6巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.200863,
+                    23.700438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "臺西國中操場",
+                "phone": "05-6981400",
+                "address": "雲林縣臺西鄉海口村中山路408號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.191644,
+                    23.701132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "崙豐國小操場",
+                "phone": "05-6982142",
+                "address": "雲林縣臺西鄉永豐村崙豐路42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.208689,
+                    23.719988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "新興國小操場",
+                "phone": "05-6900143",
+                "address": "雲林縣臺西鄉和豐村復興路53號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.222261,
+                    23.739817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "進安府香客大樓",
+                "phone": "05-6982144",
+                "address": "雲林縣臺西鄉永豐村永豐村崙豐65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.209902,
+                    23.721495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "尚德國小操場",
+                "phone": "05-6982074",
+                "address": "雲林縣臺西鄉溪頂村溪頂12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.189057,
+                    23.68323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "泉州國小",
+                "phone": "05-6982145",
+                "address": "雲林縣臺西鄉牛厝村舊泉州20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.204089,
+                    23.675699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "臺西國小操場",
+                "phone": "05-6982045",
+                "address": "雲林縣臺西鄉台西村民權路9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.199543,
+                    23.701746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "光華社區活動中心",
+                "phone": "05-6983532",
+                "address": "雲林縣臺西鄉光華村光華63-55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.206312,
+                    23.690403
+                ]
+            }
+        }
+    ]
+}

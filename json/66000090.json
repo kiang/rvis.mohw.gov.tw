@@ -1,0 +1,677 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "朴子里活動中心",
+                "phone": "04-25273274專線",
+                "address": "臺中市豐原區朴子里豐原區朴子里豐勢路二段535巷119號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.74766,
+                    24.273817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "慈濟公園",
+                "phone": "04-25222106#356",
+                "address": "臺中市豐原區南村里豐東路與水源路交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.733339,
+                    24.251753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "北陽里活動中心",
+                "phone": "04-25273278專線",
+                "address": "臺中市豐原區北陽里豐原區北陽里豐東路118巷18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.730423,
+                    24.247271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "葫蘆墩國小",
+                "phone": "04-25205136#701",
+                "address": "臺中市豐原區西湳里豐原區西湳里葫蘆墩一街250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714374,
+                    24.261081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "鎌村里活動中心",
+                "phone": "04-25367874專線",
+                "address": "臺中市豐原區鎌村里豐原區鎌村里鎌村路465巷58號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.726868,
+                    24.226039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "南陽國小",
+                "phone": "04-25222521#730",
+                "address": "臺中市豐原區中陽里豐原區中陽里南陽路440號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.723173,
+                    24.248123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中陽里活動中心",
+                "phone": "04-25273284專線",
+                "address": "臺中市豐原區中陽里豐原區中陽里惠陽街116號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.724082,
+                    24.252124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "瑞穗國小",
+                "phone": "04-25262064#732",
+                "address": "臺中市豐原區西安里豐原區西安里西安街72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.713019,
+                    24.249573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "西安里活動中心",
+                "phone": "04-25273279專線",
+                "address": "臺中市豐原區西安里豐原區西安里西安街72-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710836,
+                    24.249036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東湳里活動中心",
+                "phone": "04-25250968專線",
+                "address": "臺中市豐原區東湳里豐原區東湳里三豐路二段272巷148弄22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.726159,
+                    24.269347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "南村里活動中心",
+                "phone": "04-25132523專線",
+                "address": "臺中市豐原區南村里豐原區南村里圓環東路918號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72993,
+                    24.25662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "南嵩里活動中心",
+                "phone": "04-25130778專線",
+                "address": "臺中市豐原區南嵩里豐原區南嵩里水源路9巷133號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.742811,
+                    24.252441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐田活動中心新",
+                "phone": "04-25273282專線",
+                "address": "臺中市豐原區豐田里豐原區豐田里永康路346巷33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721318,
+                    24.240223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立豐原幼兒園南田分班",
+                "phone": "04-25239890",
+                "address": "臺中市豐原區南田里豐原區南田里水源路192巷80-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.742067,
+                    24.259246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "西湳里活動中心",
+                "phone": "04-25206773專線",
+                "address": "臺中市豐原區西湳里豐原區西湳里三豐路二段135巷129弄46號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716851,
+                    24.267886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐田里活動中心舊",
+                "phone": "04-25273282專線",
+                "address": "臺中市豐原區豐田里豐原區豐田里田心路二段272巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721656,
+                    24.238144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "南陽里活動中心",
+                "phone": "04-25290359專線",
+                "address": "臺中市豐原區南陽里豐原區南陽里永康路181巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.726412,
+                    24.241534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐原區公所",
+                "phone": "04-25222106#510",
+                "address": "臺中市豐原區田心里豐原區田心里市政路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.711091,
+                    24.239598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東陽里活動中心",
+                "phone": "04-25273283專線",
+                "address": "臺中市豐原區東陽里豐原區東陽里東陽路306號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.743936,
+                    24.234428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐原高中",
+                "phone": "04-25290381#1312",
+                "address": "臺中市豐原區南田里豐原區南田里水源路150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.748743,
+                    24.264092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "三村里活動中心",
+                "phone": "04-25347069專線",
+                "address": "臺中市豐原區三村里豐原區三村里豐原大道一段609號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.704468,
+                    24.237919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐圳里活動中心新",
+                "phone": "04-25206740專線",
+                "address": "臺中市豐原區豐圳里豐原區豐圳里成功路520號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.706408,
+                    24.252801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "富春國小",
+                "phone": "04-25222542#732",
+                "address": "臺中市豐原區豐西里豐原區豐西里中山路455號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.713775,
+                    24.252146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐村國小北勤樓地下室",
+                "phone": "04-25222468#741",
+                "address": "臺中市豐原區南村里豐原區南村里水源路341號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72787,
+                    24.254548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "田心里活動中心",
+                "phone": "04-25293100專線",
+                "address": "臺中市豐原區田心里豐原區田心里市政路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710825,
+                    24.23935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "翁子里活動中心",
+                "phone": "04-25132005專線",
+                "address": "臺中市豐原區翁子里豐原區翁子里豐勢路二段290巷12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.742489,
+                    24.263009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐陽國中",
+                "phone": "04-25203470#550",
+                "address": "臺中市豐原區南田里豐原區南田里朝陽路33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.744958,
+                    24.262028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大湳里活動中心",
+                "phone": "04-25246993專線",
+                "address": "臺中市豐原區大湳里豐原區大湳里圓環北路1段151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721444,
+                    24.257729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "圳寮里活動中心",
+                "phone": "04-25245853專線",
+                "address": "臺中市豐原區圳寮里豐原區圳寮里圓環北路一段125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715677,
+                    24.256474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐原國小禮堂",
+                "phone": "04-25222066#704",
+                "address": "臺中市豐原區豐榮里豐原區豐榮里新生北路155號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.718709,
+                    24.252815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "翁明里活動中心",
+                "phone": "04-25220938專線",
+                "address": "臺中市豐原區翁明里豐原區翁明里東仁街125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.725834,
+                    24.257539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "五里聯合活動中心",
+                "phone": "04-25204086專線",
+                "address": "臺中市豐原區豐榮里豐原區豐榮里新生北路155-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.718709,
+                    24.252815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐南國中",
+                "phone": "04-25280185#133",
+                "address": "臺中市豐原區田心里豐原區田心里豐南街151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715276,
+                    24.24058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐田國小",
+                "phone": "04-25262891#730",
+                "address": "臺中市豐原區豐田里豐原區豐田里田心路2段290號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72196,
+                    24.23691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐原高商",
+                "phone": "04-25283556#240",
+                "address": "臺中市豐原區西勢里豐原區西勢里圓環南路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710511,
+                    24.244795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "北湳里活動中心",
+                "phone": "04-25228803",
+                "address": "臺中市豐原區北湳里豐原區北湳里三環路72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721569,
+                    24.260746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐原國中",
+                "phone": "04-25251200#107",
+                "address": "臺中市豐原區西湳里豐原區三豐路一段321號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.719648,
+                    24.261503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "合作國小",
+                "phone": "04-25323241#103",
+                "address": "臺中市豐原區三村里豐原區三村里西勢路410號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.702556,
+                    24.229983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "翁子國民小學",
+                "phone": "04-25223369#718",
+                "address": "臺中市豐原區翁子里豐原區豐勢路二段290巷3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.742303,
+                    24.263418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "福陽國小",
+                "phone": "04-25291101#630",
+                "address": "臺中市豐原區北陽里豐原區北陽里南陽路綠山巷83號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.73605,
+                    24.242274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "豐東國中",
+                "phone": "04-25221743#5230",
+                "address": "臺中市豐原區北陽里豐原區北陽里豐東路75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.734358,
+                    24.240904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "葫蘆墩公園",
+                "phone": "04-22289111#34065",
+                "address": "臺中市豐原區北湳里臺中市豐原區圓環北路二段65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721708,
+                    24.260446
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "新興村活動中心Xinxing Village Activity Center",
+                "phone": "089-782497",
+                "address": "臺東縣金峰鄉新興村2鄰34號No.34Xingxing,Jinfeng Township,Taitung County 964,TaiwanR.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.001026,
+                    22.633932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "歷坵活動中心 Liqiu Activity Center",
+                "phone": "089-771439",
+                "address": "臺東縣金峰鄉歷坵村1鄰12號No.12,Liqiu,Jinfeng Township,Taitung County 964,TaiwanR.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.926439,
+                    22.526384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "新興國小 Xingxing Elementary School",
+                "phone": "089-781687",
+                "address": "臺東縣金峰鄉新興村1鄰1號No.1,Xingxing,Jinfeng Township,Taitung County 964,TaiwanR.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.003502,
+                    22.631549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "嘉蘭村活動中心 Jialan Activity Center",
+                "phone": "089-751013",
+                "address": "臺東縣金峰鄉嘉蘭村4鄰嘉蘭219號(No.219,Jialan,Jinfeng Township,Taitung County 964,Taiwan(R.O.C.))"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.959985,
+                    22.596696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣金峰鄉嘉蘭國民小學",
+                "phone": "089-751224",
+                "address": "臺東縣金峰鄉嘉蘭村3鄰132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96147,
+                    22.594982
+                ]
+            }
+        }
+    ]
+}

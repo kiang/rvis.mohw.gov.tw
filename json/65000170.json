@@ -1,0 +1,485 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "麗林市民活動中心",
+                "phone": "26033111#607",
+                "address": "新北市林口區麗林里公園路59號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.367622,
+                    25.068816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "頭湖國小",
+                "phone": "02-26080766#830",
+                "address": "新北市林口區湖南里民權路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.372859,
+                    25.082737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "佳林國中",
+                "phone": "02-26028555#610",
+                "address": "新北市林口區中湖里中山路268號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.384227,
+                    25.08033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新林國小",
+                "phone": "02-2608-6521#833",
+                "address": "新北市林口區南勢里三民路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.359475,
+                    25.069576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "湖南市民活動中心",
+                "phone": "26033111#607",
+                "address": "新北市林口區湖南里民權路165號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.374172,
+                    25.084399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "師範大學林口校區體育館",
+                "phone": "02-77493170",
+                "address": "新北市林口區林口里仁愛路一段2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.397844,
+                    25.067902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "林口區公所",
+                "phone": "02-26033111*518",
+                "address": "新北市林口區西林里仁愛路一段378號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.388524,
+                    25.07674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "林口國小",
+                "phone": "26011010#831",
+                "address": "新北市林口區菁湖里林口路76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.389893,
+                    25.080842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "嘉寶國小",
+                "phone": "02-26052716#830",
+                "address": "新北市林口區嘉寶里嘉溪雅坑22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.339327,
+                    25.108345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "興福國小",
+                "phone": "02-2606-2895#400",
+                "address": "新北市林口區下福里下福10之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.313407,
+                    25.111346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "瑞平國小",
+                "phone": "02-26052779#13",
+                "address": "新北市林口區太平里後坑34之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34932,
+                    25.12839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "醒吾高中",
+                "phone": "02-26012644#1901",
+                "address": "新北市林口區東林里粉寮路一段75巷80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.395779,
+                    25.07957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "林口國中",
+                "phone": "02-2601-1014#610",
+                "address": "新北市林口區湖南里民治路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.376896,
+                    25.076858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "麗園國小",
+                "phone": "02-26091061#752",
+                "address": "新北市林口區麗園里忠孝路591號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.376195,
+                    25.068588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "南勢市民活動中心",
+                "phone": "02-26033111#607",
+                "address": "新北市林口區南勢里南勢二街154號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.359019,
+                    25.073834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "東勢市民活動中心",
+                "phone": "26033111#607",
+                "address": "新北市林口區東勢里麗園一街35號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.377252,
+                    25.068777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "南勢國小",
+                "phone": "02-2609-1020#830",
+                "address": "新北市林口區南勢里南勢5街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.354769,
+                    25.067954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "林口高中",
+                "phone": "02-26009482#600",
+                "address": "新北市林口區東勢里仁愛路二段173號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.381002,
+                    25.073637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "崇林國中",
+                "phone": "02-26095829#134",
+                "address": "新北市林口區麗園里文化一路一段20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.370276,
+                    25.068111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "林口市民活動中心",
+                "phone": "02-26033111#607",
+                "address": "新北市林口區林口里中正路100號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.393986,
+                    25.077321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "湖北市民活動中心",
+                "phone": "02-26033111#607",
+                "address": "新北市林口區湖北里林口區湖北里後湖17之6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.386776,
+                    25.096194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "麗林國小",
+                "phone": "02-26008457#111",
+                "address": "新北市林口區麗林里公園路46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.367903,
+                    25.068715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北特殊教育學校",
+                "phone": "02-2600-6768#8001",
+                "address": "新北市林口區湖南里文化北路1段425號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.365938,
+                    25.078446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "麗園市民活動中心",
+                "phone": "26033111#607",
+                "address": "新北市林口區麗園里忠孝路569巷17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.373795,
+                    25.068978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "太平市民活動中心",
+                "phone": "2603-3111#607",
+                "address": "新北市林口區太平里汕頭32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.366375,
+                    25.135255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "仁愛市民活動中心",
+                "phone": "26033111#607",
+                "address": "新北市林口區仁愛里文化一路1段137號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37391,
+                    25.071966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "下福市民活動中心",
+                "phone": "02-26033111#607",
+                "address": "新北市林口區下福里下福里11鄰下福139-13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.301441,
+                    25.118876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "林口社區運動公園防災公園",
+                "phone": "02-26033111#240",
+                "address": "新北市林口區仁愛里文化一路與仁愛路口交界處"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.371279,
+                    25.069983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "東湖國小",
+                "phone": "02-26033111#240",
+                "address": "新北市林口區西林里佳林路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.382006,
+                    25.075913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "麗園國小",
+                "phone": "02-2609-1061#751",
+                "address": "新北市林口區麗園里忠孝路591號活動中心2樓、麗正樓1樓穿堂"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.376195,
+                    25.068588
+                ]
+            }
+        }
+    ]
+}

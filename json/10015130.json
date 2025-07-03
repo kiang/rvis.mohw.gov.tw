@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "崙山國民小學",
+                "phone": "03-8841350",
+                "address": "花蓮縣卓溪鄉崙山村1鄰崙山12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.344046,
+                    23.438912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "伊入柑布農部落環境教育中心",
+                "phone": "03-8883118",
+                "address": "花蓮縣卓溪鄉古風村1鄰崙天18之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.26554,
+                    23.220784
+                ]
+            }
+        }
+    ]
+}

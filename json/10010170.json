@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大埔國中小坪林分校-室內",
+                "phone": "05-2521310-28",
+                "address": "嘉義縣大埔鄉茄苳村坪林24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.622362,
+                    23.243942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大埔零售公有市場",
+                "phone": "05-2521310-27",
+                "address": "嘉義縣大埔鄉大埔村大埔162-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59385,
+                    23.298662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大埔鄉公所",
+                "phone": "05-2521310-29",
+                "address": "嘉義縣大埔鄉大埔村大埔54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59361,
+                    23.29486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大埔國中小國中室外",
+                "phone": "05-2521014",
+                "address": "嘉義縣大埔鄉茄苳村竹圍仔5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59102,
+                    23.293353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "南寮土地公廟前廣場",
+                "phone": "05-2521310-25",
+                "address": "嘉義縣大埔鄉永樂村南寮4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.555161,
+                    23.337022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "北極殿",
+                "phone": "05-2522137",
+                "address": "嘉義縣大埔鄉大埔村大埔137號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.594188,
+                    23.29917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大埔國中小國小室內",
+                "phone": "05-2521014-203",
+                "address": "嘉義縣大埔鄉茄苳村竹圍仔5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59102,
+                    23.293353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "茄苳活動中心",
+                "phone": "05-2521310-28",
+                "address": "嘉義縣大埔鄉茄苳村竹圍仔38之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.590277,
+                    23.293859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大埔國中小國中室內",
+                "phone": "05-2521014-203",
+                "address": "嘉義縣大埔鄉茄苳村竹圍仔5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59102,
+                    23.293353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "西興村活動中心",
+                "phone": "05-2521310-28",
+                "address": "嘉義縣大埔鄉西興村菜瓜坪4號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570168,
+                    23.248422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大埔國中小國小室外",
+                "phone": "05-2521024-203",
+                "address": "嘉義縣大埔鄉茄苳村竹圍仔5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59102,
+                    23.293353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大埔圖書館",
+                "phone": "05-2521310-20",
+                "address": "嘉義縣大埔鄉大埔村大埔53之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.593162,
+                    23.294962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "埔頂集會所",
+                "phone": "05-2521310-25",
+                "address": "嘉義縣大埔鄉永樂村埔頂13-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58011,
+                    23.315688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "西興村活動中心前廣場",
+                "phone": "05-2521310-28",
+                "address": "嘉義縣大埔鄉西興村菜瓜坪4號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570168,
+                    23.248422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "日好社區永久屋",
+                "phone": "05-2521310-28",
+                "address": "嘉義縣大埔鄉大埔村自由六街55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.591185,
+                    23.296285
+                ]
+            }
+        }
+    ]
+}

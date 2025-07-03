@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大社區老人文康活動中心",
+                "phone": "3513309#154",
+                "address": "高雄市大社區神農里金龍路65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.354581,
+                    22.729347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大社區保安里活動中心",
+                "phone": "3513309#154",
+                "address": "高雄市大社區保安里大社路87-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.352673,
+                    22.734064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大社區中山堂",
+                "phone": "3513309#154",
+                "address": "高雄市大社區大社里大社區自強街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.347601,
+                    22.729134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大社區觀音國民小學",
+                "phone": "3513309#154",
+                "address": "高雄市大社區觀音里文明路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.356065,
+                    22.723044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立大社國民中學",
+                "phone": "3513309#154",
+                "address": "高雄市大社區神農里翠屏路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.357266,
+                    22.729029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大社區大社國民小學",
+                "phone": "3513309#154",
+                "address": "高雄市大社區大社里三民路336號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.345858,
+                    22.730346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大社區嘉誠國民小學",
+                "phone": "3513309#154",
+                "address": "高雄市大社區嘉誠里嘉誠路22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.379904,
+                    22.748374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "大社區文中二公園",
+                "phone": "3513309#154",
+                "address": "高雄市大社區保安里大吉路大社路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.352859,
+                    22.734598
+                ]
+            }
+        }
+    ]
+}

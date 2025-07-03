@@ -1,0 +1,933 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "寶興市民活動中心",
+                "phone": "03-3267179",
+                "address": "桃園市桃園區寶山里民有三街501號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.313802,
+                    25.012712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "陽明綜合市民活動中心",
+                "phone": "03-3772986",
+                "address": "桃園市桃園區福林里陽明三街33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.307115,
+                    24.979541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "陽明公園市民活動中心",
+                "phone": "03-3710601",
+                "address": "桃園市桃園區福林里介壽路199號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.308059,
+                    24.982105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "青溪市民活動中心",
+                "phone": "03-3357800",
+                "address": "桃園市桃園區青溪里鎮撫街41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.314448,
+                    24.998192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "汴洲里長青活動中心",
+                "phone": "03-3469051",
+                "address": "桃園市桃園區汴洲里桃園巿莊敬路1段71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.303811,
+                    25.02625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新埔市民活動中心",
+                "phone": "03-3348058",
+                "address": "桃園市桃園區新埔里南通路65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.305577,
+                    25.020084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "南門國小",
+                "phone": "03-3370576#511",
+                "address": "桃園市桃園區南門里復興路303號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.304364,
+                    24.988567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "北門國小",
+                "phone": "03-3250959#520",
+                "address": "桃園市桃園區信光里正康三街139號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.306972,
+                    25.00718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "成功國小",
+                "phone": "03-3322772#511",
+                "address": "桃園市桃園區永興里三民路3段22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.307168,
+                    24.998448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "會稽國小",
+                "phone": "03-3252982#510",
+                "address": "桃園市桃園區春日里春日路1080號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.309089,
+                    25.02025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "建德國小",
+                "phone": "03-3660688#520",
+                "address": "桃園市桃園區大林里延平路265號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.315177,
+                    24.977023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "中山國小",
+                "phone": "03-2203012#510",
+                "address": "桃園市桃園區中山里國際路一段1070號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.289882,
+                    24.986357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大有國小",
+                "phone": "03-3577715#510",
+                "address": "桃園市桃園區大有里大有路220號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.320522,
+                    25.008907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大業國小",
+                "phone": "03-3337771#511",
+                "address": "桃園市桃園區福安里大業路一段135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31594,
+                    25.006681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "快樂國小",
+                "phone": "03-3580001#510",
+                "address": "桃園市桃園區會稽里大有路789號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.315445,
+                    25.018713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "朝陽北門市民活動中心",
+                "phone": "03-3378009",
+                "address": "桃園市桃園區朝陽里朝陽街63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.312918,
+                    24.997837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "永康市民活動中心",
+                "phone": "03-3375713",
+                "address": "桃園市桃園區永安里中正五街315號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.303347,
+                    25.001042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "桃園國中",
+                "phone": "03-3358282#530",
+                "address": "桃園市桃園區西門里莒光街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.305105,
+                    24.995819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "建國國中",
+                "phone": "03-3630081#510",
+                "address": "桃園市桃園區福林里介新街20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.306686,
+                    24.977568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大有國中",
+                "phone": "03-2613297#510",
+                "address": "桃園市桃園區大有里大有路215號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.319552,
+                    25.009297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "福豐國中",
+                "phone": "03-3669547#513",
+                "address": "桃園市桃園區福林里延平路326號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.314184,
+                    24.976341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "陽明公園",
+                "phone": "03-3348058#3700",
+                "address": "桃園市桃園區福林里長沙街11號(介壽街、長沙街交叉口)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.307312,
+                    24.981067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "水秀公園",
+                "phone": "03-3396122#116",
+                "address": "桃園市桃園區文中里力行路、文中二路交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.29347,
+                    24.9982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "中興國中",
+                "phone": "03-3694315#531",
+                "address": "桃園市桃園區文中里文中路122號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.290948,
+                    24.996296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "同德國中",
+                "phone": "03-2628955#510",
+                "address": "桃園市桃園區文化里南平路487號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.29364,
+                    25.015642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "桃園國小",
+                "phone": "03-3322268#511",
+                "address": "桃園市桃園區文化里民權路67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31022,
+                    24.992318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "東門國小",
+                "phone": "03-3322057#500",
+                "address": "桃園市桃園區東門里東國街14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.314853,
+                    24.995151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "五中市民活動中心",
+                "phone": "03-3348058",
+                "address": "桃園市桃園區中山里中平路118號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.292754,
+                    24.986684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "春日市民活動中心",
+                "phone": "03-3179695",
+                "address": "桃園市桃園區春日里至善街133號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.312575,
+                    25.021619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "風禾公園",
+                "phone": "03-3396122#116",
+                "address": "桃園市桃園區中成里慈文路、文中二路交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.296811,
+                    25.003031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新埔國小",
+                "phone": "03-3162972#510",
+                "address": "桃園市桃園區新埔里經國路208巷36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.306663,
+                    25.017876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "經國國中",
+                "phone": "03-3572699#511",
+                "address": "桃園市桃園區自強里經國路276號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.304074,
+                    25.021813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "建國公園",
+                "phone": "03-3348058#3700",
+                "address": "桃園市桃園區建國里桃鶯路、建成街交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.318057,
+                    24.990043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "青溪國小",
+                "phone": "03-3347883#511",
+                "address": "桃園市桃園區青溪里自強路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.318167,
+                    24.999742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "桃園高中",
+                "phone": "03-3946001#6003",
+                "address": "桃園市桃園區三元里成功路三段38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.326414,
+                    24.999338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "中德市民活動中心",
+                "phone": "03-3765858",
+                "address": "桃園市桃園區中德里國際路一段687巷61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.287467,
+                    24.97809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "南門市民活動中心",
+                "phone": "03-2188382",
+                "address": "桃園市桃園區南門里三民路三段268號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.30597,
+                    24.990919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "莊敬國小",
+                "phone": "03-3020784#511",
+                "address": "桃園市桃園區瑞慶里莊一街107號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.292969,
+                    25.021125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "會稽國中",
+                "phone": "03-3551496#510",
+                "address": "桃園市桃園區會稽里大興路222號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.314393,
+                    25.016325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "永順國小",
+                "phone": "03-3024421#510",
+                "address": "桃園市桃園區南埔里永順街100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.296978,
+                    25.008337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "同德國小",
+                "phone": "03-3176403#531",
+                "address": "桃園市桃園區同德里同德六街175號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.29598,
+                    25.014745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "福林市民活動中心",
+                "phone": "03-3710601",
+                "address": "桃園市桃園區福林里東勇北路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.306811,
+                    24.973751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "向陽公園",
+                "phone": "03-3396122#116",
+                "address": "桃園市桃園區中正里力行路、正光路交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.293805,
+                    24.99763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "武陵高中",
+                "phone": "03-3698170#420",
+                "address": "桃園市桃園區中聖里中山路889號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.285792,
+                    24.98805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "文山國小",
+                "phone": "03-3601400#510",
+                "address": "桃園市桃園區文中里文中路120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.291882,
+                    24.996395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "文昌國中",
+                "phone": "03-3552776#510",
+                "address": "桃園市桃園區信光里民生路729號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.307824,
+                    25.010462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "同安國小",
+                "phone": "03-3269251#510",
+                "address": "桃園市桃園區莊敬里同德十一街48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.298561,
+                    25.021867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "陽明高中",
+                "phone": "03-3645761#102",
+                "address": "桃園市桃園區玉山里德壽街8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.303186,
+                    24.980725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "慈文國小",
+                "phone": "03-3175755#510",
+                "address": "桃園市桃園區同安里新埔六街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.30423,
+                    25.012763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "建國雲林市民活動中心",
+                "phone": "03-3610068",
+                "address": "桃園市桃園區建國里建成街88號1、2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.315462,
+                    24.986955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "慈文國中",
+                "phone": "03-3269340#510",
+                "address": "桃園市桃園區慈文里中正路835號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.30145,
+                    25.00925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "青溪國中",
+                "phone": "03-3392400#510",
+                "address": "桃園市桃園區三民里中山東路124號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.319889,
+                    24.997167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "建國國小",
+                "phone": "03-3636660#512",
+                "address": "桃園市桃園區雲林里昆明路95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.315713,
+                    24.983433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "西門國小",
+                "phone": "03-3342351#52",
+                "address": "桃園市桃園區西門里莒光街15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.304018,
+                    24.994892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "龍山國小",
+                "phone": "03-3691253#510",
+                "address": "桃園市桃園區龍山里龍泉二街36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.27001,
+                    24.9807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "中埔國小",
+                "phone": "03-3013028#510",
+                "address": "桃園市桃園區中埔里永安路1054號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.287201,
+                    25.009467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "桃園農工",
+                "phone": "03-3333921#520",
+                "address": "桃園市桃園區萬壽里成功路二段144號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.320657,
+                    24.993853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "桃園市立綜合體育場",
+                "phone": "03-3194510#7004",
+                "address": "桃園市桃園區三民里三民路一段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.323222,
+                    24.996452
+                ]
+            }
+        }
+    ]
+}

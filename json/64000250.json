@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "中正堂二樓",
+                "phone": "07-6991221#211",
+                "address": "高雄市湖內區中賢里中正路二段79號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.211523,
+                    22.908262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立湖內國民中學",
+                "phone": "07-6991221#238",
+                "address": "高雄市湖內區太爺里中山路二段63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.231322,
+                    22.903604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市湖內區大湖國民小學",
+                "phone": "07-6991221#238",
+                "address": "高雄市湖內區民權路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244517,
+                    22.887757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "湖東社區活動中心",
+                "phone": "07-6991221#233",
+                "address": "高雄市湖內區湖東里民生街252號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24623,
+                    22.878343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市湖內區明宗國民小學",
+                "phone": "07-6991221#238",
+                "address": "高雄市湖內區葉厝里保生路103號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.221144,
+                    22.90706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市湖內區海埔國民小學",
+                "phone": "07-6991221#238",
+                "address": "高雄市湖內區忠孝街256號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.22562,
+                    22.895606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市湖內區三侯國民小學",
+                "phone": "07-6991221#238",
+                "address": "高雄市湖內區中正路二段544號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.198862,
+                    22.910675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市湖內區文賢國民小學",
+                "phone": "07-6991221#238",
+                "address": "高雄市湖內區中賢里中正路二段39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.213215,
+                    22.90827
+                ]
+            }
+        }
+    ]
+}

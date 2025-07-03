@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市那瑪夏區民權國民小學",
+                "phone": "6701319",
+                "address": "高雄市那瑪夏區瑪雅里平和巷220號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.702844,
+                    23.24846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市那瑪夏區民生國民小學",
+                "phone": "6701442",
+                "address": "高雄市那瑪夏區達卡努瓦里大光巷159號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721363,
+                    23.27634
+                ]
+            }
+        }
+    ]
+}

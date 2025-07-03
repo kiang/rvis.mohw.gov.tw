@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立新興國民中學",
+                "phone": "02-25714211#101",
+                "address": "臺北市中山區聚葉里林森北路511號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523923,
+                    25.047326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立螢橋國民中學",
+                "phone": "02-23688667#100",
+                "address": "臺北市中正區林興里中正區汀州路3段四號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.526473,
+                    25.019062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立大學附設實驗國民小學",
+                "phone": "02-23110395#800",
+                "address": "臺北市中正區黎明里公園路29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515272,
+                    25.036332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立弘道國民中學",
+                "phone": "02-23715520#100",
+                "address": "臺北市中正區建國里公園路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515294,
+                    25.037544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "二二八和平公園",
+                "phone": "02-23032451",
+                "address": "臺北市中正區黎明里凱達格蘭大道3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515587,
+                    25.040278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中正運動中心",
+                "phone": "02-25702330#6425",
+                "address": "臺北市中正區東門里信義路一段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519306,
+                    25.038367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立中正國民中學",
+                "phone": "02-23916697#101",
+                "address": "臺北市中正區新營里中正區愛國東路158號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.522081,
+                    25.032333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立第一女子高級中學",
+                "phone": "02-23820484#200",
+                "address": "臺北市中正區建國里重慶南路1段 165 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513015,
+                    25.038606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立古亭國民中學",
+                "phone": "02-23090986#101",
+                "address": "臺北市中正區永功里中正區中華路2段465號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.510623,
+                    25.024663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立成功高級中學",
+                "phone": "23216256#201",
+                "address": "臺北市中正區幸福里濟南路1段71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52381,
+                    25.042394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中正區忠孝國民小學",
+                "phone": "02-23918170#800",
+                "address": "臺北市中正區梅花里中正區忠孝東路2段101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.531575,
+                    25.042891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中正區東門國民小學",
+                "phone": "02-23412822#11",
+                "address": "臺北市中正區東門里仁愛路1段2-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520741,
+                    25.03862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中正區河堤國民小學",
+                "phone": "02-23677144#888",
+                "address": "臺北市中正區河堤里中正區汀州路2段180號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.522645,
+                    25.023261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中正區南門國民小學",
+                "phone": "02-23753225",
+                "address": "臺北市中正區南門里廣州街6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509094,
+                    25.035229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立南門國民中學",
+                "phone": "02-23142775#328",
+                "address": "臺北市中正區南門里廣州街6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509094,
+                    25.035229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立建國高級中學",
+                "phone": "02-23034381#101",
+                "address": "臺北市中正區龍光里中正區南海路56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515698,
+                    25.027636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市國語實驗國民小學",
+                "phone": "02-23033555#100",
+                "address": "臺北市中正區龍光里中正區南海路58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511022,
+                    25.03092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市中正區螢橋國民小學",
+                "phone": "02-23054620#100",
+                "address": "臺北市中正區螢雪里中正區詔安街29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514446,
+                    25.024927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館城中分館",
+                "phone": "02-23938274",
+                "address": "臺北市中正區幸市里臺北市中正區濟南路二段46號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530902,
+                    25.040351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "中正紀念堂站",
+                "phone": "25505600#4112",
+                "address": "臺北市中正區龍福里臺北市中正區羅斯福路1段8之1號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518161,
+                    25.032596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "古亭站",
+                "phone": "25505600#5102",
+                "address": "臺北市中正區頂東里羅斯福路2段164之1號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523303,
+                    25.025537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "台大醫院站",
+                "phone": "25505600#4122",
+                "address": "臺北市中正區黎明里公園路52號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515817,
+                    25.040934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處光華數位新天地商場地下停車場",
+                "phone": "2550-5220 #2148",
+                "address": "臺北市中正區梅花里臺北市中正區市民大道三段8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532101,
+                    25.045216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "西門站",
+                "phone": "25505600#6062",
+                "address": "臺北市中正區建國里寶慶路32之1號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.508775,
+                    25.041855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市忠義實驗國民小學",
+                "phone": "02-23038752#280",
+                "address": "臺北市中正區忠勤里臺北市中正區中華路二段307巷17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505268,
+                    25.030044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館王貫英紀念館",
+                "phone": "02-23678734",
+                "address": "臺北市中正區頂東里臺北市中正區汀州路二段265號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523776,
+                    25.022624
+                ]
+            }
+        }
+    ]
+}

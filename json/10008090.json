@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "五城村活動中心",
+                "phone": "049-2897466",
+                "address": "南投縣魚池鄉五城村五城巷24-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.887871,
+                    23.887419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中明社區活動中心",
+                "phone": "049-2899147",
+                "address": "南投縣魚池鄉中明村文正巷5之11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92018,
+                    23.891957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "日月潭特色遊學中心(原光明國小)",
+                "phone": "049-2861723",
+                "address": "南投縣魚池鄉武登村銃櫃巷18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.885794,
+                    23.81717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "明潭國中",
+                "phone": "049-2855145",
+                "address": "南投縣魚池鄉水社村中山路190號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.91079,
+                    23.867936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "頭社國小",
+                "phone": "049-2861237",
+                "address": "南投縣魚池鄉頭社村平和巷105號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.902666,
+                    23.837316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "長興長寮尾活動中心",
+                "phone": "049-2880168",
+                "address": "南投縣魚池鄉共和村長興巷8之11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.953368,
+                    23.899253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新城村避難所",
+                "phone": "049-2899669",
+                "address": "南投縣魚池鄉新城村通文巷8之12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.925943,
+                    23.905916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "明潭國小",
+                "phone": "049-2855045",
+                "address": "南投縣魚池鄉水社村中山路191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.91079,
+                    23.867936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "頭社村集會所(三聖宮)",
+                "phone": "049-2861579",
+                "address": "南投縣魚池鄉頭社村平和巷40之7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.90745,
+                    23.822541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "英文堂廣場",
+                "phone": "049-2895371",
+                "address": "南投縣魚池鄉武登村集里路34號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.893987,
+                    23.831775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "麒麟宮代化堂集會所",
+                "phone": "049-2895378",
+                "address": "南投縣魚池鄉東池村新店巷35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.939779,
+                    23.896536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "東光國小",
+                "phone": "049-2880523",
+                "address": "南投縣魚池鄉東光村慶隆巷36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.966696,
+                    23.890466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "魚池國小",
+                "phone": "049-2895537",
+                "address": "南投縣魚池鄉魚池村瓊文巷41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93731,
+                    23.898952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "共和國小",
+                "phone": "049-2880608",
+                "address": "南投縣魚池鄉共和村五馬巷57-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.966261,
+                    23.919214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "東光村避難所",
+                "phone": "049-2880452",
+                "address": "南投縣魚池鄉東光村慶隆巷31-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.966505,
+                    23.889847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "五城國小",
+                "phone": "049-2896455",
+                "address": "南投縣魚池鄉五城村華龍巷1-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.889143,
+                    23.890896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "伊達邵國小",
+                "phone": "049-2850441",
+                "address": "南投縣魚池鄉日月村中正路211巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93547,
+                    23.848534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "大雁村集會所",
+                "phone": "0937096725",
+                "address": "南投縣魚池鄉大雁村大雁巷2-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.918862,
+                    23.916276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "大雁村山楂腳養靈社區活動中心",
+                "phone": "0937096725",
+                "address": "南投縣魚池鄉大雁村山楂腳巷16-9號(旁邊)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.914948,
+                    23.909265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "大林社區活動中心",
+                "phone": "0933523998",
+                "address": "南投縣魚池鄉大林村嵩山巷27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.948943,
+                    23.887322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "大林村集會所",
+                "phone": "049-2898327",
+                "address": "南投縣魚池鄉大林村永川巷4之6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.944066,
+                    23.882038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "金安老人會館",
+                "phone": "049-2899147",
+                "address": "南投縣魚池鄉中明村有水巷28-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.923738,
+                    23.883327
+                ]
+            }
+        }
+    ]
+}

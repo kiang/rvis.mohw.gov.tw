@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "高泰國民中學",
+                "phone": "08-7956073#14",
+                "address": "屏東縣高樹鄉泰山村產業路225號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.611346,
+                    22.791557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "高樹國民小學",
+                "phone": "08-7960802#14",
+                "address": "屏東縣高樹鄉高樹村華光路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59916,
+                    22.82615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "新豐國民小學",
+                "phone": "08-7916486#14",
+                "address": "屏東縣高樹鄉新豐村泰和路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.634276,
+                    22.863382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "舊寮國民小學",
+                "phone": "08-7962994#14",
+                "address": "屏東縣高樹鄉舊寮村長美路42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.610069,
+                    22.848561
+                ]
+            }
+        }
+    ]
+}

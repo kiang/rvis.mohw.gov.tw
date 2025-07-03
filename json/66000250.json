@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "龍井區公所禮堂",
+                "phone": "04-26352411*1253",
+                "address": "臺中市龍井區龍泉里沙田路四段247號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.546,
+                    24.193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "水裡港文化館",
+                "phone": "04-26352411*1215",
+                "address": "臺中市龍井區麗水里三港路水裡港巷16之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.498,
+                    24.201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "龍井國小操場、龍騰館",
+                "phone": "04-26397131*730",
+                "address": "臺中市龍井區龍西里龍門路51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.529,
+                    24.184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "龍津國小操場、綜合教學大樓",
+                "phone": "04-26393394",
+                "address": "臺中市龍井區龍津里中央路1段165巷50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.522,
+                    24.201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "龍峰國小操場",
+                "phone": "04-26314707*722",
+                "address": "臺中市龍井區新庄里中沙路新庄仔巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.576,
+                    24.181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "龍井國中操場",
+                "phone": "04-26353344*731",
+                "address": "臺中市龍井區竹坑里觀光路9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544,
+                    24.192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "拍瀑拉水裡社公園",
+                "phone": "04-26352411*2214",
+                "address": "臺中市龍井區龍泉里中社路一街、二街"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.563,
+                    24.199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "龍泉國小操場",
+                "phone": "04-26353340",
+                "address": "臺中市龍井區龍泉里龍泉里龍新路162號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547,
+                    24.196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "山腳社區活動中心",
+                "phone": "04-26359130",
+                "address": "臺中市龍井區山腳里龍山街58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549,
+                    24.214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "忠和社區活動中心",
+                "phone": "04-26391692",
+                "address": "臺中市龍井區忠和里海尾路45巷23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.524,
+                    24.215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "龍津高中操場、活動中心",
+                "phone": "04-26304536*701",
+                "address": "臺中市龍井區三德里三港路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.521,
+                    24.205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "龍海國小操場",
+                "phone": "04-26393334*703",
+                "address": "臺中市龍井區忠和里中央路3段206號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.527,
+                    24.216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "竹坑里活動中心",
+                "phone": "04-26354289",
+                "address": "臺中市龍井區竹坑里竹師路一段164巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547,
+                    24.18
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "四箴國中操場",
+                "phone": "04-26314606",
+                "address": "臺中市龍井區新庄里中沙路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.576,
+                    24.18
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "龍港國小操場、防空避難室",
+                "phone": "04-26395586*400",
+                "address": "臺中市龍井區麗水里三港路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.501,
+                    24.198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "龍崗社區活動中心",
+                "phone": "04-26350514",
+                "address": "臺中市龍井區龍崗里福恩街158號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549,
+                    24.189
+                ]
+            }
+        }
+    ]
+}

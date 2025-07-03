@@ -1,0 +1,533 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "上舘里民眾活動中心",
+                "phone": "037-743028",
+                "address": "苗栗縣苑裡鎮上館里4鄰62-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533012,
+                    25.042385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市民族實驗國中",
+                "phone": "02-27322935#201",
+                "address": "臺北市大安區學府里大安區羅斯福路四段113巷13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538832,
+                    25.011184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大安區大安國民小學",
+                "phone": "02-27322332#881",
+                "address": "臺北市大安區芳和里臺北市大安區臥龍街129號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549646,
+                    25.019507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立龍門國民中學",
+                "phone": "02-27330299#1101",
+                "address": "臺北市大安區龍門里大安區建國南路2段269號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53803,
+                    25.024899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大安區幸安國民小學",
+                "phone": "02-27074191#3000",
+                "address": "臺北市大安區民炤里大安區仁愛路3段22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.534949,
+                    25.037661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "大安森林公園",
+                "phone": "02-23032451",
+                "address": "臺北市大安區龍門里新生南路以東、信義路3段以南"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.535351,
+                    25.030152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大安運動中心",
+                "phone": "02-2570-2330#6424",
+                "address": "臺北市大安區臥龍里辛亥路三段55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546,
+                    25.020399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立大安高級工業職業學校",
+                "phone": "02-27091630#1001",
+                "address": "臺北市大安區龍圖里大安區復興南路2段52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543302,
+                    25.031972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立大安國民中學",
+                "phone": "02-27557131#168",
+                "address": "臺北市大安區龍雲里大安區大安路二段63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546194,
+                    25.030764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大安區仁愛國民小學",
+                "phone": "02-27095010#101",
+                "address": "臺北市大安區敦安里大安區安和路1段60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552386,
+                    25.035792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立仁愛國民中學",
+                "phone": "02-23255823#1101",
+                "address": "臺北市大安區敦安里大安區仁愛路4段130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.550681,
+                    25.0375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大安區公館國民小學",
+                "phone": "02-27351734#200",
+                "address": "臺北市大安區學府里臺北市大安區基隆路4段41巷68弄2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542865,
+                    25.012418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大安區古亭國民小學",
+                "phone": "02-23639795#888",
+                "address": "臺北市大安區古風里大安區羅斯福路3段201號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.528486,
+                    25.020671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立和平高級中學",
+                "phone": "27324300#101",
+                "address": "臺北市大安區芳和里大安區臥龍街100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549145,
+                    25.019639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市芳和實驗中學",
+                "phone": "02-27321961#101",
+                "address": "臺北市大安區芳和里臺北市大安區臥龍街170號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.553486,
+                    25.023157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大安區金華國民小學",
+                "phone": "02-23917402#800",
+                "address": "臺北市大安區永康里大安區愛國東路79巷11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.527762,
+                    25.03225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立金華國民中學",
+                "phone": "02-33931799#101",
+                "address": "臺北市大安區福住里大安區新生南路2段32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533123,
+                    25.0312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大安區建安國民小學",
+                "phone": "02-27077119#820",
+                "address": "臺北市大安區龍雲里大安區大安路2段99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54615,
+                    25.029387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大安區新生國民小學",
+                "phone": "02-23913122#201",
+                "address": "臺北市大安區龍安里新生南路2段36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533612,
+                    25.029758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市大安區銘傳國民小學",
+                "phone": "02-23639815#10",
+                "address": "臺北市大安區學府里大安區羅斯福路4段21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.535225,
+                    25.01424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "台北市大安區龍安國民小學",
+                "phone": "02-23632077#766",
+                "address": "臺北市大安區龍門里大安區新生南路3段33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.534846,
+                    25.023952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立懷生國民中學",
+                "phone": "02-27215078#888",
+                "address": "臺北市大安區義村里大安區忠孝東路3段248巷30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541208,
+                    25.040365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處安東市場地下停車場",
+                "phone": "02-25505220#2114",
+                "address": "臺北市大安區龍陣里臺北市大安區瑞安街75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54093,
+                    25.028117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "忠孝復興站",
+                "phone": "25505600#6102",
+                "address": "臺北市大安區光武里臺北市大安區忠孝東路4段47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539854,
+                    25.039168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "忠孝新生站",
+                "phone": "25505600#6092",
+                "address": "臺北市大安區民輝里新生南路1段67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533216,
+                    25.042455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "東門站",
+                "phone": "25505600#7142",
+                "address": "臺北市大安區永康里臺北市大安區信義路2段166號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529439,
+                    25.033693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "東區地下街",
+                "phone": "2550-5600#3204",
+                "address": "臺北市大安區光武里臺北市大安路一段77號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54407,
+                    25.044449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處嘟嘟房大安全聯站停車場",
+                "phone": "02-2550-5220#5020",
+                "address": "臺北市大安區車層里臺北市大安區市民大道4段190號地下一樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.553338,
+                    25.041191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處榮帝科技全聯大安北師店停車場",
+                "phone": "2550-5220 #5010",
+                "address": "臺北市大安區和平東路2段311巷29號地下1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.545281,
+                    25.025504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館道藩分館",
+                "phone": "02-27334031",
+                "address": "臺北市大安區臥龍里臺北市大安區辛亥路三段11號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544047,
+                    25.021574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館總館",
+                "phone": "02-27552823",
+                "address": "臺北市大安區新龍里臺北市大安區建國南路二段125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538199,
+                    25.029136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處錦安市場地下停車場",
+                "phone": "02-2550-5220#2139",
+                "address": "臺北市大安區錦安里臺北市大安區永康街60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52939,
+                    25.0285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "大安站",
+                "phone": "25505600#4082",
+                "address": "臺北市大安區龍圖里臺北市大安區信義路3段180號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.547912,
+                    25.031137
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,645 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "正德國中",
+                "phone": "02-26205136#142",
+                "address": "新北市淡水區正德里北新路109號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.446853,
+                    25.178483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新市國小",
+                "phone": "02-2626-2141#831",
+                "address": "新北市淡水區北投里中山北路二段200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.444509,
+                    25.186022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "淡水國中",
+                "phone": "02-26212758#23",
+                "address": "新北市淡水區文化里真理街10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.436724,
+                    25.174719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "興音寺",
+                "phone": "02-86260140",
+                "address": "新北市淡水區樹興里興福寮1-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48835,
+                    25.163996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "前山營區",
+                "phone": "02-88097455",
+                "address": "新北市淡水區福德里自立路17 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.463908,
+                    25.128541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "聖約翰科技大學",
+                "phone": "02-28013131#6342",
+                "address": "新北市淡水區賢孝里淡金路四段499號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.451673,
+                    25.226984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "淡水商工",
+                "phone": "02-26203930#250",
+                "address": "新北市淡水區埤島里商工路307號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.454026,
+                    25.18676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "天生國小",
+                "phone": "02-28052695#833",
+                "address": "新北市淡水區油車里淡海路72巷26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.424287,
+                    25.18156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "淡江高中",
+                "phone": "02-26203850#141",
+                "address": "新北市淡水區文化里真理街26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43583,
+                    25.175059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "樹興里辦公處",
+                "phone": "02-86260291",
+                "address": "新北市淡水區樹興里樹林口42-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.470257,
+                    25.168661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "義山市民活動中心",
+                "phone": "02-26227534",
+                "address": "新北市淡水區義山里奎柔山路1號、3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.449803,
+                    25.206845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "淡江大學",
+                "phone": "02-26215656#2005",
+                "address": "新北市淡水區中興里英專路151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447098,
+                    25.173829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "竹圍高中",
+                "phone": "02-28091557#131",
+                "address": "新北市淡水區八勢里竹林路35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461718,
+                    25.146035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "坪頂國小",
+                "phone": "02-86263105#11",
+                "address": "新北市淡水區坪頂里坪頂路757號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.483895,
+                    25.158093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "忠山國小",
+                "phone": "02-26216139#832",
+                "address": "新北市淡水區忠山里行忠路899號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.479981,
+                    25.200448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "水源國小",
+                "phone": "02-26211347#20",
+                "address": "新北市淡水區水源里北新路二段15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.476527,
+                    25.185817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "屯山國小",
+                "phone": "02-28012591#831",
+                "address": "新北市淡水區屯山里淡金路五段111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.456363,
+                    25.237342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中興市民活動中心",
+                "phone": "02-26202235",
+                "address": "新北市淡水區中興里水源街一段29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.443203,
+                    25.172342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "淡水國小",
+                "phone": "02-26212755#131",
+                "address": "新北市淡水區協元里中山路160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.441363,
+                    25.173376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "鄧公國小",
+                "phone": "02-26297121#151",
+                "address": "新北市淡水區學府里學府路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.449293,
+                    25.171312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "竹圍國小",
+                "phone": "02-28091475#53",
+                "address": "新北市淡水區八勢里中正東路2段145號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.460248,
+                    25.147534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "育英國小",
+                "phone": "02-26214390#101",
+                "address": "新北市淡水區埤島里埤島里14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.444884,
+                    25.19705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "興仁國小",
+                "phone": "02-26213783#621",
+                "address": "新北市淡水區興仁里興仁路101巷10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.451097,
+                    25.217479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "真聖宮",
+                "phone": "02-26221020#7738",
+                "address": "新北市淡水區樹興里興福寮6之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.49217,
+                    25.165541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "長庚市民活動中心",
+                "phone": "02-26263749",
+                "address": "新北市淡水區長庚里中山路72巷1弄10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.443191,
+                    25.17113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "民生市民活動中心",
+                "phone": "02-28098485",
+                "address": "新北市淡水區民生里民生路27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461355,
+                    25.13802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "真理大學",
+                "phone": "02-26212121#1312",
+                "address": "新北市淡水區文化里真理街32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.434601,
+                    25.175557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "樹興里避難中心",
+                "phone": "02-86260291",
+                "address": "新北市淡水區樹興里樹林口14-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.476943,
+                    25.168467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新興國小",
+                "phone": "02-26203646#831",
+                "address": "新北市淡水區新興里新興街123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.440027,
+                    25.179684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "文化國小",
+                "phone": "02-26212031#851",
+                "address": "新北市淡水區文化里真理街6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.437381,
+                    25.173964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中泰國小",
+                "phone": "02-28012033#120",
+                "address": "新北市淡水區中和里中和里北勢子5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.484651,
+                    25.224056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "竹圍國小自強分校",
+                "phone": "02-28093245",
+                "address": "新北市淡水區福德里自強路33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.463763,
+                    25.126439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "水源市民活動中心",
+                "phone": "02-26224235",
+                "address": "新北市淡水區水源里北新路二段15號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.476527,
+                    25.185817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "竿蓁市民活動中心",
+                "phone": "02-26269570",
+                "address": "新北市淡水區竿蓁里中正東路一段3巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.451057,
+                    25.164847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新興市民活動中心",
+                "phone": "02-26202137",
+                "address": "新北市淡水區新義里大義街18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.443054,
+                    25.178395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "后山營區",
+                "phone": "02-88094322",
+                "address": "新北市淡水區福德里自強路419 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46567,
+                    25.134156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "淡海市民活動中心",
+                "phone": "02-28054983",
+                "address": "新北市淡水區大庄里淡海路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4217,
+                    25.182486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "公八防災公園",
+                "phone": "02-26221020#7105",
+                "address": "新北市淡水區崁頂里中山北路二段381巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4427,
+                    25.187149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "臺北基督學院",
+                "phone": "02-28097661#2301",
+                "address": "新北市淡水區福德里自強路51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461543,
+                    25.131283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "淡海國小",
+                "phone": "02-28051698#831",
+                "address": "新北市淡水區崁頂里新市二路二段81號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42927,
+                    25.195287
+                ]
+            }
+        }
+    ]
+}

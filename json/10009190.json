@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "興南國小",
+                "phone": "05-7892190",
+                "address": "雲林縣口湖鄉埔南村9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.190896,
+                    23.60032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "第二老人文康中心",
+                "phone": "05-7993717",
+                "address": "雲林縣口湖鄉下崙村福安路91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.161426,
+                    23.617536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "梧南社區活動中心",
+                "phone": "0983313845",
+                "address": "雲林縣口湖鄉梧南村文光路56之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.189971,
+                    23.544279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "口湖鄉公所",
+                "phone": "05-7892087",
+                "address": "雲林縣口湖鄉湖東村中正路一段118號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.18579,
+                    23.582719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "金湖國小",
+                "phone": "05-7971188",
+                "address": "雲林縣口湖鄉港東村民主路15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.154081,
+                    23.574104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "台興國小",
+                "phone": "05-7971494",
+                "address": "雲林縣口湖鄉台子村台興路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.142087,
+                    23.562628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "埔北活動中心",
+                "phone": "05-7892232",
+                "address": "雲林縣口湖鄉埔北村林圍路39-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.195314,
+                    23.61607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "口湖國中",
+                "phone": "05-7892027",
+                "address": "雲林縣口湖鄉湖東村文明路133巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.184102,
+                    23.5881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "口湖國小",
+                "phone": "05-7892154",
+                "address": "雲林縣口湖鄉湖東村文明路103巷46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183306,
+                    23.587083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "宜梧國中",
+                "phone": "05-7907254",
+                "address": "雲林縣口湖鄉梧南村光明路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.195667,
+                    23.546927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "文光國小",
+                "phone": "05-7907189",
+                "address": "雲林縣口湖鄉梧南村文光路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.189451,
+                    23.541653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "梧北活動中心",
+                "phone": "0937249800",
+                "address": "雲林縣口湖鄉梧北村6鄰復興路175號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.18973,
+                    23.549314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "崇文國小",
+                "phone": "05-7892186",
+                "address": "雲林縣口湖鄉蚵寮村崇文路二段285號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.177434,
+                    23.575216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "頂湖國小",
+                "phone": "05-7892185",
+                "address": "雲林縣口湖鄉頂湖村6鄰121號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.178828,
+                    23.600214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "文光國小過港分校",
+                "phone": "05-7892183",
+                "address": "雲林縣口湖鄉過港村119號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19298,
+                    23.567792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "後厝社區活動中心",
+                "phone": "0911750355",
+                "address": "雲林縣口湖鄉後厝村8鄰109號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.197548,
+                    23.542673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "金湖避難所",
+                "phone": "05-7892001",
+                "address": "雲林縣口湖鄉港西村海豐路2-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.148264,
+                    23.575641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "成龍國小",
+                "phone": "05-7971187",
+                "address": "雲林縣口湖鄉成龍村201號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.168068,
+                    23.558966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "鄉海民宿",
+                "phone": "05-7992851",
+                "address": "雲林縣口湖鄉下崙村中和路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.16058,
+                    23.622275
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "義昭里民活動中心",
+                "phone": "02-24249039",
+                "address": "基隆市信義區義昭里信二路157號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752618,
+                    25.129359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "智慧里民活動中心",
+                "phone": "02-24227999",
+                "address": "基隆市信義區智慧里仁一路7巷61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754425,
+                    25.127509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "禮東里民活動中心",
+                "phone": "02-24659320",
+                "address": "基隆市信義區禮東里東明路67巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762437,
+                    25.126929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "東信里民活動中心",
+                "phone": "0224684012",
+                "address": "基隆市信義區東信里東信路258巷54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762659,
+                    25.129833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "基隆市信義區公所",
+                "phone": "02-24282101#204",
+                "address": "基隆市信義區義昭里信二路179號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751276,
+                    25.12948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "東光里民活動中心",
+                "phone": "02-24659232",
+                "address": "基隆市信義區東光里崇法街133號地下室"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768337,
+                    25.134477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "東安里民活動中心",
+                "phone": "02-24655474",
+                "address": "基隆市信義區東安里東信路10-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768148,
+                    25.128631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "孝深里民活動中心",
+                "phone": "02-24651433",
+                "address": "基隆市信義區孝深里深澳坑路75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.785431,
+                    25.126926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "孝德里民活動中心",
+                "phone": "022466-7566",
+                "address": "基隆市信義區孝德里東峰街154號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.776715,
+                    25.130496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "市立體育館",
+                "phone": "02-24275518 ext.15",
+                "address": "基隆市信義區義民里信二路40-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75648,
+                    25.129241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "東信國小活動中心",
+                "phone": "02-24652133#80",
+                "address": "基隆市信義區信綠里正信路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760548,
+                    25.132076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "深澳國小樂活運動站",
+                "phone": "02-24652940#31",
+                "address": "基隆市信義區孝深里深澳坑路55-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.783458,
+                    25.128762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "孝忠里民活動中心",
+                "phone": "02-24666236",
+                "address": "基隆市信義區孝忠里深溪路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.781205,
+                    25.130375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "東光國小",
+                "phone": "02-24650329",
+                "address": "基隆市信義區東信路236巷16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76319,
+                    25.129034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "智誠里里民活動中心",
+                "phone": "02-24657053",
+                "address": "基隆市信義區月眉路65巷2之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.757855,
+                    25.123898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "基隆市信義區中興國民小學",
+                "phone": "02-24225038#30",
+                "address": "基隆市信義區義和里信二路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75721,
+                    25.13036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "基隆市私立光隆高級家事商業職業學校",
+                "phone": "02-24222237",
+                "address": "基隆市信義區仁義里信二路264號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749463,
+                    25.129984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "成功國中活動中心",
+                "phone": "02-24225594#31",
+                "address": "基隆市信義區仁義里壽山路9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749751,
+                    25.130932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "信義國中活動中心",
+                "phone": "02-24652198#32",
+                "address": "基隆市信義區東安里東信路4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768202,
+                    25.129404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "崇右影藝科技大學",
+                "phone": "02-24237785",
+                "address": "基隆市信義區義幸里義七路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753746,
+                    25.131712
+                ]
+            }
+        }
+    ]
+}

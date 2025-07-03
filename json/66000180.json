@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立大華國中-操場及禮堂",
+                "phone": "04-25688251#125",
+                "address": "臺中市大雅區四德里雅環路一段2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.651004,
+                    24.215997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區上楓國小-操場及禮堂",
+                "phone": "04-25663664#731",
+                "address": "臺中市大雅區上楓里楓林街232號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666811,
+                    24.236395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區六寶國小-操場及教室",
+                "phone": "04-25694858#232",
+                "address": "臺中市大雅區六寶里光復路15-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635481,
+                    24.23808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區大明國小-操場及禮堂",
+                "phone": "04-25651300#832",
+                "address": "臺中市大雅區員林里中清路三段92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.642979,
+                    24.228908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區文雅國小-操場及地下室",
+                "phone": "04-25678823#747",
+                "address": "臺中市大雅區文雅里中山北路235號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646015,
+                    24.220303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立大雅國民中學-操場及禮堂",
+                "phone": "04-25672171#402",
+                "address": "臺中市大雅區大雅里學府路280號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.650447,
+                    24.224083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區大雅國小-操場及禮堂",
+                "phone": "04-25667766#731",
+                "address": "臺中市大雅區二和里學府路230號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.650025,
+                    24.222083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區陽明國小-操場及禮堂",
+                "phone": "04-25661554#731",
+                "address": "臺中市大雅區秀山里秀山路365號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.631951,
+                    24.22133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區上雅社區活動中心1、2樓",
+                "phone": "04-25660345",
+                "address": "臺中市大雅區上雅里雅環路二段171巷19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.650893,
+                    24.228107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區公所-禮堂",
+                "phone": "04-25663316#248",
+                "address": "臺中市大雅區上雅里雅環路二段301號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647769,
+                    24.229098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區三和社區活動中心1、2樓",
+                "phone": "09-72385526",
+                "address": "臺中市大雅區上楓里昌平路3段731號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66779,
+                    24.21533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區六寶社區活動中心1、2樓",
+                "phone": "0963233936",
+                "address": "臺中市大雅區上楓里文化路132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.62475,
+                    24.24166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區汝鎏國小-操場及教室",
+                "phone": "04-25661454*750",
+                "address": "臺中市大雅區秀山里平和路238號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626413,
+                    24.231124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區三和國小-操場及禮堂",
+                "phone": "04-25664494#731",
+                "address": "臺中市大雅區三和里春亭二街一號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66824,
+                    24.219681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區西寶社區活動中心-1至3樓",
+                "phone": "04-25669012",
+                "address": "臺中市大雅區西寶里雅潭路3段600號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.667944,
+                    24.216062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "國立中科實驗高級中學-禮堂",
+                "phone": "04-25686850#1510",
+                "address": "臺中市大雅區秀山里平和路227號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626122,
+                    24.229723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區秀山社區活動中心2樓",
+                "phone": "04-25691216",
+                "address": "臺中市大雅區秀山里平和一路18之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.633021,
+                    24.228588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市大雅區三和公園",
+                "phone": "04-25663316#352",
+                "address": "臺中市大雅區三和里龍善二街"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652522,
+                    24.21162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市原住民綜合服務中心-廣場",
+                "phone": "04-25602710",
+                "address": "臺中市大雅區忠義里仁愛路69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.622446,
+                    24.235074
+                ]
+            }
+        }
+    ]
+}

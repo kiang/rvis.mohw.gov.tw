@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "三叉坑社區活動中心",
+                "phone": "0966855682",
+                "address": "臺中市和平區自由里東崎路二段三叉巷8-31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.891317,
+                    24.268592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "麗陽營區",
+                "phone": "04-25942412",
+                "address": "臺中市和平區博愛里東關路一段岳武巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.987574,
+                    24.190964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "原住民族委員會技藝研習中心",
+                "phone": "04-25942731",
+                "address": "臺中市和平區南勢里東關路3段3之8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.902209,
+                    24.171899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "雙崎社區活動中心",
+                "phone": "04-25911236",
+                "address": "臺中市和平區自由里和平區自由里東崎路二段71-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.908394,
+                    24.290676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "桃山社區活動中心",
+                "phone": "04-25911501",
+                "address": "臺中市和平區達觀里東崎路1段桃山巷39之7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.936294,
+                    24.335934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中坑國民小學",
+                "phone": "04-25874992",
+                "address": "臺中市和平區中坑里中坑巷41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.894426,
+                    24.226744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "梨山國民中小學",
+                "phone": "04-25981510#218",
+                "address": "臺中市和平區梨山里福壽路10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.259835,
+                    24.255711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "平等國民小學",
+                "phone": "04-25802204#103",
+                "address": "臺中市和平區平等里中興路三段環山3巷35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.293572,
+                    24.31727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "和平國民小學",
+                "phone": "04-25941304#111",
+                "address": "臺中市和平區南勢里東關路三段54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.895551,
+                    24.170987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "德芙蘭國民小學谷關分校風雨教室",
+                "phone": "04-25951154",
+                "address": "臺中市和平區博愛里分校巷29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.007741,
+                    24.256367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "和平國民中學",
+                "phone": "04-25941512",
+                "address": "臺中市和平區南勢里東關路三段崑崙巷 62 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.882496,
+                    24.178688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "自由國民小學",
+                "phone": "04-25911432",
+                "address": "臺中市和平區自由里東崎路二段49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.908951,
+                    24.291388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "白冷國民小學",
+                "phone": "04-25941184",
+                "address": "臺中市和平區天輪里天輪巷42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.926548,
+                    24.182005
+                ]
+            }
+        }
+    ]
+}

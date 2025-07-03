@@ -1,0 +1,677 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "光正國民中學風雨操場\/操場",
+                "phone": "04-24911599#101",
+                "address": "臺中市大里區健民里鳳凰路68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.718704,
+                    24.095883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "永隆國民小學活動中心\/操場",
+                "phone": "04-24066637#168",
+                "address": "臺中市大里區永隆里永隆五街二號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.677612,
+                    24.11118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "內新國民小學北棟地下室\/操場",
+                "phone": "04-24852863#700",
+                "address": "臺中市大里區東昇里東昇里日新路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692238,
+                    24.111643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "爽文國民中學活動中心\/操場",
+                "phone": "04-24067545#211",
+                "address": "臺中市大里區永隆里永隆三街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678419,
+                    24.107652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大新活動中心",
+                "phone": "04-24063979*123",
+                "address": "臺中市大里區新里里新興路99巷16弄56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.676096,
+                    24.100628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "新仁活動中心",
+                "phone": "0910278929",
+                "address": "臺中市大里區新仁里立新街71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.705614,
+                    24.107924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "祥興活動中心",
+                "phone": "0936-969866",
+                "address": "臺中市大里區祥興里中興路二段祥興3巷10弄34號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685906,
+                    24.120325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東興活動中心",
+                "phone": "0911-139296",
+                "address": "臺中市大里區東興里永興路260號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681505,
+                    24.112292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "立德里活動中心",
+                "phone": "04-22752096專線",
+                "address": "臺中市大里區立德里甲提南路10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703349,
+                    24.106988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "塗城活動中心",
+                "phone": "04-24917978",
+                "address": "臺中市大里區塗城里塗城路1-26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72143,
+                    24.08624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "草湖國民小學禮堂\/操場",
+                "phone": "04-24953078#700",
+                "address": "臺中市大里區西湖里西湖路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690217,
+                    24.078261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "仁德活動中心",
+                "phone": "0932635651",
+                "address": "臺中市大里區仁德里文化街119號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700005,
+                    24.092724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "兒童青少年福利服務中心",
+                "phone": "04-24827405#101",
+                "address": "臺中市大里區內新里新光路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69179,
+                    24.110606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "國光里活動中心",
+                "phone": "04-24810965專線",
+                "address": "臺中市大里區國光里勝利二路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686167,
+                    24.10019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "內新里活動中心",
+                "phone": "04-24865866",
+                "address": "臺中市大里區內新里中新街9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690859,
+                    24.113019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "甲興社會福利綜合大樓2樓市民活動中心",
+                "phone": "04-24063979123",
+                "address": "臺中市大里區立仁里甲興路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698064,
+                    24.106749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "樹王活動中心",
+                "phone": "04-24069030專線",
+                "address": "臺中市大里區樹王里樹王路335號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.667598,
+                    24.108256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "塗城國民小學禮堂\/運動場",
+                "phone": "04-24922935轉700",
+                "address": "臺中市大里區仁德里文化街120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700436,
+                    24.093057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立大里幼兒園-日新分班",
+                "phone": "04-24070302#121",
+                "address": "臺中市大里區日新里日新路383號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692259,
+                    24.118917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大元國民小學新元館\/操場",
+                "phone": "04-24834568*700",
+                "address": "臺中市大里區大元里現岱路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.689809,
+                    24.100445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "崇光國民小學崇光樓地下室\/操場",
+                "phone": "04-24818836#5168",
+                "address": "臺中市大里區東興里大明路181號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684642,
+                    24.114861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "永誠學校財團法人臺中市大明高級中等學校體育場\/禮堂",
+                "phone": "04-24821027#102",
+                "address": "臺中市大里區大明里新仁路三段210號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685927,
+                    24.116368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "美群國民小學地下室\/風雨操場",
+                "phone": "04-24912129#1801",
+                "address": "臺中市大里區塗城里美群路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70952,
+                    24.084033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "永隆里活動中心",
+                "phone": "04-24060702",
+                "address": "臺中市大里區永隆里永隆六街29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.67362,
+                    24.112392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "夏田活動中心廣場",
+                "phone": "04-00000000",
+                "address": "臺中市大里區夏田里頂厝路125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66856,
+                    24.085497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "僑泰中學育才大樓",
+                "phone": "04-24063936#100",
+                "address": "臺中市大里區樹王里樹王路342號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666985,
+                    24.111823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "益民國民小學後棟地下室\/運動場",
+                "phone": "04-24834970700",
+                "address": "臺中市大里區長榮里益民路二段48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687324,
+                    24.107037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "竹坑營區",
+                "phone": "04-25679123專線",
+                "address": "臺中市大里區健民里健民路86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.730573,
+                    24.091453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "福興宮",
+                "phone": "04-24065066專線",
+                "address": "臺中市大里區新里里福興街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.677482,
+                    24.098096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大里高中活動中心\/操場",
+                "phone": "04-24067870#111",
+                "address": "臺中市大里區大元里國中路365號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678574,
+                    24.094515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大里運動公園",
+                "phone": "04-24063979#302",
+                "address": "臺中市大里區國光里勝利二街與大里路與國光路交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685353,
+                    24.100053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "竹仔坑社區活動中心",
+                "phone": "04-24911213專線",
+                "address": "臺中市大里區健民里校前路27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72933,
+                    24.0896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "竹仔坑國民小學演奏廳\/操場",
+                "phone": "04-24912342#188",
+                "address": "臺中市大里區健民里校前路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.728405,
+                    24.08921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "光榮國民中學光榮館\/操場",
+                "phone": "04-24831428#100",
+                "address": "臺中市大里區西榮里東榮路280號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686851,
+                    24.110786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "成功國民中學操場",
+                "phone": "04-24927226#777",
+                "address": "臺中市大里區金城里至善路157號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699273,
+                    24.094049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "立新國民小學D棟大樓地下室\/風雨操場",
+                "phone": "04-22769178#800",
+                "address": "臺中市大里區立仁里立新街338號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699397,
+                    24.105167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大里國民小學運動場",
+                "phone": "04-24066002#710",
+                "address": "臺中市大里區新里里新興路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.677435,
+                    24.100069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "瑞城國民小學活動中心\/操場",
+                "phone": "04-24923397#711",
+                "address": "臺中市大里區瑞城里美村街196 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7025,
+                    24.086258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東湖活動中心廣場",
+                "phone": "04-24923862",
+                "address": "臺中市大里區東湖里東南路207巷36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.693319,
+                    24.077103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "立新國民中學勤學樓地下室\/風雨操場",
+                "phone": "04-22732299#888",
+                "address": "臺中市大里區立仁里甲堤路236號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.696282,
+                    24.104626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市私立青年高級中學禮堂\/操場",
+                "phone": "04-24963333*121",
+                "address": "臺中市大里區東湖里中湖路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.693824,
+                    24.087472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "瑞城里市民活動中心",
+                "phone": "04-24926261",
+                "address": "臺中市大里區瑞城里成功路430號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70359,
+                    24.089176
+                ]
+            }
+        }
+    ]
+}

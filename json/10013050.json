@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬丹鄉老人文康活動中心",
+                "phone": "08-7070982",
+                "address": "屏東縣萬丹鄉社皮村大昌路495號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46906,
+                    22.615742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬丹鄉立圖書館",
+                "phone": "08-7771627",
+                "address": "屏東縣萬丹鄉萬後村屏東縣萬丹鄉和平西路157號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.484902,
+                    22.589019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬丹鄉四維國小",
+                "phone": "08-7761987#14",
+                "address": "屏東縣萬丹鄉四維村四維東路567號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490025,
+                    22.594973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬丹鄉行政中心",
+                "phone": "08-7772111#33",
+                "address": "屏東縣萬丹鄉萬後村和平西路155號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.485022,
+                    22.589409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬丹鄉廣安國小",
+                "phone": "08-7772444#14",
+                "address": "屏東縣萬丹鄉廣安村廣志街8巷15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490513,
+                    22.615697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬丹鄉社皮國小",
+                "phone": "08-7072162#14",
+                "address": "屏東縣萬丹鄉社皮村社皮路二段550號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.467955,
+                    22.615386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "厦北社區活動中心",
+                "phone": "08-7070125",
+                "address": "屏東縣萬丹鄉厦北村普安路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.466804,
+                    22.600258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬丹鄉萬丹國中",
+                "phone": "08-7772020#14",
+                "address": "屏東縣萬丹鄉四維村萬丹路二段5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488114,
+                    22.59655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬丹鄉萬丹國小",
+                "phone": "08-7772014#14",
+                "address": "屏東縣萬丹鄉寶厝村萬新路1497號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488688,
+                    22.582567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "萬丹鄉新庄新庄鐘社區聯合活動中心",
+                "phone": "08-7772111#31",
+                "address": "屏東縣萬丹鄉新庄村新庄路16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.491496,
+                    22.565162
+                ]
+            }
+        }
+    ]
+}

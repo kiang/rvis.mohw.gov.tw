@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "埔心鄉立幼兒園",
+                "phone": "04-8242191-203",
+                "address": "彰化縣埔心鄉太平村太平路336號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551378,
+                    23.938403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "羅厝國小",
+                "phone": "04-8292861-813",
+                "address": "彰化縣埔心鄉羅厝村文昌東路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.513079,
+                    23.942067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "舊館國小",
+                "phone": "04-8292025#713",
+                "address": "彰化縣埔心鄉舊舘村員鹿路4段201號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.525814,
+                    23.947679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "埔心國中埔心國中暨社區多功能活動中心",
+                "phone": "04-8291129-10",
+                "address": "彰化縣埔心鄉義民村忠義北路57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541968,
+                    23.954646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "鳳霞國小",
+                "phone": "04-8294072",
+                "address": "彰化縣埔心鄉二重村五通南路82號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.525724,
+                    23.970027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "梧鳳國小",
+                "phone": "8291964",
+                "address": "彰化縣埔心鄉梧鳳村大溪路三段175號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.512377,
+                    23.970383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "埔心國小",
+                "phone": "8291494-104",
+                "address": "彰化縣埔心鄉義民村員鹿路二段254號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545323,
+                    23.953344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "明聖國小",
+                "phone": "04-8295395",
+                "address": "彰化縣埔心鄉瓦北村西安南路178號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.557567,
+                    23.95118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "太平國小",
+                "phone": "8226049-102",
+                "address": "彰化縣埔心鄉太平村太平路289號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.552955,
+                    23.937868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "埔心鄉公所",
+                "phone": "04-8296249#23",
+                "address": "彰化縣埔心鄉義民村員鹿路二段344號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54352,
+                    23.953064
+                ]
+            }
+        }
+    ]
+}

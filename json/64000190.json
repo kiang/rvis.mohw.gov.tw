@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立前峰國民中學",
+                "phone": "07-6265568#310",
+                "address": "高雄市岡山區信義里樹人路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28842,
+                    22.789449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市岡山區兆湘國民小學",
+                "phone": "07-6252394#1500",
+                "address": "高雄市岡山區信義里介壽60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28671,
+                    22.785034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市岡山區和平國民小學",
+                "phone": "07-6254220#40",
+                "address": "高雄市岡山區和平里和平路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303827,
+                    22.782053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市岡山區後紅國民小學",
+                "phone": "07-6212815#40",
+                "address": "高雄市岡山區碧紅里岡燕路2巷88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303439,
+                    22.792904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市岡山區嘉興國民小學",
+                "phone": "07-6212414#40",
+                "address": "高雄市岡山區嘉興里嘉興路322號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305291,
+                    22.821597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立嘉興國民中學",
+                "phone": "07-6221039#31",
+                "address": "高雄市岡山區嘉興里信中街486號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31191,
+                    22.816175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "公園西路14號公所廳舍",
+                "phone": "07-6214193#156",
+                "address": "高雄市岡山區壽天里公園西路14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289345,
+                    22.799129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市岡山區前峰國民小學",
+                "phone": "07-6262415#841",
+                "address": "高雄市岡山區仁壽里育英路35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.282833,
+                    22.792351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "岡山區老人活動中心",
+                "phone": "07-6214193#156",
+                "address": "高雄市岡山區壽天里壽天路66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291956,
+                    22.796168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市岡山區竹圍國民小學",
+                "phone": "07-6233032#2440",
+                "address": "高雄市岡山區竹圍里大仁北路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30283,
+                    22.802975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立岡山國民中學",
+                "phone": "07-6212219#231",
+                "address": "高雄市岡山區後紅里岡燕路238號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30327,
+                    22.791083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市岡山區壽天國民小學",
+                "phone": "07-6246040#840",
+                "address": "高雄市岡山區壽天里公園東路55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292481,
+                    22.798857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市岡山區岡山國民小學",
+                "phone": "07-6212032#40",
+                "address": "高雄市岡山區平安里柳橋東路36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293671,
+                    22.791423
+                ]
+            }
+        }
+    ]
+}

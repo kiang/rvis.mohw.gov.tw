@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "鳥松區公所三樓",
+                "phone": "07-7314191",
+                "address": "高雄市鳥松區鳥松里中正路98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.364329,
+                    22.659958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳥松區鳥松國民小學",
+                "phone": "07-7321780#36",
+                "address": "高雄市鳥松區鳥松里文前路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.361721,
+                    22.663077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "老人文康活動中心",
+                "phone": "07-7314191#605",
+                "address": "高雄市鳥松區仁美里仁德路１１號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.39534,
+                    22.651111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳥松區大華國民小學",
+                "phone": "07-3701359#540",
+                "address": "高雄市鳥松區大華里大華路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340501,
+                    22.653732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立文山高級中學",
+                "phone": "07-7777272#410",
+                "address": "高雄市鳥松區鳥松里大埤路31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.352785,
+                    22.64819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳥松區仁美國民小學",
+                "phone": "7315633#732",
+                "address": "高雄市鳥松區華美里學堂路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.394141,
+                    22.658432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳥松國民中學",
+                "phone": "7323977#31",
+                "address": "高雄市鳥松區鳥松里松埔北巷5之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.371987,
+                    22.664605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鳥松區大華里活動中心",
+                "phone": "07-3703856",
+                "address": "高雄市鳥松區大華里大昌路397之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340643,
+                    22.65529
+                ]
+            }
+        }
+    ]
+}

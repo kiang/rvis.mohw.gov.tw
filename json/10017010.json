@@ -1,0 +1,437 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "基隆海事活動中心",
+                "phone": "02-24621602",
+                "address": "基隆市中正區海濱里祥豐街246號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771477,
+                    25.148029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "港通及正義里民活動中心",
+                "phone": "02-24284488",
+                "address": "基隆市中正區港通里義一路87號7樓之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746654,
+                    25.134696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "碧砂里民活動中心",
+                "phone": "02-24692155",
+                "address": "基隆市中正區碧砂里環港街84號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.793032,
+                    25.139756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中濱里民活動中心",
+                "phone": "02-24620181",
+                "address": "基隆市中正區中濱里武昌街70巷23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764151,
+                    25.148482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "砂子里民活動中心",
+                "phone": "02-24692224",
+                "address": "基隆市中正區砂子里調和街3號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.796526,
+                    25.139081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "八斗里民活動中心",
+                "phone": "02-24691302",
+                "address": "基隆市中正區八斗里八斗街57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.796674,
+                    25.143228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "砂灣里民活動中心",
+                "phone": "02-24626870",
+                "address": "基隆市中正區砂灣里祥豐街66號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763926,
+                    25.141967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中砂里民活動中心",
+                "phone": "02-24628991",
+                "address": "基隆市中正區中砂里正豐街50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.759666,
+                    25.140626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "社寮里民活動中心",
+                "phone": "02-24628668",
+                "address": "基隆市中正區社寮里和一路155巷14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764307,
+                    25.15461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "建國里民活動中心",
+                "phone": "02-24620798",
+                "address": "基隆市中正區建國里祥豐街467號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769571,
+                    25.146035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "八斗高中活動中心",
+                "phone": "02-24692366#31",
+                "address": "基隆市中正區新豐里新豐街100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788501,
+                    25.140059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中正國小活動中心",
+                "phone": "02-24223064#30",
+                "address": "基隆市中正區中船里中船路36巷4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751118,
+                    25.135677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中船、正船、入船聯合里民活動中心",
+                "phone": "02-24633341",
+                "address": "基隆市中正區中船里中船路11號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749666,
+                    25.137034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "平寮里民活動中心",
+                "phone": "02-24631305",
+                "address": "基隆市中正區平寮里和一路186號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763819,
+                    25.155072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "正砂里民活動中心",
+                "phone": "02-24620298",
+                "address": "基隆市中正區正砂里中正路211號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760955,
+                    25.143232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "新豐里民活動中心",
+                "phone": "02-24693885",
+                "address": "基隆市中正區新豐里新豐街482號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.785195,
+                    25.135567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中正里民活動中心",
+                "phone": "02-24621889",
+                "address": "基隆市中正區中正里中正路656巷146號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767214,
+                    25.149546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "八斗子環保公園",
+                "phone": "02-24696000 ext.1019",
+                "address": "基隆市中正區長潭里北寧路369巷"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.799681,
+                    25.140984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "和平國小活動中心",
+                "phone": "02-24622106",
+                "address": "基隆市中正區社寮里和一路84巷26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766088,
+                    25.155642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "國立臺灣海洋大學",
+                "phone": "02-24622192#2214",
+                "address": "基隆市中正區海濱里北寧路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772593,
+                    25.150839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "基隆市中正區正濱國民小學",
+                "phone": "02-24635551",
+                "address": "基隆市中正區建國里祥豐街216號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770413,
+                    25.14636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "基隆市中正區正濱國民中學",
+                "phone": "02-24631490#31",
+                "address": "基隆市中正區正砂里正榮街88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762913,
+                    25.146231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "基隆市中正區中正國民中學",
+                "phone": "02-24282191#30",
+                "address": "基隆市中正區中船里中船路36巷59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753716,
+                    25.135099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "國立海洋科技博物館",
+                "phone": "02-24696000",
+                "address": "基隆市中正區長潭里北寧路367號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.798852,
+                    25.140198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "祥豐街68巷底公園",
+                "phone": "02-24626870",
+                "address": "基隆市中正區砂灣里祥豐街68巷137號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765497,
+                    25.140298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "八斗子漁港環港街小型公園",
+                "phone": "02-24633341",
+                "address": "基隆市中正區漁港三街80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.796567,
+                    25.141935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "真砂里休閒公園",
+                "phone": "02-24633341",
+                "address": "基隆市中正區祥豐街60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763659,
+                    25.141876
+                ]
+            }
+        }
+    ]
+}

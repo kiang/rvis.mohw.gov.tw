@@ -1,0 +1,549 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立高雄高級中學",
+                "phone": "07-2862550#567",
+                "address": "高雄市三民區建東里建國三路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297957,
+                    22.638245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區三民國民小學",
+                "phone": "07-2810378#31",
+                "address": "高雄市三民區千北里建國三路216號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291247,
+                    22.636672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區鼎金國民小學",
+                "phone": "07-3836330#731",
+                "address": "高雄市三民區灣成里鼎山街375號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.321982,
+                    22.656129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區愛國國民小學",
+                "phone": "07-3161191#233",
+                "address": "高雄市三民區同德里十全一路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313676,
+                    22.644535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區十全國民小學",
+                "phone": "07-3214366#131",
+                "address": "高雄市三民區安宜里十全二路162號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299,
+                    22.647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區正興國民小學",
+                "phone": "07-3845206#731",
+                "address": "高雄市三民區寶興里大豐二路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326123,
+                    22.646321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區博愛國民小學",
+                "phone": "07-311070#831",
+                "address": "高雄市三民區安東里十全一路202號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307401,
+                    22.645772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區獅湖國民小學",
+                "phone": "07-3424782#6031",
+                "address": "高雄市三民區鼎強里鼎金後路495號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3222,
+                    22.672152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區莊敬國民小學",
+                "phone": "07-3813210#5031",
+                "address": "高雄市三民區本和里大昌一路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324133,
+                    22.656324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區陽明國民小學",
+                "phone": "07-3851916#731",
+                "address": "高雄市三民區寶玉里義德路52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334789,
+                    22.646235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區河濱國民小學",
+                "phone": "07-2211408#731",
+                "address": "高雄市三民區立德里市中一路339號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287797,
+                    22.634035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "德智,德仁里活動中心",
+                "phone": "07-3221999",
+                "address": "高雄市三民區德智里自由一路52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308775,
+                    22.642987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區光武國民小學",
+                "phone": "07-3867458#730",
+                "address": "高雄市三民區寶德里光武路35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334548,
+                    22.639229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區東光國民小學",
+                "phone": "07-3839350#31",
+                "address": "高雄市三民區本安里黃興路206號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.339721,
+                    22.649042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區民族國民小學",
+                "phone": "07-3860526#834",
+                "address": "高雄市三民區安發里平等路197號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.320164,
+                    22.64346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "安東,安和,達明聯合里活動中心",
+                "phone": "07-3228160",
+                "address": "高雄市三民區安和里松江街250號（三民公園內）"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304659,
+                    22.64694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "安宜里活動中心",
+                "phone": "07-3229596",
+                "address": "高雄市三民區安宜里自立一路535號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296482,
+                    22.650352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "德北,十全,十美聯合里活動中心",
+                "phone": "07-3228284",
+                "address": "高雄市三民區德北里德北街170號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295109,
+                    22.640585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "中都地區聯合里活動中心",
+                "phone": "07-3112814",
+                "address": "高雄市三民區川東里同盟三路442號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.283021,
+                    22.644226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "千歲,千北,立德,鳳南聯合里活動中心",
+                "phone": "07-2163089",
+                "address": "高雄市三民區千歲里三民街222號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290602,
+                    22.635335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "三塊厝聯合里活動中心",
+                "phone": "07-2885676",
+                "address": "高雄市三民區興德里三民街39-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295551,
+                    22.63673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "寶安里活動中心",
+                "phone": "07-3860336",
+                "address": "高雄市三民區寶安里覺明路585號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328864,
+                    22.64086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "寶珠溝里活動中心",
+                "phone": "07-3975129",
+                "address": "高雄市三民區寶德里壽昌路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.333873,
+                    22.641269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "本和里活動中心",
+                "phone": "07-3980766",
+                "address": "高雄市三民區本和里大和街190號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326087,
+                    22.655504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市三民區公所",
+                "phone": "07-3228160#254",
+                "address": "高雄市三民區安邦里哈爾濱街215號9樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299786,
+                    22.647625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立三民高級中學",
+                "phone": "3475181#831",
+                "address": "高雄市三民區鼎西里金鼎路81號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326721,
+                    22.663103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立高雄高級工業職業學校",
+                "phone": "3815366#2202",
+                "address": "高雄市三民區寶珠里建工路419號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326452,
+                    22.65063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立三民國民中學",
+                "phone": "07-3227751#330",
+                "address": "高雄市三民區安東里十全一路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308012,
+                    22.645744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "灣愛里活動中心",
+                "phone": "07-3921436",
+                "address": "高雄市三民區灣愛里大昌一路270巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.321281,
+                    22.657869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "鼎中,鼎力,鼎西,鼎金,鼎強,鼎盛聯合里活動中心",
+                "phone": "07-3463633",
+                "address": "高雄市三民區鼎中里鼎力路125-1號地下1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.321802,
+                    22.666668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立正興國民中學",
+                "phone": "07-3809591#320",
+                "address": "高雄市三民區正興里覺民路850號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319684,
+                    22.644461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立民族國民中學",
+                "phone": "07-3818718#31",
+                "address": "高雄市三民區寶德里覺民路363號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.333123,
+                    22.639467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立陽明國民中學",
+                "phone": "07-3892919#32",
+                "address": "高雄市三民區本上里義華路166號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340424,
+                    22.643128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立鼎金國民中學",
+                "phone": "07-3831029#131",
+                "address": "高雄市三民區灣成里鼎山街445號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.321043,
+                    22.654906
+                ]
+            }
+        }
+    ]
+}

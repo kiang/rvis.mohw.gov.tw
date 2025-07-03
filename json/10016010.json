@@ -1,0 +1,709 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "五德社區暨農漁民活動中心",
+                "phone": "06-9951009",
+                "address": "澎湖縣馬公市五德里97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.585801,
+                    23.527481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "光榮社區活動中心",
+                "phone": "06-9263532",
+                "address": "澎湖縣馬公市光榮里三多路437號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.570386,
+                    23.576993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "石泉社區活動中心",
+                "phone": "06-9212101",
+                "address": "澎湖縣馬公市石泉里32-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.593856,
+                    23.554887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "東文社區暨農漁民活動中心",
+                "phone": "06-9210124",
+                "address": "澎湖縣馬公市東文里文山路59巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.584709,
+                    23.561299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "勞工育樂中心",
+                "phone": "06-9212680",
+                "address": "澎湖縣馬公市案山里澎湖縣馬公市大賢街160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.580913,
+                    23.561026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "澎湖科技大學學生活動中心",
+                "phone": "06-9278912",
+                "address": "澎湖縣馬公市西衛里澎湖縣馬公市六合路300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.577385,
+                    23.577874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "興仁社區活動中心",
+                "phone": "06-9210260",
+                "address": "澎湖縣馬公市興仁里33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.611577,
+                    23.550446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "烏崁里集會所活動中心",
+                "phone": "06-9212797",
+                "address": "澎湖縣馬公市烏崁里105-70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.615667,
+                    23.542442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "東衛社區活動中心",
+                "phone": "06-9212752",
+                "address": "澎湖縣馬公市東衛里35-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.601401,
+                    23.568384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "案山社區暨農漁民活動中心",
+                "phone": "06-9212700",
+                "address": "澎湖縣馬公市案山里51-20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.577734,
+                    23.558199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "前寮里集會所活動中心",
+                "phone": "06-9213083",
+                "address": "澎湖縣馬公市前寮里31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.588516,
+                    23.552354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "風櫃社區活動中心",
+                "phone": "06-9951006",
+                "address": "澎湖縣馬公市風櫃里120-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.543895,
+                    23.541969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "光華社區活動中心",
+                "phone": "06-9216028",
+                "address": "澎湖縣馬公市光華里241號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.599029,
+                    23.557182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "風櫃國小活動中心",
+                "phone": "06-9951280",
+                "address": "澎湖縣馬公市風櫃里風櫃里66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.545406,
+                    23.540499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "朝陽里集會所活動中心",
+                "phone": "06-9260389",
+                "address": "澎湖縣馬公市朝陽里朝陽路114號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.575926,
+                    23.573723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "中正國中體育館",
+                "phone": "06-9211137#40",
+                "address": "澎湖縣馬公市光華里光華里101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.599116,
+                    23.560641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "鎖港社區活動中心",
+                "phone": "06-9950686",
+                "address": "澎湖縣馬公市鎖港里鎖港里633號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.602919,
+                    23.526167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "澎南國中活動中心",
+                "phone": "06-9951212#29",
+                "address": "澎湖縣馬公市五德里五德里41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.589315,
+                    23.527104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "東衛國小活動中心",
+                "phone": "06-9213238",
+                "address": "澎湖縣馬公市東衛里東衛里170號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.60718,
+                    23.570817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "山水國小活動中心",
+                "phone": "06-9951004",
+                "address": "澎湖縣馬公市山水里山水里140號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.594669,
+                    23.522397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "鐵線社區暨農漁民活動中心",
+                "phone": "06-9951011",
+                "address": "澎湖縣馬公市鐵線里鐵線里4-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.598494,
+                    23.532636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "虎井社區暨農漁民活動中心",
+                "phone": "06-9291012",
+                "address": "澎湖縣馬公市虎井里14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.516392,
+                    23.486031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "西衛社區暨農漁民活動中心",
+                "phone": "06-9276686",
+                "address": "澎湖縣馬公市西衛里西衛里625號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.583107,
+                    23.585642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "文澳國小體育館-地下室桌球教室",
+                "phone": "06-9212412",
+                "address": "澎湖縣馬公市西文里文學路221號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.583207,
+                    23.564518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "興仁國小教室",
+                "phone": "06-9211443",
+                "address": "澎湖縣馬公市烏崁里烏崁里129號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.617733,
+                    23.549586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "桶盤社區暨農漁民活動中心",
+                "phone": "06-9291250",
+                "address": "澎湖縣馬公市桶盤里31-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.518252,
+                    23.511735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "安宅社區暨農漁民活動中心",
+                "phone": "06-9215820",
+                "address": "澎湖縣馬公市安宅里48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.601584,
+                    23.578225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "井垵社區暨農漁民活動中心",
+                "phone": "06-9953067",
+                "address": "澎湖縣馬公市井垵里21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.576832,
+                    23.520589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "馬公市立幼兒園",
+                "phone": "06-9274645",
+                "address": "澎湖縣馬公市西文里新明路104-14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.58098,
+                    23.564931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "澎南國中教室",
+                "phone": "06-9951212#29",
+                "address": "澎湖縣馬公市五德里41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.589315,
+                    23.527104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "嵵裡國小",
+                "phone": "06-9951332",
+                "address": "澎湖縣馬公市嵵裡里114號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.568327,
+                    23.527151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "山水社區暨漁民活動中心",
+                "phone": "06-9951010",
+                "address": "澎湖縣馬公市山水里32-13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.595097,
+                    23.515331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "馬公國中學生活動中心",
+                "phone": "06-9263367",
+                "address": "澎湖縣馬公市西文里中華路326號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.580986,
+                    23.570187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "文光國中學生活動中心",
+                "phone": "06-9272992",
+                "address": "澎湖縣馬公市光明里文光路17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.569671,
+                    23.573573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "馬公國小學生活動中心",
+                "phone": "06-9272165",
+                "address": "澎湖縣馬公市光明里明遠路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.569233,
+                    23.571612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "中山國小學生活動中心",
+                "phone": "06-9211342",
+                "address": "澎湖縣馬公市案山里25-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.582241,
+                    23.556961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "石泉國小學生活動中心",
+                "phone": "06-9210228",
+                "address": "澎湖縣馬公市石泉里1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.5955,
+                    23.56021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "中興國小學生活動中心",
+                "phone": "06-9272779",
+                "address": "澎湖縣馬公市朝陽里光復路186號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.574555,
+                    23.574923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "馬公高中學生活動中心",
+                "phone": "06-9272342",
+                "address": "澎湖縣馬公市朝陽里中華路369號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.580457,
+                    23.571473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "馬公高中體育館",
+                "phone": "06-9272342",
+                "address": "澎湖縣馬公市朝陽里中華路369號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.580457,
+                    23.571473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "中正國小",
+                "phone": "06-9272758",
+                "address": "澎湖縣馬公市中興里民生路38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.56585,
+                    23.568017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "澎湖縣特殊教育資源中心",
+                "phone": "06-9274400",
+                "address": "澎湖縣馬公市光明里自立路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.569008,
+                    23.572478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "桶盤里福海宮",
+                "phone": "06-9291279",
+                "address": "澎湖縣馬公市桶盤里29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.518163,
+                    23.511602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "澎湖縣中山棒球場",
+                "phone": "06-9272803",
+                "address": "澎湖縣馬公市案山里25-7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.581205,
+                    23.556018
+                ]
+            }
+        }
+    ]
+}

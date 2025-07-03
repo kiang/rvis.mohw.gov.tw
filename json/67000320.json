@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "德光里活動中心",
+                "phone": "06-2680280",
+                "address": "臺南市東區德光里崇德路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2187457,
+                    22.9806866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "大智里活動中心",
+                "phone": "06-2678872",
+                "address": "臺南市東區大智里德東街90號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2300704,
+                    22.9616076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "復興國民小學風雨球場",
+                "phone": "06-3310457",
+                "address": "臺南市東區文聖里裕文路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2387869,
+                    22.9823906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "衛國里活動中心",
+                "phone": "06-2380867",
+                "address": "臺南市東區衛國里衛國街114巷28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2253971,
+                    22.9878206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "龍山社區活動中心",
+                "phone": "06-2352746",
+                "address": "臺南市東區龍山里林森路一段311號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.219445,
+                    22.9836017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "關聖社區活動中心",
+                "phone": "06-3315630",
+                "address": "臺南市東區關聖里裕孝路118號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.243375,
+                    22.9865857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "崇學國民小學操場",
+                "phone": "06-2689951",
+                "address": "臺南市東區崇學里崇學路98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2232004,
+                    22.9794998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "和平里活動中心",
+                "phone": "06-2685393",
+                "address": "臺南市東區和平里文化路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2326034,
+                    22.9769248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "裕文國民小學",
+                "phone": "06-3317657",
+                "address": "臺南市東區文聖里裕文路301號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2457409,
+                    22.9824992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "大學東寧聯合社區活動中心",
+                "phone": "06-2005760",
+                "address": "臺南市東區大學里林森路二段252號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2240408,
+                    22.9920311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "東區區公所",
+                "phone": "06-2680622#313",
+                "address": "臺南市東區崇信里崇學路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224004,
+                    22.9802421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "東寧運動公園",
+                "phone": "06-2991111",
+                "address": "臺南市東區東明里林森路二段250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2250221,
+                    22.9915703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "富裕里活動中心",
+                "phone": "06-2345463",
+                "address": "臺南市東區富裕里東門路二段365巷35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2279904,
+                    22.983457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "勝利國小",
+                "phone": "06-2372982",
+                "address": "臺南市東區中西里勝利路10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2178739,
+                    22.9886316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "東光社區活動中心",
+                "phone": "06-2372032",
+                "address": "臺南市東區東光里東光路一段39號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2307345,
+                    22.9906232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "平實公園",
+                "phone": "06-2991111",
+                "address": "臺南市東區後甲里平實路與後甲一路路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2360001,
+                    22.9928433
+                ]
+            }
+        }
+    ]
+}

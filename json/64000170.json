@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市仁武區灣內國民小學",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區灣內里八德東路568號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.347932,
+                    22.687159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市仁武區登發國民小學",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區仁和里仁忠路191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.354052,
+                    22.679646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市仁武區八卦國民小學",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區八卦里永仁街555號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.333146,
+                    22.689043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市仁武區竹後國民小學",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區竹後里竹楠路250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334866,
+                    22.710042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市仁武區烏林國民小學",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區烏林里林森巷23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.373374,
+                    22.697935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "仁武區綜合活動中心",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區仁武里中正路94號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348398,
+                    22.701336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立大灣國民中學",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區大灣里仁雄路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.341986,
+                    22.676082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "仁慈里活動中心",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區仁慈里仁慈路75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358707,
+                    22.671695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "中華里活動中心",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區中華里華園街25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32716,
+                    22.708462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "仁武里活動中心",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區仁武里仁祥街199號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344717,
+                    22.704348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市仁武區仁武國民小學",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區仁武里中正路94號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348398,
+                    22.701336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高楠社區活動中心",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區高楠里高楠四街58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324188,
+                    22.691749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立仁武高級中學",
+                "phone": "07-3727900",
+                "address": "高雄市仁武區文武里仁林路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.356315,
+                    22.702456
+                ]
+            }
+        }
+    ]
+}

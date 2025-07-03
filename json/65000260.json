@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "虎子山",
+                "phone": "02-24941601#308",
+                "address": "新北市貢寮區福隆里虎子山街"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.94139,
+                    25.015464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "福隆青少年活動中心",
+                "phone": "02-24941601#308",
+                "address": "新北市貢寮區福隆里福隆里福隆街60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.945732,
+                    25.018378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "昭惠廟",
+                "phone": "02-24941556",
+                "address": "新北市貢寮區龍門里龍門街74-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.931004,
+                    25.02662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "佛祖廟西側高地",
+                "phone": "02-24941601#308",
+                "address": "新北市貢寮區和美里和美街49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.921149,
+                    25.105104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "福隆國小",
+                "phone": "02-24991449#12",
+                "address": "新北市貢寮區福隆里東興街35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.948825,
+                    25.017607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "貢寮國小",
+                "phone": "02-24941274#40",
+                "address": "新北市貢寮區雙玉里學苑街7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.915086,
+                    25.022017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "貢寮實驗中學",
+                "phone": "02-24941941#101",
+                "address": "新北市貢寮區龍崗里嵩陽路42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.907086,
+                    25.016403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "慶安宮",
+                "phone": "2242-0763",
+                "address": "新北市貢寮區真理里延平街13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.923804,
+                    25.054921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "佛祖廟西靈巖寺",
+                "phone": "02-24991601#308",
+                "address": "新北市貢寮區和美里和美街49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.921149,
+                    25.105104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市立圖書館-貢寮分館",
+                "phone": "02-24903203",
+                "address": "新北市貢寮區真理里仁愛路79號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.926916,
+                    25.054774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "仁和宮",
+                "phone": "02-24901801",
+                "address": "新北市貢寮區仁里里仁和路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.922619,
+                    25.051427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "澳底國小",
+                "phone": "02-24901432#200",
+                "address": "新北市貢寮區真理里延平街10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.92462,
+                    25.054888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "靈鷲山無生道場",
+                "phone": "02-24991100",
+                "address": "新北市貢寮區福連里香蘭街7-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.973146,
+                    25.01761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "福安廟",
+                "phone": "02-24902416",
+                "address": "新北市貢寮區美豐里雞母嶺街7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.901829,
+                    25.064214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "和美國小",
+                "phone": "02-2490-9431#12",
+                "address": "新北市貢寮區和美里龍洞街1-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.919336,
+                    25.112325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "福連國小",
+                "phone": "02-24991194#103",
+                "address": "新北市貢寮區福連里福連街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.988471,
+                    25.016814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "貢寮市民活動中心",
+                "phone": "02-24941601#308",
+                "address": "新北市貢寮區貢寮里長泰路18-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.907514,
+                    25.020609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "豐珠中學",
+                "phone": "02-2490-3727#133",
+                "address": "新北市貢寮區美豐里雞母嶺街6-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.901517,
+                    25.065805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "貢寮區公所",
+                "phone": "02-24941601#308",
+                "address": "新北市貢寮區貢寮里長泰路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.906435,
+                    25.020813
+                ]
+            }
+        }
+    ]
+}

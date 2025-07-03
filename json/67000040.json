@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市柳營區公所",
+                "phone": "06-6221245",
+                "address": "臺南市柳營區士林里柳營路二段59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311527,
+                    23.27839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市柳營區圖書館",
+                "phone": "06-6224023",
+                "address": "臺南市柳營區士林里柳營路二段59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311527,
+                    23.27839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市柳營區果毅後多功能活動中心",
+                "phone": "06-6221245",
+                "address": "臺南市柳營區神農里果毅後284-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.367211,
+                    23.257397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市柳營區柳營聯合活動中心",
+                "phone": "06-6221245",
+                "address": "臺南市柳營區東昇里中山西路二段19巷35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317617,
+                    23.2771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市柳營區果毅國小運動場",
+                "phone": "06-6231310",
+                "address": "臺南市柳營區果毅里果毅後61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.371881,
+                    23.257971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市柳營區柳營國民中學",
+                "phone": "06-6223209",
+                "address": "臺南市柳營區東昇里中山東路二段956號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.331456,
+                    23.279702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市柳營區重溪國小運動場",
+                "phone": "06-6231824",
+                "address": "臺南市柳營區重溪里義士路2段2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.364108,
+                    23.286206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市柳營區小腳腿多功活動中心",
+                "phone": "06-6221245",
+                "address": "臺南市柳營區篤農里小脚腿226-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.367926,
+                    23.290485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "敏惠醫護專科學校",
+                "phone": "06-6226111",
+                "address": "臺南市柳營區東昇里中山東路二段1116號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329702,
+                    23.279881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "柳營科技工業區服務中心",
+                "phone": "06-6232345",
+                "address": "臺南市柳營區大農里工一路7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3584,
+                    23.28262
+                ]
+            }
+        }
+    ]
+}

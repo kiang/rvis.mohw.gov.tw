@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新埔鎮公所",
+                "phone": "03-5881311#201",
+                "address": "新竹縣新埔鎮田新里10鄰田新路600號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.074268,
+                    24.825655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新埔國小",
+                "phone": "03-5882124",
+                "address": "新竹縣新埔鎮四座里01鄰中正路366號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.079138,
+                    24.828126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新埔國中",
+                "phone": "03-5882026",
+                "address": "新竹縣新埔鎮新民里01鄰中正路792號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.071046,
+                    24.828029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "照東國小",
+                "phone": "03-5899807",
+                "address": "新竹縣新埔鎮鹿鳴里09鄰36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.126442,
+                    24.844458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "文山國小",
+                "phone": "03-5882918",
+                "address": "新竹縣新埔鎮文山里08鄰國校路160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.047797,
+                    24.825154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "照門國中",
+                "phone": "03-5890214",
+                "address": "新竹縣新埔鎮照門里07鄰照鏡7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.111304,
+                    24.848942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "照門國小",
+                "phone": "03-5899234",
+                "address": "新竹縣新埔鎮照門里09鄰39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.116546,
+                    24.847602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "義民廟",
+                "phone": "03-5882238",
+                "address": "新竹縣新埔鎮下寮里11鄰義民路3段360號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.036271,
+                    24.843354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新星國小",
+                "phone": "03-5882078",
+                "address": "新竹縣新埔鎮新民里13鄰民生街28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.073235,
+                    24.829861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新竹縣立北平華德福實驗學校",
+                "phone": "03-5882897",
+                "address": "新竹縣新埔鎮北平里08鄰62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.086607,
+                    24.852893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "寶石國小",
+                "phone": "03-5882397",
+                "address": "新竹縣新埔鎮寶石里09鄰關埔路672號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.079052,
+                    24.816246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "枋寮國小",
+                "phone": "03-5882081",
+                "address": "新竹縣新埔鎮上寮里06鄰義民路二段350號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.051827,
+                    24.836939
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "大樹區綜合體育館",
+                "phone": "07-6512003#139",
+                "address": "高雄市大樹區九曲里九大路639號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.424537,
+                    22.656939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大樹區姑山國民小學",
+                "phone": "07-6512003#139",
+                "address": "高雄市大樹區姑山里姑山路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.437997,
+                    22.709004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大樹區興田國民小學",
+                "phone": "07-6512003#139",
+                "address": "高雄市大樹區興田里興田路59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.445689,
+                    22.740583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立大樹國民中學",
+                "phone": "07-6512003#139",
+                "address": "高雄市大樹區九曲里九曲路500號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.422752,
+                    22.657005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大樹區九曲國民小學",
+                "phone": "07-6512003#139",
+                "address": "高雄市大樹區九曲里九曲路498號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.423343,
+                    22.655885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大樹區大樹國民小學",
+                "phone": "07-6512003#139",
+                "address": "高雄市大樹區大樹里中正一路249號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434591,
+                    22.687763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市大樹區水寮國民小學",
+                "phone": "07-6512003#139",
+                "address": "高雄市大樹區水寮里中華路國小巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.407847,
+                    22.667994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "大樹區公所3樓大禮堂",
+                "phone": "07-6512003#139",
+                "address": "高雄市大樹區龍目里龍目路158號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.414039,
+                    22.68384
+                ]
+            }
+        }
+    ]
+}

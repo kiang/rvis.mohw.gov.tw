@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義竹慈化寺",
+                "phone": "05-3412204",
+                "address": "嘉義縣義竹鄉六桂村004鄰義竹220號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244107,
+                    23.334468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "南興國小東華分校操場-室外",
+                "phone": "05-3426194",
+                "address": "嘉義縣義竹鄉平溪村001鄰安溪寮1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.220378,
+                    23.356954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "過路國小操場-室外",
+                "phone": "05-3437884",
+                "address": "嘉義縣義竹鄉西過村019鄰過路子279號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.206204,
+                    23.306673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中正堂",
+                "phone": "05-3417448",
+                "address": "嘉義縣義竹鄉六桂村004鄰義竹208號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245568,
+                    23.336016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義竹鄉修緣禪寺",
+                "phone": "05-3412144",
+                "address": "嘉義縣義竹鄉六桂村004鄰義竹245號 之10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.243999,
+                    23.334752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "南興國小操場-室外",
+                "phone": "05-3427394",
+                "address": "嘉義縣義竹鄉新店村020鄰新店77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.192787,
+                    23.340914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義竹國小操場-室外",
+                "phone": "05-3412203",
+                "address": "嘉義縣義竹鄉六桂村004鄰義竹208號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245568,
+                    23.336016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "過路國小-室內",
+                "phone": "05-3437884",
+                "address": "嘉義縣義竹鄉西過村019鄰過路子279號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.206204,
+                    23.306673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "光榮國小操場-室外",
+                "phone": "05-3420104",
+                "address": "嘉義縣義竹鄉東光村002鄰東後寮64號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247401,
+                    23.37959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義竹國中操場-室外",
+                "phone": "05-3412025",
+                "address": "嘉義縣義竹鄉岸腳村59-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.25076,
+                    23.341773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "光榮國小-室內",
+                "phone": "05-3420104",
+                "address": "嘉義縣義竹鄉東光村002鄰東後寮64號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247401,
+                    23.37959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義竹鄉老人文康中心",
+                "phone": "05-3411312",
+                "address": "嘉義縣義竹鄉仁里村001鄰義竹333號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.241924,
+                    23.334439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "南興國小東華分校-室內",
+                "phone": "05-3426194",
+                "address": "嘉義縣義竹鄉平溪村001鄰安溪寮1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.220378,
+                    23.356954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "和順國小操場-室外",
+                "phone": "05-3436121",
+                "address": "嘉義縣義竹鄉官順村356號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.181653,
+                    23.306791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義竹國小-室內",
+                "phone": "05-3412203",
+                "address": "嘉義縣義竹鄉六桂村208號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245568,
+                    23.336016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義竹國中-室內",
+                "phone": "05-3412025",
+                "address": "嘉義縣義竹鄉岸腳村59-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.25076,
+                    23.341773
+                ]
+            }
+        }
+    ]
+}

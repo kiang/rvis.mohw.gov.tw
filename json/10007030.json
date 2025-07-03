@@ -1,0 +1,501 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "湖內社區活動中心",
+                "phone": "04-7561716",
+                "address": "彰化縣和美鎮湖內里湖竹路5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.509283,
+                    24.150282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "源埤社區活動中心",
+                "phone": "04-7614953",
+                "address": "彰化縣和美鎮源埤里南安路105號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.510692,
+                    24.085315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "和美鎮公所",
+                "phone": "04-7560620-110",
+                "address": "彰化縣和美鎮仁愛里鹿和路6段337號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.494266,
+                    24.108478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大嘉國小",
+                "phone": "7552524",
+                "address": "彰化縣和美鎮嘉犁里彰和路3段50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.512219,
+                    24.095945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "面前社區活動中心",
+                "phone": "7552759",
+                "address": "彰化縣和美鎮面前里雅安路265號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.483075,
+                    24.099257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "和東國小",
+                "phone": "047-552724",
+                "address": "彰化縣和美鎮和東里彰美路5段210號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.501453,
+                    24.109255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "和美高中",
+                "phone": "04-7552043-255",
+                "address": "彰化縣和美鎮和西里西園路31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.493557,
+                    24.113009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大霞社區活動中心",
+                "phone": "7557503",
+                "address": "彰化縣和美鎮大霞里彰和路三段422號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.503687,
+                    24.101702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新庄社區活動中心",
+                "phone": "04-7550003",
+                "address": "彰化縣和美鎮新庄里東發路100巷36-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533615,
+                    24.097055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "和群國中",
+                "phone": "7350071轉*140",
+                "address": "彰化縣和美鎮柑井里美寮路一段390號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.519718,
+                    24.111716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "南佃社區活動中心",
+                "phone": "7638015",
+                "address": "彰化縣和美鎮南佃里嘉佃路145號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.50026,
+                    24.085097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "四張社區活動中心",
+                "phone": "0930862511",
+                "address": "彰化縣和美鎮四張里鎮西路74號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.485114,
+                    24.115123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "詔安社區活動中心",
+                "phone": "7355293",
+                "address": "彰化縣和美鎮詔安里彰和路二段172號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.529805,
+                    24.090751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新庄國小",
+                "phone": "7353267轉103",
+                "address": "彰化縣和美鎮犁盛里彰新路2段500號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533231,
+                    24.104087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "塗厝社區活動中心",
+                "phone": "04-7565335",
+                "address": "彰化縣和美鎮塗厝里和厝路2段485號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.508418,
+                    24.136578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "月眉社區活動中心",
+                "phone": "7575745",
+                "address": "彰化縣和美鎮月眉里和厝路一段276號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495561,
+                    24.122364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "嘉犁社區活動中心",
+                "phone": "0927767339",
+                "address": "彰化縣和美鎮嘉犁里東坡路臨22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.516858,
+                    24.092217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "培英國小",
+                "phone": "7552430轉104",
+                "address": "彰化縣和美鎮塗厝里彰新路5段310號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.511306,
+                    24.134816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "雅溝社區活動中心",
+                "phone": "7552354",
+                "address": "彰化縣和美鎮雅溝里南軒路359巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.491501,
+                    24.099423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "中圍社區活動中心",
+                "phone": "04-7351933",
+                "address": "彰化縣和美鎮中圍里竹社路125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.532873,
+                    24.112891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "和仁國小",
+                "phone": "7575407轉713",
+                "address": "彰化縣和美鎮山犁里仁愛路279號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.494662,
+                    24.104386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "竹園社區活動中心",
+                "phone": "04-7351292",
+                "address": "彰化縣和美鎮竹園里彰新路4段115號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.524989,
+                    24.119686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "好修社區活動中心",
+                "phone": "04-7558259",
+                "address": "彰化縣和美鎮好修里月北路400巷21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.497519,
+                    24.13166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "鎮平社區活動中心",
+                "phone": "04-7526231",
+                "address": "彰化縣和美鎮鎮平里南平路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.509086,
+                    24.082075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "犁盛社區活動中心",
+                "phone": "7352850",
+                "address": "彰化縣和美鎮犁盛里東平路225巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.527978,
+                    24.103321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大榮國小",
+                "phone": "7636814轉 15",
+                "address": "彰化縣和美鎮南佃里嘉佃路296號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.500901,
+                    24.087592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "和美國小",
+                "phone": "7552005-19",
+                "address": "彰化縣和美鎮和西里和平街19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495711,
+                    24.111802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "地潭社區活動中心",
+                "phone": "7556126",
+                "address": "彰化縣和美鎮地潭里晉北路臨456號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.51518,
+                    24.147133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "中寮社區活動中心",
+                "phone": "04-7355328",
+                "address": "彰化縣和美鎮中寮里東興路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539396,
+                    24.113779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "嘉寶社區活動中心",
+                "phone": "04-7560620",
+                "address": "彰化縣和美鎮嘉寶里福北路219號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.512808,
+                    24.126662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "龍華慈惠堂",
+                "phone": "04-7556780",
+                "address": "彰化縣和美鎮四張里西美路115號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.489696,
+                    24.120764
+                ]
+            }
+        }
+    ]
+}

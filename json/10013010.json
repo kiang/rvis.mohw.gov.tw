@@ -1,0 +1,533 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "信義國小",
+                "phone": "08-7383628#14",
+                "address": "屏東縣屏東市北勢里11鄰信義路262號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.49165,
+                    22.685032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "國立屏東高工",
+                "phone": "08-7523781#209",
+                "address": "屏東縣屏東市永安里建國路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486643,
+                    22.662694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "和平國小",
+                "phone": "08-7364440#14",
+                "address": "屏東縣屏東市中正里華正路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.501656,
+                    22.687041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "中正國中",
+                "phone": "08-7226387#41",
+                "address": "屏東縣屏東市豐田里民學路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.507707,
+                    22.672246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "公正國中",
+                "phone": "08-7522097#14",
+                "address": "屏東縣屏東市公館里公興路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.483712,
+                    22.640495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "大同高中",
+                "phone": "08-7663916#140",
+                "address": "屏東縣屏東市潭墘里和平路429號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477682,
+                    22.678048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "明正國中",
+                "phone": "08-7376293",
+                "address": "屏東縣屏東市溝美里大連路70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.497632,
+                    22.679894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "鶴聲國小",
+                "phone": "08-7521207#14",
+                "address": "屏東縣屏東市崇武里建國路121號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.479648,
+                    22.664857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "復興國小",
+                "phone": "08-7525402#14",
+                "address": "屏東縣屏東市永安里復興路376號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486178,
+                    22.659911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "忠孝國小",
+                "phone": "08-7371545",
+                "address": "屏東縣屏東市豐年里建豐路204號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.50394,
+                    22.676476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "民生國小",
+                "phone": "08-7216566#14",
+                "address": "屏東縣屏東市瑞光里安心四橫巷139-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.513229,
+                    22.66216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "海豐國小",
+                "phone": "08-7367023#14",
+                "address": "屏東縣屏東市三山里海豐街3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.50735,
+                    22.698072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "瑞光國小",
+                "phone": "08-7383011#14",
+                "address": "屏東縣屏東市大連里興豐路86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.509542,
+                    22.680736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "前進國小",
+                "phone": "08-7523291#14",
+                "address": "屏東縣屏東市前進里頭前溪路339號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458457,
+                    22.649464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "千禧公園",
+                "phone": "7560101#503",
+                "address": "屏東縣屏東市豐榮里自由、大連、廣東、勝利東路廓內"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.498132,
+                    22.676673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "勝利國小",
+                "phone": "08-7652038#14",
+                "address": "屏東縣屏東市勝利里蘭州街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.485721,
+                    22.680658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "唐榮國小",
+                "phone": "08-7322306#14",
+                "address": "屏東縣屏東市光榮里中山路41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.485241,
+                    22.671599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "大同國小",
+                "phone": "08-7524115#14",
+                "address": "屏東縣屏東市安鎮里大同路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.476408,
+                    22.666446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "崇蘭國小",
+                "phone": "08-7217231#49",
+                "address": "屏東縣屏東市崇蘭里廣東路1259號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.476961,
+                    22.684235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "建國國小",
+                "phone": "08-7521464#14",
+                "address": "屏東縣屏東市一心里建興路36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486587,
+                    22.665423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "廣興公園",
+                "phone": "7560101#504",
+                "address": "屏東縣屏東市廣興里監理站對面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.485128,
+                    22.694383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "國立屏東女中",
+                "phone": "08-7362204#412",
+                "address": "屏東縣屏東市公園里仁愛路94號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.494207,
+                    22.675269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "國立屏東高中",
+                "phone": "08-7656444#513",
+                "address": "屏東縣屏東市勝利里8鄰忠孝路231號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488819,
+                    22.686128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "仁愛國小",
+                "phone": "08-7361114#14",
+                "address": "屏東縣屏東市公園里仁愛路98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.494754,
+                    22.676694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "公館國小",
+                "phone": "08-7522205#14",
+                "address": "屏東縣屏東市龍華里7鄰公華街182號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.482151,
+                    22.637857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "至正國中",
+                "phone": "08-7666394#14",
+                "address": "屏東縣屏東市北興里公裕街300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.493441,
+                    22.690283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "鶴聲國中",
+                "phone": "08-7520591#14",
+                "address": "屏東縣屏東市清溪里大武路225號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.472496,
+                    22.658472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "民和國小",
+                "phone": "08-7229210#14",
+                "address": "屏東縣屏東市橋北里自立路213號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495813,
+                    22.670608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東市公所",
+                "phone": "08-7560101#131",
+                "address": "屏東縣屏東市義勇里台糖街61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.491474,
+                    22.662606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "溝美、仁愛里活動中心",
+                "phone": "08-7560101-121",
+                "address": "屏東縣屏東市溝美里公勤街75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.497262,
+                    22.682009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "清溪里社區活動中心",
+                "phone": "08-7560101-131",
+                "address": "屏東縣屏東市清溪里23鄰大武路223之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.473401,
+                    22.658467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "興豐公園",
+                "phone": "08-7560101-503",
+                "address": "屏東縣屏東市大連里興豐路115巷、興豐路廓內"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.508238,
+                    22.681681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "瑞光公園",
+                "phone": "08-7560101-503",
+                "address": "屏東縣屏東市豐田里豐連街、瑞光路二段廓內"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.51020232577373,
+                    22.676333734788326
+                ]
+            }
+        }
+    ]
+}

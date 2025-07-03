@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "造橋鄉綜合活動中心-室外",
+                "phone": "037-543250#133",
+                "address": "苗栗縣造橋鄉大西村慈聖路二段322巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.887482,
+                    24.623574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "朝陽社區活動中心-室內",
+                "phone": "037-622627",
+                "address": "苗栗縣造橋鄉朝陽村9鄰24-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.862452,
+                    24.661318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "龍昇社區活動中心-室內",
+                "phone": "037-651363#104",
+                "address": "苗栗縣造橋鄉龍昇村8鄰16-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.829638,
+                    24.640847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "平興社區活動中心-室內",
+                "phone": "037-542754",
+                "address": "苗栗縣造橋鄉平興村10鄰白埔林16-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.86915,
+                    24.624821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "豐湖社區活動中心-室內",
+                "phone": "037-562125",
+                "address": "苗栗縣造橋鄉豐湖村4鄰八十尺橋5-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.837221,
+                    24.613417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "造橋國小操場-室外",
+                "phone": "037-542686轉104",
+                "address": "苗栗縣造橋鄉造橋村14鄰老庄3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.865227,
+                    24.637771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "談文國小操場-室外",
+                "phone": "037-624044轉22",
+                "address": "苗栗縣造橋鄉談文村6鄰54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.850177,
+                    24.652643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "龍昇國小操場-室外",
+                "phone": "037-651363#104",
+                "address": "苗栗縣造橋鄉龍昇村8鄰16-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.829638,
+                    24.640847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "錦水國小操場-室外",
+                "phone": "037-541978轉15",
+                "address": "苗栗縣造橋鄉大西村大中街68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.894032,
+                    24.624248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大西國中操場-室外",
+                "phone": "037-541080#14",
+                "address": "苗栗縣造橋鄉大西村大中街73號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.895028,
+                    24.624659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "造橋社區活動中心-室內",
+                "phone": "037-563609",
+                "address": "苗栗縣造橋鄉造橋村老庄3-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.865529,
+                    24.638719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "談文社區活動中心-室內",
+                "phone": "037-611486",
+                "address": "苗栗縣造橋鄉談文村8鄰談文湖47之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.853409,
+                    24.654219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "造橋國小活動中心-室內",
+                "phone": "037-542686轉104",
+                "address": "苗栗縣造橋鄉造橋村14鄰3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.865227,
+                    24.637771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大西社區活動中心-室內",
+                "phone": "037-541899",
+                "address": "苗栗縣造橋鄉大西村13鄰大西二街128巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.894812,
+                    24.623009
+                ]
+            }
+        }
+    ]
+}

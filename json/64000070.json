@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立高雄高級女子中學",
+                "phone": "07-2115418",
+                "address": "高雄市前金區博孝里五福三路122號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292738,
+                    22.620936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立前金國民中學",
+                "phone": "07-2725981",
+                "address": "高雄市前金區後金里六合二路278號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290459,
+                    22.62936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前金區建國國民小學",
+                "phone": "07-2860128",
+                "address": "高雄市前金區草江里自立二路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297861,
+                    22.632375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "前金區公所5樓大禮堂",
+                "phone": "07-2723133-201",
+                "address": "高雄市前金區林投里自強二路169號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294278,
+                    22.627535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市前金區前金國民小學",
+                "phone": "07-2829001",
+                "address": "高雄市前金區國民里大同二路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293921,
+                    22.626351
+                ]
+            }
+        }
+    ]
+}

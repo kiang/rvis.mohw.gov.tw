@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "龍潭社區活動中心",
+                "phone": "09-72390219",
+                "address": "雲林縣斗六市龍潭里龍潭南路21-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.529207,
+                    23.689677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "斗六國中",
+                "phone": "05-5323297-306",
+                "address": "雲林縣斗六市鎮東里育英北街69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551213,
+                    23.713172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "嘉東社區活動中心",
+                "phone": "05-5333255",
+                "address": "雲林縣斗六市嘉東里嘉東中路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547247,
+                    23.686112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "湖山社區活動中心",
+                "phone": "05-5572748",
+                "address": "雲林縣斗六市湖山里楓湖路92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.607719,
+                    23.717316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "梅林國小",
+                "phone": "05-5572211-13",
+                "address": "雲林縣斗六市梅林里梅林路256號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.601454,
+                    23.702584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "榴北社區活動中心",
+                "phone": "0936297316",
+                "address": "雲林縣斗六市榴北里南環路86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.576007,
+                    23.725612
+                ]
+            }
+        }
+    ]
+}

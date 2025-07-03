@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "港口活動中心",
+                "phone": "03-8781250",
+                "address": "花蓮縣豐濱鄉港口村7鄰118號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.504329,
+                    23.474464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "靜浦國小大禮堂",
+                "phone": "03-8781021",
+                "address": "花蓮縣豐濱鄉靜浦村64號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.495441,
+                    23.461434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "東興部落原住民多功能活動中心",
+                "phone": "03-8791350分機135",
+                "address": "花蓮縣豐濱鄉新社村9鄰東興18-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530801,
+                    23.635145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "新社國小二樓綜合教室",
+                "phone": "03-8711138",
+                "address": "花蓮縣豐濱鄉新社村150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.535861,
+                    23.651931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "豐濱國中禮堂",
+                "phone": "03-8791159",
+                "address": "花蓮縣豐濱鄉豐濱村光豐路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521624,
+                    23.601075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "八里灣基督長老教會",
+                "phone": "03-8791653",
+                "address": "花蓮縣豐濱鄉豐濱村16鄰豐里49之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.485758,
+                    23.567709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "豐濱鄉公所",
+                "phone": "03-8791350",
+                "address": "花蓮縣豐濱鄉豐濱村光豐路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520973,
+                    23.601192
+                ]
+            }
+        }
+    ]
+}

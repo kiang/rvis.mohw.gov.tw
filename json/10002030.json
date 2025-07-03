@@ -1,0 +1,565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "存仁社區活動中心",
+                "phone": "03-9902065",
+                "address": "宜蘭縣蘇澳鎮存仁里存仁路179之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.841629,
+                    24.626093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "永樂社區活動中心",
+                "phone": "03-9971536",
+                "address": "宜蘭縣蘇澳鎮永樂里永樂路116巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.841404,
+                    24.576194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "白米社區活動中心",
+                "phone": "03-9952653",
+                "address": "宜蘭縣蘇澳鎮永春里永春路134巷11之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84541,
+                    24.582633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "長安社區活動中心",
+                "phone": "03-9964218",
+                "address": "宜蘭縣蘇澳鎮長安里勝利路1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.854052,
+                    24.592791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "頂寮文教活動中心",
+                "phone": "03-9905508",
+                "address": "宜蘭縣蘇澳鎮頂寮里頂寮路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.834671,
+                    24.641238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "蘇北社區活動中心",
+                "phone": "03-9972595",
+                "address": "宜蘭縣蘇澳鎮蘇北里新生路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.850502,
+                    24.596778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "岳明社區活動中心",
+                "phone": "02-29287551",
+                "address": "宜蘭縣蘇澳鎮港邊里岳明新村91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.858419,
+                    24.61032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "昭安社區活動中心",
+                "phone": "03-9966702",
+                "address": "宜蘭縣蘇澳鎮南建里內埤路117之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.867929,
+                    24.577658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南強社區活動中心",
+                "phone": "03-9981101",
+                "address": "宜蘭縣蘇澳鎮南強里南澳路2-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80651,
+                    24.463429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "東澳社區活動中心",
+                "phone": "03-9986188",
+                "address": "宜蘭縣蘇澳鎮東澳里東澳路103號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.834642,
+                    24.516044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南寧社區活動中心",
+                "phone": "03-9963609",
+                "address": "宜蘭縣蘇澳鎮南寧里南新路9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8695,
+                    24.581204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "蘇南社區活動中心",
+                "phone": "03-9962701",
+                "address": "宜蘭縣蘇澳鎮蘇南里光復路27巷4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.852618,
+                    24.597145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "聖湖社區活動中心",
+                "phone": "03-9951755",
+                "address": "宜蘭縣蘇澳鎮聖湖里全祿街10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.834457,
+                    24.594726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "永樂國小",
+                "phone": "03-9962840",
+                "address": "宜蘭縣蘇澳鎮永樂里永樂路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.844064,
+                    24.575499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "福德社區活動中心",
+                "phone": "03-9902911",
+                "address": "宜蘭縣蘇澳鎮永榮里思村路9號旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.840146,
+                    24.622964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "永光社區活動中心",
+                "phone": "03-9965042",
+                "address": "宜蘭縣蘇澳鎮永光里蘇港路85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.852119,
+                    24.594028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "蘇澳國中",
+                "phone": "03-9962137",
+                "address": "宜蘭縣蘇澳鎮聖湖里中山路二段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.835429,
+                    24.595272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "士敏國小",
+                "phone": "03-9962342",
+                "address": "宜蘭縣蘇澳鎮長安里光明路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.853691,
+                    24.592295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "文化國中",
+                "phone": "03-9903060",
+                "address": "宜蘭縣蘇澳鎮永榮里新馬路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.832787,
+                    24.617878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "岳明國中小",
+                "phone": "03-9903044",
+                "address": "宜蘭縣蘇澳鎮港邊里嶺脚路140號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.85362,
+                    24.613907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "育英國小",
+                "phone": "03-9901294",
+                "address": "宜蘭縣蘇澳鎮龍德里福德路134號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.832987,
+                    24.640184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "蓬萊國小",
+                "phone": "03-9981062",
+                "address": "宜蘭縣蘇澳鎮南強里南澳路85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.803028,
+                    24.464699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "蘇澳國小",
+                "phone": "03-9962312",
+                "address": "宜蘭縣蘇澳鎮蘇西里中山路一段366號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.841327,
+                    24.596747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "馬賽國小",
+                "phone": "03-9902694",
+                "address": "宜蘭縣蘇澳鎮永榮里大同路108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.834916,
+                    24.621898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "龍德社區活動中心",
+                "phone": "03-9909123",
+                "address": "宜蘭縣蘇澳鎮龍德里福德路177巷27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.829575,
+                    24.640753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南安國小",
+                "phone": "03-9962043",
+                "address": "宜蘭縣蘇澳鎮南建里學府路122號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.868385,
+                    24.578911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "蘇澳海事",
+                "phone": "03-9951661",
+                "address": "宜蘭縣蘇澳鎮蘇西里蘇港路213號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.845603,
+                    24.594141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "永榮社區活動中心",
+                "phone": "03-9905669",
+                "address": "宜蘭縣蘇澳鎮永榮里和平路51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.836164,
+                    24.621222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "朝陽社區活動中心",
+                "phone": "03-9981981",
+                "address": "宜蘭縣蘇澳鎮朝陽里朝陽路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.815814,
+                    24.461472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南成社區活動中心",
+                "phone": "03-9955975",
+                "address": "宜蘭縣蘇澳鎮南成里民生路15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.864341,
+                    24.580656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南安國中",
+                "phone": "03-9962749",
+                "address": "宜蘭縣蘇澳鎮南建里學府路117號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.86893,
+                    24.576013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "隘丁社區活動中心",
+                "phone": "03-9903951",
+                "address": "宜蘭縣蘇澳鎮隘丁里城中路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.837047,
+                    24.61577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "蘇東里活動中心",
+                "phone": "0937163916",
+                "address": "宜蘭縣蘇澳鎮蘇東里蘇花路5段101巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.854412,
+                    24.59564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "蘇澳鎮公所",
+                "phone": "03-9973421#274",
+                "address": "宜蘭縣蘇澳鎮蘇西里蘇港路215號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.842151,
+                    24.594412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "成興社區老人活動中心",
+                "phone": "0932090736",
+                "address": "宜蘭縣五結鄉成興村頂寮路20巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8327477,
+                    24.6446445
+                ]
+            }
+        }
+    ]
+}

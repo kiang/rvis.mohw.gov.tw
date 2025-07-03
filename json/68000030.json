@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "仁和市民活動中心",
+                "phone": "0972-051093",
+                "address": "桃園市大溪區仁和里仁和七街159號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.273867,
+                    24.897672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "仁善市民活動中心",
+                "phone": "03-3908885",
+                "address": "桃園市大溪區仁善里仁德街19號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.281628,
+                    24.914182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "月眉市民活動中心",
+                "phone": "0912-217691",
+                "address": "桃園市大溪區月眉里月湖路56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.287869,
+                    24.889621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "綜合市民活動中心",
+                "phone": "0910-038992",
+                "address": "桃園市大溪區仁武里公園路30號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.284103,
+                    24.904834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "中興市民活動中心",
+                "phone": "0932-092430",
+                "address": "桃園市大溪區中新里大鶯路1450巷26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.316941,
+                    24.928566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "下田心市民活動中心",
+                "phone": "03-3870246",
+                "address": "桃園市大溪區一心里民權東路94巷29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.291286,
+                    24.881361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新峰市民活動中心",
+                "phone": "0931394091",
+                "address": "桃園市大溪區新峰里復興路二段758巷48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.329657,
+                    24.831164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大溪埔頂公園",
+                "phone": "03-3882201#508",
+                "address": "桃園市大溪區仁善里埔仁路、仁善街交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.283835,
+                    24.909462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大溪高中",
+                "phone": "03-3878628#512",
+                "address": "桃園市大溪區一德里康莊路641號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.284985,
+                    24.869053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大溪國小",
+                "phone": "03-3882040#510",
+                "address": "桃園市大溪區福仁里登龍路19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.286637,
+                    24.884204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大溪國中",
+                "phone": "03-.3882024#511",
+                "address": "桃園市大溪區一心里民權東路210號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.295793,
+                    24.879847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "瑞祥國小",
+                "phone": "03-3801197#510",
+                "address": "桃園市大溪區瑞源里石園路760巷120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.252774,
+                    24.867926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "南興國小",
+                "phone": "03-3801721#510",
+                "address": "桃園市大溪區南興里仁和路二段135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.266824,
+                    24.902971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "員樹林國小",
+                "phone": "03-3801502#510",
+                "address": "桃園市大溪區員林里員林路二段450號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.266018,
+                    24.882887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "仁善國小",
+                "phone": "03-3801710#510",
+                "address": "桃園市大溪區仁善里埔頂路二段109號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.278962,
+                    24.908885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "田心國小",
+                "phone": "03-3872008#511",
+                "address": "桃園市大溪區一心里文化路120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.29215,
+                    24.880464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大溪多目體育館",
+                "phone": "03-3882210#510",
+                "address": "桃園市大溪區福仁里登龍路22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.286863,
+                    24.883527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "中興國小",
+                "phone": "03-3801394#110",
+                "address": "桃園市大溪區大鶯路1125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.310931,
+                    24.925204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "僑愛國小",
+                "phone": "(03)3801896＃510",
+                "address": "桃園市大溪區介壽路214號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.292255,
+                    24.92071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "仁和國小",
+                "phone": "03-3076626＃510",
+                "address": "桃園市大溪區仁和二街50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.277398,
+                    24.897362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "仁和國中",
+                "phone": "03-3906626＃510",
+                "address": "桃園市大溪區仁和七街55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.274137,
+                    24.894538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "永福國小",
+                "phone": "03-3875709#510",
+                "address": "桃園市大溪區信義路1165號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.325864,
+                    24.892554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "美華國小",
+                "phone": "03-3882403＃510",
+                "address": "桃園市大溪區美華里15鄰金山路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.304632,
+                    24.881675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "內柵國小",
+                "phone": "03-3882461＃510",
+                "address": "桃園市大溪區義和里安和路38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.282096,
+                    24.855884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "百吉國小",
+                "phone": "03-3883956#511",
+                "address": "桃園市大溪區環湖路二段845號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.310996,
+                    24.823447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "福安國小",
+                "phone": "03-3882374#510",
+                "address": "桃園市大溪區復興路一段755號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.288865,
+                    24.85076
+                ]
+            }
+        }
+    ]
+}

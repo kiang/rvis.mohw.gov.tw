@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "中正堂",
+                "phone": "07-6912716轉125",
+                "address": "高雄市永安區永華里永安路43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.225314,
+                    22.818262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立永安國民中學",
+                "phone": "07-6911880*32",
+                "address": "高雄市永安區保寧里保興一路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.240646,
+                    22.82317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市永安區新港國民小學",
+                "phone": "07-6912040",
+                "address": "高雄市永安區新港里新興路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.208218,
+                    22.822416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市永安區維新國民小學",
+                "phone": "07-6913816*310",
+                "address": "高雄市永安區維新里維新路光明9巷69之10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247963,
+                    22.804034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市永安區鹽田社區活動中心",
+                "phone": "0915-678-353",
+                "address": "高雄市永安區鹽田里新興路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.208428,
+                    22.833587
+                ]
+            }
+        }
+    ]
+}

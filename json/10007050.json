@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新港國民國小",
+                "phone": "04-7982310",
+                "address": "彰化縣伸港鄉新港村和平路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.484819,
+                    24.149003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大同國民國小",
+                "phone": "04-7982307",
+                "address": "彰化縣伸港鄉大同村彰新路7段724號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.491908,
+                    24.15998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "伸東國民小學",
+                "phone": "04-7982314",
+                "address": "彰化縣伸港鄉七嘉村中華路565號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495681,
+                    24.146004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "伸港鄉老人文康活動中心",
+                "phone": "04-7982010-205",
+                "address": "彰化縣伸港鄉新港村忠孝東街50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487765,
+                    24.148637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "伸仁國民小學",
+                "phone": "04-7982324",
+                "address": "彰化縣伸港鄉曾家村曾家路3之15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.476436,
+                    24.147314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "海尾社區活動中心",
+                "phone": "04-7981492",
+                "address": "彰化縣伸港鄉海尾村海尾路3-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487268,
+                    24.165061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "蚵寮社區活動中心",
+                "phone": "04-0000000",
+                "address": "彰化縣伸港鄉蚵寮村蚵寮路132-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459457,
+                    24.148969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "文德宮",
+                "phone": "04-0000000",
+                "address": "彰化縣伸港鄉七嘉村嘉二路47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.494607,
+                    24.148295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大同社區活動中心",
+                "phone": "04-0000000",
+                "address": "彰化縣伸港鄉大同村大同路82號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.489977,
+                    24.159694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "什股社區活動中心",
+                "phone": "04-7995235",
+                "address": "彰化縣伸港鄉什股村什股路100-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.478257,
+                    24.156575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "全興社區活動中心",
+                "phone": "04-7985889",
+                "address": "彰化縣伸港鄉全興村東全路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.49073,
+                    24.176327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "伸港國中第二校區",
+                "phone": "04-7988611#30",
+                "address": "彰化縣伸港鄉埤墘村建興路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.491978,
+                    24.144729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "泉州社區活動中心",
+                "phone": "04-7982087",
+                "address": "彰化縣伸港鄉泉州村仁愛路123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.482617,
+                    24.148081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "泉厝社區活動中心",
+                "phone": "04-7992162",
+                "address": "彰化縣伸港鄉泉厝村泉厝路44-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.481432,
+                    24.149439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "曾家社區活動中心",
+                "phone": "04-7991099",
+                "address": "彰化縣伸港鄉曾家村曾家路65-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.473083,
+                    24.145379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "定興社區活動中心",
+                "phone": "04-0000000",
+                "address": "彰化縣伸港鄉定興村定興路63-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.499111,
+                    24.156897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新港社區活動中心",
+                "phone": "04-0000000",
+                "address": "彰化縣伸港鄉新港村自強路臨30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486868,
+                    24.143899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "溪底社區活動中心",
+                "phone": "04-7986104",
+                "address": "彰化縣伸港鄉溪底村溪底路103-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.502497,
+                    24.156758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "汴頭社區活動中心",
+                "phone": "04-0000000",
+                "address": "彰化縣伸港鄉汴頭村汴頭路187-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.497823,
+                    24.143436
+                ]
+            }
+        }
+    ]
+}

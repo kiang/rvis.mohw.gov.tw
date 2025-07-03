@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "頭家里\/頭家東里活動中心",
+                "phone": "04-25388699#2103",
+                "address": "臺中市潭子區頭家里和平路16巷38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698903,
+                    24.19519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "潭北社區活動中心二樓",
+                "phone": "0910-525937",
+                "address": "臺中市潭子區潭北里潭子街三段公廳巷18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.707636,
+                    24.214591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "栗林社區活動中心二樓",
+                "phone": "0988-374480",
+                "address": "臺中市潭子區栗林里祥和路128號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.71104,
+                    24.230007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "潭陽社區活動中心(2樓、3樓)及潭陽(防災)公園",
+                "phone": "04-25367072",
+                "address": "臺中市潭子區潭陽里中山路二段237巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703663,
+                    24.209799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "潭秀社區活動中心",
+                "phone": "0910-452887",
+                "address": "臺中市潭子區潭秀里雅潭路一段39巷10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703633,
+                    24.215091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "新田社區活動中心",
+                "phone": "04-25371122",
+                "address": "臺中市潭子區新田里豐興路二段412號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.724272,
+                    24.214528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東寶國小-二樓綜合教室",
+                "phone": "04-25324564#733",
+                "address": "臺中市潭子區東寶里雅潭路三段2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684273,
+                    24.216801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "頭家國小-二樓多功能教室",
+                "phone": "04-25325532#730",
+                "address": "臺中市潭子區頭家里得福街185號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.695595,
+                    24.196836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "潭子區運動公園",
+                "phone": "04-25388699#1203",
+                "address": "臺中市潭子區甘蔗里勝利路138號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70084,
+                    24.209945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "新興國小-二樓專科教室",
+                "phone": "04-25364447#730",
+                "address": "臺中市潭子區聚興里潭興路一段25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.725508,
+                    24.203885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "潭秀國中-活動中心(體育館)",
+                "phone": "04-25343542#311",
+                "address": "臺中市潭子區甘蔗里雅潭路一段175號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700841,
+                    24.216004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "潭子國中-活動中心",
+                "phone": "04-25376192#501",
+                "address": "臺中市潭子區潭陽里潭興路二段419巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.708453,
+                    24.209849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "潭子國小-二樓圖書室",
+                "phone": "04-25324610#243",
+                "address": "臺中市潭子區潭秀里中山路二段435號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.704019,
+                    24.214518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "僑忠國小-體育館",
+                "phone": "04-25324740",
+                "address": "臺中市潭子區福仁里中山路二段31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703406,
+                    24.20248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "潭陽國小-業勤樓三樓",
+                "phone": "04-25382255#714",
+                "address": "臺中市潭子區潭陽里潭陽路19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710025,
+                    24.212441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "甘蔗社區活動中心三樓",
+                "phone": "0937-744290",
+                "address": "臺中市潭子區甘蔗里勝利路310號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700697,
+                    24.213615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "潭子區公所(4樓會議室及6樓禮堂)",
+                "phone": "04-25388699",
+                "address": "臺中市潭子區聚興里豐興路一段512號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722927,
+                    24.203641
+                ]
+            }
+        }
+    ]
+}

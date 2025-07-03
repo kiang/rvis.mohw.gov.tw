@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "北峰國小",
+                "phone": "02-26941817#250",
+                "address": "新北市汐止區中興里環河街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.632833,
+                    25.063818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "東山國小",
+                "phone": "02-26416170#13",
+                "address": "新北市汐止區東山里汐平路二段76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.699896,
+                    25.05997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "秀峰國小",
+                "phone": "02-26480611-830",
+                "address": "新北市汐止區秀山里仁愛路90號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.661556,
+                    25.062576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "保長坑訓練中心",
+                "phone": "86485736",
+                "address": "新北市汐止區保新里大同路三段469號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.683691,
+                    25.073663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "翠柏新村安養中心-服務大樓",
+                "phone": "02-26451001#100",
+                "address": "新北市汐止區長青里永春一路5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.602401,
+                    25.112396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "長安國小",
+                "phone": "02-86480944#221",
+                "address": "新北市汐止區長安里長興街一段80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.670699,
+                    25.079384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "忠山市民活動中心",
+                "phone": "02-26411111#167",
+                "address": "新北市汐止區忠山里忠三街8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62441,
+                    25.078355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "保長國小",
+                "phone": "02-86482502#130",
+                "address": "新北市汐止區保安里大同路三段553號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.681152,
+                    25.071863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "青山國中小",
+                "phone": "02-26917877#133",
+                "address": "新北市汐止區自強里莊敬街33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.656845,
+                    25.060713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "金龍國小",
+                "phone": "02-26959941#230",
+                "address": "新北市汐止區北峰里明峰街201號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.627219,
+                    25.068719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "崇德國小",
+                "phone": "02-86482052#31",
+                "address": "新北市汐止區茄苳里茄苳路158號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.669,
+                    25.069433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "樟樹國小",
+                "phone": "02-26421407#5301",
+                "address": "新北市汐止區厚德里樟樹一路141巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.641687,
+                    25.066528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "白雲國小",
+                "phone": "02-26403909#830",
+                "address": "新北市汐止區福山里民權街2段90號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.618905,
+                    25.047727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "汐止國中",
+                "phone": "02-26412065#1301",
+                "address": "新北市汐止區禮門里大同路二段394號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65839,
+                    25.066949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "汐止國小",
+                "phone": "02-26477271#300",
+                "address": "新北市汐止區智慧里大同路二段313號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65525,
+                    25.066922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "汐止區公所行政中心",
+                "phone": "02-26411111#312",
+                "address": "新北市汐止區秀峰里汐止區新台五路一段268號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.658976,
+                    25.063828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "秀峰高中",
+                "phone": "02-26412134#400",
+                "address": "新北市汐止區秀峰里忠孝東路201號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.660087,
+                    25.065633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "北港國小",
+                "phone": "02-26462832#17",
+                "address": "新北市汐止區拱北里汐萬路二段279號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.645075,
+                    25.089141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "樟樹國際實創高中",
+                "phone": "02-26430686#301",
+                "address": "新北市汐止區忠孝里樟樹二路135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.639703,
+                    25.065826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "厚德山光市民活動中心",
+                "phone": "02-26411111#167",
+                "address": "新北市汐止區厚德里新北市汐止區樟樹1路137巷26號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.640863,
+                    25.065988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "東方科學園區",
+                "phone": "02-26963418#13",
+                "address": "新北市汐止區文化里汐止區新台五路一段90號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.648233,
+                    25.060479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "橫科市民活動中心",
+                "phone": "02-26411111#167",
+                "address": "新北市汐止區橫科里橫科路119號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.620148,
+                    25.050522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "崇德橋東市民活動中心",
+                "phone": "02-26411111#167",
+                "address": "新北市汐止區崇德里茄苳路82號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.667029,
+                    25.070488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "汐止綜合運動場防災公園",
+                "phone": "02-26411111#249",
+                "address": "新北市汐止區秀峰里新北市汐止區忠孝東路9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.659154,
+                    25.064181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "康福市民活動中心",
+                "phone": "02-26411111#167",
+                "address": "新北市汐止區康福里福德三路9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.637758,
+                    25.06943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "王母救世宮",
+                "phone": "86475180",
+                "address": "新北市汐止區保長里長興街二段50巷50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.675543,
+                    25.080676
+                ]
+            }
+        }
+    ]
+}

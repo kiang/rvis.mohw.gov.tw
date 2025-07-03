@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新市區大社國小學生活動中心",
+                "phone": "06-5991593#805",
+                "address": "臺南市新市區大社里大社39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319031,
+                    23.08658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新市區文康育樂中心",
+                "phone": "06-5898318",
+                "address": "臺南市新市區新和里忠孝街189號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294464,
+                    23.075417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新市區老人文康活動中心",
+                "phone": "06-5996583",
+                "address": "臺南市新市區社內里社內91-22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.281565,
+                    23.0769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新市區新市國小學生活動中心",
+                "phone": "06-5992895#830",
+                "address": "臺南市新市區新市里中興街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295674,
+                    23.078966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新市區新市國中",
+                "phone": "06-5991420#6001",
+                "address": "臺南市新市區港墘里民族路76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300444,
+                    23.083773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新市區公所",
+                "phone": "06-5994711#280",
+                "address": "臺南市新市區新市里中興街12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295069,
+                    23.079004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新市區壘球場",
+                "phone": "06-5994711#168",
+                "address": "臺南市新市區社內里富中街與富安二街交叉路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28637,
+                    23.07923
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "育人國小操場(含球場)",
+                "phone": "05-2351595#651",
+                "address": "嘉義市西區港坪里育人路211號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.416728,
+                    23.472719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "港坪國小籃球場",
+                "phone": "05-2369037#142",
+                "address": "嘉義市西區港坪里四維路63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.424544,
+                    23.47935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "玉山國中活動中心",
+                "phone": "05-2357980#210",
+                "address": "嘉義市西區西平里友忠路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42559,
+                    23.468139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "嘉義市焚化廠管理大樓",
+                "phone": "05-2365669#119",
+                "address": "嘉義市西區湖內里湖子內路741號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44156,
+                    23.443159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "民生國中活動中心",
+                "phone": "05-2855331#610",
+                "address": "嘉義市西區福民里新民路601號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.440096,
+                    23.466006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "興嘉國小活動中心",
+                "phone": "05-2860885#115",
+                "address": "嘉義市西區福民里重慶路51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43795,
+                    23.46525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "垂楊國小活動中心",
+                "phone": "05-2853151#212",
+                "address": "嘉義市西區垂楊里垂楊路605號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43871,
+                    23.47228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "北園國中活動中心",
+                "phone": "05-2374673#119",
+                "address": "嘉義市西區北湖里北社尾路166巷12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42663,
+                    23.49517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "僑平國小操場_含球場",
+                "phone": "05-2333746-708",
+                "address": "嘉義市西區竹圍里德安路10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43241,
+                    23.48415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "北園國小操場_含籃球場",
+                "phone": "05-2371330#312",
+                "address": "嘉義市西區北湖里北社尾路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42565,
+                    23.49452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "世賢國小活動中心",
+                "phone": "05-2338264#1301",
+                "address": "嘉義市西區保福里世賢路一段687號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42788,
+                    23.4893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "大同國小球場與操場",
+                "phone": "05-2222114#126",
+                "address": "嘉義市西區導明里成功街15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.445629,
+                    23.47214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "志航國民小學 操場",
+                "phone": "05-2857924#612",
+                "address": "嘉義市西區美源里世賢路四段141號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.446869,
+                    23.462312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "光路社區活動中心",
+                "phone": "05-2360872",
+                "address": "嘉義市西區光路里新民路555巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44009,
+                    23.46073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "港坪運動公園 體育館",
+                "phone": "05-2222906轉11分機",
+                "address": "嘉義市西區港坪里015鄰大同路320號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.422306,
+                    23.476678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "永和里集會所",
+                "phone": "05-2256758",
+                "address": "嘉義市西區永和里康樂街259號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44037,
+                    23.47406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "博愛國小活動中心",
+                "phone": "05-2322863",
+                "address": "嘉義市西區湖邊里友愛路822號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44401,
+                    23.491589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義市",
+                "name": "嘉義特殊教育學校",
+                "phone": "05-2858549#405",
+                "address": "嘉義市西區港坪里世賢路2段123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.421,
+                    23.480219
+                ]
+            }
+        }
+    ]
+}

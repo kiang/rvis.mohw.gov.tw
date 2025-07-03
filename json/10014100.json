@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "愛國蒲分校",
+                "phone": "089-761007",
+                "address": "臺東縣大武鄉大竹村愛國蒲6鄰92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.920558,
+                    22.41635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "尚武村社區活動中心",
+                "phone": "089-791917",
+                "address": "臺東縣大武鄉尚武村政通3街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.895688,
+                    22.340952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "大武老人會館",
+                "phone": "089-791450",
+                "address": "臺東縣大武鄉大武村大武街108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.904096,
+                    22.357008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "加津林活動中心",
+                "phone": "089-761098",
+                "address": "臺東縣大武鄉大竹村加津林50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.922293,
+                    22.416236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "大武村社區活動中心",
+                "phone": "089-791826",
+                "address": "臺東縣大武鄉大武村大武街56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.904856,
+                    22.357199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "大武鄉立幼兒園",
+                "phone": "089-791721",
+                "address": "臺東縣大武鄉尚武村政通5街6-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.889291,
+                    22.340551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "大武國小",
+                "phone": "089-791135",
+                "address": "臺東縣大武鄉大武村民族街2巷49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.904779,
+                    22.364245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "大武國民中學",
+                "phone": "089-791023",
+                "address": "臺東縣大武鄉大武村復興路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.906842,
+                    22.364546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "大武鄉南興村社區活動中心(新)",
+                "phone": "089-702165",
+                "address": "臺東縣大武鄉臺東縣大武鄉南興村達興152-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.910064,
+                    22.384709
+                ]
+            }
+        }
+    ]
+}

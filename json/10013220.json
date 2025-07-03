@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "上杉福社區活動中心",
+                "phone": "08-8612069",
+                "address": "屏東縣琉球鄉杉福村復興路1巷1之8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.367484,
+                    22.344645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "中福社區活動中心",
+                "phone": "08-8612786",
+                "address": "屏東縣琉球鄉中福村三民路7巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.382628,
+                    22.349972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "琉球鄉公所",
+                "phone": "08-8612501",
+                "address": "屏東縣琉球鄉中福村行政路12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.382875,
+                    22.348389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "全德國小",
+                "phone": "08-8612534",
+                "address": "屏東縣琉球鄉杉福村復興路97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.369211,
+                    22.346209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "南福社區活動中心",
+                "phone": "08-8611579",
+                "address": "屏東縣琉球鄉南福村忠孝路1-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.362871,
+                    22.327656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "琉球國中",
+                "phone": "08-8612509",
+                "address": "屏東縣琉球鄉大福村中正路158號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368531,
+                    22.335954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "琉球國小",
+                "phone": "08-8612597",
+                "address": "屏東縣琉球鄉大福村中正路293號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368641,
+                    22.337883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "大福社區活動中心",
+                "phone": "08-8612488",
+                "address": "屏東縣琉球鄉大福村和平路3巷14-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.370822,
+                    22.333753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "漁福村活動中心",
+                "phone": "08-8611082",
+                "address": "屏東縣琉球鄉漁福村本漁路81巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.386024,
+                    22.347951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "白沙國小",
+                "phone": "08-8612510#14",
+                "address": "屏東縣琉球鄉漁福村三民路124號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.386866,
+                    22.350452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "天南國小",
+                "phone": "08-8612300#14",
+                "address": "屏東縣琉球鄉南福村忠孝路27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.363277,
+                    22.330133
+                ]
+            }
+        }
+    ]
+}

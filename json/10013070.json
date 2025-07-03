@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東縣麟洛鄉公所",
+                "phone": "08-7222553-14",
+                "address": "屏東縣麟洛鄉麟蹄村中山路158號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.527235,
+                    22.650686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東縣麟洛鄉鄉立圖書館",
+                "phone": "08-7222553-40",
+                "address": "屏東縣麟洛鄉麟蹄村中山路158號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.527235,
+                    22.650686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東縣麟洛鄉麟洛國民小學",
+                "phone": "08-7221670",
+                "address": "屏東縣麟洛鄉麟趾村中華路86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.522448,
+                    22.647563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東縣麟洛鄉縣立麟洛國民中學",
+                "phone": "08-7222812-19",
+                "address": "屏東縣麟洛鄉麟蹄村中山路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536045,
+                    22.641335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東縣麟洛鄉縣立麟洛國民中學(戶外區操場)",
+                "phone": "08-7222812-19",
+                "address": "屏東縣麟洛鄉麟蹄村中山路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536045,
+                    22.641335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東縣麟洛鄉麟洛國民小學旁(戶外區文化廣場)",
+                "phone": "08-7221670",
+                "address": "屏東縣麟洛鄉麟趾村中華路86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.522448,
+                    22.647563
+                ]
+            }
+        }
+    ]
+}

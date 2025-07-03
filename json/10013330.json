@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "石門村辦公處",
+                "phone": "08-8831045",
+                "address": "屏東縣牡丹鄉石門村石門路18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.774437,
+                    22.125556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "東源村辦公處",
+                "phone": "08-8830116",
+                "address": "屏東縣牡丹鄉東源村東源路1-12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.852298,
+                    22.205683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "旭海村活動中心",
+                "phone": "08-8830117",
+                "address": "屏東縣牡丹鄉旭海村旭海路73-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.879683,
+                    22.190662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "高士國小",
+                "phone": "08-8810246",
+                "address": "屏東縣牡丹鄉高士村高士路29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.846985,
+                    22.12477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "高士國小牡林分校",
+                "phone": "08-8811160",
+                "address": "屏東縣牡丹鄉四林村四林路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.813886,
+                    22.073124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "牡丹國小",
+                "phone": "08-8830065",
+                "address": "屏東縣牡丹鄉牡丹村牡丹路93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.837682,
+                    22.176636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "牡丹國中",
+                "phone": "08-8831014",
+                "address": "屏東縣牡丹鄉石門路1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.775941,
+                    22.129128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "石門國小",
+                "phone": "08-8831005#14",
+                "address": "屏東縣牡丹鄉石門村石門路33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.772518,
+                    22.12581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "牡丹村活動中心",
+                "phone": "08-8830129",
+                "address": "屏東縣牡丹鄉牡丹村牡丹路98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.836566,
+                    22.175568
+                ]
+            }
+        }
+    ]
+}

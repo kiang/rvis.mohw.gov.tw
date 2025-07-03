@@ -1,0 +1,373 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "古民國小-室內",
+                "phone": "05-3742154",
+                "address": "嘉義縣新港鄉古民村161號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349096,
+                    23.562404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "月眉國小-室內",
+                "phone": "05-3772059",
+                "address": "嘉義縣新港鄉月眉村123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351699,
+                    23.520253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "月眉國小-室外",
+                "phone": "05-3772059",
+                "address": "嘉義縣新港鄉月眉村123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351699,
+                    23.520253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "新港國中-室內",
+                "phone": "05-3742024",
+                "address": "嘉義縣新港鄉福德村福德路106號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.343813,
+                    23.558513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "文昌國小-室外",
+                "phone": "05-3742172",
+                "address": "嘉義縣新港鄉宮前村古民街12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.350466,
+                    23.553784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "新港國中-室外",
+                "phone": "05-3742024",
+                "address": "嘉義縣新港鄉福德村福德路106號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.343813,
+                    23.558513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "復興國小-室外",
+                "phone": "05-3760424",
+                "address": "嘉義縣新港鄉北崙村75-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.357172,
+                    23.589943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "新港國小-室外",
+                "phone": "05-3742039",
+                "address": "嘉義縣新港鄉福德村登雲路105號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344973,
+                    23.555743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "古民國小-室外",
+                "phone": "05-3742154",
+                "address": "嘉義縣新港鄉古民村161號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349096,
+                    23.562404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "安和國小-室外",
+                "phone": "05-3772940",
+                "address": "嘉義縣新港鄉安和村46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312862,
+                    23.514794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "六興宮-室外",
+                "phone": "05-3771680",
+                "address": "嘉義縣新港鄉溪北村9鄰溪北65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.336288,
+                    23.510058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "藝術高中-室外",
+                "phone": "05-3747060",
+                "address": "嘉義縣新港鄉宮後村藝高路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349476,
+                    23.560455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "六興宮-室內",
+                "phone": "05-3771680",
+                "address": "嘉義縣新港鄉溪北村9鄰溪北65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.336288,
+                    23.510058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "復興國小-室內",
+                "phone": "05-3760424",
+                "address": "嘉義縣新港鄉北崙村75-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.357172,
+                    23.589943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "文昌國小-室內",
+                "phone": "05-3742172",
+                "address": "嘉義縣新港鄉宮前村古民街12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.350466,
+                    23.553784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "新港國小-室內",
+                "phone": "05-3742039",
+                "address": "嘉義縣新港鄉福德村登雲路105號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344973,
+                    23.555743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "崙子社區活動中心",
+                "phone": "05-3760568",
+                "address": "嘉義縣新港鄉南崙村崙子92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.356526,
+                    23.589873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "安和國小-室內",
+                "phone": "05-3772940",
+                "address": "嘉義縣新港鄉安和村46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312862,
+                    23.514794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "水仙宮-室內",
+                "phone": "05-7811751",
+                "address": "嘉義縣新港鄉南港村5鄰舊南港58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308798,
+                    23.561845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "藝術高中-室內",
+                "phone": "05-3747060",
+                "address": "嘉義縣新港鄉宮後村藝高路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349476,
+                    23.560455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "水仙宮-室外",
+                "phone": "05-7811751",
+                "address": "嘉義縣新港鄉南港村5鄰舊南港58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308798,
+                    23.561845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "新港公園",
+                "phone": "05-3742104",
+                "address": "嘉義縣新港鄉宮前村中山路154號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34556,
+                    23.552657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "潭大社區活動中心預定地",
+                "phone": "05-3742104",
+                "address": "嘉義縣新港鄉潭大村潭子墘段潭大小段1014地號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.337712,
+                    23.540109
+                ]
+            }
+        }
+    ]
+}

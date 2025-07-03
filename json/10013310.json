@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "古華社區活動中心",
+                "phone": "08-8785793",
+                "address": "屏東縣春日鄉古華村古華路6鄰2巷46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626973,
+                    22.360161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "士文聚會所",
+                "phone": "08-8790009",
+                "address": "屏東縣春日鄉士文村4鄰士文路64-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663893,
+                    22.368417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "春日國民小學",
+                "phone": "08-8782433",
+                "address": "屏東縣春日鄉春日村春日路314號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.627016,
+                    22.370293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "古華國民小學",
+                "phone": "08-8781040",
+                "address": "屏東縣春日鄉古華村3巷63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626973,
+                    22.360161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "古華國民小學-士文分校",
+                "phone": "08-8790029",
+                "address": "屏東縣春日鄉士文村65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663507,
+                    22.368773
+                ]
+            }
+        }
+    ]
+}

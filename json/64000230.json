@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "阿蓮區公所3樓會議室",
+                "phone": "07-6311177#35",
+                "address": "高雄市阿蓮區阿蓮里民生路94號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.327464,
+                    22.883215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市阿蓮區復安國民小學",
+                "phone": "07-6311177#35",
+                "address": "高雄市阿蓮區復安里復安167號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324198,
+                    22.849281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市阿蓮區阿蓮國民小學",
+                "phone": "07-6311177#35",
+                "address": "高雄市阿蓮區阿蓮里民族路163號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329869,
+                    22.88323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市阿蓮區中路國民小學",
+                "phone": "07-6311177#35",
+                "address": "高雄市阿蓮區中路里玄中路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298575,
+                    22.894931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立阿蓮國民中學",
+                "phone": "07-6311177#35",
+                "address": "高雄市阿蓮區阿蓮里民生路178號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326138,
+                    22.88532
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "田寮區公所3樓大禮堂",
+                "phone": "07-6361475#54",
+                "address": "高雄市田寮區南安里崗安路71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.359362,
+                    22.869903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市田寮區崇德國民小學",
+                "phone": "07-6361475#54",
+                "address": "高雄市田寮區崇德里崇德路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.380121,
+                    22.878322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市田寮區新興國民小學",
+                "phone": "07-6361475#54",
+                "address": "高雄市田寮區新興里大新路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.369696,
+                    22.835491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立田寮國民中學",
+                "phone": "07-6361475#54",
+                "address": "高雄市田寮區南安里崗安路48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.360721,
+                    22.862836
+                ]
+            }
+        }
+    ]
+}

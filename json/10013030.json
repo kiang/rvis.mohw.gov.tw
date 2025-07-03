@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "東光國小",
+                "phone": "08-8324927#14",
+                "address": "屏東縣東港鎮東光里長春二路15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459937,
+                    22.468389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "東港國小",
+                "phone": "08-8322019#14",
+                "address": "屏東縣東港鎮新街里中正路一段10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.454766,
+                    22.47073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "東港高中",
+                "phone": "08-8322014#14",
+                "address": "屏東縣東港鎮新勝里船頭路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.455452,
+                    22.465195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "東興國小",
+                "phone": "08-8310406#14",
+                "address": "屏東縣東港鎮東新里興東路43-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.465663,
+                    22.47838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "東隆宮香客大樓",
+                "phone": "08-8353620",
+                "address": "屏東縣東港鎮東隆里東隆街21-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.448786,
+                    22.46309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "大潭國小",
+                "phone": "08-8324226",
+                "address": "屏東縣東港鎮大潭里大潭路93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495771,
+                    22.456799
+                ]
+            }
+        }
+    ]
+}

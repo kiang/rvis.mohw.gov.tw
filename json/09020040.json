@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "盤山村辦公處",
+                "phone": "082-325755",
+                "address": "金門縣金寧鄉盤山村頂堡150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.339071,
+                    24.448979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "古寧頭村辦暨活動中心",
+                "phone": "082-329376",
+                "address": "金門縣金寧鄉古寧村北山10之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.312205,
+                    24.478234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金大綜合體育館",
+                "phone": "082-313802",
+                "address": "金門縣金寧鄉盤山村大學路一號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.322445,
+                    24.44828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "安美村辦暨活動中心",
+                "phone": "082-325752",
+                "address": "金門縣金寧鄉安美村安岐60-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.32393,
+                    24.46195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "榜林村辦公處",
+                "phone": "082-325459",
+                "address": "金門縣金寧鄉榜林村榜林21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.331453,
+                    24.435178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "后盤村活動中心",
+                "phone": "082-311867",
+                "address": "金門縣金寧鄉后盤村后盤山33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.353541,
+                    24.450336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "湖埔村辦公處",
+                "phone": "082-325667",
+                "address": "金門縣金寧鄉湖埔村湖下155號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.307488,
+                    24.45662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金寧鄉公所地下室",
+                "phone": "082-325610",
+                "address": "金門縣金寧鄉榜林村仁愛新村1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.350832,
+                    24.426382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "湖峰社區活動中心",
+                "phone": "082-327488",
+                "address": "金門縣金寧鄉湖埔村湖下1-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.305943,
+                    24.455324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "昔果山社區活動中心",
+                "phone": "082-324012",
+                "address": "金門縣金寧鄉榜林村昔果山58-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.350657,
+                    24.428338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "榜林社區活動中心",
+                "phone": "082-372477",
+                "address": "金門縣金寧鄉榜林村榜林197號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.332448,
+                    24.436091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "后盤村辦公處",
+                "phone": "082-311867",
+                "address": "金門縣金寧鄉金門縣金寧鄉后盤村后盤山69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.338335,
+                    24.443413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "后湖社區活動中心",
+                "phone": "082-325610",
+                "address": "金門縣金寧鄉榜林村后湖20之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.341318,
+                    24.417635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金寧國民中小學",
+                "phone": "082-329313",
+                "address": "金門縣金寧鄉安美村安岐1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.326839,
+                    24.456717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "古寧國民小學",
+                "phone": "082-325750",
+                "address": "金門縣金寧鄉古寧村北山1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.312809,
+                    24.477889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金鼎國民小學",
+                "phone": "082-325700",
+                "address": "金門縣金寧鄉盤山村下堡123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.337847,
+                    24.447709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "湖埔國民小學",
+                "phone": "082-326424",
+                "address": "金門縣金寧鄉湖埔村湖下196號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.308212,
+                    24.457083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "西浦頭社區活動中心",
+                "phone": "082-325610",
+                "address": "金門縣金寧鄉安美村西浦頭231號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.320055,
+                    24.464644
+                ]
+            }
+        }
+    ]
+}

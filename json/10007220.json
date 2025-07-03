@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "鄉立幼兒園",
+                "phone": "04-8927183",
+                "address": "彰化縣埤頭鄉平原村彰水路3段352巷45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46005,
+                    23.88878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大湖社區活動中心",
+                "phone": "04-8923012",
+                "address": "彰化縣埤頭鄉大湖村大湖路260號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.452754,
+                    23.865914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "中和國小活動中心",
+                "phone": "04-5895768",
+                "address": "彰化縣埤頭鄉中和村溪林路284號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460345,
+                    23.847387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "圖書館一樓",
+                "phone": "04-8927904",
+                "address": "彰化縣埤頭鄉合興村文鄉路135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458738,
+                    23.893272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "老人文康中心",
+                "phone": "04-8922117",
+                "address": "彰化縣埤頭鄉平原村安康街72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460031,
+                    23.889014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "豐崙國小",
+                "phone": "04-8922136",
+                "address": "彰化縣埤頭鄉豊崙村校前路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460179,
+                    23.917168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "埤頭國小",
+                "phone": "04-8922019",
+                "address": "彰化縣埤頭鄉埤頭村中南路145號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477653,
+                    23.893135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "四武宮辦公室",
+                "phone": "04-89100878",
+                "address": "彰化縣埤頭鄉和豊村埔尾路51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487081,
+                    23.889555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新庄社區活動中心",
+                "phone": "04-8927820",
+                "address": "彰化縣埤頭鄉新庄村光華路124號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.484176,
+                    23.860659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "永豐社區活動中心",
+                "phone": "04-8927307",
+                "address": "彰化縣埤頭鄉永豊村東西路621號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.446154,
+                    23.89759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "芙朝社區活動中心",
+                "phone": "04-8925723",
+                "address": "彰化縣埤頭鄉芙朝村文化路829號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.482425,
+                    23.870494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "陸嘉社區活動中心",
+                "phone": "04-8890399",
+                "address": "彰化縣埤頭鄉陸嘉村中華路434號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.471129,
+                    23.855892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "元埔社區活動中心",
+                "phone": "04-8925036",
+                "address": "彰化縣埤頭鄉元埔村文化路495巷11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.491496,
+                    23.871285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "合興國小",
+                "phone": "04-8922030",
+                "address": "彰化縣埤頭鄉合興村文鄉路161號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458805,
+                    23.893896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "竹圍社區活動中心",
+                "phone": "04-8894583",
+                "address": "彰化縣埤頭鄉竹圍村竹圍路187號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.454611,
+                    23.851679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "埤頭國中",
+                "phone": "04-8922004#47",
+                "address": "彰化縣埤頭鄉崙腳村中學路67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460494,
+                    23.880609
+                ]
+            }
+        }
+    ]
+}

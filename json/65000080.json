@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市鶯歌區鳳鳴國民小學",
+                "phone": "02-26797554#301",
+                "address": "新北市鶯歌區鳳鳴里鶯歌區永和街120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33015,
+                    24.97303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市鶯歌區鶯歌國民小學",
+                "phone": "02-26793842#230",
+                "address": "新北市鶯歌區同慶里鶯歌區尖山埔路106號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.345764,
+                    24.95118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新本市鶯歌區建國國民小學",
+                "phone": "02-26709228#100",
+                "address": "新北市鶯歌區建國里鶯歌區育英街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.344907,
+                    24.95463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市鶯歌區昌福國民小學",
+                "phone": "02-86773322#210",
+                "address": "新北市鶯歌區永昌里鶯歌區永明街22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.336782,
+                    24.954775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市鶯歌區永吉國民小學",
+                "phone": "02-022670-4177#302",
+                "address": "新北市鶯歌區永吉里鶯歌區德昌二街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.332913,
+                    24.958766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市立尖山國民中學",
+                "phone": "02-26781670#30",
+                "address": "新北市鶯歌區尖山里鶯歌區國中街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.339522,
+                    24.942979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市立鳳鳴國民中學",
+                "phone": "02-26780609#221",
+                "address": "新北市鶯歌區鳳鳴里鶯歌區永和街33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.333294,
+                    24.965167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市立鶯歌國民中學",
+                "phone": "02-26701461#601",
+                "address": "新北市鶯歌區同慶里鶯歌區尖山埔路108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.348511,
+                    24.950189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市立鶯歌高級工商職業學校",
+                "phone": "02-2677-5040#820",
+                "address": "新北市鶯歌區二橋里中正三路154號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.335003,
+                    24.939285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市鶯歌區中湖國民小學",
+                "phone": "02-86775640#301",
+                "address": "新北市鶯歌區中湖里中湖街25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.348097,
+                    24.972981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市鶯歌區二橋國民小學",
+                "phone": "02-26792364#230",
+                "address": "新北市鶯歌區二橋里鶯歌區中正三路106號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.335851,
+                    24.941334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "北鶯里活動中心",
+                "phone": "02-26780202*243",
+                "address": "新北市鶯歌區北鶯里仁愛路55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.354363,
+                    24.955933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "西鶯里活動中心",
+                "phone": "02-26780202#243",
+                "address": "新北市鶯歌區西鶯里中正一路203號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.353554,
+                    24.957222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中湖里活動中心",
+                "phone": "02-26780202*243",
+                "address": "新北市鶯歌區中湖里中湖街25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.348097,
+                    24.972981
+                ]
+            }
+        }
+    ]
+}

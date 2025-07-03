@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區新泰國民小學",
+                "phone": "06-6330496#804",
+                "address": "臺南市新營區新東里東學路77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32603,
+                    23.31625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區新營國民小學",
+                "phone": "06-6320374#106",
+                "address": "臺南市新營區大宏里中正路4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31648,
+                    23.3065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區南梓實驗小學",
+                "phone": "06-6562904#803",
+                "address": "臺南市新營區南紙里建業路191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2988,
+                    23.29741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區公所",
+                "phone": "06-6322015#221",
+                "address": "臺南市新營區大宏里中正路30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31658,
+                    23.31019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區太子爺廟香客大樓",
+                "phone": "06-6524038",
+                "address": "臺南市新營區太北里太子宮45-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27383,
+                    23.29513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區南新國民中學",
+                "phone": "06-6563129#15",
+                "address": "臺南市新營區民生里民治路65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30915,
+                    23.30951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區太子國民中學",
+                "phone": "06-6524762#20",
+                "address": "臺南市新營區太北里太北里140之21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.271666,
+                    23.291707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區公誠國民小學",
+                "phone": "06-6323071#804",
+                "address": "臺南市新營區興業里公誠街5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31886,
+                    23.30449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區新民國民小學",
+                "phone": "06-6562152#204",
+                "address": "臺南市新營區民生里公園路一段136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305804,
+                    23.304707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區土庫國民小學",
+                "phone": "06-6362323#112",
+                "address": "臺南市新營區土庫里71之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34535,
+                    23.31937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區大宏王公社區活動中心",
+                "phone": "06-6331464",
+                "address": "臺南市新營區大宏里民族路21-62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31811,
+                    23.30933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區新興國民小學",
+                "phone": "06-6523779#103",
+                "address": "臺南市新營區太南里太南里316號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27604,
+                    23.28758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區新橋國民小學",
+                "phone": "06-6581343#12",
+                "address": "臺南市新營區五興里鐵線橋1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27784,
+                    23.26816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區新進國民小學",
+                "phone": "06-6322378#103",
+                "address": "臺南市新營區忠政里中正路41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31571,
+                    23.31569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市新營區新生國民小學",
+                "phone": "06-6552524#12",
+                "address": "臺南市新營區姑爺里52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.25843,
+                    23.275711
+                ]
+            }
+        }
+    ]
+}

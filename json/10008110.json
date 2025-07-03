@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中央社區活動中心",
+                "phone": "2772141",
+                "address": "南投縣水里鄉中央村中正路116號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.852127,
+                    23.814914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "憫世寶宮",
+                "phone": "049-2777341",
+                "address": "南投縣水里鄉水里村水里一路56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.852233,
+                    23.818731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "成城國小會議室、105-106、201-208教室",
+                "phone": "2770140",
+                "address": "南投縣水里鄉新城村中山路二段150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.848389,
+                    23.819694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "車埕社區活動中心",
+                "phone": "2772141",
+                "address": "南投縣水里鄉車埕村民權巷33-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.86443,
+                    23.833622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "三村集會所",
+                "phone": "2772141",
+                "address": "南投縣水里鄉北埔村博愛路37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.853693,
+                    23.812232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "建安宮",
+                "phone": "049-2811100",
+                "address": "南投縣水里鄉新興村帝君巷36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.871733,
+                    23.872868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "頂崁社區活動中心",
+                "phone": "2775391",
+                "address": "南投縣水里鄉頂崁村富貴路49-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.865885,
+                    23.798825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "水里國中體育館",
+                "phone": "2770134",
+                "address": "南投縣水里鄉鉅工村民生路68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.857052,
+                    23.811019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "義民廟",
+                "phone": "2770255",
+                "address": "南投縣水里鄉城中村民權路335號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.848799,
+                    23.817421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "永豐社區活動中心",
+                "phone": "2771352",
+                "address": "南投縣水里鄉永豐村南湖一路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.857221,
+                    23.8043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "水里鄉公所",
+                "phone": "049-2772141#223",
+                "address": "南投縣水里鄉鉅工村民生路112號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.856075,
+                    23.811322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "玉峰社區活動中心",
+                "phone": "2777123",
+                "address": "南投縣水里鄉玉峰村仁愛路7-19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.835733,
+                    23.806556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "郡坑國小",
+                "phone": "2821421",
+                "address": "南投縣水里鄉上安村水信路3段303巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.855427,
+                    23.73696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "水里國小禮堂",
+                "phone": "2770014",
+                "address": "南投縣水里鄉南光村民族路151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.854753,
+                    23.810077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "永興社區活動中心",
+                "phone": "2772223",
+                "address": "南投縣水里鄉永興村林朋巷177-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.862437,
+                    23.783973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "民和社區活動中心",
+                "phone": "049-2741101",
+                "address": "南投縣水里鄉民和村民和橋157號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.924508,
+                    23.797087
+                ]
+            }
+        }
+    ]
+}

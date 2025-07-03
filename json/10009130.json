@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "明禮國小活動中心",
+                "phone": "05-6932244",
+                "address": "雲林縣麥寮鄉崙後村92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.265645,
+                    23.773817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "施厝社區活動中心",
+                "phone": "0",
+                "address": "雲林縣麥寮鄉施厝村仁德東路502號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28238,
+                    23.795334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "海豐社區活動中心",
+                "phone": "05-6939386",
+                "address": "雲林縣麥寮鄉海豐村忠和62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21541,
+                    23.767602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "三盛社區活動中心",
+                "phone": "05-6900000",
+                "address": "雲林縣麥寮鄉三盛村仁德西路一段26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.265044,
+                    23.797561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "後安社區活動中心",
+                "phone": "0",
+                "address": "雲林縣麥寮鄉後安村後安163號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.239312,
+                    23.786003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "新吉社區活動中心",
+                "phone": "05-6912282",
+                "address": "雲林縣麥寮鄉新吉村新吉69號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.276443,
+                    23.807611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "橋頭國小活動中心",
+                "phone": "05-6912358#230",
+                "address": "雲林縣麥寮鄉橋頭村仁德路248號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.273867,
+                    23.797885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "鎮南宮(香客大樓)",
+                "phone": "05-6932318",
+                "address": "雲林縣麥寮鄉麥豐村新興路27-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251776,
+                    23.746884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "興華國小活動中心",
+                "phone": "05-6932574#9",
+                "address": "雲林縣麥寮鄉興華村興化1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288222,
+                    23.759723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "楊厝幸福食堂",
+                "phone": "05-",
+                "address": "雲林縣麥寮鄉海豐村永和58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244947,
+                    23.775769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "架子頭社區活動中心",
+                "phone": "0",
+                "address": "雲林縣麥寮鄉興華村興華50-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294849,
+                    23.747886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "拱範宮(香客大樓)",
+                "phone": "05-6932033",
+                "address": "雲林縣麥寮鄉麥豐村中正路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.255433,
+                    23.748214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "雷厝社區活動中心",
+                "phone": "05-6912277",
+                "address": "雲林縣麥寮鄉雷厝村雷厝62-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2891,
+                    23.806698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "崙後社區活動中心",
+                "phone": "0",
+                "address": "雲林縣麥寮鄉崙後村沙崙後39-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.266435,
+                    23.772414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "麥寮國小活動中心",
+                "phone": "05-6341173#043",
+                "address": "雲林縣麥寮鄉麥津村中山路260號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.254116,
+                    23.750741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "聚寶宮(香客大樓)",
+                "phone": "05-6932058",
+                "address": "雲林縣麥寮鄉麥豐村光大寮路36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251107,
+                    23.748626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "麥寮鄉室內體適能中心",
+                "phone": "05-6932013",
+                "address": "雲林縣麥寮鄉麥津村泰順路212號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.255596,
+                    23.752087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "霄仁雙厝生活館",
+                "phone": "05-",
+                "address": "雲林縣麥寮鄉瓦磘村霄仁8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.272144,
+                    23.755468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "楊厝幸福食堂",
+                "phone": "05-",
+                "address": "雲林縣麥寮鄉海豐村永和58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244292,
+                    23.774896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "雷厝集會所",
+                "phone": "05-",
+                "address": "雲林縣麥寮鄉雷厝村雷厝122-66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285546,
+                    23.80337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "中興社區活動中心",
+                "phone": "05-6914503",
+                "address": "雲林縣麥寮鄉中興村許厝二街19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.243996,
+                    23.799845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "社教園區",
+                "phone": "05-6938689",
+                "address": "雲林縣麥寮鄉麥豐村自強路125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.254971,
+                    23.745861
+                ]
+            }
+        }
+    ]
+}

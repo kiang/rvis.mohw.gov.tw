@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "油田社區活動中心",
+                "phone": "03-5761888",
+                "address": "新竹縣寶山鄉油田村08鄰新湖路三段300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.009142,
+                    24.723438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新城國小中正堂",
+                "phone": "03-5762707",
+                "address": "新竹縣寶山鄉新城村10鄰寶新路二段475號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.967436,
+                    24.733474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "雙溪村辦公大樓",
+                "phone": "03-5200090#203",
+                "address": "新竹縣寶山鄉雙溪村04鄰學府街5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.991415,
+                    24.765167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "寶山國小",
+                "phone": "03-5761390#2003",
+                "address": "新竹縣寶山鄉寶山村08鄰寶山路二段130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.022112,
+                    24.740369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "寶山鄉綜合行政大樓",
+                "phone": "03-5200090#301",
+                "address": "新竹縣寶山鄉雙溪村04鄰雙園路二段325號5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.991274,
+                    24.765525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "寶斗集會所",
+                "phone": "03-5763016",
+                "address": "新竹縣寶山鄉寶斗村06鄰寶斗路110號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.953362,
+                    24.728802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "雙溪國小",
+                "phone": "03-5202151#208",
+                "address": "新竹縣寶山鄉雙溪村09鄰雙園路二段310號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.990551,
+                    24.765726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "寶山鄉老人文康中心",
+                "phone": "03-5293390",
+                "address": "新竹縣寶山鄉雙溪村07鄰雙園路二段283號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.993005,
+                    24.766487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "深井社區活動中心",
+                "phone": "03-5762718",
+                "address": "新竹縣寶山鄉深井村07鄰雙林路二段18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.959574,
+                    24.742529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "大崎村集會所",
+                "phone": "03-5776131",
+                "address": "新竹縣寶山鄉大崎村16鄰雙園路一段6巷32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.004105,
+                    24.769902
+                ]
+            }
+        }
+    ]
+}

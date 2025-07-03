@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "壽豐活動中心",
+                "phone": "03-8652805",
+                "address": "花蓮縣壽豐鄉壽豐村壽豐路1段97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.510659,
+                    23.870139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "池南活動中心",
+                "phone": "03-8641008",
+                "address": "花蓮縣壽豐鄉池南村池南路2段17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506063,
+                    23.920769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "平和活動中心",
+                "phone": "03-8661801",
+                "address": "花蓮縣壽豐鄉平和村平和路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519679,
+                    23.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "志學活動中心",
+                "phone": "03-8661800",
+                "address": "花蓮縣壽豐鄉志學村中正路120巷13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532235,
+                    23.905321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "豐裡活動中心",
+                "phone": "03-8652802",
+                "address": "花蓮縣壽豐鄉豐裡村中山路257號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506026,
+                    23.842914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "共和活動中心",
+                "phone": "03-8652804",
+                "address": "花蓮縣壽豐鄉共和村農墾2街38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511683,
+                    23.867577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "月眉活動中心",
+                "phone": "03-8631116",
+                "address": "花蓮縣壽豐鄉月眉村月眉路三段108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.548464,
+                    23.861028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "文化中心",
+                "phone": "03-8652131-122",
+                "address": "花蓮縣壽豐鄉壽豐村公園路30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506687,
+                    23.869543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "豐山活動中心",
+                "phone": "03-8652801",
+                "address": "花蓮縣壽豐鄉豐山村中山路127巷15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.493592,
+                    23.847778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "溪口活動中心",
+                "phone": "03-8652809",
+                "address": "花蓮縣壽豐鄉溪口村溪口路103巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.473669,
+                    23.819817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "樹湖活動中心",
+                "phone": "03-8652810",
+                "address": "花蓮縣壽豐鄉樹湖村大樹腳59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.481669,
+                    23.837312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "水璉活動中心",
+                "phone": "03-8601055",
+                "address": "花蓮縣壽豐鄉水璉村水璉二街21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564648,
+                    23.782468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "鹽寮活動中心",
+                "phone": "03-8671123",
+                "address": "花蓮縣壽豐鄉鹽寮村鹽寮165號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.593034,
+                    23.848386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "米棧活動中心",
+                "phone": "03-8741367",
+                "address": "花蓮縣壽豐鄉米棧村米棧路二段21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52844,
+                    23.818892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "豐坪活動中心",
+                "phone": "03-8652803",
+                "address": "花蓮縣壽豐鄉豐坪村豐坪路2段73號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509607,
+                    23.835113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "原住民多功能活動中心",
+                "phone": "03-8652131#610",
+                "address": "花蓮縣壽豐鄉壽豐村公園路28巷3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506862,
+                    23.869439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "壽豐鄉公所",
+                "phone": "03-8654110",
+                "address": "花蓮縣壽豐鄉壽豐村壽山路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.508902,
+                    23.870263
+                ]
+            }
+        }
+    ]
+}

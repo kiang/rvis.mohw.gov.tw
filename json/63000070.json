@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立龍山國民中學",
+                "phone": "02-23362789#100",
+                "address": "臺北市萬華區富福里南寧路46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.504598,
+                    25.036064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市萬華區雙園國民小學",
+                "phone": "02-23061893#220",
+                "address": "臺北市萬華區雙園里莒光路315號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.498158,
+                    25.030937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市萬華區新和國民小學",
+                "phone": "02-23038298#1100",
+                "address": "臺北市萬華區新安里西藏路125巷31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.503335,
+                    25.026005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "青年公園",
+                "phone": "02-23032451",
+                "address": "臺北市萬華區騰雲里臺北市萬華區水源路199號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506975,
+                    25.022082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市萬華運動中心",
+                "phone": "02-2570-2330#6428",
+                "address": "臺北市萬華區福星里西寧南路6之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.507142,
+                    25.047498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "青年公園棒球場",
+                "phone": "02-25702330",
+                "address": "臺北市萬華區騰雲里水源路199號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506975,
+                    25.022082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立大理高級中學",
+                "phone": "02-23026959#111",
+                "address": "臺北市萬華區綠堤里萬華區長順街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491299,
+                    25.030892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市萬華區大理國民小學",
+                "phone": "02-23064311#1100",
+                "address": "臺北市萬華區綠堤里萬華區艋舺大道389號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.493826,
+                    25.031181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市萬華區老松國民小學",
+                "phone": "02-23361266#100",
+                "address": "臺北市萬華區福音里臺北市萬華區桂林路64號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.502281,
+                    25.036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市萬華區西門國民小學",
+                "phone": "02-23113519#1202",
+                "address": "臺北市萬華區西門里萬華區成都路98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505876,
+                    25.042016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市萬華區西園國民小學",
+                "phone": "02-23030257#666",
+                "address": "臺北市萬華區日善里萬華區東園街73巷65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.498864,
+                    25.02662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立華江高級中學",
+                "phone": "02-23019946#101",
+                "address": "臺北市萬華區日善里萬華區西藏路213號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496168,
+                    25.028525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市萬華區華江國民小學",
+                "phone": "02-23064352#100",
+                "address": "臺北市萬華區華江里萬華區環河南路2段250巷42弄2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491197,
+                    25.034077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市萬華區萬大國民小學",
+                "phone": "02-23037654#168",
+                "address": "臺北市萬華區全德里萬大路346號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.499345,
+                    25.022978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立萬華國民中學",
+                "phone": "02-23394567#168",
+                "address": "臺北市萬華區日善里萬華區西藏路201號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.498701,
+                    25.029159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市萬華區福星國民小學",
+                "phone": "02-23144668#888",
+                "address": "臺北市萬華區福星里中華路1段66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.508906,
+                    25.046344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市萬華區龍山國民小學",
+                "phone": "02-23082977#700",
+                "address": "臺北市萬華區青山里和平西路3段235號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496205,
+                    25.035591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立雙園國民中學",
+                "phone": "02-23030827#101",
+                "address": "臺北市萬華區和德里萬華區興義街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.492722,
+                    25.027628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處臺北市家禽批發市場",
+                "phone": "02-2305-5115#21",
+                "address": "臺北市萬華區華江里臺北市萬華區環河南路二段338號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.489844,
+                    25.030647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "西門地下街",
+                "phone": "25505600#6062",
+                "address": "臺北市中正區光復里中華路一段51-1號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509241,
+                    25.047217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處西寧市場地下停車場",
+                "phone": "02-25505220#2138",
+                "address": "臺北市萬華區福星里臺北市萬華區西寧南路4號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.507045,
+                    25.047931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館西園分館",
+                "phone": "02-23069046",
+                "address": "臺北市萬華區頂碩里臺北市萬華區興寧街6號3-6樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501721,
+                    25.032228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館萬華分館",
+                "phone": "02-23391056",
+                "address": "臺北市萬華區日善里臺北市萬華區東園街19號5-7樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.495667,
+                    25.027916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處龍山寺地下街",
+                "phone": "02-25505220#5007",
+                "address": "臺北市萬華區糖廍里臺北市萬華區西園路一段145號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.499025,
+                    25.035129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處環南中繼市場停車場",
+                "phone": "2550-5220 #2115",
+                "address": "臺北市萬華區綠堤里環河南路二段338號4樓-5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.489814,
+                    25.02989
+                ]
+            }
+        }
+    ]
+}

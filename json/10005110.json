@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "南庄國小室外",
+                "phone": "037-822007",
+                "address": "苗栗縣南庄鄉東村文化路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.999305,
+                    24.600358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "東村社區第二活動中心",
+                "phone": "0932527982",
+                "address": "苗栗縣南庄鄉東村大同路1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.000917,
+                    24.596886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "蓬萊國小室內",
+                "phone": "037-823385",
+                "address": "苗栗縣南庄鄉蓬萊村19鄰紅毛館118號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.970819,
+                    24.542802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "南江村社區活動中心",
+                "phone": "037-825289",
+                "address": "苗栗縣南庄鄉南江村22鄰55-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.000139,
+                    24.594335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "蓬萊國小室外",
+                "phone": "037-823385",
+                "address": "苗栗縣南庄鄉蓬萊村19鄰紅毛館118號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.970819,
+                    24.542802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "南埔國小室內",
+                "phone": "037822324#13",
+                "address": "苗栗縣南庄鄉南富村9鄰134號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.973298,
+                    24.635138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "南庄鄉公有零售市場二樓",
+                "phone": "037-823115",
+                "address": "苗栗縣南庄鄉東村民生街13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.999087,
+                    24.598267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "獅山社區第二活動中心",
+                "phone": "037-823588",
+                "address": "苗栗縣南庄鄉獅山村15鄰166-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013532,
+                    24.634201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "南庄鄉公所廣場前",
+                "phone": "037-823115",
+                "address": "苗栗縣南庄鄉東村大同路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.000319,
+                    24.596992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "田美國小室外",
+                "phone": "037-822445",
+                "address": "苗栗縣南庄鄉田美村9鄰191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.008482,
+                    24.629339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "員林社區活動中心",
+                "phone": "037-834252",
+                "address": "苗栗縣南庄鄉員林村屯營5之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.961766,
+                    24.634533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "田美國小室內",
+                "phone": "037-822445",
+                "address": "苗栗縣南庄鄉田美村9鄰191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.008482,
+                    24.629339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "南富社區活動中心",
+                "phone": "037-821582",
+                "address": "苗栗縣南庄鄉南富村13鄰14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.978859,
+                    24.63548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "東河國小室外",
+                "phone": "037-823423",
+                "address": "苗栗縣南庄鄉東河村3鄰132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.05385,
+                    24.606469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "南埔國小室外",
+                "phone": "037-822324",
+                "address": "苗栗縣南庄鄉南富村9鄰134號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.973298,
+                    24.635138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "東河國小室內",
+                "phone": "037-823423#203",
+                "address": "苗栗縣南庄鄉東河村3鄰132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.05385,
+                    24.606469
+                ]
+            }
+        }
+    ]
+}

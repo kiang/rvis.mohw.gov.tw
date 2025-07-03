@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "內湖社區活動中心",
+                "phone": "049-2612658",
+                "address": "南投縣鹿谷鄉內湖村興產路71-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.778921,
+                    23.720632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "瑞田社區活動中心",
+                "phone": "0910-593561",
+                "address": "南投縣鹿谷鄉瑞田村仁愛路69-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.792913,
+                    23.804866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "竹林村集會所",
+                "phone": "049-2676293",
+                "address": "南投縣鹿谷鄉竹林村光復路106-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.755472,
+                    23.727001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "鹿谷社區活動中心",
+                "phone": "049-2753587",
+                "address": "南投縣鹿谷鄉鹿谷村興農巷50-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.752698,
+                    23.748871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "初鄉村集會所",
+                "phone": "0933-755907",
+                "address": "南投縣鹿谷鄉初鄉村仁愛路259-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.736481,
+                    23.767171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "清水社區活動中心",
+                "phone": "049-2671419　",
+                "address": "南投縣鹿谷鄉清水村仁愛路103號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.783405,
+                    23.791937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "茶席文化館",
+                "phone": "049-2755720#145",
+                "address": "南投縣鹿谷鄉永隆村仁義路41-13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.776797,
+                    23.750851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "秀峰社區活動中心",
+                "phone": "049-2672531",
+                "address": "南投縣鹿谷鄉秀峰村仁愛路153-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.776574,
+                    23.782436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "彰雅社區活動中心",
+                "phone": "0928-997614",
+                "address": "南投縣鹿谷鄉彰雅村和興巷21 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.755759,
+                    23.745396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "鹿谷鄉公所",
+                "phone": "0492755720-111",
+                "address": "南投縣鹿谷鄉鹿谷村中正路2段73號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.753248,
+                    23.74574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "竹豐社區活動中心",
+                "phone": "049-2755720",
+                "address": "南投縣鹿谷鄉竹豐村光復路92-12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.749959,
+                    23.731362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "鳳凰社區活動中心",
+                "phone": "0966-626110",
+                "address": "南投縣鹿谷鄉鳳凰村仁義路14-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.784443,
+                    23.735723
+                ]
+            }
+        }
+    ]
+}

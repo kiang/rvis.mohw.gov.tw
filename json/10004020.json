@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "瑞峰國小(竹東鎮)",
+                "phone": "03-5949052",
+                "address": "新竹縣竹東鎮上坪里04鄰43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.121791,
+                    24.661759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "瑞峰國小禮堂",
+                "phone": "03-5966177-205",
+                "address": "新竹縣竹東鎮上坪里04鄰43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.121791,
+                    24.661759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "樹杞林文化館",
+                "phone": "03-5966177#203",
+                "address": "新竹縣竹東鎮鷄林里16鄰新生路377號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.095789,
+                    24.735623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "瑞峰國小操場",
+                "phone": "03-5949052＃100",
+                "address": "新竹縣竹東鎮上坪里04鄰43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.121791,
+                    24.661759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "大同國小禮堂",
+                "phone": "03-5961160#2000",
+                "address": "新竹縣竹東鎮榮樂里11鄰莊敬街111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0893,
+                    24.7412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "竹東鎮立羽球館",
+                "phone": "03-5966177551",
+                "address": "新竹縣竹東鎮商華里13鄰環山路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.083972,
+                    24.733452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "竹東國小體育館",
+                "phone": "03-5962025#00",
+                "address": "新竹縣竹東鎮東華里03鄰康寧街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088327,
+                    24.735194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "竹東鎮立網球場",
+                "phone": "03-5966177551",
+                "address": "新竹縣竹東鎮鷄林里16鄰林森路12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.094765,
+                    24.73479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "竹東鎮立幼兒園",
+                "phone": "03-5100874",
+                "address": "新竹縣竹東鎮大鄉里20鄰文林路33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.086726,
+                    24.728804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "中山國小禮堂",
+                "phone": "03-5962102#300",
+                "address": "新竹縣竹東鎮中山里15鄰中山路70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.092297,
+                    24.733796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "中山社區活動中心",
+                "phone": "03-5966177＃207",
+                "address": "新竹縣竹東鎮鷄林里14鄰大同路257號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.094167,
+                    24.736964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "竹東客家戲曲公園",
+                "phone": "03-5966177＃551",
+                "address": "新竹縣竹東鎮仁愛里仁愛路302號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.090873,
+                    24.737162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "竹中國小禮堂",
+                "phone": "03-5823822#730",
+                "address": "新竹縣竹東鎮頭重里16鄰竹中路104巷14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.029957,
+                    24.780657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "員崠國小活動中心",
+                "phone": "03-5962143#101",
+                "address": "新竹縣竹東鎮員崠里16鄰東峰路281號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.098805,
+                    24.713739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "二重國小禮堂",
+                "phone": "03-5822098",
+                "address": "新竹縣竹東鎮二重里24鄰光明路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.05731,
+                    24.767496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "頭重社區活動中心",
+                "phone": "03-5966177#207",
+                "address": "新竹縣竹東鎮頭重里24鄰富榮街25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03437,
+                    24.779629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "東寧里集會所",
+                "phone": "03-5963002",
+                "address": "新竹縣竹東鎮東寧里04鄰中豐路一段90號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.098654,
+                    24.72341
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "五甲國小",
+                "phone": "06-5952155#314",
+                "address": "臺南市關廟區松腳里和平路246號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334155,
+                    22.958579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "埤頭里下湖里聯合活動中心",
+                "phone": "06-5950743",
+                "address": "臺南市關廟區埤頭里關新路二段142號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308539,
+                    22.999585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "關廟國小",
+                "phone": "06-5952209-704",
+                "address": "臺南市關廟區山西里文衡路121號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325954,
+                    22.963991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "保東國小",
+                "phone": "06-5952344#203",
+                "address": "臺南市關廟區埤頭里關新路一段776號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308994,
+                    22.99434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "新光國小",
+                "phone": "06-5952419#901",
+                "address": "臺南市關廟區新光里新光街76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353148,
+                    22.972059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "深坑國小",
+                "phone": "06-5952409#103",
+                "address": "臺南市關廟區深坑里南雄路一段487號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33326,
+                    22.939865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "關廟社區活動中心",
+                "phone": "06-5950002#115",
+                "address": "臺南市關廟區關廟里文化街85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324218,
+                    22.958926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "崇和國小",
+                "phone": "06-5551040#22",
+                "address": "臺南市關廟區龜洞里南雄南路568號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.352231,
+                    22.904273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "關廟國中",
+                "phone": "06-5951181#217",
+                "address": "臺南市關廟區關廟里中山路二段172號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324618,
+                    22.961086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "關廟區公所",
+                "phone": "06-5950002#238",
+                "address": "臺南市關廟區香洋里中正路998號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.327704,
+                    22.963021
+                ]
+            }
+        }
+    ]
+}

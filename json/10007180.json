@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "二水鄉公所",
+                "phone": "04-8790100#123",
+                "address": "彰化縣二水鄉裕民村南通路三段764號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.618984,
+                    23.806626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "源泉國小活動中心",
+                "phone": "04-8792304",
+                "address": "彰化縣二水鄉大園村彰化縣二水鄉大園村員集路二段316號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.642437,
+                    23.799975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "光化村活動中心",
+                "phone": "04-8796356",
+                "address": "彰化縣二水鄉光化村光進一巷20-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.616116,
+                    23.814156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大園村活動中心",
+                "phone": "04-8791318",
+                "address": "彰化縣二水鄉大園村大園巷 11-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.637152,
+                    23.804172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "二水村活動中心",
+                "phone": "04-8790512",
+                "address": "彰化縣二水鄉二水村員集路三段625號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.615812,
+                    23.809726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "受玄宮",
+                "phone": "04-8793963",
+                "address": "彰化縣二水鄉裕民村裕民巷53號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6183,
+                    23.807691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "海豐村活動中心",
+                "phone": "04-8792363",
+                "address": "彰化縣二水鄉上豊村山腳路一段113-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.618504,
+                    23.817219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "合興村活動中心",
+                "phone": "04-8793962",
+                "address": "彰化縣二水鄉合興村鼻倡路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.642545,
+                    23.794879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "倡和村活動中心",
+                "phone": "04-8793492",
+                "address": "彰化縣二水鄉倡和村倡和路41-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649299,
+                    23.797481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "過圳村活動中心",
+                "phone": "04-8796327",
+                "address": "彰化縣二水鄉過圳村三義巷30-7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.607489,
+                    23.818601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "五伯村活動中心",
+                "phone": "04-8795951",
+                "address": "彰化縣二水鄉五伯村過圳路222號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.612097,
+                    23.814865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "合和村活動中心",
+                "phone": "04-8796603",
+                "address": "彰化縣二水鄉合和村番田一巷46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.612458,
+                    23.823509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "惠民村活動中心",
+                "phone": "04-8793788",
+                "address": "彰化縣二水鄉惠民村山腳路一段48-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.632265,
+                    23.806923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "復興村活動中心",
+                "phone": "04-8746279",
+                "address": "彰化縣二水鄉復興村員集路5段472號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.604764,
+                    23.829556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "十五村活動中心",
+                "phone": "04-8745687",
+                "address": "彰化縣二水鄉十五村十五路33-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.601496,
+                    23.828596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "修仁村活動中心",
+                "phone": "04-8790680",
+                "address": "彰化縣二水鄉修仁村修仁路27-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.630814,
+                    23.799714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "文化村活動中心",
+                "phone": "04-8793700",
+                "address": "彰化縣二水鄉文化村文化一 巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.619067,
+                    23.811502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "聖化活動中心",
+                "phone": "04-8792451",
+                "address": "彰化縣二水鄉聖化村溪邊巷78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.616404,
+                    23.809815
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,581 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "雙城市民活動中心",
+                "phone": "02-22155898",
+                "address": "新北市新店區雙城里新北市新店區安康路3段2號5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.493742,
+                    24.953824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "龜山市民活動中心",
+                "phone": "02-26664664",
+                "address": "新北市新店區龜山里新北市新店區新烏路3段136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552014,
+                    24.903139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "康橋高中",
+                "phone": "02-22162100",
+                "address": "新北市新店區華城里新北市新店區華城路800號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4978,
+                    24.910948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新店高中",
+                "phone": "02-22193700#310",
+                "address": "新北市新店區福民里新北市新店區中央路93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5318,
+                    24.975587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "直潭國小",
+                "phone": "02-26667278#834",
+                "address": "新北市新店區直潭里新北市新店區直潭路92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.531321,
+                    24.937814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "雙城國小",
+                "phone": "02-2215-6511#200",
+                "address": "新北市新店區雙城里安康路三段322號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.486538,
+                    24.952069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "雙峰國小",
+                "phone": "02-22174543#109",
+                "address": "新北市新店區雙坑里北宜路三段66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.575393,
+                    24.951153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "青潭國小",
+                "phone": "02-22173146#230",
+                "address": "新北市新店區美潭里新北市新店區北宜路二段80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552255,
+                    24.95314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "龜山國小",
+                "phone": "02-26667317#66",
+                "address": "新北市新店區龜山里新北市新店區新烏路三段99巷10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.553213,
+                    24.902191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大豐國小",
+                "phone": "02-2219-2619#837",
+                "address": "新北市新店區大豐里新北市新店區民族路108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538192,
+                    24.977578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "安坑國小",
+                "phone": "02-2211-0560#307",
+                "address": "新北市新店區公崙里新北市新店區安忠路36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515596,
+                    24.963833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "安康高中",
+                "phone": "02-22111743#540",
+                "address": "新北市新店區柴埕里新北市新店區安興路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515945,
+                    24.969595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "耕莘健康管理專科學校",
+                "phone": "02-22191131#5421",
+                "address": "新北市新店區百和里新北市新店區民族路112號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53548,
+                    24.976146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "景文科技大學",
+                "phone": "02-82122000#2018",
+                "address": "新北市新店區公崙里新北市新店區安忠路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51298,
+                    24.962572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "南強工商",
+                "phone": "02-29106899#500",
+                "address": "新北市新店區寶興里新北市新店區文化路42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544845,
+                    24.980865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "崇光高中",
+                "phone": "02-29112543#229",
+                "address": "新北市新店區中正里新北市新店區三民路18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539874,
+                    24.969892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中信中學",
+                "phone": "02-2211-2581#259",
+                "address": "新北市新店區柴埕里新北市新店區安興路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514878,
+                    24.966284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "能仁家商",
+                "phone": "02-2918-2399#600",
+                "address": "新北市新店區文中里新北市新店區文中路53巷10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540431,
+                    24.956918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "莊敬高職",
+                "phone": "02-22188956#123",
+                "address": "新北市新店區復興里新北市新店區民生路45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53676,
+                    24.986889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "五峰國中",
+                "phone": "02-2911-2005#315",
+                "address": "新北市新店區五峯里新北市新店區中興路一段253號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543996,
+                    24.966374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "文山國中",
+                "phone": "02-29134300#635",
+                "address": "新北市新店區文中里新北市新店區文中路38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539151,
+                    24.956748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "文中廣明市民活動中心",
+                "phone": "02-29122820",
+                "address": "新北市新店區文中里新北市新店區北宜路一段39巷32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53992,
+                    24.957677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "屈尺國小",
+                "phone": "02-26667490#22",
+                "address": "新北市新店區屈尺里新北市新店區屈尺路五十五號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546274,
+                    24.922509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新和國小",
+                "phone": "02-29400170#807",
+                "address": "新北市新店區永安里新店市安和路三段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518178,
+                    24.984615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大豐社福館",
+                "phone": "02-29112281#1256",
+                "address": "新北市新店區大豐里新北市新店區民族路110號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.537558,
+                    24.976931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新店國小",
+                "phone": "02-29103483#801",
+                "address": "新北市新店區國校里新北市新店區新店路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540227,
+                    24.952909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "屈尺國小廣興分校",
+                "phone": "02-26667567",
+                "address": "新北市新店區廣興里新店市廣興路57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533176,
+                    24.899766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中正國小",
+                "phone": "02-29125432#836",
+                "address": "新北市新店區中正里新北市新店區三民路３６號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.536638,
+                    24.971737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "北新國小",
+                "phone": "02-2918-9300#100",
+                "address": "新北市新店區新安里新北市新店區寶橋路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543488,
+                    24.976474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "廣興里辦公處",
+                "phone": "02-26665969",
+                "address": "新北市新店區廣興里平廣路一段35巷3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.535004,
+                    24.902531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "太平防災公園",
+                "phone": "02-29112281#1256",
+                "address": "新北市新店區太平里精忠路10-1號旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532728,
+                    24.959216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "達觀國中小",
+                "phone": "02-22159013#660",
+                "address": "新北市新店區德安里僑信路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50003,
+                    24.95388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "直潭派出所",
+                "phone": "02-26667324",
+                "address": "新北市新店區塗潭里新北市新店區直潭十街27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52334,
+                    24.942488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "十四張歷史公園",
+                "phone": "02-29112281#1256",
+                "address": "新北市新店區中山里央北二路及啟文路交叉路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.531039,
+                    24.976845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "柴埕市民活動中心",
+                "phone": "02-29112281#1003",
+                "address": "新北市新店區柴埕里安民街79號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51657,
+                    24.967379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "日興市民活動中心",
+                "phone": "02-22151793",
+                "address": "新北市新店區日興里安康路3段580號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.481207,
+                    24.948767
+                ]
+            }
+        }
+    ]
+}

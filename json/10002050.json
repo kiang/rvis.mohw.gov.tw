@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "礁溪鄉公所二樓",
+                "phone": "03-9881311-112",
+                "address": "宜蘭縣礁溪鄉六結村中山路二段3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771214,
+                    24.823568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "玉田國小",
+                "phone": "03-9882461#101",
+                "address": "宜蘭縣礁溪鄉玉田村玉民路一段169號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.790612,
+                    24.796462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "德陽宮弘道大樓",
+                "phone": "03-9882248",
+                "address": "宜蘭縣礁溪鄉德陽村中山路二段133號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.773243,
+                    24.826577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "玉石活動中心",
+                "phone": "03-9882324",
+                "address": "宜蘭縣礁溪鄉玉石村礁溪鄉公園路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.773591,
+                    24.829882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "玉田活動中心",
+                "phone": "03-9881138",
+                "address": "宜蘭縣礁溪鄉玉田村礁溪鄉玉田村玉龍路一段479巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.785623,
+                    24.797912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "佛光大學",
+                "phone": "03-9871000#11321",
+                "address": "宜蘭縣礁溪鄉林美村林尾路160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.731634,
+                    24.817726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "淡江大學蘭陽校園",
+                "phone": "03-9873088#7006",
+                "address": "宜蘭縣礁溪鄉林美村礁溪鄉林美村林尾路180號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.728996,
+                    24.822217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "礁溪國中",
+                "phone": "03-9882412#105",
+                "address": "宜蘭縣礁溪鄉大忠村礁溪路四段23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767736,
+                    24.81717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "礁溪國小",
+                "phone": "03-9882047-150",
+                "address": "宜蘭縣礁溪鄉大忠村礁溪路四段135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768531,
+                    24.821688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "三民國小",
+                "phone": "03-9882271#82",
+                "address": "宜蘭縣礁溪鄉三民村礁溪鄉十六結路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.759896,
+                    24.813026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "吳沙國中",
+                "phone": "03-9284701#52",
+                "address": "宜蘭縣礁溪鄉吳沙村育英路79號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.759029,
+                    24.78609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "鄉立幼兒園",
+                "phone": "03-9304777",
+                "address": "宜蘭縣礁溪鄉光武村武暖路10之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767225,
+                    24.782851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "龍潭國小",
+                "phone": "03-9284764#215",
+                "address": "宜蘭縣礁溪鄉龍潭村育龍路71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744664,
+                    24.780204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "四結國小",
+                "phone": "03-9284751#102",
+                "address": "宜蘭縣礁溪鄉吳沙村育英路46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.759702,
+                    24.786176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "三民活動中心",
+                "phone": "0922885704",
+                "address": "宜蘭縣礁溪鄉三民村十六結路101之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764632,
+                    24.809944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "龍潭國小匏崙分校",
+                "phone": "03-9285199",
+                "address": "宜蘭縣礁溪鄉匏崙村匏杓崙路95之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.729585,
+                    24.792221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "協天廟忠義大樓",
+                "phone": "03-9882621",
+                "address": "宜蘭縣礁溪鄉大忠村大忠路14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768244,
+                    24.818608
+                ]
+            }
+        }
+    ]
+}

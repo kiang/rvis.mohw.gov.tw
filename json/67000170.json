@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北門區公所",
+                "phone": "06-7862001",
+                "address": "臺南市北門區北門里舊埕108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.12547,
+                    23.26781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北門區蚵寮國小",
+                "phone": "06-7863250",
+                "address": "臺南市北門區蚵寮里蚵寮791號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.13781,
+                    23.28698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北門區北門國小",
+                "phone": "06-7862035",
+                "address": "臺南市北門區北門里舊埕3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.12511,
+                    23.2655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北門區老人文康活動中心",
+                "phone": "06-7862001",
+                "address": "臺南市北門區北門里66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.12539,
+                    23.26593
+                ]
+            }
+        }
+    ]
+}

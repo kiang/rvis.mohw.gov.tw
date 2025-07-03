@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "竹林村辦公處",
+                "phone": "03-5851004",
+                "address": "新竹縣五峰鄉竹林村01鄰13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.148644,
+                    24.625368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "五峰活動中心",
+                "phone": "03-5851509",
+                "address": "新竹縣五峰鄉大隘村06鄰98號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.119311,
+                    24.63205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "桃山村辦公處",
+                "phone": "03-5856061",
+                "address": "新竹縣五峰鄉桃山村03鄰52-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.108763,
+                    24.594792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "花園村集會所",
+                "phone": "03-5851123",
+                "address": "新竹縣五峰鄉花園村08鄰177號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.128833,
+                    24.654928
+                ]
+            }
+        }
+    ]
+}

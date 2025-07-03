@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "海口國小-操場",
+                "phone": "037-461354",
+                "address": "苗栗縣竹南鎮海口里7鄰保福路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.861616,
+                    24.675491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "竹興社區活動中心-竹南鎮老人文康活動中心",
+                "phone": "037-468888",
+                "address": "苗栗縣竹南鎮竹興里新興街48巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.859549,
+                    24.690458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大厝社區活動中心",
+                "phone": "037-461121",
+                "address": "苗栗縣竹南鎮大厝里真如路560號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.871498,
+                    24.678369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "佳興社區活動中心",
+                "phone": "037-552417",
+                "address": "苗栗縣竹南鎮佳興里光復路452號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.879745,
+                    24.69489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大同高中-操場",
+                "phone": "037-580566",
+                "address": "苗栗縣竹南鎮大埔里公義路890號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.895328,
+                    24.707901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "竹南國小-操場",
+                "phone": "037-462020",
+                "address": "苗栗縣竹南鎮大厝里中正路146號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.869477,
+                    24.683876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大埔社區活動中心",
+                "phone": "037-582585",
+                "address": "苗栗縣竹南鎮大埔里公義路936號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.897046,
+                    24.708739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "竹興國小-操場",
+                "phone": "037-465037",
+                "address": "苗栗縣竹南鎮竹興里竹圍街27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.864869,
+                    24.687663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "照南國小活動中心",
+                "phone": "037-472633",
+                "address": "苗栗縣竹南鎮佳興里光復路331號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.879232,
+                    24.69404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "新南國小-操場",
+                "phone": "613843#101",
+                "address": "苗栗縣竹南鎮新南里五谷街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.885088,
+                    24.688179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "竹南運動公園",
+                "phone": "037-625648",
+                "address": "苗栗縣竹南鎮新南里17鄰永貞路二段196號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.886045,
+                    24.689128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "竹南鎮公所三樓演藝廳",
+                "phone": "037-462101轉110",
+                "address": "苗栗縣竹南鎮正南里中正路112號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.873361,
+                    24.683841
+                ]
+            }
+        }
+    ]
+}

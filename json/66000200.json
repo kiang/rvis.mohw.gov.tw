@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "土牛休閒運動公園",
+                "phone": "04-25722511#237",
+                "address": "臺中市石岡區土牛里豐勢路國校巷"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.807438,
+                    24.266527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "和盛活動中心",
+                "phone": "04-25815868專線",
+                "address": "臺中市石岡區和盛里和盛街9號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.815558,
+                    24.258863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "龍興活動中心",
+                "phone": "04-25815460專線",
+                "address": "臺中市石岡區龍興里萬仙街3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.789758,
+                    24.256938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "石岡國小籃球場",
+                "phone": "04-25721730專線",
+                "address": "臺中市石岡區石岡里石岡街123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.773309,
+                    24.276057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "萬安活動中心",
+                "phone": "04-25724097",
+                "address": "臺中市石岡區萬安里石岡街6號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.779454,
+                    24.274702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "石岡區公所",
+                "phone": "04-25722511#213",
+                "address": "臺中市石岡區九房里豐勢路1033號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.780341,
+                    24.274773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "金星活動中心",
+                "phone": "04-25721523",
+                "address": "臺中市石岡區金星里石岡街下坑巷153號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.773503,
+                    24.270773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "梅子活動中心",
+                "phone": "04-25817571專線",
+                "address": "臺中市石岡區梅子里石岡區梅子里梅子巷65之12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.803227,
+                    24.268114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "老人福利服務中心",
+                "phone": "04-25822743專線",
+                "address": "臺中市石岡區德興里豐勢路 134 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.813059,
+                    24.262067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "萬興活動中心",
+                "phone": "04-25820310",
+                "address": "臺中市石岡區萬興里萬墩街105號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.790349,
+                    24.275051
+                ]
+            }
+        }
+    ]
+}

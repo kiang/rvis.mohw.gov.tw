@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市官田區東西庄社區活動中心",
+                "phone": "06-5795326",
+                "address": "臺南市官田區東西庄里西庄125號之2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296364,
+                    23.188379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市官田區南廍里活動中心",
+                "phone": "06-5791118",
+                "address": "臺南市官田區南廍里南廍65號之2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304457,
+                    23.212527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市官田區渡拔國民小學",
+                "phone": "06-6901908",
+                "address": "臺南市官田區渡拔里拔林77號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326549,
+                    23.171137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市官田區體育公園",
+                "phone": "06-5791118",
+                "address": "臺南市官田區隆田里隆林路28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3150342,
+                    23.1899615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市官田區公所",
+                "phone": "06-5791118",
+                "address": "臺南市官田區隆田里中山路一段132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315337,
+                    23.193142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市官田區官田國民小學",
+                "phone": "06-6901195",
+                "address": "臺南市官田區官田里官田11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34199,
+                    23.188745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市官田區官田社區活動中心",
+                "phone": "06-6902856",
+                "address": "臺南市官田區官田里官田315號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.339022,
+                    23.185762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市官田區隆田國民小學",
+                "phone": "06-5791047",
+                "address": "臺南市官田區隆田里中山路一段127號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314781,
+                    23.192291
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "台灣基督長老教會霧台教會",
+                "phone": "08-7902204",
+                "address": "屏東縣霧臺鄉霧台村9鄰中山巷76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.731174,
+                    22.744468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "霧台社區活動中心",
+                "phone": "08-7902234#113",
+                "address": "屏東縣霧臺鄉霧台村中山巷46-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.732072,
+                    22.744492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "大武社區活動中心",
+                "phone": "08-7902234#113",
+                "address": "屏東縣霧臺鄉大武村2鄰小山巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.754085,
+                    22.756522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "霧臺國小",
+                "phone": "08-7902230",
+                "address": "屏東縣霧臺鄉霧台村中山巷44號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.731731,
+                    22.745405
+                ]
+            }
+        }
+    ]
+}

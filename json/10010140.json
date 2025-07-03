@@ -1,0 +1,661 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "龍山社區活動中心",
+                "phone": "05-2614788",
+                "address": "嘉義縣竹崎鄉龍山村龍山村14鄰大庭23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.572945,
+                    23.51649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "仁光分校災民收容所",
+                "phone": "05-2501911",
+                "address": "嘉義縣竹崎鄉仁壽村8鄰水社寮20之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.660253,
+                    23.504107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "復金社區活動中心",
+                "phone": "05-2613395",
+                "address": "嘉義縣竹崎鄉復金村復金村復鼎金59之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.569445,
+                    23.528227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "紫雲社區活動中心",
+                "phone": "05-2540005",
+                "address": "嘉義縣竹崎鄉紫雲村紫雲村11鄰大竹圍3之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541285,
+                    23.494719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "竹崎高中[室內]",
+                "phone": "05-2611006#500",
+                "address": "嘉義縣竹崎鄉竹崎村竹崎村文化路23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55164,
+                    23.524455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "竹崎國小[室內]",
+                "phone": "05-2611018#95",
+                "address": "嘉義縣竹崎鄉竹崎村竹崎村文化路28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549802,
+                    23.521719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "鹿滿國小[室內]",
+                "phone": "05-2611472#104",
+                "address": "嘉義縣竹崎鄉鹿滿村鹿滿村鹿鳴路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533199,
+                    23.498106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "白杞社區活動中心",
+                "phone": "05-2542219",
+                "address": "嘉義縣竹崎鄉白杞村白杞村4鄰白杞42之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58165,
+                    23.48599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "金獅社區活動中心",
+                "phone": "05-2566617",
+                "address": "嘉義縣竹崎鄉金獅村金獅村11鄰金獅寮31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.606341,
+                    23.514938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義仁社區活動中心",
+                "phone": "05-2110551",
+                "address": "嘉義縣竹崎鄉義仁村義仁村7鄰坪頂14之10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.512302,
+                    23.503314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義隆社區活動中心",
+                "phone": "05-2611010#123",
+                "address": "嘉義縣竹崎鄉義隆村義隆村3鄰山知崙7之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.563134,
+                    23.502386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義和村活動中心",
+                "phone": "05-2110335",
+                "address": "嘉義縣竹崎鄉義和村義和村2鄰山子門23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.498959,
+                    23.507987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "灣橋社區活動中心",
+                "phone": "05-2790338",
+                "address": "嘉義縣竹崎鄉灣橋村灣橋村16鄰灣橋172號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.506733,
+                    23.490776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "獅埜社區活動中心",
+                "phone": "05-2110163",
+                "address": "嘉義縣竹崎鄉獅埜村獅埜村8鄰許厝8之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.50646,
+                    23.523968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "鹿滿社區活動中心",
+                "phone": "05-2615501",
+                "address": "嘉義縣竹崎鄉鹿滿村鹿滿村7鄰麻箕埔95之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53556,
+                    23.50307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "沙坑國小[戶外]",
+                "phone": "05-2611244",
+                "address": "嘉義縣竹崎鄉沙坑村8鄰水坑57之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.520585,
+                    23.530349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "圓崇國小[戶外]",
+                "phone": "05-2790508#106",
+                "address": "嘉義縣竹崎鄉灣橋村387巷28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.504005,
+                    23.490278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "鹿滿國小[戶外]",
+                "phone": "05-2611472#104",
+                "address": "嘉義縣竹崎鄉鹿滿村鹿鳴路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534425,
+                    23.498859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "光華村活動中心",
+                "phone": "05-2561541",
+                "address": "嘉義縣竹崎鄉光華村光華村5鄰柑仔宅27之1號 (臨時收容所：慈安宮-光華村5鄰柑仔宅23之1號)(室外)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.665588,
+                    23.467213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義仁國小[戶外]",
+                "phone": "05-2110534#13",
+                "address": "嘉義縣竹崎鄉義和村4鄰山子門22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.498622,
+                    23.507963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "竹崎國小[戶外]",
+                "phone": "05-2611018#95",
+                "address": "嘉義縣竹崎鄉竹崎村竹崎村文化路28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549802,
+                    23.521719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中和國小[戶外]",
+                "phone": "05-2561013#12",
+                "address": "嘉義縣竹崎鄉中和村奮起湖215號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698328,
+                    23.501621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "昇平國中[戶外]",
+                "phone": "05-2541041#23",
+                "address": "嘉義縣竹崎鄉內埔村元興路138號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.557478,
+                    23.484584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中興國小[戶外]",
+                "phone": "05-2561021#113",
+                "address": "嘉義縣竹崎鄉中和村石棹10之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697565,
+                    23.477518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "沙坑社區活動中心",
+                "phone": "05-2611370",
+                "address": "嘉義縣竹崎鄉沙坑村沙坑村8鄰水坑56之8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.519625,
+                    23.529384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "龍山國小[室內]",
+                "phone": "05-2612843#12",
+                "address": "嘉義縣竹崎鄉龍山村水道頭70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.591824,
+                    23.518497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "桃源國小[室內]",
+                "phone": "05-2541077#12",
+                "address": "嘉義縣竹崎鄉桃源村7鄰78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.585972,
+                    23.473552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "內埔國小[室內]",
+                "phone": "05-2541005#50",
+                "address": "嘉義縣竹崎鄉內埔村元興路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562129,
+                    23.48543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "文光國際英語村[室內]",
+                "phone": "05-2630537",
+                "address": "嘉義縣竹崎鄉緞繻村外埔5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.594099,
+                    23.524412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "嘉義縣竹崎鄉昇平村收容所暨防災物資整備所",
+                "phone": "05-2542219",
+                "address": "嘉義縣竹崎鄉昇平村6鄰頂埔96之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564702,
+                    23.475524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中興國小[室內]",
+                "phone": "05-2561021#113",
+                "address": "嘉義縣竹崎鄉中和村石棹10之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697565,
+                    23.477518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "龍山國小[戶外]",
+                "phone": "05-2612843#12",
+                "address": "嘉義縣竹崎鄉龍山村水道頭70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.591824,
+                    23.518497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "竹崎高中[戶外]",
+                "phone": "05-2611006#500",
+                "address": "嘉義縣竹崎鄉竹崎村文化路23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.553151,
+                    23.521397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "內埔國小[戶外]",
+                "phone": "05-2541005#50",
+                "address": "嘉義縣竹崎鄉內埔村元興路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562129,
+                    23.48543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "桃源國小[戶外]",
+                "phone": "05-2541077#12",
+                "address": "嘉義縣竹崎鄉桃源村7鄰78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.585972,
+                    23.473552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "嘉義縣竹崎鄉灣橋村朴子埔收容所暨防災物資整備所",
+                "phone": "05-2793992",
+                "address": "嘉義縣竹崎鄉灣橋村4鄰朴子埔32之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.519814,
+                    23.492872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "圓崇國小[室內]",
+                "phone": "05-2790508#106",
+                "address": "嘉義縣竹崎鄉灣橋村387巷28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.504005,
+                    23.490278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中和國小[室內]",
+                "phone": "05-2561013#12",
+                "address": "嘉義縣竹崎鄉中和村奮起湖215號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698328,
+                    23.501621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "交力坪災民收容所",
+                "phone": "05-2501323",
+                "address": "嘉義縣竹崎鄉仁壽村交力坪31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643488,
+                    23.531853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "奉天岩[戶外]",
+                "phone": "05-2630392",
+                "address": "嘉義縣竹崎鄉緞繻村紅南坑20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.606334,
+                    23.543348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "竹崎多功能服務中心",
+                "phone": "05-2611010#133",
+                "address": "嘉義縣竹崎鄉鹿滿村10鄰麻箕埔25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535647,
+                    23.501999
+                ]
+            }
+        }
+    ]
+}

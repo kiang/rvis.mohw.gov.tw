@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "清華市民活動中心",
+                "phone": "03-4972778",
+                "address": "桃園市新屋區清華里清文路229號4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.115675,
+                    24.973488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "下田市民活動中心",
+                "phone": "03-4862724",
+                "address": "桃園市新屋區下田里3鄰中山西路2段780號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.059552,
+                    24.983083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "松柏會老人文康活動中心",
+                "phone": "03-4766658",
+                "address": "桃園市新屋區笨港里2鄰文福路36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026397,
+                    24.977295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新屋區婦幼館",
+                "phone": "03-4870527",
+                "address": "桃園市新屋區新生里中山路370號3、4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.104198,
+                    24.972874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "頭洲市民活動中心",
+                "phone": "03-4906688",
+                "address": "桃園市新屋區頭洲里福洲一街40號二樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.146022,
+                    24.963484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新屋市民活動中心",
+                "phone": "03-4778168",
+                "address": "桃園市新屋區中山路267巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.104985,
+                    24.972401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "頭洲國小",
+                "phone": "4901204-510",
+                "address": "桃園市新屋區頭洲里校前路72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.142435,
+                    24.962513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新屋國小",
+                "phone": "4772016-511",
+                "address": "桃園市新屋區新生里中正路196號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.102033,
+                    24.974081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "啟文國小",
+                "phone": "4772077-51",
+                "address": "桃園市新屋區清華里新文路762號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.116311,
+                    24.978812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "埔頂國小",
+                "phone": "4772240-510",
+                "address": "桃園市新屋區埔頂里中華南路二段50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.115782,
+                    24.957577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "東明國小",
+                "phone": "4772500-510",
+                "address": "桃園市新屋區東明里中山西路一段474號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.084723,
+                    24.97653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "社子國小",
+                "phone": "4772444-61",
+                "address": "桃園市新屋區社子里社福路235號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.082078,
+                    24.956616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "昭靈宮公園",
+                "phone": "4772111-291",
+                "address": "桃園市新屋區蚵間里文化路一段、桃103號交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.007983,
+                    24.947944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "北湖國小",
+                "phone": "4862415-51",
+                "address": "桃園市新屋區石牌里東興路二段780號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.049578,
+                    25.004836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "永安國中",
+                "phone": "4862507-510",
+                "address": "桃園市新屋區中山西路三段96號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.044259,
+                    24.988778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "永安國小",
+                "phone": "04862224-510",
+                "address": "桃園市新屋區中山西路二段1320號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.046651,
+                    24.987397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大坡國中",
+                "phone": "4768350-",
+                "address": "桃園市新屋區大坡里民有二路二段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.039779,
+                    24.961725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大坡國小",
+                "phone": "4768311-510",
+                "address": "桃園市新屋區大坡里國校路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.040571,
+                    24.957384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "蚵間國小",
+                "phone": "4768413-51",
+                "address": "桃園市新屋區後庄里文化路一段636號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00859,
+                    24.948134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "笨港國小",
+                "phone": "4769113-510",
+                "address": "桃園市新屋區笨港里2鄰文學路22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026341,
+                    24.97424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "新屋高中",
+                "phone": "04772029-510",
+                "address": "桃園市新屋區新屋里中興路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.101834,
+                    24.970099
+                ]
+            }
+        }
+    ]
+}

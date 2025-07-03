@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大同國小操場",
+                "phone": "037-320068#21",
+                "address": "苗栗縣苗栗市大同里大同路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.815487,
+                    24.554632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "福星國小活動中心",
+                "phone": "037-264724#11",
+                "address": "苗栗縣苗栗市福星里中華東街62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.825976,
+                    24.579128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "上苗里社區活動中心室內空間",
+                "phone": "037-266366",
+                "address": "苗栗縣苗栗市北苗里中華路45號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.824819,
+                    24.570806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "維新社區活動中心",
+                "phone": "037-331910",
+                "address": "苗栗縣苗栗市維新里僑育北街62號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.82153,
+                    24.553175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "上苗里社區活動中心室外停車場",
+                "phone": "037-266366",
+                "address": "苗栗縣苗栗市北苗里中華路45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.824819,
+                    24.570806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "文山國小操場",
+                "phone": "037-320406#211",
+                "address": "苗栗縣苗栗市文山里4鄰41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.813271,
+                    24.569191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "南勢社區活動中心",
+                "phone": "03-7331910",
+                "address": "苗栗縣苗栗市南勢里8鄰新勝8-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.798947,
+                    24.52617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "建功國小操場",
+                "phone": "037-320043#711",
+                "address": "苗栗縣苗栗市建功里中正路241號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.82431,
+                    24.564225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苗栗市老人文康中心室外草皮",
+                "phone": "037-331915",
+                "address": "苗栗縣苗栗市大同里福星21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.80949,
+                    24.555996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苗栗市老人文康中心室內空間",
+                "phone": "037-363702",
+                "address": "苗栗縣苗栗市大同里福星山21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.80949,
+                    24.555996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "國立聯合大學操場",
+                "phone": "037-381011",
+                "address": "苗栗縣苗栗市恭敬里聯大一號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.812251,
+                    24.545863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大同國小活動中心",
+                "phone": "037-320068#21",
+                "address": "苗栗縣苗栗市大同里大同路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.815487,
+                    24.554632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "勝利社區活動中心",
+                "phone": "037-355669",
+                "address": "苗栗縣苗栗市勝利里復興路1段453號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.821181,
+                    24.548034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "文山國小活動中心",
+                "phone": "037-320406#211",
+                "address": "苗栗縣苗栗市文山里4鄰41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.813271,
+                    24.569191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "恭敬里中山堂",
+                "phone": "037-334776",
+                "address": "苗栗縣苗栗市恭敬里7鄰恭敬路107號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.814893,
+                    24.547625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "福星國小操場",
+                "phone": "037-264724#11",
+                "address": "苗栗縣苗栗市福星里中華東街62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.825976,
+                    24.579128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "國立聯合大學活動中心",
+                "phone": "037-381011",
+                "address": "苗栗縣苗栗市恭敬里聯大1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.812251,
+                    24.545863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "新英社區活動中心",
+                "phone": "03-7321803",
+                "address": "苗栗縣苗栗市新英里15鄰新英108-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.807728,
+                    24.554752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "高苗里活動中心",
+                "phone": "037-355206",
+                "address": "苗栗縣苗栗市高苗里22鄰松園1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.811932,
+                    24.549398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "清華里活動中心",
+                "phone": "037-260476",
+                "address": "苗栗縣苗栗市清華里啟賢街126巷23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.829462,
+                    24.572438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "文聖社區活動中心",
+                "phone": "037-327261",
+                "address": "苗栗縣苗栗市文聖里1鄰橫車路352巷11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.812558,
+                    24.572223
+                ]
+            }
+        }
+    ]
+}

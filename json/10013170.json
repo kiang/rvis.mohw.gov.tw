@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "港西國小",
+                "phone": "08-8681644#14",
+                "address": "屏東縣新園鄉港西村中和路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.455562,
+                    22.5087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "新園國小",
+                "phone": "08-8681113#14",
+                "address": "屏東縣新園鄉新園村媽祖路49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451851,
+                    22.524055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "新園國中",
+                "phone": "08-8681020#33",
+                "address": "屏東縣新園鄉仙吉村仙吉路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460994,
+                    22.545228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "烏龍國小",
+                "phone": "08-8333707#14",
+                "address": "屏東縣新園鄉南龍村南興路217號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458085,
+                    22.487736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "鹽洲國小",
+                "phone": "08-8322975#14",
+                "address": "屏東縣新園鄉鹽埔村鹽洲路379號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.440778,
+                    22.488312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "新園鄉公所",
+                "phone": "08-8681385#13",
+                "address": "屏東縣新園鄉仙吉村仙吉路148號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.461532,
+                    22.543844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "瓦磘國小",
+                "phone": "08-8684050#14",
+                "address": "屏東縣新園鄉瓦磘村四環路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.474388,
+                    22.551646
+                ]
+            }
+        }
+    ]
+}

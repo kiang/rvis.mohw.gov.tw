@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金沙鎮官嶼里辦公處",
+                "phone": "082-351715",
+                "address": "金門縣金沙鎮官嶼里官澳82-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.414326,
+                    24.520078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金沙鎮浦山里辦公處",
+                "phone": "082-352848",
+                "address": "金門縣金沙鎮浦山里浦山里浦邊4-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.390818,
+                    24.480077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金沙鎮西園里辦公處",
+                "phone": "082-355824",
+                "address": "金門縣金沙鎮西園里西園里西園1-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.411773,
+                    24.502372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金沙國中體育館",
+                "phone": "082-352560",
+                "address": "金門縣金沙鎮汶沙里國中路61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.415547,
+                    24.490596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金沙鎮汶沙里辦公處",
+                "phone": "082-352556",
+                "address": "金門縣金沙鎮汶沙里汶沙里國中路1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.414272,
+                    24.489304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金沙鎮光前里辦公處",
+                "phone": "082-354029",
+                "address": "金門縣金沙鎮光前里光前里陽翟96-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.427027,
+                    24.478458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金沙鎮三山里辦公處",
+                "phone": "082-353250",
+                "address": "金門縣金沙鎮三山里三山里碧山58-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.441113,
+                    24.485399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金沙鎮大洋里辦公處",
+                "phone": "082-331963",
+                "address": "金門縣金沙鎮大洋里大洋里東山22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.461873,
+                    24.477571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金沙鎮何斗里辦公處",
+                "phone": "082-352582",
+                "address": "金門縣金沙鎮何斗里何斗里斗門55-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.401718,
+                    24.473763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "金沙鎮公所",
+                "phone": "082-352150",
+                "address": "金門縣金沙鎮汶沙里環島東路一段112號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.413287,
+                    24.488992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "青嶼活動中心",
+                "phone": "082-353150",
+                "address": "金門縣金沙鎮官嶼里青嶼76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.423185,
+                    24.520778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "太武社區活動中心",
+                "phone": "082-354029",
+                "address": "金門縣金沙鎮光前里太武社區1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.428971,
+                    24.47688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "東西山前活動中心",
+                "phone": "082-351195",
+                "address": "金門縣金沙鎮三山里西山前8-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.42752,
+                    24.492843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "新前墩活動中心",
+                "phone": "082-333517",
+                "address": "金門縣金沙鎮大洋里新前墩36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.45123,
+                    24.45569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "田浦大地活動中心",
+                "phone": "082-331131",
+                "address": "金門縣金沙鎮大洋里大地73號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.459253,
+                    24.474214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "何厝社區活動中心",
+                "phone": "082-352150",
+                "address": "金門縣金沙鎮何斗里何厝72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.396998,
+                    24.472953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "后浦頭暨五福街社區活動中心",
+                "phone": "082-352150",
+                "address": "金門縣金沙鎮汶沙里后浦頭151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.412502,
+                    24.485852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "后水頭社區活動中心",
+                "phone": "082-352150",
+                "address": "金門縣金沙鎮光前里后水頭50-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.415355,
+                    24.48199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "金門縣",
+                "name": "蔡厝民享社區活動中心",
+                "phone": "082-352150",
+                "address": "金門縣金沙鎮光前里蔡厝68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.417185,
+                    24.472052
+                ]
+            }
+        }
+    ]
+}

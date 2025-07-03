@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "南陽國小",
+                "phone": "05-7832106#201",
+                "address": "雲林縣北港鎮南安里光明路59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300982,
+                    23.566462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "樹腳社區活動中心　",
+                "phone": "0935841113",
+                "address": "雲林縣北港鎮樹腳里樹腳里大庄2-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29133,
+                    23.576011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "過溝社區活動中心",
+                "phone": "05-7831950",
+                "address": "雲林縣北港鎮樹腳里樹腳里過溝42-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.273706,
+                    23.579651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "巨人中學",
+                "phone": "05-7835937",
+                "address": "雲林縣北港鎮樹腳里大同路647號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289269,
+                    23.575513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "僑美國小",
+                "phone": "05-7832307",
+                "address": "雲林縣北港鎮草湖里華勝路655號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301722,
+                    23.593146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "育英國小",
+                "phone": "05-7921224",
+                "address": "雲林縣北港鎮番溝里番溝84號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.278605,
+                    23.622544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "建國國中",
+                "phone": "05-7832724",
+                "address": "雲林縣北港鎮華勝里大同路468號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295572,
+                    23.574055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "朝天宮厚生大樓",
+                "phone": "05-7832055",
+                "address": "雲林縣北港鎮光民里厚生路15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306522,
+                    23.567453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "北辰國小",
+                "phone": "05-7832153",
+                "address": "雲林縣北港鎮新街里成功路30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302657,
+                    23.577625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "好收國小",
+                "phone": "05-7922254",
+                "address": "雲林縣北港鎮好收里好收里好收路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.284288,
+                    23.597878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東榮國小",
+                "phone": "05-7921304",
+                "address": "雲林縣北港鎮溝皂里溝皂里174號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293507,
+                    23.612801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "辰光國小",
+                "phone": "05-7834320",
+                "address": "雲林縣北港鎮新厝里新厝49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.318163,
+                    23.587239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "北港鎮公所",
+                "phone": "05-7836102",
+                "address": "雲林縣北港鎮新街里北辰路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302406,
+                    23.57597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "北港高中",
+                "phone": "05-7821411",
+                "address": "雲林縣北港鎮新街里成功路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304589,
+                    23.578406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "北港農工",
+                "phone": "05-7832246",
+                "address": "雲林縣北港鎮新街里太平路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309039,
+                    23.580321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "朝陽國小",
+                "phone": "05-7832904",
+                "address": "雲林縣北港鎮扶朝里扶朝76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285043,
+                    23.557048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "北港國中",
+                "phone": "05-7832022",
+                "address": "雲林縣北港鎮南安里民生路102號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299158,
+                    23.565705
+                ]
+            }
+        }
+    ]
+}

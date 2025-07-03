@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "埔鹽鄉公所",
+                "phone": "04-8652301",
+                "address": "彰化縣埔鹽鄉好修村彰化縣埔鹽鄉好修村中正路192號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463663,
+                    24.000501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "老人文康中心",
+                "phone": "04-8652301-142",
+                "address": "彰化縣埔鹽鄉埔南村彰化縣埔鹽鄉埔南村6鄰彰水路1段340巷32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.478254,
+                    23.994617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "埔鹽國小",
+                "phone": "04-8852882",
+                "address": "彰化縣埔鹽鄉埔南村彰化縣埔鹽鄉埔南村彰水路一段252號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477896,
+                    23.992812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "埔鹽鄉立幼兒園",
+                "phone": "04-8658724",
+                "address": "彰化縣埔鹽鄉新水村彰化縣埔鹽鄉新水村6鄰大新路一巷12之8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.442333,
+                    23.985849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "南港國小",
+                "phone": "04-8850169",
+                "address": "彰化縣埔鹽鄉南港村彰化縣埔鹽鄉南港村埔菜路29之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495773,
+                    23.987977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "好修國小",
+                "phone": "04-8653555",
+                "address": "彰化縣埔鹽鄉好修村彰化縣埔鹽鄉好修村員鹿路二段149號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459559,
+                    24.007211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新水國小",
+                "phone": "04-8651112",
+                "address": "彰化縣埔鹽鄉新水村彰化縣埔鹽鄉新水村大新路15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.445263,
+                    23.985787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "永樂福利園區",
+                "phone": "04-8652301-141",
+                "address": "彰化縣埔鹽鄉永樂村彰化縣埔鹽鄉永樂村永樂路435號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434094,
+                    24.000135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "永樂國小",
+                "phone": "04-8652263",
+                "address": "彰化縣埔鹽鄉永樂村彰化縣埔鹽鄉永樂村永樂路600號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.431276,
+                    24.000544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "天盛國小",
+                "phone": "04-8650842",
+                "address": "彰化縣埔鹽鄉天盛村彰化縣埔鹽鄉天盛村番金路68之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.428786,
+                    23.984991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大園國小",
+                "phone": "04-8853760",
+                "address": "彰化縣埔鹽鄉豐澤村彰化縣埔鹽鄉豐澤村埔打路45之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488249,
+                    23.979785
+                ]
+            }
+        }
+    ]
+}

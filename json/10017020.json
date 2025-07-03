@@ -1,0 +1,469 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "堵南國小活動中心",
+                "phone": "02-24511339",
+                "address": "基隆市七堵區堵南里大德路120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.692171,
+                    25.083247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "堵南里民活動中心",
+                "phone": "02-24511868",
+                "address": "基隆市七堵區堵南里堵南街20之8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.687646,
+                    25.08275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "瑪東里民活動中心",
+                "phone": "02-24565293",
+                "address": "基隆市七堵區瑪東里大同街29-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.698404,
+                    25.121904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "瑪西里民活動中心",
+                "phone": "02-24553986",
+                "address": "基隆市七堵區瑪西里大華三路75之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.67743,
+                    25.128575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "友一里民活動中心",
+                "phone": "02-24517883",
+                "address": "基隆市七堵區友一里華新一路59-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.66883,
+                    25.092074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "復興國小",
+                "phone": "02-24515601轉30",
+                "address": "基隆市七堵區友二里華新二路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.665499,
+                    25.107329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "七堵行政大樓6樓",
+                "phone": "02-24566171",
+                "address": "基隆市七堵區正光里光明路21號6樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.715826,
+                    25.097458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "五堵國小活動中心",
+                "phone": "02-24511457#31",
+                "address": "基隆市七堵區堵北里百一街25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.694269,
+                    25.079921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "瑪陵國小活動中心",
+                "phone": "02-24565663#30",
+                "address": "基隆市七堵區瑪南里大成街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.68989,
+                    25.10986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "百福里民活動中心",
+                "phone": "02-24519577",
+                "address": "基隆市七堵區百福里實踐路263號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.695004,
+                    25.088134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "百福國中活動中心",
+                "phone": "02-24511158#30",
+                "address": "基隆市七堵區百福里福五街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.698657,
+                    25.083663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "長興里民活動中心",
+                "phone": "02-24563563",
+                "address": "基隆市七堵區長興里東新街25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.717284,
+                    25.094867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "基隆高級商工職業學校",
+                "phone": "02-24567126#231",
+                "address": "基隆市七堵區長興里東新街22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.717284,
+                    25.094867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "七堵國小活動中心",
+                "phone": "02-24567116 ext.31",
+                "address": "基隆市七堵區永平里明德一路184號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.713618,
+                    25.09775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "自強里民活動中心",
+                "phone": "02-24569686",
+                "address": "基隆市七堵區自強里自強路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712239,
+                    25.102242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "六堵里民活動中心",
+                "phone": "02-24514632",
+                "address": "基隆市七堵區六堵里工建路104巷17-1號-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.701846,
+                    25.090757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "泰安里民活動中心",
+                "phone": "02-24522539",
+                "address": "基隆市七堵區泰安里泰和街57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.711415,
+                    25.086449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "長安里民活動中心",
+                "phone": "02-24511858",
+                "address": "基隆市七堵區長安里長安街31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.692785,
+                    25.077095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "永平里民活動中心",
+                "phone": "02-24566659",
+                "address": "基隆市七堵區永平里崇智街13-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.713427,
+                    25.099495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "瑪南里民活動中心",
+                "phone": "02-24563726",
+                "address": "基隆市七堵區瑪南里大華二路11-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.693077,
+                    25.104899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "正光里民活動中心",
+                "phone": "02-24566171",
+                "address": "基隆市七堵區正光里東新街2號之1號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7134895,
+                    25.0934762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "友二里民活動中心",
+                "phone": "02-24517170",
+                "address": "基隆市七堵區友二里華新二路35之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.665422,
+                    25.108233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "永安里民活動中心",
+                "phone": "02-24565283",
+                "address": "基隆市七堵區永安里崇孝街48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.709186,
+                    25.098268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "富民里民活動中心(新)",
+                "phone": "02-24551799",
+                "address": "基隆市七堵區富民里8鄰崇義街11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.715333,
+                    25.098735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "正明里民活動中心",
+                "phone": "02-24569977",
+                "address": "基隆市七堵區正明里東新街2號之1號4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7134895,
+                    25.0934762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "華興國小",
+                "phone": "02-24512022",
+                "address": "基隆市七堵區泰安里泰安路34號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.708025,
+                    25.087775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "明德國中活動中心",
+                "phone": "02-24561274",
+                "address": "基隆市七堵區長興里東新街20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.715483,
+                    25.09362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "長興國小",
+                "phone": "02-24552096",
+                "address": "基隆市七堵區長興里東新街3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.714059,
+                    25.0925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "國立基隆特殊教育學校",
+                "phone": "02-2452-6332#501",
+                "address": "基隆市七堵區堵南里堵南街20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.687646,
+                    25.08275
+                ]
+            }
+        }
+    ]
+}

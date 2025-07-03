@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "十興國小",
+                "phone": "03-6583517#211",
+                "address": "新竹縣竹北市十興里01鄰莊敬北路66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.024088,
+                    24.824103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "鳳岡國中",
+                "phone": "03-5561284#205",
+                "address": "新竹縣竹北市大義里08鄰鳳岡路三段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.965853,
+                    24.863938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "成功國中",
+                "phone": "03-5505924#8300",
+                "address": "新竹縣竹北市鹿場里05鄰成功八路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.017037,
+                    24.818666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "新社國小",
+                "phone": "03-5552026#501",
+                "address": "新竹縣竹北市新社里05鄰40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.000138,
+                    24.842756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "六家高中",
+                "phone": "03-5503824#501",
+                "address": "新竹縣竹北市十興里12鄰嘉興路356號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.033548,
+                    24.823923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "竹仁國小",
+                "phone": "03-5552472#14",
+                "address": "新竹縣竹北市竹仁里39鄰仁和街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.012591,
+                    24.83676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "豐田國小",
+                "phone": "03-5563930#820",
+                "address": "新竹縣竹北市新庄里07鄰中正西路1377號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.964241,
+                    24.842244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "博愛國小",
+                "phone": "03-5519830#130",
+                "address": "新竹縣竹北市北崙里11鄰光明六路72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.005649,
+                    24.831029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "東興國小",
+                "phone": "03-5502120#130",
+                "address": "新竹縣竹北市東平里22鄰嘉豐十一路二段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.032977,
+                    24.805016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "六家國小",
+                "phone": "03-5502624#720",
+                "address": "新竹縣竹北市鹿場里31鄰嘉興路62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.025006,
+                    24.814323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "竹北高中",
+                "phone": "03-5517330#260",
+                "address": "新竹縣竹北市竹義里21鄰中央路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00412,
+                    24.836963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "竹北國小",
+                "phone": "03-5552047#140",
+                "address": "新竹縣竹北市竹義里22鄰中央路98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.002174,
+                    24.838076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "東興國中",
+                "phone": "03-5506881#360",
+                "address": "新竹縣竹北市中興里嘉豐六路一段101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.030252,
+                    24.81145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "仁愛國中",
+                "phone": "03-5530238#1400",
+                "address": "新竹縣竹北市十興里三民路239號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.014422,
+                    24.832238
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "春梅社區活動中心",
+                "phone": "05-3711868",
+                "address": "嘉義縣太保市梅埔里10鄰梅子厝70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.342643,
+                    23.4415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "福濟宮",
+                "phone": "05-3711373",
+                "address": "嘉義縣太保市太保里3鄰太保150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.333389,
+                    23.46271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "後潭社區發展協會",
+                "phone": "05-3713250",
+                "address": "嘉義縣太保市後潭里8鄰後潭294號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344742,
+                    23.453151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "永慶高中[室外]",
+                "phone": "05-3627226*210",
+                "address": "嘉義縣太保市東勢里612東勢里信義二路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295129,
+                    23.465481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "春珠社區活動中心",
+                "phone": "05-3711080",
+                "address": "嘉義縣太保市春珠里1鄰春珠120-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329888,
+                    23.444728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "港尾社區活動中心",
+                "phone": "0983231667",
+                "address": "嘉義縣太保市港尾里1鄰港尾22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.361883,
+                    23.467993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "過溝社區活動中心",
+                "phone": "05-2371618",
+                "address": "嘉義縣太保市過溝里4鄰過溝36-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.360879,
+                    23.498183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "水牛厝社區活動中心",
+                "phone": "05-2371760",
+                "address": "嘉義縣太保市南新里4鄰仁愛路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.387029,
+                    23.497772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "埤鄉社區活動中心",
+                "phone": "05-2383310",
+                "address": "嘉義縣太保市埤鄉里5鄰埤麻腳77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.387157,
+                    23.487383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "崙頂里集會所",
+                "phone": "05-3711437",
+                "address": "嘉義縣太保市崙頂里4鄰崙子頂21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3111,
+                    23.458545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東勢社區活動中心",
+                "phone": "05-3623951",
+                "address": "嘉義縣太保市東勢里8鄰東勢寮82號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3039,
+                    23.465008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "麻寮古恩宮集會所",
+                "phone": "05-2373520",
+                "address": "嘉義縣太保市麻寮里13鄰中山路二段246號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368223,
+                    23.499969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "安仁社區活動中心",
+                "phone": "05-3623095",
+                "address": "嘉義縣太保市安仁里5鄰頂港子墘10之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297178,
+                    23.443549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "田尾社區活動中心",
+                "phone": "05-3611201",
+                "address": "嘉義縣太保市田尾里2鄰田尾15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.320083,
+                    23.497412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "太保國小學生活動中心",
+                "phone": "05-3711015",
+                "address": "嘉義縣太保市太保里15鄰太保31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.331562,
+                    23.45512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "太保國中[室外]",
+                "phone": "05-3711029",
+                "address": "嘉義縣太保市太保里太保36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329263,
+                    23.454861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "太保國小[室外]",
+                "phone": "05-3711015#113",
+                "address": "嘉義縣太保市太保里31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.331562,
+                    23.45512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "安東國小[室內]",
+                "phone": "05-3714068#208",
+                "address": "嘉義縣太保市崙頂里崙子頂1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309777,
+                    23.458736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "安東國小[室外]",
+                "phone": "05-3714068#208",
+                "address": "嘉義縣太保市崙頂里崙子頂1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309777,
+                    23.458736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "南新國小[室內]",
+                "phone": "05-2373005#9",
+                "address": "嘉義縣太保市南新里10鄰中山路一段140號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.38373,
+                    23.497022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "南新國小[室外]",
+                "phone": "05-2373005#9",
+                "address": "嘉義縣太保市南新里10鄰中山路一段140號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.38373,
+                    23.497022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "嘉新國中[室外]",
+                "phone": "05-2373029#131",
+                "address": "嘉義縣太保市北新里17鄰中興路一段250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.378286,
+                    23.500063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "老人文康中心",
+                "phone": "05-3711106#151",
+                "address": "嘉義縣太保市新埤里5鄰214-12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33483,
+                    23.485932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "新埤國小[室外]",
+                "phone": "05-3611705",
+                "address": "嘉義縣太保市新埤里新埤214號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334714,
+                    23.485223
+                ]
+            }
+        }
+    ]
+}

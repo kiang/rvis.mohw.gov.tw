@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "布袋國小-室內",
+                "phone": "05-3472007",
+                "address": "嘉義縣布袋鎮新厝里13鄰新厝仔65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.171205,
+                    23.382515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "布袋國中-室內",
+                "phone": "05-2949169",
+                "address": "嘉義縣布袋鎮光復里18鄰六棟寮40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.180867,
+                    23.359551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "布新國小-室內",
+                "phone": "05-3476886",
+                "address": "嘉義縣布袋鎮岑海里16鄰文昌街61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.152165,
+                    23.378924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "九江社區活動中心",
+                "phone": "05-3475835",
+                "address": "嘉義縣布袋鎮岱江里1鄰環河街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.156535,
+                    23.377392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "見龍社區活動中心",
+                "phone": "05-3475817",
+                "address": "嘉義縣布袋鎮見龍里14鄰內田2號之4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.180004,
+                    23.38117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "過溝多功能活動中心",
+                "phone": "05-3454199",
+                "address": "嘉義縣布袋鎮中安里7鄰過溝頂厝11號之2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.182638,
+                    23.420203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "布袋鎮立幼兒園",
+                "phone": "05-3475979*31",
+                "address": "嘉義縣布袋鎮東港里10鄰東港130號之21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.190993,
+                    23.381879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "新岑社區活動中心",
+                "phone": "0932-974984",
+                "address": "嘉義縣布袋鎮新岑里1鄰郭岑寮7號之26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.171531,
+                    23.340665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "好美國小-室內",
+                "phone": "05-3431524",
+                "address": "嘉義縣布袋鎮好美里12鄰虎尾寮106號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.137874,
+                    23.337402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "新塭國小-室內",
+                "phone": "05-3431064",
+                "address": "嘉義縣布袋鎮新民里17鄰新塭374號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.160567,
+                    23.330393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "布袋國中-室外",
+                "phone": "05-2949169",
+                "address": "嘉義縣布袋鎮光復里18鄰六棟寮40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.180867,
+                    23.359551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "過溝國小-室內",
+                "phone": "05-3451010",
+                "address": "嘉義縣布袋鎮中安里5鄰過溝頂厝1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183645,
+                    23.419317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "好美國小-室外",
+                "phone": "05-3431524",
+                "address": "嘉義縣布袋鎮好美里12鄰虎尾寮106號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.137874,
+                    23.337402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "布袋國小-室外",
+                "phone": "05-3472007",
+                "address": "嘉義縣布袋鎮新厝里13鄰新厝仔65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.171205,
+                    23.382515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "新塭國小-室外",
+                "phone": "05-3431064",
+                "address": "嘉義縣布袋鎮新民里17鄰新塭374號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.160567,
+                    23.330393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "布新國小-室外",
+                "phone": "05-3476886",
+                "address": "嘉義縣布袋鎮岑海里16鄰文昌街61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.152165,
+                    23.378924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "景山國小-室外",
+                "phone": "05-3472734",
+                "address": "嘉義縣布袋鎮東港里10鄰東港136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.193254,
+                    23.382759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "貴林國小-室外",
+                "phone": "05-3451641",
+                "address": "嘉義縣布袋鎮樹林里4鄰樹林頭82號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.214091,
+                    23.419497
+                ]
+            }
+        }
+    ]
+}

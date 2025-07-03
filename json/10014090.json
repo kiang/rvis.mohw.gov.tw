@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "正興村活動中心Zhengxing Activity Center",
+                "phone": "089-782515",
+                "address": "臺東縣金峰鄉正興村2鄰28號No.28,Zhengxing,Jinfeng Township,Taitung County 964,TaiwanR.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.997291,
+                    22.604298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "賓茂活動中心 Binmao Activity Center",
+                "phone": "089-771393",
+                "address": "臺東縣金峰鄉賓茂村1鄰3-2號No.3-2,Binmao,Jinfeng Township,Taitung County 964,TaiwanR.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.961695,
+                    22.532637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "介達國小 Jieda Elementary School",
+                "phone": "089-781583",
+                "address": "臺東縣金峰鄉正興村1鄰105號No.105,Zhengxing,Jinfeng Township,Taitung County 964,TaiwanR.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.995869,
+                    22.605993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "賓茂國小 Binmao Elementary School",
+                "phone": "089-771007",
+                "address": "臺東縣金峰鄉賓茂村5鄰68號No.68,Binmao,Jinfeng Township,Taitung County 964,TaiwanR.O.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.954611,
+                    22.532305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "老人文康活動中心",
+                "phone": "089-781301",
+                "address": "臺東縣太麻里鄉大王村11鄰順安路33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.002627,
+                    22.610734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "太麻里鄉美和國民小學",
+                "phone": "089512487#19",
+                "address": "臺東縣太麻里鄉美和村美和 90 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.044434,
+                    22.68811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "金崙活動中心",
+                "phone": "089-771136",
+                "address": "臺東縣太麻里鄉金崙村7鄰金崙303號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.964603,
+                    22.533643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "北里活動中心",
+                "phone": "089-781301",
+                "address": "臺東縣太麻里鄉北里村北太麻里3鄰20之4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.007655,
+                    22.629566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "大王國小",
+                "phone": "089-781342",
+                "address": "臺東縣太麻里鄉大王村文化路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.003685,
+                    22.613303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "香蘭國小",
+                "phone": "089-781505",
+                "address": "臺東縣太麻里鄉香蘭村舊香蘭28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99388,
+                    22.588038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "多良活動中心",
+                "phone": "089-761077",
+                "address": "臺東縣太麻里鄉多良村18鄰大溪251號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.941447,
+                    22.463149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "順安府",
+                "phone": "0910-431519",
+                "address": "臺東縣太麻里鄉大王村11鄰順安路39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.002492,
+                    22.610334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "大王活動中心",
+                "phone": "089-782545",
+                "address": "臺東縣太麻里鄉大王村11鄰順安路39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.002492,
+                    22.610334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣立大王國民中學",
+                "phone": "089-781324",
+                "address": "臺東縣太麻里鄉大王村德輝路18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00698,
+                    22.6159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣立賓茂國民中學",
+                "phone": "089-771076",
+                "address": "臺東縣太麻里鄉金崙村3鄰77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.938272,
+                    22.530933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "太麻里鄉美和活動中心",
+                "phone": "089-511790",
+                "address": "臺東縣太麻里鄉美和村美和24-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.050377,
+                    22.679459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "泰和活動中心",
+                "phone": "089-781301#204",
+                "address": "臺東縣太麻里鄉泰和村南里街30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.000508,
+                    22.604741
+                ]
+            }
+        }
+    ]
+}

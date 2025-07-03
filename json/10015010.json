@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣花蓮市中華國民小學",
+                "phone": "03-8324308",
+                "address": "花蓮縣花蓮市國盛里國盛二街22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.607044,
+                    23.991963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "慈濟大學附設國民中學(小學)",
+                "phone": "8578819-106",
+                "address": "花蓮縣花蓮市國興里介仁街176號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.574573,
+                    23.997042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "國立花蓮工業職業學校",
+                "phone": "03-8226108",
+                "address": "花蓮縣花蓮市民意里府前路27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.619921,
+                    23.998718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣立自強國民中學",
+                "phone": "03-8579338",
+                "address": "花蓮縣花蓮市國裕里裕祥路89號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599062,
+                    23.997926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣花蓮市中原國民小學",
+                "phone": "03-8333547",
+                "address": "花蓮縣花蓮市主權里中原路531號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.596448,
+                    23.971762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣立體育場",
+                "phone": "03-8580686#11",
+                "address": "花蓮縣花蓮市國慶里達固湖灣大路23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.585438,
+                    24.003549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣花蓮市明廉國民小學",
+                "phone": "03-8569088#17",
+                "address": "花蓮縣花蓮市國富里中山路903號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.594718,
+                    23.995007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "國立花蓮農業職業學校",
+                "phone": "03-8312313",
+                "address": "花蓮縣花蓮市國魂里建國路161號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.598963,
+                    23.983581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣立美崙國民中學",
+                "phone": "03-8223537",
+                "address": "花蓮縣花蓮市民孝里化道路40巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.627705,
+                    23.997831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣花蓮市中正國民小學",
+                "phone": "03-832281#161",
+                "address": "花蓮縣花蓮市主學里中正路210號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599711,
+                    23.971689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣花蓮市明義國民小學",
+                "phone": "03-8326686",
+                "address": "花蓮縣花蓮市國風里明義街107號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.602898,
+                    23.978974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "主權社區活動中心",
+                "phone": "03-8333749",
+                "address": "花蓮縣花蓮市主權里中原路666號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.593813,
+                    23.975732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "民孝社區活動中心",
+                "phone": "03-8223273",
+                "address": "花蓮縣花蓮市民孝里林園一街16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.63104,
+                    24.002177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "慈濟大學人文社會學院",
+                "phone": "03-8572677",
+                "address": "花蓮縣花蓮市國興里介仁街67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.573369,
+                    23.999652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣花蓮市鑄強國民小學",
+                "phone": "8223787-131",
+                "address": "花蓮縣花蓮市民政里永興路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.625536,
+                    23.992815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣立國風國民中學",
+                "phone": "03-8349783#42",
+                "address": "花蓮縣花蓮市國風里林政街7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.595377,
+                    23.978479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "國立花蓮高級商業職業學校",
+                "phone": "8312209#209",
+                "address": "花蓮縣花蓮市國安里中山路418號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60248,
+                    23.986522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣花蓮市忠孝國民小學",
+                "phone": "03-8351218#204",
+                "address": "花蓮縣花蓮市主力里中華路298號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.598639,
+                    23.975649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "五洲商務旅館",
+                "phone": "03-8332292",
+                "address": "花蓮縣花蓮市民族里花蓮市中山路84號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.611003,
+                    23.975138
+                ]
+            }
+        }
+    ]
+}

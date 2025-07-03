@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "莊敬高職永和校區",
+                "phone": "02-89251938#12",
+                "address": "新北市永和區復興里博愛街36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519285,
+                    25.015778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "及人小學",
+                "phone": "29212145#51",
+                "address": "新北市永和區新廍里文化路172號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512035,
+                    25.015664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "竹林小學",
+                "phone": "29243919#808",
+                "address": "新北市永和區勵行里竹林路34號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517309,
+                    25.014492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "頂溪國小",
+                "phone": "2921-2058#6309",
+                "address": "新北市永和區文化里文化路133號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.510583,
+                    25.015162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "民權市民活動中心",
+                "phone": "29282828#248",
+                "address": "新北市永和區民族里民族里民權路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519921,
+                    24.998017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "網溪國小",
+                "phone": "89264470#833",
+                "address": "新北市永和區上林里竹林路79號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51934,
+                    25.012936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "育才國小",
+                "phone": "02-29214630#691",
+                "address": "新北市永和區永貞里永和區永貞里福和路125巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521642,
+                    25.007061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "永平國小",
+                "phone": "02-29259879#402",
+                "address": "新北市永和區保安里保生路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505717,
+                    25.008053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "永平高中",
+                "phone": "2231-9670轉230",
+                "address": "新北市永和區保安里永平路205號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.508626,
+                    25.01075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "復興商工",
+                "phone": "02-29262121#222",
+                "address": "新北市永和區得和里秀朗路一段201號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518595,
+                    25.003492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "永和國小",
+                "phone": "29214615#400",
+                "address": "新北市永和區潭墘里秀朗路一段120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51699,
+                    25.003609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "秀朗國小",
+                "phone": "02-29420451#5507",
+                "address": "新北市永和區民權里得和路202號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52141,
+                    24.999679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "福和國中",
+                "phone": "02-29289493#260",
+                "address": "新北市永和區秀和里永利路71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520855,
+                    25.003997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "永和國中",
+                "phone": "02-29218878#603",
+                "address": "新北市永和區秀和里永和區秀和里國中路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523319,
+                    25.006689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "智光商工",
+                "phone": "02-29432491#200",
+                "address": "新北市永和區智光里中正路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514273,
+                    24.995687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "仁愛公園",
+                "phone": "02-29282828#323",
+                "address": "新北市永和區保安里保安路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5083577,
+                    25.0146308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "忠孝市民活動中心",
+                "phone": "29282828#248",
+                "address": "新北市永和區頂溪里忠孝街26巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515311,
+                    25.016856
+                ]
+            }
+        }
+    ]
+}

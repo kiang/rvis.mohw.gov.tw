@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市仁德區運動公園",
+                "phone": "06-2796071",
+                "address": "臺南市仁德區仁義里仁義路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.258364,
+                    22.967797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市仁德區公所",
+                "phone": "06-2492474",
+                "address": "臺南市仁德區仁德里中正路三段5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251673,
+                    22.972449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市仁德區太子土庫聯合活動中心",
+                "phone": "06-2707946",
+                "address": "臺南市仁德區太子里土庫路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.260259,
+                    22.991012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市仁德區後壁里老人文康活動中心",
+                "phone": "06-2704365",
+                "address": "臺南市仁德區後壁里德南路68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.253058,
+                    22.947797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南都會公園管理中心",
+                "phone": "06-2991111-7798",
+                "address": "臺南市仁德區成功里文華路二段62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.222683,
+                    22.937137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市仁德國小",
+                "phone": "06-2794570#720",
+                "address": "臺南市仁德區仁義里中正路二段806號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.254071,
+                    22.962221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市仁德國中",
+                "phone": "06-2682724#551",
+                "address": "臺南市仁德區新田里民安路一段363號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247825,
+                    22.956029
+                ]
+            }
+        }
+    ]
+}

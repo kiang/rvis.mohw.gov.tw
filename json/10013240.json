@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "長樂國民小學",
+                "phone": "08-8801106#14",
+                "address": "屏東縣滿州鄉長樂村大公路35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.828649,
+                    22.075527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "永港國民小學",
+                "phone": "08-8801125#14",
+                "address": "屏東縣滿州鄉永靖村新庄路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.817376,
+                    22.005679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "滿州國民中學",
+                "phone": "08-8801106#14",
+                "address": "屏東縣滿州鄉滿州村文化路32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.839695,
+                    22.024498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東縣滿州鄉公所",
+                "phone": "08-8801105#501",
+                "address": "屏東縣滿州鄉滿州村中山路43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.838586,
+                    22.02089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "滿州國民小學",
+                "phone": "08-8801162#14",
+                "address": "屏東縣滿州鄉滿州村中山路39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.8381,
+                    22.020382
+                ]
+            }
+        }
+    ]
+}

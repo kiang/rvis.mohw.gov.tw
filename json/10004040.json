@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "玉山國小",
+                "phone": "03-5476349#13",
+                "address": "新竹縣關西鎮玉山里04鄰赤柯山25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.208337,
+                    24.757562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "坪林國小",
+                "phone": "5869310#13",
+                "address": "新竹縣關西鎮上林里11鄰坪林11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.140246,
+                    24.800972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "關西國中",
+                "phone": "03-5872008#31",
+                "address": "新竹縣關西鎮北斗里12鄰北門口41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.172907,
+                    24.798119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "東光國小",
+                "phone": "03-5872243",
+                "address": "新竹縣關西鎮東光里05鄰十六張190號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.176007,
+                    24.776401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "關西高中",
+                "phone": "03-5872049#601",
+                "address": "新竹縣關西鎮東安里10鄰中山東路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.186132,
+                    24.789793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "桃園巿三和國小",
+                "phone": "03-4792154#51",
+                "address": "新竹縣關西鎮東平里桃園巿龍潭區三合村龍新路三合段1356號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.150228,
+                    24.843214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "太平國小",
+                "phone": "03-5882634",
+                "address": "新竹縣關西鎮東平里05鄰大旱坑27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.119856,
+                    24.826477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "東安國小",
+                "phone": "03-5872177#108",
+                "address": "新竹縣關西鎮東安里09鄰中山東路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.183916,
+                    24.790302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "錦山國小",
+                "phone": "03-5478681#12",
+                "address": "新竹縣關西鎮金山里11鄰馬武督107號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.22532,
+                    24.768678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "南和國小",
+                "phone": "03-5868952#13",
+                "address": "新竹縣關西鎮南和里06鄰下南片69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.118838,
+                    24.810295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "石光國小",
+                "phone": "03-5869311#13",
+                "address": "新竹縣關西鎮石光里09鄰石岡子386號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.128963,
+                    24.813787
+                ]
+            }
+        }
+    ]
+}

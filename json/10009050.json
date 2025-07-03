@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "土庫國中樂群堂及操場",
+                "phone": "05-6622645",
+                "address": "雲林縣土庫鎮石廟里復興路318號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.388622,
+                    23.686243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "第二老人文康活動中心",
+                "phone": "05-6320298",
+                "address": "雲林縣土庫鎮西平里民權路43-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351094,
+                    23.706647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "南平社區活動中心",
+                "phone": "05-6650605",
+                "address": "雲林縣土庫鎮南平里仁愛街31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353215,
+                    23.704498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "土庫鎮公所活動中心",
+                "phone": "05-6623211",
+                "address": "雲林縣土庫鎮石廟里中興路175號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.389775,
+                    23.682238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "第一老人文康活動中心",
+                "phone": "05-6622913",
+                "address": "雲林縣土庫鎮順天里新建路1-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.388029,
+                    23.676551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "扶朝社區活動中心",
+                "phone": "05-6626618",
+                "address": "雲林縣土庫鎮埤腳里扶朝40-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.362438,
+                    23.678683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "埤腳社區活動中心",
+                "phone": "05-6622617",
+                "address": "雲林縣土庫鎮埤腳里埤腳115-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.347455,
+                    23.667611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "下庄社區活動中心",
+                "phone": "05-6626876",
+                "address": "雲林縣土庫鎮溪邊里下庄18-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.385257,
+                    23.658833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "溪埔寮農民休閒活動中心",
+                "phone": "05-6628385",
+                "address": "雲林縣土庫鎮溪邊里溪埔27-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.393936,
+                    23.666637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "綺湖社區老人活動中心",
+                "phone": "05-6623430",
+                "address": "雲林縣土庫鎮奮起里綺湖134號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36014,
+                    23.661014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "綺湖社區活動中心",
+                "phone": "05-6623233",
+                "address": "雲林縣土庫鎮奮起里綺湖96-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358027,
+                    23.662806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "馬光國小學生活動中心及操場",
+                "phone": "05-6653864#701",
+                "address": "雲林縣土庫鎮南平里馬光路174號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353065,
+                    23.705427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "大荖社區活動中心",
+                "phone": "05-6622714",
+                "address": "雲林縣土庫鎮大荖里大荖路47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.369249,
+                    23.684241
+                ]
+            }
+        }
+    ]
+}

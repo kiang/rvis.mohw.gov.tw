@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大安區公所禮堂",
+                "phone": "04-26713511#106",
+                "address": "臺中市大安區中庄里大安區中庄里中山南路356號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.590889,
+                    24.346055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "老人文康活動中心",
+                "phone": "04-26713511#305",
+                "address": "臺中市大安區中庄里大安區中庄里興安路376號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.589474,
+                    24.345891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大安國小體育館",
+                "phone": "04-26713166#300",
+                "address": "臺中市大安區中庄里大安區中庄里中山南路296號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.588185,
+                    24.345086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "海墘國小體育館",
+                "phone": "04-26876085#250",
+                "address": "臺中市大安區海墘里大安區海墘里大安港路1100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.589015,
+                    24.379208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "永安國小活動中心",
+                "phone": "04-26874931#276",
+                "address": "臺中市大安區永安里大安區永安里東西四路二段252號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.605603,
+                    24.382548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "三光國小體育館",
+                "phone": "04-26710148#13",
+                "address": "臺中市大安區龜壳里大安區龜殼里中松路297號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.60046,
+                    24.357977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大安國中體育館",
+                "phone": "04-26872571#501",
+                "address": "臺中市大安區松雅里大安區松雅里大安港路691號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6018,
+                    24.365221
+                ]
+            }
+        }
+    ]
+}

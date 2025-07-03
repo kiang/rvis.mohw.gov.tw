@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "大愛園區活動中心",
+                "phone": "07-6771340",
+                "address": "高雄市杉林區大愛里大愛路47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545519,
+                    22.96561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市杉林區新庄國民小學",
+                "phone": "07-6771755",
+                "address": "高雄市杉林區新庄里司馬路45巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559681,
+                    22.989101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市杉林區月美國民小學",
+                "phone": "07-6771404",
+                "address": "高雄市杉林區月美里清水路象寮巷39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535,
+                    22.958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市巴楠花部落小學",
+                "phone": "07-6776031",
+                "address": "高雄市杉林區大愛里和氣街15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539779,
+                    22.96505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立杉林國民中學",
+                "phone": "07-6771108",
+                "address": "高雄市杉林區月眉里清水路中學巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540834,
+                    22.968577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "日光小林社區活動中心",
+                "phone": "07-6775186",
+                "address": "高雄市杉林區上平里日光三街25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.556689,
+                    22.977267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市杉林區集來國民小學",
+                "phone": "07-6779196",
+                "address": "高雄市杉林區集來里集來里通仙巷333號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561499,
+                    23.022241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市杉林區上平國民小學",
+                "phone": "07-6771102",
+                "address": "高雄市杉林區上平里山仙路212號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544072,
+                    22.976852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市杉林區杉林國民小學",
+                "phone": "07-6772658",
+                "address": "高雄市杉林區杉林里合森巷41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.548069,
+                    22.998094
+                ]
+            }
+        }
+    ]
+}

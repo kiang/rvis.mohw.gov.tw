@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "信義國小",
+                "phone": "05-7882712",
+                "address": "雲林縣元長鄉五塊村北水路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.281066,
+                    23.653987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "元長鄉公所大樓",
+                "phone": "05-7882221",
+                "address": "雲林縣元長鄉長南村元南路17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319745,
+                    23.642982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "新生國小",
+                "phone": "05-7983093",
+                "address": "雲林縣元長鄉瓦磘村新生路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358963,
+                    23.637689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "客厝國小",
+                "phone": "05-7882718",
+                "address": "雲林縣元長鄉頂寮村頂寮路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328301,
+                    23.636928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "元長國小",
+                "phone": "05-7882017",
+                "address": "雲林縣元長鄉長南村長南村元西路76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309226,
+                    23.652207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "元長國中",
+                "phone": "05-7882012",
+                "address": "雲林縣元長鄉長南村長南村元南路16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311477,
+                    23.652774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "山內國小",
+                "phone": "05-7882152",
+                "address": "雲林縣元長鄉山內村山內村南山路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311537,
+                    23.674008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "仁德國小",
+                "phone": "05-7861946",
+                "address": "雲林縣元長鄉內寮村內寮村內寮路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.342107,
+                    23.61792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "和平國小",
+                "phone": "05-7882684",
+                "address": "雲林縣元長鄉子茂村子茂路4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.336161,
+                    23.658573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "忠孝國小",
+                "phone": "05-7882096",
+                "address": "雲林縣元長鄉龍岩村龍岩村148號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314645,
+                    23.620726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "仁愛國小",
+                "phone": "05-7882710",
+                "address": "雲林縣元長鄉潭西村潭西村潭內路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289298,
+                    23.640891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "元長鄉長南長北村集會所",
+                "phone": "05-7882526",
+                "address": "雲林縣元長鄉長北村元北路32-20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314043,
+                    23.654723
+                ]
+            }
+        }
+    ]
+}

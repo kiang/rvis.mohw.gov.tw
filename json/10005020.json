@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "山腳國小田徑場",
+                "phone": "037-745024#740",
+                "address": "苗栗縣苑裡鎮舊社里10鄰47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684837,
+                    24.415526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苑裡鎮中山國小操場",
+                "phone": "037-743564#2503",
+                "address": "苗栗縣苑裡鎮社苓里51-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.676051,
+                    24.398543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苑裡鎮老人文康中心",
+                "phone": "037-869599",
+                "address": "苗栗縣苑裡鎮苑東里13鄰興隆2-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.661587,
+                    24.440486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苑裡鎮苑東苑南苑北社區聯合活動中",
+                "phone": "037-854073",
+                "address": "苗栗縣苑裡鎮苑北里13鄰中山路312號B1-4F"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.654872,
+                    24.447168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苑裡鎮立托兒所",
+                "phone": "037-744224",
+                "address": "苗栗縣苑裡鎮舊社里10鄰110-1號1-3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683674,
+                    24.417397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苑裡鎮立體育場",
+                "phone": "037-869299",
+                "address": "苗栗縣苑裡鎮客庄里中正路10鄰1段32號鎮立游泳池旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.654853,
+                    24.43745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苗栗縣立苑裡高中操場",
+                "phone": "037-861042#151",
+                "address": "苗栗縣苑裡鎮客庄里1鄰2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.664243,
+                    24.438023
+                ]
+            }
+        }
+    ]
+}

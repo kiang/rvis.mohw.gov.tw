@@ -1,0 +1,373 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "奎輝里活動中心",
+                "phone": "03-3821500#1206",
+                "address": "桃園市復興區奎輝里3鄰羅馬路3段355號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33437,
+                    24.796986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "義盛市民活動中心",
+                "phone": "03-3821500#1206",
+                "address": "桃園市復興區義盛里1鄰下宇內9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.378331,
+                    24.789999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "三光市民活動中心",
+                "phone": "03-3912237",
+                "address": "桃園市復興區三光里5鄰18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.36639,
+                    24.673123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "長興里辦公處",
+                "phone": "03-3821500#1206",
+                "address": "桃園市復興區長興里10鄰35之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.307153,
+                    24.800166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "三民社區活動中心",
+                "phone": "03-3821500",
+                "address": "桃園市復興區三民里5鄰丸山56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.332075,
+                    24.829908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "澤仁里辦公處",
+                "phone": "03-3822275",
+                "address": "桃園市復興區澤仁里中正路150巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.351183,
+                    24.818199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "霞雲社區活動中心",
+                "phone": "03-3821500#1206",
+                "address": "桃園市復興區霞雲里6鄰21-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.383893,
+                    24.816841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "奎輝獵人學校",
+                "phone": "03-3821500#1206",
+                "address": "桃園市復興區奎輝里9鄰14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.320672,
+                    24.781693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "角板山公園",
+                "phone": "03-3821500#1206",
+                "address": "桃園市復興區澤仁里中正路、中山路交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.350988,
+                    24.814181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "華陵里辦公處",
+                "phone": "03-3913286",
+                "address": "桃園市復興區華陵里7鄰23之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.384528,
+                    24.67821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "奎輝國小",
+                "phone": "03-3822177#510",
+                "address": "桃園市復興區奎輝里羅馬路三段356號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.334209,
+                    24.797301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "介壽國小",
+                "phone": "03-3822364#51",
+                "address": "桃園市復興區澤仁里中正路33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.350911,
+                    24.815484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "三民國小",
+                "phone": "03-3825294#51",
+                "address": "桃園市復興區三民里11鄰復興路二段771號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.330834,
+                    24.832782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "高義國小",
+                "phone": "03-3912251#22",
+                "address": "桃園市復興區高義里3鄰28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.360395,
+                    24.711668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "三光國小",
+                "phone": "03-3912230#510",
+                "address": "桃園市復興區三光里4鄰8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.367213,
+                    24.67385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "巴崚國小",
+                "phone": "03-3912131#311",
+                "address": "桃園市復興區華陵里9鄰巴陵75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.397167,
+                    24.685421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "光華國小",
+                "phone": "03-3912325#510",
+                "address": "桃園市復興區華陵里4鄰哈嘎灣12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.39952,
+                    24.655353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "霞雲國小",
+                "phone": "03-3822224#51",
+                "address": "桃園市復興區霞雲里6鄰流霞路151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.381396,
+                    24.821708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "羅浮國小",
+                "phone": "03-3822269#511",
+                "address": "桃園市復興區羅浮里3鄰16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.365359,
+                    24.797515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "義盛國小",
+                "phone": "03-3822787#51",
+                "address": "桃園市復興區義盛里1鄰宇內路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.379279,
+                    24.790897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "長興國小",
+                "phone": "03-3822178#51",
+                "address": "桃園市復興區長興里10鄰羅馬路四段208號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.30754,
+                    24.800124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "羅浮高中",
+                "phone": "03-3825585#510",
+                "address": "桃園市復興區3鄰18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.364496,
+                    24.797262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "羅浮市民活動中心",
+                "phone": "03-3822611",
+                "address": "桃園市復興區羅浮里5鄰羅浮111-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3628,
+                    24.796
+                ]
+            }
+        }
+    ]
+}

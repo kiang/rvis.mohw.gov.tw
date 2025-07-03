@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "四湖參天宮",
+                "phone": "05-7872052",
+                "address": "雲林縣四湖鄉湖西村關聖路87號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.226011,
+                    23.639627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "四湖國小",
+                "phone": "05-7872100",
+                "address": "雲林縣四湖鄉四湖村中山東路37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.228443,
+                    23.636645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "飛沙國小",
+                "phone": "05-7723688",
+                "address": "雲林縣四湖鄉飛沙村大同路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.177346,
+                    23.643083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "林厝寮順天府",
+                "phone": "05-7721449",
+                "address": "雲林縣四湖鄉林東村中華路81號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.179221,
+                    23.675666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "四湖鄉避難收容場所",
+                "phone": "05-7871642",
+                "address": "雲林縣四湖鄉湖西村中山西路44-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224503,
+                    23.637789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "三條崙海清宮",
+                "phone": "05-7721741",
+                "address": "雲林縣四湖鄉崙北村海清路93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.153443,
+                    23.657634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "四湖鄉立幼兒園",
+                "phone": "05-7873623",
+                "address": "雲林縣四湖鄉羊調村中洋南路10-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.197453,
+                    23.638719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "四湖鄉公所3樓禮堂",
+                "phone": "05-7876863",
+                "address": "雲林縣四湖鄉湖西村中山西路44號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224344,
+                    23.638093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "四湖鄉飛沙集會所避難收容場所",
+                "phone": "05-7722866",
+                "address": "雲林縣四湖鄉飛沙村大同路47巷5-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.174672,
+                    23.640794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "三崙國小",
+                "phone": "05-7721044",
+                "address": "雲林縣四湖鄉崙南村延平南路18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.156021,
+                    23.6517
+                ]
+            }
+        }
+    ]
+}

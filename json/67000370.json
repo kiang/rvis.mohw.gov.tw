@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區臺南大學",
+                "phone": "06-2133111#410",
+                "address": "臺南市中西區郡王里樹林街二段33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.208006,
+                    22.985081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區南英商工",
+                "phone": "06-2132222#502",
+                "address": "臺南市中西區小西門里永福路一段149號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19992,
+                    22.98589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區南美里活動中心",
+                "phone": "0933396484",
+                "address": "臺南市中西區南美里府前路一段258號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.200776,
+                    22.990055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區忠義國小",
+                "phone": "06-2222768#714",
+                "address": "臺南市中西區永華里忠義路二段2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.202703,
+                    22.990269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區永華里活動中心",
+                "phone": "06-2284281",
+                "address": "臺南市中西區永華里開山路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.205681,
+                    22.992224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區中山國中",
+                "phone": "06-2134792#302",
+                "address": "臺南市中西區南門里南寧街45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.20329,
+                    22.984784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區龍盛社區活動中心",
+                "phone": "0937258260",
+                "address": "臺南市中西區藥王里民權路三段232號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.193755,
+                    22.998159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區中頭社區活動中心",
+                "phone": "06-2236429",
+                "address": "臺南市中西區南廠里保安路201之1號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.191261,
+                    22.991226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區協進國小",
+                "phone": "06-2223369#809",
+                "address": "臺南市中西區藥王里金華路四段17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.193961,
+                    22.997229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區光賢里活動中心",
+                "phone": "06-2581528",
+                "address": "臺南市中西區光賢里和善街98巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.189947,
+                    23.002842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區城隍里活動中心",
+                "phone": "06-2234180",
+                "address": "臺南市中西區城隍里青年路226巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21084,
+                    22.990707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區小西門里活動中心",
+                "phone": "06-2149918",
+                "address": "臺南市中西區小西門里府緯街4巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.199465,
+                    22.984404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區五妃社區活動中心",
+                "phone": "06-2141698",
+                "address": "臺南市中西區郡王里南門路237巷10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.204876,
+                    22.98301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市中西區大涼社區活動中心",
+                "phone": "06-2971056",
+                "address": "臺南市中西區大涼里區府前路二段258巷55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19081,
+                    22.993618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "淺草多功能中心",
+                "phone": "06-2235520",
+                "address": "臺南市中西區淺草里臺南市中西區國華街三段5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.197253,
+                    22.993483
+                ]
+            }
+        }
+    ]
+}

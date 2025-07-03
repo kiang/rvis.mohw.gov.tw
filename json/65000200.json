@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "坪林區公所",
+                "phone": "02-26657251",
+                "address": "新北市坪林區坪林里坪林街101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.70762,
+                    24.935383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "坪林國中",
+                "phone": "02-26656210",
+                "address": "新北市坪林區坪林里國中路4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712825,
+                    24.938006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "石(石曹)倉庫",
+                "phone": "02-26657251",
+                "address": "新北市坪林區石[石曹]里石[石曹]27之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.706756,
+                    24.963381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "樹梅嶺倉庫",
+                "phone": "02-26657251",
+                "address": "新北市坪林區上德里樹梅嶺11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.696956,
+                    24.955382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新昇倉庫",
+                "phone": "02-26657251",
+                "address": "新北市坪林區上德里大粗坑11之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.725156,
+                    24.951535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "安養堂",
+                "phone": "02-26657251",
+                "address": "新北市坪林區大林里(魚逮)魚堀33-17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.699256,
+                    24.926971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "坪林國小",
+                "phone": "02-26656213",
+                "address": "新北市坪林區坪林里坪林街114號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71088,
+                    24.936237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "坪林市民活動中心",
+                "phone": "02-26657251#212",
+                "address": "新北市坪林區坪林里新北市坪林區坪碇路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.701444,
+                    24.935607
+                ]
+            }
+        }
+    ]
+}

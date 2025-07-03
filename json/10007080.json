@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "三春國小",
+                "phone": "7862154",
+                "address": "彰化縣花壇鄉三春村三芬路47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566068,
+                    24.017046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "花壇鄉立老人文康中心",
+                "phone": "04-7865921",
+                "address": "彰化縣花壇鄉永春村長青路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.571096,
+                    24.017125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "花壇鄉公所",
+                "phone": "04-7865921",
+                "address": "彰化縣花壇鄉南口村中山路二段182號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538332,
+                    24.029878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "花壇村活動中心",
+                "phone": "04-7865921",
+                "address": "彰化縣花壇鄉花壇村平和街76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540138,
+                    24.023817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "華南國小",
+                "phone": "04-7863225#703",
+                "address": "彰化縣花壇鄉中庄村中橋街226號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551405,
+                    24.01596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "僑愛國小",
+                "phone": "04-7863227",
+                "address": "彰化縣花壇鄉中口村中山路2段471號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534726,
+                    24.038577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "花壇國小",
+                "phone": "7862029",
+                "address": "彰化縣花壇鄉長沙村學前路108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543208,
+                    24.026315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "文德宮香客大樓",
+                "phone": "04-7863904",
+                "address": "彰化縣花壇鄉白沙村彰員路3段2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547222,
+                    24.04305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "文祥國小",
+                "phone": "04-7862255",
+                "address": "彰化縣花壇鄉劉厝村明雅街131號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.526235,
+                    24.025542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "灣雅活動中心含楓灣宮廣場",
+                "phone": "04-7868686",
+                "address": "彰化縣花壇鄉灣雅村楓脚巷128號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562995,
+                    24.01707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "橋頭社區活動中心",
+                "phone": "04-7869640",
+                "address": "彰化縣花壇鄉橋頭村花橋街117-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.550178,
+                    24.022846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "白沙國小",
+                "phone": "04-7863224#51",
+                "address": "彰化縣花壇鄉白沙村村彰員路3段225號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545078,
+                    24.047756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "長春社區活動中心",
+                "phone": "0937-739988",
+                "address": "彰化縣花壇鄉長春村彰員路1段172巷45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.576082,
+                    24.01029
+                ]
+            }
+        }
+    ]
+}

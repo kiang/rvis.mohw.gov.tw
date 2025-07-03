@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "線西國中",
+                "phone": "04-7584129#11",
+                "address": "彰化縣線西鄉寓埔村中央路二段145號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.468926,
+                    24.13211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "曉陽國小",
+                "phone": "04-7585370",
+                "address": "彰化縣線西鄉頂犁村頂犁路158-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.478021,
+                    24.122698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "線西國小",
+                "phone": "04-7585075",
+                "address": "彰化縣線西鄉寓埔村中央路二段135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.469708,
+                    24.13127
+                ]
+            }
+        }
+    ]
+}

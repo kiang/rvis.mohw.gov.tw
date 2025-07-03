@@ -1,0 +1,709 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "照靈廟",
+                "phone": "0920420665",
+                "address": "南投縣竹山鎮下坪里坊坪巷18-11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675976,
+                    23.7663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "硘磘里集會所",
+                "phone": "049-2656060",
+                "address": "南投縣竹山鎮硘磘里鯉南路99-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675791,
+                    23.746921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "鯉魚國小活動中心",
+                "phone": "049-2644787",
+                "address": "南投縣竹山鎮鯉魚里鯉行路92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.654488,
+                    23.715188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "興天宮",
+                "phone": "049-2654580",
+                "address": "南投縣竹山鎮桂林里中正巷22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.696747,
+                    23.755312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "延和里集會所",
+                "phone": "049-2653442",
+                "address": "南投縣竹山鎮延和里大和街42號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.689899,
+                    23.761569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "富州社區活動中心",
+                "phone": "049-2622012",
+                "address": "南投縣竹山鎮富州里集山路1段422號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.746993,
+                    23.814115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "延山社區活動中心",
+                "phone": "049-2651922",
+                "address": "南投縣竹山鎮延山里大舜巷36-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.728212,
+                    23.757577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中央社區活動中心",
+                "phone": "049-2622052",
+                "address": "南投縣竹山鎮中央里集山路1段1236巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.733385,
+                    23.814536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "下坪社區活動中心",
+                "phone": "0932687635",
+                "address": "南投縣竹山鎮下坪里下坪路18-50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681164,
+                    23.772811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "秀林里集會所",
+                "phone": "049-2647369",
+                "address": "南投縣竹山鎮秀林里頂林路369-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68765,
+                    23.738038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "竹山國小齊賢館",
+                "phone": "049-2642016",
+                "address": "南投縣竹山鎮延和里向學街32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687509,
+                    23.761759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "瑞竹國小活動中心",
+                "phone": "049-2711024",
+                "address": "南投縣竹山鎮瑞竹里鯉南路251號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666443,
+                    23.66404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "福田社區活動中心",
+                "phone": "049-2644024",
+                "address": "南投縣竹山鎮福興里鯉南路136-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66685,
+                    23.728638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "坪頂里集會所",
+                "phone": "049-2711951",
+                "address": "南投縣竹山鎮坪頂里坪頂路36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.67316,
+                    23.674243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "鯉南社區活動中心",
+                "phone": "0919746801",
+                "address": "南投縣竹山鎮鯉魚里鯉行路222號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.657566,
+                    23.676756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新生社區活動中心",
+                "phone": "049-2654230",
+                "address": "南投縣竹山鎮中山里新生路346號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.676028,
+                    23.75033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "廣安宮",
+                "phone": "049-2711347",
+                "address": "南投縣竹山鎮福興里鯉南路186號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663005,
+                    23.693804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "過溪國小活動中心",
+                "phone": "049-2642573",
+                "address": "南投縣竹山鎮福興里鯉南路136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666499,
+                    23.727807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "社寮國中教室及活動中心",
+                "phone": "049-2622010",
+                "address": "南投縣竹山鎮山崇里集山路一段1729號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720518,
+                    23.809476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "延正里舊社區活動中心",
+                "phone": "049-2647782",
+                "address": "南投縣竹山鎮延正里延正路70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697891,
+                    23.772991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "桂林里集會所",
+                "phone": "049-2633333",
+                "address": "南投縣竹山鎮桂林里中山路7-80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.691446,
+                    23.752281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "福興社區活動中心",
+                "phone": "049-2711169",
+                "address": "南投縣竹山鎮福興里鯉南路191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66391,
+                    23.692796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "田子里集會所",
+                "phone": "049-2658805",
+                "address": "南投縣竹山鎮田子里田東路43-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68865,
+                    23.722404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "祖師公廟三坪院",
+                "phone": "0933181088",
+                "address": "南投縣竹山鎮竹山里竹山路16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686026,
+                    23.756836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "靈德廟城隍廟",
+                "phone": "049-2644119",
+                "address": "南投縣竹山鎮竹山里下橫街16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68574,
+                    23.754912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "社寮社區活動中心",
+                "phone": "049-2624653",
+                "address": "南投縣竹山鎮社寮里大公街75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722346,
+                    23.817428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "桶頭社區活動中心",
+                "phone": "049-2711542",
+                "address": "南投縣竹山鎮桶頭里鯉南路312號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.656756,
+                    23.645451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "延平國小活動中心",
+                "phone": "049-2642450",
+                "address": "南投縣竹山鎮延平里集山路二段1161號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.707058,
+                    23.767999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "延正里新社區活動中心",
+                "phone": "049-2647782",
+                "address": "南投縣竹山鎮延正里公正巷30-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692856,
+                    23.78274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "竹圍里集會所",
+                "phone": "049-2652406",
+                "address": "南投縣竹山鎮竹圍里7鄰枋坪巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68225,
+                    23.760306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中和里集會所",
+                "phone": "049-2643134",
+                "address": "南投縣竹山鎮中和里中和路96-15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.662947,
+                    23.768025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "三界公廟",
+                "phone": "0932687635",
+                "address": "南投縣竹山鎮下坪里下坪路29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68019,
+                    23.775704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "竹山鎮第一公有零售市場",
+                "phone": "049-2643955",
+                "address": "南投縣竹山鎮竹山里橫街90號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68302,
+                    23.756218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "包公廟",
+                "phone": "049-2644377",
+                "address": "南投縣竹山鎮中正里下橫街一巷27-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685751,
+                    23.754624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中正社區活動中心",
+                "phone": "049-2642278",
+                "address": "南投縣竹山鎮桂林里中正巷13-7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697061,
+                    23.754944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "延祥社區活動中心",
+                "phone": "0937714048",
+                "address": "南投縣竹山鎮延祥里鹿山路284巷13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.701842,
+                    23.758861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "雲林國小活動中心",
+                "phone": "049-2643321",
+                "address": "南投縣竹山鎮雲林里雲林里大明路666號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.677025,
+                    23.756785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "瑞竹社區活動中心",
+                "phone": "2711912",
+                "address": "南投縣竹山鎮瑞竹里鯉南路305-15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663991,
+                    23.659248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中州國小活動中心",
+                "phone": "049-2622625",
+                "address": "南投縣竹山鎮中央里集山路1段955號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.738031,
+                    23.811837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "德興里集會所",
+                "phone": "049-2653496",
+                "address": "南投縣竹山鎮德興里德興巷43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.670168,
+                    23.73646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中崎社區活動中心",
+                "phone": "049-2651938",
+                "address": "南投縣竹山鎮中崎里集山路3段1392號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.668688,
+                    23.757484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "大鞍國小活動中心",
+                "phone": "049-2841009",
+                "address": "南投縣竹山鎮大鞍里竹寮巷11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717618,
+                    23.701073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "奉聖宮",
+                "phone": "049-2651056",
+                "address": "南投縣竹山鎮大鞍里竹寮巷19-15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716975,
+                    23.701207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "延和國中活動中心",
+                "phone": "049-2658641",
+                "address": "南投縣竹山鎮延和里鹿山路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.695307,
+                    23.760318
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,517 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "六合國小操場",
+                "phone": "037-663065#820",
+                "address": "苗栗縣頭份市東庄里民族路252號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.901204,
+                    24.68559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "興隆社區活動中心",
+                "phone": "0931-323280",
+                "address": "苗栗縣頭份市興隆里興隆路一段19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.931276,
+                    24.696753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "山下社區活動中心",
+                "phone": "0933-195644",
+                "address": "苗栗縣頭份市山下里山下一街490號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.905466,
+                    24.701874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "珊湖社區活動中心",
+                "phone": "037-601340",
+                "address": "苗栗縣頭份市珊湖里中正三路303號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.959829,
+                    24.684487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "斗煥國小操場",
+                "phone": "037-663848#14",
+                "address": "苗栗縣頭份市斗煥里中正二路221號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.947519,
+                    24.680468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "濫坑社區活動中心",
+                "phone": "037-543892",
+                "address": "苗栗縣頭份市濫坑里4鄰藤坪44號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.885782,
+                    24.63256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "新華社區第一活動中心",
+                "phone": "0936-752349",
+                "address": "苗栗縣頭份市新華里大營路51巷31弄26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.940428,
+                    24.681221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "廣興社區活動中心",
+                "phone": "037-626999",
+                "address": "苗栗縣頭份市廣興里5鄰廣興126-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.886854,
+                    24.65832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "忠孝社區活動中心",
+                "phone": "0938-986299",
+                "address": "苗栗縣頭份市忠孝里2鄰忠孝2路83號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.911351,
+                    24.69196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "東庄社區活動中心",
+                "phone": "0972-288026",
+                "address": "苗栗縣頭份市東庄里7鄰八德一路66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.893289,
+                    24.687118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "蟠桃國小操場",
+                "phone": "037-685410#16",
+                "address": "苗栗縣頭份市蟠桃里信東路285號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.906914,
+                    24.693013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "永貞國小操場",
+                "phone": "037-623290#718",
+                "address": "苗栗縣頭份市田寮里永貞路1段335號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.884304,
+                    24.680924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "尖山國小操場",
+                "phone": "037-624474#51",
+                "address": "苗栗縣頭份市尖下里尖豐路305號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.883126,
+                    24.654309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "民族社區活動中心",
+                "phone": "0931-668233",
+                "address": "苗栗縣頭份市民族里東興路108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.904425,
+                    24.683751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "頭份國小操場",
+                "phone": "037-663020#302",
+                "address": "苗栗縣頭份市頭份里中正路219號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.912184,
+                    24.687823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "后庄國小操場",
+                "phone": "0928-973322",
+                "address": "苗栗縣頭份市文化里文化街20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.898241,
+                    24.696379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "頭份市公所中山堂",
+                "phone": "037-663038#1313",
+                "address": "苗栗縣頭份市仁愛里中山路232號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.913236,
+                    24.68654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "中山社區活動中心",
+                "phone": "0937-224420",
+                "address": "苗栗縣頭份市尖下里11鄰尖豐路578巷56弄1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.8826,
+                    24.648458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "下興社區活動中心",
+                "phone": "037-571216",
+                "address": "苗栗縣頭份市下興里7鄰下東興78-7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.909026,
+                    24.678272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "田寮社區活動中心",
+                "phone": "0931-244845",
+                "address": "苗栗縣頭份市田寮里7鄰南田街213號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.887146,
+                    24.680671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "頭份市公所藝術館",
+                "phone": "037-663038#1313",
+                "address": "苗栗縣頭份市仁愛里中山路234號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.913236,
+                    24.68654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "信德國小操場",
+                "phone": "037-602880#220",
+                "address": "苗栗縣頭份市流東里信德路58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.960532,
+                    24.686798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "建國成功社區活動中心",
+                "phone": "037-669568",
+                "address": "苗栗縣頭份市建國里建國路122巷30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.909632,
+                    24.696062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "新興國小操場",
+                "phone": "037-663855#31",
+                "address": "苗栗縣頭份市下興里水源路157號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.912925,
+                    24.675156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "建國國小操場",
+                "phone": "037-665905#3018",
+                "address": "苗栗縣頭份市建國里建國路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.911789,
+                    24.694785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "上埔社區活動中心",
+                "phone": "0936-307559",
+                "address": "苗栗縣頭份市上埔里上埔路83號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.922308,
+                    24.693225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "頭份運動公園",
+                "phone": "037-663038#1100",
+                "address": "苗栗縣頭份市東庄里八德一路124號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.893184,
+                    24.689668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "建國國中操場",
+                "phone": "037-691491#16",
+                "address": "苗栗縣頭份市成功里建國路119號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.910223,
+                    24.695373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "信義國小操場",
+                "phone": "037-626818#101",
+                "address": "苗栗縣頭份市後庄里信中路36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.890741,
+                    24.69706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "頭份國中操場",
+                "phone": "037-663207#501",
+                "address": "苗栗縣頭份市蟠桃里中央路275號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.901349,
+                    24.691741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "文英國中操場",
+                "phone": "037-624260#31",
+                "address": "苗栗縣頭份市尖下里200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.880215,
+                    24.65576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "興華高中操場",
+                "phone": "037-663403#142",
+                "address": "苗栗縣頭份市新華里中正一路401號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.935937,
+                    24.685746
+                ]
+            }
+        }
+    ]
+}

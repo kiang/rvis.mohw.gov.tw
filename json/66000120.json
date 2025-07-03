@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "清水區公所",
+                "phone": "04-26270151#113",
+                "address": "臺中市清水區中社里鎮政路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559629,
+                    24.268319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大楊國小A棟地下室",
+                "phone": "04-26200634專線",
+                "address": "臺中市清水區楊厝里鰲海路325號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.609939,
+                    24.29249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東山國小教學大樓地下室",
+                "phone": "04-26200517#212",
+                "address": "臺中市清水區東山里神清路6-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.634367,
+                    24.276312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "吳厝國小地下室1 樓",
+                "phone": "04-26200864#205",
+                "address": "臺中市清水區吳厝里吳厝路35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.602787,
+                    24.267206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "高美國小教學行政大樓地下室1樓",
+                "phone": "04-26112505#830",
+                "address": "臺中市清水區高美里護岸路37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562231,
+                    24.312336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "建國國小教學行政大樓地下室",
+                "phone": "04-26262334#731",
+                "address": "臺中市清水區西社里建國路10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.56295,
+                    24.271239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "清水國中學生活動中心---培德樓",
+                "phone": "04-26262042#131",
+                "address": "臺中市清水區西社里鰲峰路250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562952,
+                    24.268321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "清泉國中活動中心",
+                "phone": "04-26113134-734",
+                "address": "臺中市清水區菁埔里臨海路27-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.592678,
+                    24.305823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "三田國小禮堂1,2樓",
+                "phone": "04-26262400#731",
+                "address": "臺中市清水區田寮里三田路4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.580925,
+                    24.290394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "西寧國小活動中心",
+                "phone": "04-26222430#731",
+                "address": "臺中市清水區西寧里五權東路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575425,
+                    24.276015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "清海國中--弘德樓地下室",
+                "phone": "04-26271902#240",
+                "address": "臺中市清水區武鹿里中央路51-60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.553659,
+                    24.276425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大秀國小--國小禮堂及朝陽樓地下室1樓",
+                "phone": "04-26263754#143",
+                "address": "臺中市清水區武鹿里武權路336號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.557267,
+                    24.279426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "槺榔國小禮堂",
+                "phone": "04-26562684#730",
+                "address": "臺中市清水區槺榔里中央路23-12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54514,
+                    24.263908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "甲南國小風雨操場",
+                "phone": "04-26261834#702",
+                "address": "臺中市清水區菁埔里臨海路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.595607,
+                    24.304867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "清水運動場",
+                "phone": "04-26227117專線",
+                "address": "臺中市清水區武鹿里五權路、五權二街交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561214,
+                    24.277007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "清水區老人文康活動中心1樓",
+                "phone": "04-26270151#268",
+                "address": "臺中市清水區靈泉里清水街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.578335,
+                    24.268968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "清水國小活動中心",
+                "phone": "04-26222004#731",
+                "address": "臺中市清水區南寧里光華路125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57316,
+                    24.266787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "秀水、武鹿聯合里活動中心",
+                "phone": "04-26270151#206",
+                "address": "臺中市清水區秀水里華江南街一段206號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.563314,
+                    24.279275
+                ]
+            }
+        }
+    ]
+}

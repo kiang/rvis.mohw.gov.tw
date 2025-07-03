@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "路竹老人活動中心",
+                "phone": "07-6979209",
+                "address": "高雄市路竹區文南里國昌路117號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.254642,
+                    22.854341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市路竹區三埤國民小學",
+                "phone": "07-6979209",
+                "address": "高雄市路竹區三爺里民權路7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.280142,
+                    22.83677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市路竹區下坑國民小學備用",
+                "phone": "07-6979209",
+                "address": "高雄市路竹區下坑里太平路384號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290781,
+                    22.869121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市路竹區竹滬國民小學",
+                "phone": "07-6979209",
+                "address": "高雄市路竹區竹滬里成功路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.230428,
+                    22.862524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "樹人醫護管理專科學校多功能活動中心",
+                "phone": "07-6979209",
+                "address": "高雄市路竹區甲南里環球路452號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.26108,
+                    22.882684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立一甲國民中學學生活動中心",
+                "phone": "07-6979209",
+                "address": "高雄市路竹區甲南里一甲路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.271882,
+                    22.868822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立路竹高級中學",
+                "phone": "07-6979209",
+                "address": "高雄市路竹區文南里中華路292號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.25221,
+                    22.855384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市路竹區大社國民小學",
+                "phone": "07-6979209",
+                "address": "高雄市路竹區社西里大社路243號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.265351,
+                    22.867066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市路竹區北嶺國民小學",
+                "phone": "07-6979209",
+                "address": "高雄市路竹區北嶺里民治路85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.269765,
+                    22.823505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市路竹區路竹國民小學",
+                "phone": "07-6979209",
+                "address": "高雄市路竹區竹南里中山路712巷16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.259607,
+                    22.856684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市路竹區蔡文國民小學",
+                "phone": "07-6979209",
+                "address": "高雄市路竹區文北里國昌路548號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.255218,
+                    22.861322
+                ]
+            }
+        }
+    ]
+}

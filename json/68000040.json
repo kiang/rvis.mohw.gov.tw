@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "水美市民活動中心",
+                "phone": "03-4782199",
+                "address": "桃園市楊梅區水美里楊新路2段2之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.137079,
+                    24.918994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "永揚社福館",
+                "phone": "09-32105199",
+                "address": "桃園市楊梅區永寧里校前路324巷148號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.148222,
+                    24.89799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "楊心國小",
+                "phone": "03-4758680#520",
+                "address": "桃園市楊梅區楊梅里金華街100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.143002,
+                    24.912118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "楊梅國中",
+                "phone": "03-4782024#510",
+                "address": "桃園市楊梅區紅梅里校前路149號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.148351,
+                    24.90353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "楊明國中",
+                "phone": "03-4781525#510",
+                "address": "桃園市楊梅區大同里新農街337號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15491,
+                    24.910793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "四維國小",
+                "phone": "03-4822704#511",
+                "address": "桃園市楊梅區光華里金龍三路95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.184586,
+                    24.912195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "瑞塘國小",
+                "phone": "03-4316360#520",
+                "address": "桃園市楊梅區瑞坪里瑞溪路2段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.180045,
+                    24.908017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "仁美國中",
+                "phone": "03-4641123#511",
+                "address": "桃園市楊梅區高榮里梅獅路539巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.184059,
+                    24.924268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "瑞梅國小",
+                "phone": "03-4825284#520",
+                "address": "桃園市楊梅區梅溪里三元街99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.171302,
+                    24.90977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "楊明國小",
+                "phone": "03-4754929#852",
+                "address": "桃園市楊梅區楊明里中山北路1段390巷50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.159079,
+                    24.911465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "瑞埔國小",
+                "phone": "03-4822018#510",
+                "address": "桃園市楊梅區埔心里中興路133號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.185784,
+                    24.916373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "瑞坪國中",
+                "phone": "03-4821468#511",
+                "address": "桃園市楊梅區瑞坪里文化街535號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.180359,
+                    24.906863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "埔心公園",
+                "phone": "03-4783683#2113",
+                "address": "桃園市楊梅區金龍里金龍一路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.186436,
+                    24.911684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "高榮國小",
+                "phone": "03-4782314#510",
+                "address": "桃園市楊梅區高上里高上路1段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.163972,
+                    24.937024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "楊梅高中",
+                "phone": "03-4789618#1401",
+                "address": "桃園市楊梅區高山里高獅路5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.148709,
+                    24.921372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "水美國小",
+                "phone": "03-4782770#510",
+                "address": "桃園市楊梅區水美里楊新路1段410號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.137533,
+                    24.918793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大同國小",
+                "phone": "03-4782249#510",
+                "address": "桃園市楊梅區大同里新農街85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14926,
+                    24.909738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "楊梅國小",
+                "phone": "03-4782016#510",
+                "address": "桃園市楊梅區紅梅里校前路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.144597,
+                    24.906165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "楊梅國中秀才分校",
+                "phone": "03-4756261#510",
+                "address": "桃園市楊梅區秀才里秀才路919號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.132394,
+                    24.884447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "上田國小",
+                "phone": "03-4782544#513",
+                "address": "桃園市楊梅區上田里和平路98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.126326,
+                    24.937805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "瑞原國中",
+                "phone": "03-4782242#550",
+                "address": "桃園市楊梅區瑞原里民豐路69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.121713,
+                    24.933402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "瑞原國小",
+                "phone": "03-4723280#510",
+                "address": "桃園市楊梅區瑞原里民安路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.104204,
+                    24.926327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "上湖國小",
+                "phone": "03-4728925#510",
+                "address": "桃園市楊梅區上湖里上湖二路88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.084903,
+                    24.909756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "富岡國小",
+                "phone": "03-4721193#510",
+                "address": "桃園市楊梅區豐野里中正路147號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.080704,
+                    24.937494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "富岡國中",
+                "phone": "03-4721113#512",
+                "address": "桃園市楊梅區豐野里中正路456號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.074815,
+                    24.941913
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "僑真國小日新樓",
+                "phone": "05-5972241",
+                "address": "雲林縣斗南鎮明昌里延平路二段642號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.474902,
+                    23.668091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "斗南國小活動中心",
+                "phone": "05-5972020#2805",
+                "address": "雲林縣斗南鎮西岐里文昌路150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.479491,
+                    23.680295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "東明國中中正堂",
+                "phone": "05-5972474#13",
+                "address": "雲林縣斗南鎮西岐里中興路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.471159,
+                    23.677227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "斗南高中中正堂",
+                "phone": "05-5972059",
+                "address": "雲林縣斗南鎮西岐里中山路212號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.476645,
+                    23.681525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "順安宮明德大樓",
+                "phone": "05-5972541",
+                "address": "雲林縣斗南鎮明昌里長安路126號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.473594,
+                    23.674983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "他里霧親水公園",
+                "phone": "05-5973111#22",
+                "address": "雲林縣斗南鎮西岐里西岐段1454-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475672,
+                    23.683788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "石龜國小活動中心",
+                "phone": "05-5972354#10",
+                "address": "雲林縣斗南鎮石龜里5鄰南生路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.482606,
+                    23.641667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "文安國小體育館",
+                "phone": "05-5972265#104",
+                "address": "雲林縣斗南鎮新光里延平路一段189號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.481122,
+                    23.691783
+                ]
+            }
+        }
+    ]
+}

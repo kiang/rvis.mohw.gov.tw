@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "潮東國小",
+                "phone": "08-7871364#14",
+                "address": "屏東縣潮州鎮九塊里復興路66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560911,
+                    22.523092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "潮和國小",
+                "phone": "08-7804052#14",
+                "address": "屏東縣潮州鎮三和里華巖街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538094,
+                    22.556853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "潮昇國小",
+                "phone": "08-7805568#14",
+                "address": "屏東縣潮州鎮三共里北門路25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547724,
+                    22.55703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "潮州國中",
+                "phone": "08-7882401#40",
+                "address": "屏東縣潮州鎮三共里文化路66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542947,
+                    22.554008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "潮南國小",
+                "phone": "08-7882312#13",
+                "address": "屏東縣潮州鎮興美里興美路24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534672,
+                    22.512958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "光華國小",
+                "phone": "08-7882105#14",
+                "address": "屏東縣潮州鎮光華里南進路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543657,
+                    22.547267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "光春國小",
+                "phone": "08-7896550#14",
+                "address": "屏東縣潮州鎮光春里志成路201號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536872,
+                    22.540379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "鎮立幼兒園",
+                "phone": "08-7804395#10",
+                "address": "屏東縣潮州鎮三星里三星路39-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.550815,
+                    22.547719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "四林國小",
+                "phone": "08-7882174#14",
+                "address": "屏東縣潮州鎮泗林里開元路2巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.569267,
+                    22.544592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "光春國中",
+                "phone": "08-7887038#31",
+                "address": "屏東縣潮州鎮光春里光春路290號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539762,
+                    22.534662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "潮州國小",
+                "phone": "08-7882770#14",
+                "address": "屏東縣潮州鎮同榮里育英路31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541139,
+                    22.548406
+                ]
+            }
+        }
+    ]
+}

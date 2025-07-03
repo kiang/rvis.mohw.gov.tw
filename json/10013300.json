@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "丹林活動中心",
+                "phone": "08-7850255",
+                "address": "屏東縣來義鄉丹林村丹林路25-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.634028,
+                    22.51752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "古樓國小",
+                "phone": "08-7850281",
+                "address": "屏東縣來義鄉古樓村育英路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.627556,
+                    22.528334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "文樂活動中心",
+                "phone": "08-7981460",
+                "address": "屏東縣來義鄉文樂村新樂1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.623165,
+                    22.493559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "望嘉警察派出所",
+                "phone": "08-7982136",
+                "address": "屏東縣來義鄉望嘉村114-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.621464,
+                    22.463526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "南和活動中心",
+                "phone": "08-8791676",
+                "address": "屏東縣來義鄉南和村180-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639859,
+                    22.436429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "南和國小",
+                "phone": "08-8791263",
+                "address": "屏東縣來義鄉南和村51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64263,
+                    22.436443
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,517 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "久美基督長老教會",
+                "phone": "049-2831554",
+                "address": "南投縣信義鄉望美村美信巷31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.885544,
+                    23.616989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新鄉活動中心",
+                "phone": "049-2831500",
+                "address": "南投縣信義鄉新鄉村新鄉路71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.871167,
+                    23.640812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "東埔活動中心",
+                "phone": "049-2702915",
+                "address": "南投縣信義鄉東埔村開高巷58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.927746,
+                    23.561776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "潭南活動中心",
+                "phone": "049-2741328",
+                "address": "南投縣信義鄉潭南村和平巷36-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.938993,
+                    23.821111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "人和活動中心",
+                "phone": "049-2776531",
+                "address": "南投縣信義鄉人和村民生巷9-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.896364,
+                    23.779199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "內茅埔營林區",
+                "phone": "049-2791005",
+                "address": "南投縣信義鄉自強村綠美巷13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.850905,
+                    23.689751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "東光基督長老教會",
+                "phone": "049-2701402",
+                "address": "南投縣信義鄉東埔村開高巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.927345,
+                    23.554089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "青雲活動中心",
+                "phone": "049-2742526",
+                "address": "南投縣信義鄉地利村開信巷1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.942276,
+                    23.794035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "久美活動中心",
+                "phone": "049-2831913",
+                "address": "南投縣信義鄉望美村美信巷55-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.884268,
+                    23.619057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "波石雙豐基督長老教會",
+                "phone": "049-2741363",
+                "address": "南投縣信義鄉人和村波石巷124號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.919354,
+                    23.783999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "同富國中 -禮堂",
+                "phone": "049-2701317",
+                "address": "南投縣信義鄉同富村同和巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.886752,
+                    23.595433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "愛國活動中心",
+                "phone": "049-2791730",
+                "address": "南投縣信義鄉愛國村愛國巷114-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.83327,
+                    23.706011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "東埔國小",
+                "phone": "049-2701340",
+                "address": "南投縣信義鄉東埔村開高巷63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.927957,
+                    23.561599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "新鄉基督長老教會",
+                "phone": "049-2831050",
+                "address": "南投縣信義鄉新鄉村新鄉路69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.871345,
+                    23.640402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "潭南國小",
+                "phone": "049-2741381",
+                "address": "南投縣信義鄉潭南村和平巷49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.940253,
+                    23.821297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "豐丘基督長老教會",
+                "phone": "049-2791762",
+                "address": "南投縣信義鄉豐丘村高平巷28-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.874823,
+                    23.672343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "雙龍國小",
+                "phone": "049-2741325*116",
+                "address": "南投縣信義鄉雙龍村光復巷4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.949831,
+                    23.786004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "桐林活動中心",
+                "phone": "0912701302",
+                "address": "南投縣信義鄉同富村太平巷85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.873341,
+                    23.558191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "地利國小",
+                "phone": "049-2741254",
+                "address": "南投縣信義鄉地利村開信巷17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.943374,
+                    23.794194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "風斗避難中心",
+                "phone": "049-2791908",
+                "address": "南投縣信義鄉自強村陽和巷54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.856685,
+                    23.671295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "信義國中 -禮堂",
+                "phone": "049-2791129",
+                "address": "南投縣信義鄉明德村玉山路20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.853952,
+                    23.696325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "望鄉基督長老教會",
+                "phone": "049-2701242",
+                "address": "南投縣信義鄉卡里布安村望和巷140號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.884956,
+                    23.598925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "望鄉活動中心",
+                "phone": "049-2701389",
+                "address": "南投縣信義鄉卡里布安村望和巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.884563,
+                    23.601234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "豐丘體技場",
+                "phone": "049-2791583",
+                "address": "南投縣信義鄉豐丘村高平巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.875208,
+                    23.670615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "和社台大實驗林",
+                "phone": "049-2701004",
+                "address": "南投縣信義鄉同富村同和巷47-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.888052,
+                    23.591646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "東埔基督長老教會",
+                "phone": "049-2701214",
+                "address": "南投縣信義鄉東埔村開高巷79號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.929247,
+                    23.561952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "羅娜基督長老教會",
+                "phone": "049-2831231",
+                "address": "南投縣信義鄉羅娜村信筆巷37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.86941,
+                    23.627506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "雙龍活動中心",
+                "phone": "049-2742215",
+                "address": "南投縣信義鄉雙龍村光復巷32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.947813,
+                    23.783612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "迪巴恩基督長老教會",
+                "phone": "049-2741295",
+                "address": "南投縣信義鄉雙龍村光復50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.945564,
+                    23.782764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "羅娜天主教",
+                "phone": "049-2831250",
+                "address": "南投縣信義鄉羅娜村信筆巷139號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.873557,
+                    23.629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "羅娜國小",
+                "phone": "049-2831327",
+                "address": "南投縣信義鄉羅娜村信筆巷73號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.87009,
+                    23.628337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "雙龍天主教",
+                "phone": "049-2742227",
+                "address": "南投縣信義鄉雙龍村光復巷23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.948486,
+                    23.783861
+                ]
+            }
+        }
+    ]
+}

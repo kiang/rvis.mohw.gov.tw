@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區北門農工",
+                "phone": "06-7260148#545",
+                "address": "臺南市佳里區六安里9鄰六安117號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.18111,
+                    23.17594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區公所",
+                "phone": "06-7222127#252",
+                "address": "臺南市佳里區六安里18鄰忠孝路5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.177039,
+                    23.165142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區塭內國小",
+                "phone": "06-7891054#720",
+                "address": "臺南市佳里區塭內里3鄰塭子內40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.164966,
+                    23.125591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區佳里國中",
+                "phone": "06-7222244#218",
+                "address": "臺南市佳里區南勢里16鄰安南路523號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.170672,
+                    23.157954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區佳興國中",
+                "phone": "06-7260291#15",
+                "address": "臺南市佳里區民安里宅興二街59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.195871,
+                    23.183198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區佳里國小",
+                "phone": "06-7222031#731",
+                "address": "臺南市佳里區安西里15鄰公園路445號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.17225,
+                    23.164155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區仁愛國小",
+                "phone": "06-7222227#831",
+                "address": "臺南市佳里區鎮山里13鄰仁愛路307號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.179334,
+                    23.153466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區信義國小",
+                "phone": "06-7211918#102",
+                "address": "臺南市佳里區忠仁里11鄰信義一街336號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.182087,
+                    23.159875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區佳興國小",
+                "phone": "06-7260311#201",
+                "address": "臺南市佳里區佳化里13鄰麻興路二段636號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.192786,
+                    23.189405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區延平國小",
+                "phone": "06-7222331#803",
+                "address": "臺南市佳里區下營里15鄰頂廍136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.152523,
+                    23.178785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區六里活動中心",
+                "phone": "06-7215924",
+                "address": "臺南市佳里區東寧里7鄰佳東路327巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.182177,
+                    23.161116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區興化社區活動中心",
+                "phone": "06-7260873",
+                "address": "臺南市佳里區佳興里7鄰佳里興545-11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.185965,
+                    23.187598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區北門高中",
+                "phone": "06-7222150#206",
+                "address": "臺南市佳里區六安里15鄰六安269號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.177342,
+                    23.167732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區子龍國小",
+                "phone": "06-7262913#13",
+                "address": "臺南市佳里區子龍里14鄰麻佳路三段370巷88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.201941,
+                    23.174209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區通興國小",
+                "phone": "06-7873531#213",
+                "address": "臺南市佳里區塭內里14鄰埔頂5-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.157822,
+                    23.143961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市佳里區佳福寺",
+                "phone": "06-7263011",
+                "address": "臺南市佳里區營溪里5鄰營頂102號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.191697,
+                    23.198697
+                ]
+            }
+        }
+    ]
+}

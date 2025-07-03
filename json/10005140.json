@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "高埔社區活動中心",
+                "phone": "037-981469",
+                "address": "苗栗縣西湖鄉高埔村9鄰山頂12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.770155,
+                    24.509834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "西湖鄉農特產品展售綜合活動中心",
+                "phone": "037-923601",
+                "address": "苗栗縣西湖鄉三湖村1鄰店仔街4之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.756206,
+                    24.558909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "五湖社區活動中心",
+                "phone": "037-911606",
+                "address": "苗栗縣西湖鄉五湖村13鄰五湖街194-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.770419,
+                    24.524635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "四湖社區活動中心",
+                "phone": "037-921702",
+                "address": "苗栗縣西湖鄉四湖村4鄰學堂下11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.745446,
+                    24.531341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苗栗縣西湖鄉五湖國民小學籃球場",
+                "phone": "037-911244",
+                "address": "苗栗縣西湖鄉五湖村6鄰上湖96號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.776622,
+                    24.522103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苗栗縣立西湖國民中學",
+                "phone": "037-921016",
+                "address": "苗栗縣西湖鄉龍洞村1鄰龍洞1之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.757386,
+                    24.55598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苗栗縣西湖鄉西湖國民小學籃球場",
+                "phone": "037-921022",
+                "address": "苗栗縣西湖鄉龍洞村1鄰龍洞18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.757675,
+                    24.557486
+                ]
+            }
+        }
+    ]
+}

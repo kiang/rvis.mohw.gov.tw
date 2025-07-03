@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "中村基督長老教會",
+                "phone": "08-7991650",
+                "address": "屏東縣瑪家鄉三和村三和巷32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.618739,
+                    22.708729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "屏東縣鹽埔鄉鹽埔國中",
+                "phone": "08-7932001#14",
+                "address": "屏東縣鹽埔鄉鹽南村勝利路30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574766,
+                    22.753374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "新圍國小",
+                "phone": "08-7932269-115",
+                "address": "屏東縣鹽埔鄉新二村維新路67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.553898,
+                    22.738298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "彭厝國小",
+                "phone": "08-7031509#14",
+                "address": "屏東縣鹽埔鄉洛陽村七份路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.530782,
+                    22.739836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "鄉立幼兒園",
+                "phone": "08-7934629",
+                "address": "屏東縣鹽埔鄉鹽北村勝利路189號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577907,
+                    22.759937
+                ]
+            }
+        }
+    ]
+}

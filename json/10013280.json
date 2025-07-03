@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "排灣社區活動中心",
+                "phone": "08-7990029",
+                "address": "屏東縣瑪家鄉排灣村5鄰58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.626806,
+                    22.629655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "涼山社區活動中心",
+                "phone": "08-7991704",
+                "address": "屏東縣瑪家鄉凉山村2鄰20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.637045,
+                    22.689927
+                ]
+            }
+        }
+    ]
+}

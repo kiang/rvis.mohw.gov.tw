@@ -1,0 +1,501 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "西康里民活動中心",
+                "phone": "02-24372500",
+                "address": "基隆市中山區西康里復興路24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.727168,
+                    25.14139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "健民里民活動中心",
+                "phone": "02-24274905",
+                "address": "基隆市中山區健民里健民街5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737612,
+                    25.142323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "通明里民活動中心",
+                "phone": "02-24255833",
+                "address": "基隆市中山區通明里中華路46巷4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738422,
+                    25.148402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "德和里民活動中心",
+                "phone": "02-24372440",
+                "address": "基隆市中山區德和里復興路206號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726798,
+                    25.146429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中山高中活動中心",
+                "phone": "02-24248191#30",
+                "address": "基隆市中山區文化里文化路162號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73066,
+                    25.15416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "太白里民活動中心",
+                "phone": "02-24278898",
+                "address": "基隆市中山區太白里光華路7號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742974,
+                    25.151792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "新建安民聯合里民活動中心",
+                "phone": "02-24248836",
+                "address": "基隆市中山區安民里新民路37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736037,
+                    25.130913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中和國小教室",
+                "phone": "02-24371751 ext.30",
+                "address": "基隆市中山區中和里中和路64號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.720382,
+                    25.146162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "德安里民活動中心",
+                "phone": "02-24374723",
+                "address": "基隆市中山區德安里復興路259巷1之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.726404,
+                    25.149884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "仙洞國小活動中心",
+                "phone": "02-24223031 ext.30",
+                "address": "基隆市中山區仙洞里仁安街141號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746616,
+                    25.14731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "仙洞里民活動中心",
+                "phone": "09-20903890",
+                "address": "基隆市中山區仙洞里太白街2之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746381,
+                    25.14772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中山國小活動中心",
+                "phone": "02-24223053 ext.30",
+                "address": "基隆市中山區居仁里通仁街28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737746,
+                    25.145886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "西定里民活動中心",
+                "phone": "02-24285107",
+                "address": "基隆市中山區西定里西定路230號三樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.732249,
+                    25.137118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "民治里民活動中心",
+                "phone": "02-24288021",
+                "address": "基隆市中山區民治里中山一路219號一樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739483,
+                    25.13446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "通化里民活動中心",
+                "phone": "02-24225977",
+                "address": "基隆市中山區通化里復旦路10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739315,
+                    25.145482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中山里民活動中心",
+                "phone": "02-24226871",
+                "address": "基隆市中山區中山里中山一路219號二樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739363,
+                    25.134269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "文化里民活動中心",
+                "phone": "09-22571251",
+                "address": "基隆市中山區文化里文化路161巷44之5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.731671,
+                    25.153511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "西華里民活動中心",
+                "phone": "02-24282527",
+                "address": "基隆市中山區西華里西定路102號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735265,
+                    25.133618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中和里民活動中心",
+                "phone": "02-24370893",
+                "address": "基隆市中山區中和里中平街95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.722537,
+                    25.141774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "協和里民活動中心",
+                "phone": "02-24276688",
+                "address": "基隆市中山區協和里協和街150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734427,
+                    25.157108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中山高中分部活動中心",
+                "phone": "02-24242802 ext.20",
+                "address": "基隆市中山區仁正里中山二路105巷144號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734973,
+                    25.140542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中興里民活動中心",
+                "phone": "02-24282920",
+                "address": "基隆市中山區中興里中山二路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740804,
+                    25.137087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "居仁里民活動中心",
+                "phone": "02-24222301",
+                "address": "基隆市中山區居仁里通仁街162號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.734534,
+                    25.143992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "仁正里民活動中心",
+                "phone": "02-24231711",
+                "address": "基隆市中山區仁正里中山二路109巷13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738691,
+                    25.14072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "大慶活動中心",
+                "phone": "02-24366489",
+                "address": "基隆市中山區和慶里中和路168巷10弄37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.715273,
+                    25.150977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "新安平里民活動中心",
+                "phone": "02-24235071",
+                "address": "基隆市中山區安平里安一路16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737223,
+                    25.131554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "安平里民活動中心",
+                "phone": "02-24235071",
+                "address": "基隆市中山區安平里中山一路91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737369,
+                    25.131163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "中山區公所B1及B2",
+                "phone": "02-24232181#407",
+                "address": "基隆市中山區文化里文化路168號B1及B2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.729433,
+                    25.152835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "仁正公園",
+                "phone": "02-24231711",
+                "address": "基隆市中山區仁正里中山二路105巷78之1號後方"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737815,
+                    25.1402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "通明親子公園",
+                "phone": "02-24255833",
+                "address": "基隆市中山區通明里中華路46巷4號前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738422,
+                    25.148402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "基隆市",
+                "name": "協和親子公園",
+                "phone": "02-24276688",
+                "address": "基隆市中山區協和里文化路188號對面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.733609,
+                    25.154199
+                ]
+            }
+        }
+    ]
+}

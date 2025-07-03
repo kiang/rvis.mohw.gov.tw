@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "竹湖國民小學",
+                "phone": "089-831295#115",
+                "address": "臺東縣長濱鄉竹湖村10鄰14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.428546,
+                    23.285693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "三間國民小學",
+                "phone": "089-831306#203",
+                "address": "臺東縣長濱鄉三間村7鄰16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461755,
+                    23.341355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "樟原國民小學",
+                "phone": "089-881019#203",
+                "address": "臺東縣長濱鄉樟原村1鄰7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.481668,
+                    23.412638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "財團法人伊甸社會福利基金會附設臺東縣私立耆福合式服務類長期照顧服務機構",
+                "phone": "089-830016#15",
+                "address": "臺東縣長濱鄉忠勇村5鄰58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.438672,
+                    23.326028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "南竹湖社區活動中心",
+                "phone": "089-832139#218",
+                "address": "臺東縣長濱鄉竹湖村17鄰34號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.421409,
+                    23.275404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "寧埔國民小學",
+                "phone": "089-801082#221",
+                "address": "臺東縣長濱鄉寧埔村10鄰41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.414152,
+                    23.24434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "長濱國民小學",
+                "phone": "089-831038#13",
+                "address": "臺東縣長濱鄉長濱村5鄰11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.451579,
+                    23.316323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "膽曼社區活動中心",
+                "phone": "089-832139#218",
+                "address": "臺東縣長濱鄉寧埔村16鄰膽曼9-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.414946,
+                    23.224081
+                ]
+            }
+        }
+    ]
+}

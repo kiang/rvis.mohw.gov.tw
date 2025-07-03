@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣大興國民小學",
+                "phone": "03-8702987#31",
+                "address": "花蓮縣光復鄉大興村民權街17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.398157,
+                    23.63233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "大興活動中心",
+                "phone": "03-8702216",
+                "address": "花蓮縣光復鄉大興村民權街37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.394223,
+                    23.633842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花東山琉璃禪寺",
+                "phone": "03-8731340",
+                "address": "花蓮縣光復鄉大富村建國路一段 26之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.416247,
+                    23.59917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣大進國小大富分校",
+                "phone": "03-8701049#14",
+                "address": "花蓮縣光復鄉大富村明德路29巷12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.390907,
+                    23.607306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "光復國中防空避難室(活動中心地下室)",
+                "phone": "03-8701027#206",
+                "address": "花蓮縣光復鄉大馬村林森路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.425186,
+                    23.671001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "光復鄉立幼兒園",
+                "phone": "03-8701107",
+                "address": "花蓮縣光復鄉大全村中山路一段216巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.418366,
+                    23.652127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "法務部矯正署自強外役監獄教化社團空間(原役男餐廳)",
+                "phone": "03-8703914#305",
+                "address": "花蓮縣光復鄉大全村建國路一段自強新村1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.421813,
+                    23.60332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣光復鄉太巴塱國民小學(東富裁併分校)",
+                "phone": "03-8701134#11",
+                "address": "花蓮縣光復鄉東富村東富路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.482391,
+                    23.685374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣光復鄉太巴塱國民小學(活動中心)",
+                "phone": "03-8701134#11",
+                "address": "花蓮縣光復鄉北富村中正路二段23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448397,
+                    23.660091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "西南活動中心",
+                "phone": "03-8702923",
+                "address": "花蓮縣光復鄉西富村中正路二段72巷14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.449381,
+                    23.658306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "馬佛活動中心",
+                "phone": "03-8702923",
+                "address": "花蓮縣光復鄉西富村民有街51巷3-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.430263,
+                    23.636865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "砂荖活動中心",
+                "phone": "03-8704058",
+                "address": "花蓮縣光復鄉南富村建國路二段39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.451156,
+                    23.641911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣光復鄉公所",
+                "phone": "03-8702206#147",
+                "address": "花蓮縣光復鄉大華村中華路257號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.423457,
+                    23.669236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "大同活動中心",
+                "phone": "03-8701561",
+                "address": "花蓮縣光復鄉大同村中正路一段370號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.430964,
+                    23.663269
+                ]
+            }
+        }
+    ]
+}

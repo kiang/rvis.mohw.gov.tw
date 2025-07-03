@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "溪尾國小教學大樓2樓綜合教室",
+                "phone": "049-2523020#14",
+                "address": "臺中市烏日區溪尾里溪岸路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639677,
+                    24.041114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "僑仁國小體育館",
+                "phone": "04-23381241#700",
+                "address": "臺中市烏日區仁德里中山路一段341號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640495,
+                    24.107893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "旭光國小旭光廳3樓",
+                "phone": "04-23381847#731",
+                "address": "臺中市烏日區榮泉里健行路501號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.594312,
+                    24.11051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "光德國中B、C棟教室2樓",
+                "phone": "04-23389802#512",
+                "address": "臺中市烏日區仁德里信義街99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640803,
+                    24.10507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "溪南國中北棟教室2樓",
+                "phone": "04-23353959",
+                "address": "臺中市烏日區溪埧里溪南路一段731號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.644158,
+                    24.071542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "五光國小西棟1樓舞蹈教室",
+                "phone": "04-23362276#730",
+                "address": "臺中市烏日區光明里光明路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647,
+                    24.094315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "喀哩國小行政大樓綜合教室",
+                "phone": "04-23351016#412",
+                "address": "臺中市烏日區螺潭里溪南路2段370號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.642822,
+                    24.062339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "三和里公兒九公園",
+                "phone": "04-23368016#115",
+                "address": "臺中市烏日區三和里三榮路一段與三榮三路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.611841,
+                    24.105217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "自治公園",
+                "phone": "04-23368016#115",
+                "address": "臺中市烏日區烏日里五光路與公園路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.629267,
+                    24.101597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東園國小體育館",
+                "phone": "04-23353092#750",
+                "address": "臺中市烏日區東園里溪南路一段238巷198號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639515,
+                    24.084346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "烏日社區活動中心",
+                "phone": "04-23387906專線",
+                "address": "臺中市烏日區烏日里光日路228號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.625688,
+                    24.107534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "烏日國民中學第1棟(迎新樓)2樓",
+                "phone": "04-23381009#501",
+                "address": "臺中市烏日區湖日里新興路457號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.617355,
+                    24.104662
+                ]
+            }
+        }
+    ]
+}

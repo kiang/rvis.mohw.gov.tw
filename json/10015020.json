@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "鳳義社區活動中心",
+                "phone": "03-8763004",
+                "address": "花蓮縣鳳林鎮鳳義里鳳林鎮水源路36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.444633,
+                    23.752732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "鳳仁社區活動中心",
+                "phone": "03-8763174",
+                "address": "花蓮縣鳳林鎮鳳仁里中華路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.452044,
+                    23.74978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "鳳信社區活動中心",
+                "phone": "03-8764212",
+                "address": "花蓮縣鳳林鎮鳳信里中正路1段120巷24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.443364,
+                    23.729714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "大榮2村社區活動中心",
+                "phone": "03-8761704",
+                "address": "花蓮縣鳳林鎮大榮里復興路69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.467602,
+                    23.752329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "北林社區活動中心",
+                "phone": "8761724",
+                "address": "花蓮縣鳳林鎮北林里民和路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.470991,
+                    23.767185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "南平社區活動中心",
+                "phone": "03-8771735",
+                "address": "花蓮縣鳳林鎮南平里自強路368-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.458984,
+                    23.782537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "林榮社區活動中心",
+                "phone": "03-8771014",
+                "address": "花蓮縣鳳林鎮林榮里永康路10之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448224,
+                    23.804535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "長橋社區活動中心",
+                "phone": "03-8751131",
+                "address": "花蓮縣鳳林鎮長橋里長橋路4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.419528,
+                    23.709712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "鳳林鎮公所",
+                "phone": "03-8762772",
+                "address": "花蓮縣鳳林鎮鳳智里光華路124號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.451764,
+                    23.744724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "鳳仁國小羽球館",
+                "phone": "03-8762201",
+                "address": "花蓮縣鳳林鎮鳳仁里鳳林鎮光復路94號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.451826,
+                    23.751224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "鳳禮,鳳智里活動中心",
+                "phone": "03-8763910",
+                "address": "花蓮縣鳳林鎮鳳智里大同街7-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.450978,
+                    23.746009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "鳳林國中進德堂",
+                "phone": "03-8762021",
+                "address": "花蓮縣鳳林鎮鳳智里鳳林鎮光復路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448125,
+                    23.743724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "大榮1村社區活動中心",
+                "phone": "03-8763419",
+                "address": "花蓮縣鳳林鎮大榮里鳳林鎮大榮2路44號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.456474,
+                    23.741803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "樂活會館",
+                "phone": "03-8762771轉191",
+                "address": "花蓮縣鳳林鎮鳳智里中華路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.449293,
+                    23.742272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "見晴多功能活動中心",
+                "phone": "03-8771034",
+                "address": "花蓮縣萬榮鄉見晴村2鄰24-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4477,
+                    23.78375
+                ]
+            }
+        }
+    ]
+}

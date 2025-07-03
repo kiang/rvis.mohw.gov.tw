@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "山腳市民活動中心",
+                "phone": "02-29099551#1377",
+                "address": "新北市泰山區山腳里福德街14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.432334,
+                    25.06266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "泰山高中",
+                "phone": "02-22963625#400#420",
+                "address": "新北市泰山區同榮里辭修路7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.429866,
+                    25.057718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "明志科技大學",
+                "phone": "02-29089899#4124",
+                "address": "新北市泰山區貴子里工專路84號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.422252,
+                    25.040593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "黎明技術學院",
+                "phone": "02-29097811#1325、1301",
+                "address": "新北市泰山區黎明里泰林路三段22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.419616,
+                    25.065895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "泰山區公所",
+                "phone": "02-29099551#1500",
+                "address": "新北市泰山區同榮里明志路1段322號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.431419,
+                    25.059241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "楓樹福泰市民活動中心",
+                "phone": "02-29099551#1377",
+                "address": "新北市泰山區楓樹里楓江路26巷26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.434895,
+                    25.061661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "義學國小",
+                "phone": "02-22972048#300、302",
+                "address": "新北市泰山區義仁里民生路30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.430955,
+                    25.052219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "泰山國中",
+                "phone": "02-22962519#151",
+                "address": "新北市泰山區黎明里泰林路2段498號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.423822,
+                    25.063887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "黎明市民活動中心",
+                "phone": "02-29099551#1377",
+                "address": "新北市泰山區黎明里黎明路23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.420965,
+                    25.062823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "泰山國小",
+                "phone": "02-29098842#140、#141",
+                "address": "新北市泰山區山腳里泰林路2段255號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.431285,
+                    25.062342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "泰山體育館",
+                "phone": "02-229690000",
+                "address": "新北市泰山區同榮里公園路54號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.426599,
+                    25.055339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "同榮國小",
+                "phone": "02-22968551#120、#121",
+                "address": "新北市泰山區同榮里公園路33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.429079,
+                    25.054386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "貴和市民活動中心",
+                "phone": "02-29099551#1137",
+                "address": "新北市泰山區貴和里明志路三段365號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.421885,
+                    25.034875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "明志國小",
+                "phone": "02-29061133#40、#41",
+                "address": "新北市泰山區新明里新生路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4273815,
+                    25.0451099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "義學國中",
+                "phone": "02-22961168#600#300",
+                "address": "新北市泰山區義學里民生路33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4307748,
+                    25.0513902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "義仁市民活動中心",
+                "phone": "02-29099551#1377",
+                "address": "新北市泰山區義仁里明志路二段177號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.428012,
+                    25.050129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "明志市民活動中心",
+                "phone": "02-29099551#1377",
+                "address": "新北市泰山區明志里明志路二段426號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.424712,
+                    25.043811
+                ]
+            }
+        }
+    ]
+}

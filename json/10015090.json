@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "富興社區活動中心",
+                "phone": "03-8811414",
+                "address": "花蓮縣瑞穗鄉富興村13鄰東興路123之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.387879,
+                    23.581952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "瑞穗社區活動中心",
+                "phone": "03-8871749",
+                "address": "花蓮縣瑞穗鄉瑞穗村14鄰民生街41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.378786,
+                    23.499882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "富源消防分隊",
+                "phone": "03-8811885",
+                "address": "花蓮縣瑞穗鄉富源村9鄰中正路157號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.376351,
+                    23.577801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "瑞穗青蓮寺",
+                "phone": "03-8875438",
+                "address": "花蓮縣瑞穗鄉瑞美村仁愛路109號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.390424,
+                    23.49089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "瑞美社區活動中心",
+                "phone": "03-8873793",
+                "address": "花蓮縣瑞穗鄉瑞美村13鄰中山路二段387號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.391172,
+                    23.493655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "瑞良社區活動中心",
+                "phone": "03-8873795",
+                "address": "花蓮縣瑞穗鄉瑞良村4鄰信義路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.394039,
+                    23.492387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "瑞祥社區活動中心",
+                "phone": "03-8873796",
+                "address": "花蓮縣瑞穗鄉瑞祥村4鄰祥北路二段127號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.358812,
+                    23.499836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "瑞北社區活動中心",
+                "phone": "03-8871754",
+                "address": "花蓮縣瑞穗鄉瑞北村1鄰中正北路二段39之5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.377982,
+                    23.526199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "掃叭頂社區活動中心",
+                "phone": "03-8871755",
+                "address": "花蓮縣瑞穗鄉舞鶴村14鄰中正南路二段278號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.353568,
+                    23.460218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "鶴岡社區活動中心",
+                "phone": "03-8871751",
+                "address": "花蓮縣瑞穗鄉鶴岡村14鄰興鶴路一段85之6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.391098,
+                    23.509748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "奇美社區活動中心",
+                "phone": "03-8991103",
+                "address": "花蓮縣瑞穗鄉奇美村3鄰奇美16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.446613,
+                    23.494244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "富源社區活動中心",
+                "phone": "03-8811434",
+                "address": "花蓮縣瑞穗鄉富源村10鄰學士路31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.375882,
+                    23.577598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "富民社區活動中心",
+                "phone": "03-8811149",
+                "address": "花蓮縣瑞穗鄉富民村2鄰中正路一段208之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.374461,
+                    23.574269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣立瑞穗國民中學",
+                "phone": "03-8873111",
+                "address": "花蓮縣瑞穗鄉瑞穗村成功北路18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37587,
+                    23.498221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣瑞穗鄉瑞美國民小學",
+                "phone": "03-8872014",
+                "address": "花蓮縣瑞穗鄉瑞美村中山路二段389號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.391572,
+                    23.493117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "花蓮縣鶴岡國民小學",
+                "phone": "03-8872740",
+                "address": "花蓮縣瑞穗鄉鶴岡村興鶴路二段167號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.390219,
+                    23.523824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "馬遠社區活動中心",
+                "phone": "03-8811184",
+                "address": "花蓮縣萬榮鄉馬遠村1鄰5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.362683,
+                    23.576682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "花蓮縣",
+                "name": "瑞北國民小學",
+                "phone": "03-8811184",
+                "address": "花蓮縣萬榮鄉馬遠村瑞穗鄉中正北路二段35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.362205,
+                    23.577411
+                ]
+            }
+        }
+    ]
+}

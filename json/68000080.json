@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "元智大學",
+                "phone": "03-4638800-2276",
+                "address": "桃園市中壢區興仁里遠東路135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.263456,
+                    24.969897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大成國小",
+                "phone": "03-3661155#510",
+                "address": "桃園市八德區大成里廣福路31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.29849,
+                    24.958632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "茄明市民活動中心",
+                "phone": "0910260737",
+                "address": "桃園市八德區茄明里中華路27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.281854,
+                    24.986235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "高城市民活動中心",
+                "phone": "03-3692735",
+                "address": "桃園市八德區高城里高城六街60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.274037,
+                    24.978981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大勇國小",
+                "phone": "03-3682943#510",
+                "address": "桃園市八德區大勇里自強街60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.304039,
+                    24.968004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "八德社福館三樓",
+                "phone": "03-3752690",
+                "address": "桃園市八德區大智里大智里福國北街220號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.296843,
+                    24.963117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "正福市民活動中心",
+                "phone": "03-3683155",
+                "address": "桃園市八德區大福里大福街29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.300773,
+                    24.974657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "青少年活動中心",
+                "phone": "03-3683155#108",
+                "address": "桃園市八德區大發里興豐路2207號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.325365,
+                    24.953479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大漢市民活動中心",
+                "phone": "03-3764158",
+                "address": "桃園市八德區大漢里東勇一路51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.305074,
+                    24.964174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "瑞發市民活動中心",
+                "phone": "03-3688808",
+                "address": "桃園市八德區瑞發里瑞發街55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.299139,
+                    24.933741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "瑞興市民活動中心",
+                "phone": "03-3682846",
+                "address": "桃園市八德區瑞興里豐田路250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.289438,
+                    24.932801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大發市民活動中心",
+                "phone": "03-3628736",
+                "address": "桃園市八德區大發里興豐路2175號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.32352,
+                    24.952669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大宏市民活動中心",
+                "phone": "03-3643932",
+                "address": "桃園市八德區大宏里公園路139號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.297739,
+                    24.968121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "霄裡國小",
+                "phone": "03-3651101#510",
+                "address": "桃園市八德區竹園里山下街115號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.264217,
+                    24.93635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "建德公園",
+                "phone": "3683155#231",
+                "address": "桃園市八德區興仁里建德路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.281579,
+                    24.924031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大湳公園",
+                "phone": "3683155#231",
+                "address": "桃園市八德區大智里福國北街185巷3弄8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.295598,
+                    24.962315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "八德國中",
+                "phone": "03-3685322#510",
+                "address": "桃園市八德區興仁里興豐路321號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.286762,
+                    24.929876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大忠國小",
+                "phone": "03-3635206#510",
+                "address": "桃園市八德區大忠里忠誠街18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.300782,
+                    24.959893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大成國中",
+                "phone": "03-3625633#510",
+                "address": "桃園市八德區大千里忠勇街12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3051,
+                    24.958403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "八德國小",
+                "phone": "03-3682943#510",
+                "address": "桃園市八德區興豐路222號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.283683,
+                    24.928849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "永豐高中",
+                "phone": "03-3789414＃510",
+                "address": "桃園市八德區永豐里永豐路609號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.270099,
+                    24.975529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "茄苳國小",
+                "phone": "03-3611425#510",
+                "address": "桃園市八德區茄苳里永豐路155號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.278436,
+                    24.964789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "廣興國小",
+                "phone": "03-3666007#510",
+                "address": "桃園市八德區廣德里廣興路601巷25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.282718,
+                    24.945345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大安國小",
+                "phone": "03-3661419#510",
+                "address": "桃園市八德區大安里和平路638號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.315315,
+                    24.956365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "瑞豐國小",
+                "phone": "03-3682787#510",
+                "address": "桃園市八德區瑞泰里介壽路2段933巷40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.29835,
+                    24.935603
+                ]
+            }
+        }
+    ]
+}

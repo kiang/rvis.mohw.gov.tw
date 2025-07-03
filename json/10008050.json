@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "陸軍兵工整備發展中心",
+                "phone": "049-2781503",
+                "address": "南投縣集集鎮田寮里龍泉巷15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.751034,
+                    23.835896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "八張里里集會所暨社區活動中心",
+                "phone": "049-2762957",
+                "address": "南投縣集集鎮八張里八張街181號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.792115,
+                    23.830766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "集集國民中學",
+                "phone": "049-2762013",
+                "address": "南投縣集集鎮集集里成功路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.784477,
+                    23.831899
+                ]
+            }
+        }
+    ]
+}

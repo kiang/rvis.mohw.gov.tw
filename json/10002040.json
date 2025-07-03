@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "更新里-更新漁民活動中心",
+                "phone": "03-9772371#286",
+                "address": "宜蘭縣頭城鎮更新里頭城鎮濱海路三段93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.863369,
+                    24.902183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "城東里-城東社區活動中心",
+                "phone": "03-9771362",
+                "address": "宜蘭縣頭城鎮城東里頭城鎮城東里開蘭舊路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.824974,
+                    24.859148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "中崙里-中崙社區活動中心",
+                "phone": "03-9889234",
+                "address": "宜蘭縣頭城鎮中崙里頭城鎮中崙里路31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.802711,
+                    24.834782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "大溪里-大溪國小",
+                "phone": "03-9781044",
+                "address": "宜蘭縣頭城鎮大溪里頭城鎮大溪里濱海路五段250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.893244,
+                    24.940622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "石城里-石城社區活動中心",
+                "phone": "03-9772371#286",
+                "address": "宜蘭縣頭城鎮石城里頭城鎮石城里（路）40-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.949828,
+                    24.979949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "大里里-大里社區活動中心",
+                "phone": "03-9781377",
+                "address": "宜蘭縣頭城鎮大里里頭城鎮大里里濱海路六段251號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.920002,
+                    24.963908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "港口里-港口社區活動中心",
+                "phone": "03-9777768",
+                "address": "宜蘭縣頭城鎮港口里頭城鎮港口里（路）60-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.840317,
+                    24.876238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "福成里-福成社區活動中心",
+                "phone": "03-9779098",
+                "address": "宜蘭縣頭城鎮福成里頭城鎮福成里宜三路二段378號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.805065,
+                    24.861802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "金面里-協天廟",
+                "phone": "03-9771206",
+                "address": "宜蘭縣頭城鎮金面里頭城鎮金面里路354號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.801706,
+                    24.852983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "下埔里-下埔社區活動中心",
+                "phone": "03-9770771",
+                "address": "宜蘭縣頭城鎮下埔里頭城鎮下埔里路48-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.807785,
+                    24.836993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "二城里-二城社區活動中心",
+                "phone": "03-9772371#286",
+                "address": "宜蘭縣頭城鎮二城里頭城鎮二城里青雲路一段143號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79276,
+                    24.838822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "開成寺(城隍廟)1樓",
+                "phone": "03-9772423",
+                "address": "宜蘭縣頭城鎮新建里頭城鎮新建里吉祥路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82187,
+                    24.855674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "城北里-農會",
+                "phone": "03-9773100#58",
+                "address": "宜蘭縣頭城鎮城北里西五巷3-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.824247,
+                    24.859808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "大坑里-協天宮",
+                "phone": "03-9772050",
+                "address": "宜蘭縣頭城鎮大坑里頭城鎮大坑里協天路599號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83147,
+                    24.857185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "竹安里-竹安國小五育樓",
+                "phone": "03-9771178",
+                "address": "宜蘭縣頭城鎮竹安里頭城鎮竹安里頭濱路一段601號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.820629,
+                    24.825164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "頭城鎮公所",
+                "phone": "03-9772371#219",
+                "address": "宜蘭縣頭城鎮新建里開蘭路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.821468,
+                    24.854769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "外澳里-外澳社區活動中心",
+                "phone": "03-9779800",
+                "address": "宜蘭縣頭城鎮外澳里頭城鎮外澳里濱海路二段212號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.845787,
+                    24.88332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "新建里-新建社區活動中心",
+                "phone": "03-9773214",
+                "address": "宜蘭縣頭城鎮新建里頭城鎮新建里新興路234-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.819633,
+                    24.853946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "頂埔里-順天府池府王爺廟",
+                "phone": "03-9776535",
+                "address": "宜蘭縣頭城鎮頂埔里頭城鎮頂埔里路一段250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.814865,
+                    24.846142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "拔雅里-拔雅社區活動中心",
+                "phone": "03-9778503",
+                "address": "宜蘭縣頭城鎮拔雅里頭城鎮拔雅里復興路12巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.816564,
+                    24.861151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "武營里-頭城國小",
+                "phone": "03-9771011#101",
+                "address": "宜蘭縣頭城鎮武營里頭城鎮武營里開蘭路282號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.827116,
+                    24.862689
+                ]
+            }
+        }
+    ]
+}

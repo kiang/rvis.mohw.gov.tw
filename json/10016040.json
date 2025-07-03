@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "二崁社區活動中心",
+                "phone": "06-9981243",
+                "address": "澎湖縣西嶼鄉二崁村51-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.515297,
+                    23.604219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "小門社區活動中心",
+                "phone": "06-9981106",
+                "address": "澎湖縣西嶼鄉小門村小門村14-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.517354,
+                    23.652698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "竹灣社區活動中心",
+                "phone": "06-9981658",
+                "address": "澎湖縣西嶼鄉竹灣村竹灣村70-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.522791,
+                    23.631466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "大池社區活動中心",
+                "phone": "06-9983560",
+                "address": "澎湖縣西嶼鄉大池村大池村11-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.505619,
+                    23.617595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "西嶼國中體育館",
+                "phone": "06-9982611",
+                "address": "澎湖縣西嶼鄉池東村池東村123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.506048,
+                    23.599671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "內垵社區活動中心",
+                "phone": "06-9983537",
+                "address": "澎湖縣西嶼鄉內垵村內垵村43-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.501521,
+                    23.569265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "橫礁社區活動中心",
+                "phone": "06-9983379",
+                "address": "澎湖縣西嶼鄉橫礁村橫礁村37-1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.539714,
+                    23.638953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "合界社區活動中心",
+                "phone": "06-9981177",
+                "address": "澎湖縣西嶼鄉合界村合界村80-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.53116,
+                    23.638166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "赤馬社區活動中心",
+                "phone": "06-9981659",
+                "address": "澎湖縣西嶼鄉赤馬村146-13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.510606,
+                    23.582504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "外垵社區活動中心",
+                "phone": "06-9981660",
+                "address": "澎湖縣西嶼鄉外垵村外垵村4-26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.48381,
+                    23.564668
+                ]
+            }
+        }
+    ]
+}

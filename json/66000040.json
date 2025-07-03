@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市西區忠信國民小學",
+                "phone": "04-23722866分機731",
+                "address": "臺中市西區公民里林森路155號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.668572,
+                    24.139281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市西區區公所",
+                "phone": "04-22245200分機508",
+                "address": "臺中市西區平和里金山路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.671164,
+                    24.141169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市西區和龍民龍聯合里活動中心",
+                "phone": "04-22245200分機106",
+                "address": "臺中市西區民龍里西屯路1段169號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.670218,
+                    24.153545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市西區中正國民小學",
+                "phone": "04-2321204#731",
+                "address": "臺中市西區民龍里英才路423號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666109,
+                    24.151886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市西區忠明國民小學",
+                "phone": "04-23172860#731",
+                "address": "臺中市西區忠誠里臺灣大道二段556號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.659128,
+                    24.1578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立忠明高級中學",
+                "phone": "0423224690分機734",
+                "address": "臺中市西區忠明里博館路166號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663721,
+                    24.157858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市西區大勇國民小學",
+                "phone": "04-23755959分機731",
+                "address": "臺中市西區吉龍里忠明南路515號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.657801,
+                    24.134485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立向上國民中學-操場",
+                "phone": "04-23726085分機415",
+                "address": "臺中市西區双龍里美村路一段389號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66266,
+                    24.14342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市西區忠孝國民小學-操場",
+                "phone": "04-22242161分機731",
+                "address": "臺中市西區三民里三民路一段171號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.67366,
+                    24.137805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市西區萬壽公園",
+                "phone": "04-22245200#705",
+                "address": "臺中市西區公正里大墩路旁向上路與向上南路間"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.650127,
+                    24.144036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市西區東興公園",
+                "phone": "04-22289111#33510",
+                "address": "臺中市西區公平里東興路三段與大業路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653205,
+                    24.151225
+                ]
+            }
+        }
+    ]
+}

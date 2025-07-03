@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市社會福利備災中心",
+                "phone": "07-3368333#2062",
+                "address": "高雄市彌陀區彌陀里中正南路22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.256748,
+                    22.773236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "彌陀區公所",
+                "phone": "07-6191216轉60或轉65",
+                "address": "高雄市彌陀區彌仁里中華路4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.250639,
+                    22.781655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市彌陀區彌陀國民小學",
+                "phone": "07-6176300#31",
+                "address": "高雄市彌陀區彌靖里中正路213號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247781,
+                    22.783677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立彌陀國民中學（備用）",
+                "phone": "07-6178424#35",
+                "address": "高雄市彌陀區海尾里進學路136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.246579,
+                    22.777145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市彌陀區壽齡國民小學（備用）",
+                "phone": "07-6196625#731",
+                "address": "高雄市彌陀區文安里國校路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.234509,
+                    22.795345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市彌陀區南安國民小學（備用）",
+                "phone": "07-6191810#40",
+                "address": "高雄市彌陀區漯底里樂安路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.243506,
+                    22.763795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "彌仁社區活動中心（備用）",
+                "phone": "07-6191216#32",
+                "address": "高雄市彌陀區彌仁里中華路1巷1弄12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.249923,
+                    22.782191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "鹽埕過港社區康樂室（備用）",
+                "phone": "07-6191216#32",
+                "address": "高雄市彌陀區過港里鹽港二路53之6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.242585,
+                    22.787904
+                ]
+            }
+        }
+    ]
+}

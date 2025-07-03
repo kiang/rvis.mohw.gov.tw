@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "老人文康中心",
+                "phone": "04-7772006-1609",
+                "address": "彰化縣鹿港鎮順興里忠孝路403號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.433873,
+                    24.058228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "草中社區活動中心",
+                "phone": "0939091389",
+                "address": "彰化縣鹿港鎮草中里草中巷2-16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.462598,
+                    24.10413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "鹿港鎮公所",
+                "phone": "04-7772006#1716",
+                "address": "彰化縣鹿港鎮景福里民權路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.435052,
+                    24.057269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "景福社區活動中心",
+                "phone": "04-7775494",
+                "address": "彰化縣鹿港鎮景福里萬壽路244號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.436319,
+                    24.057079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "街尾里活動中心",
+                "phone": "0976409839",
+                "address": "彰化縣鹿港鎮街尾里力行街45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.435824,
+                    24.048287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "洛津國小",
+                "phone": "04-7772041",
+                "address": "彰化縣鹿港鎮洛津里公園三路51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.430642,
+                    24.054531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "海埔里民集會所",
+                "phone": "04-7751662",
+                "address": "彰化縣鹿港鎮海埔里鹿草路二段197號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.439234,
+                    24.071263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "文開國小",
+                "phone": "04-7772042",
+                "address": "彰化縣鹿港鎮新宮里文開路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.430235,
+                    24.057192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新興國小",
+                "phone": "04-7785911",
+                "address": "彰化縣鹿港鎮詔安里某旦巷85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.457055,
+                    24.072564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "東崎社區活動中心",
+                "phone": "0937746009",
+                "address": "彰化縣鹿港鎮東崎里東崎七巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.474975,
+                    24.056106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "溝墘社區活動中心",
+                "phone": "04-7775582",
+                "address": "彰化縣鹿港鎮溝墘里棋盤巷32之2號旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475461,
+                    24.064281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "鹿東國小",
+                "phone": "04-7756521",
+                "address": "彰化縣鹿港鎮頂厝里長安路125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.443305,
+                    24.058343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "鹿港鎮停一立體停車場",
+                "phone": "04-7772006#2607",
+                "address": "彰化縣鹿港鎮大有里公園一路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.432761,
+                    24.053429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "龍山寺",
+                "phone": "04-7772472",
+                "address": "彰化縣鹿港鎮龍山里金門巷81號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.435674,
+                    24.050267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "頭崙里集會所",
+                "phone": "04-7711517",
+                "address": "彰化縣鹿港鎮頭崙里頂草路二段150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.476972,
+                    24.091569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "菜園社區活動中心",
+                "phone": "0912629649",
+                "address": "彰化縣鹿港鎮菜園里復興南路422巷18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43252,
+                    24.050667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "頂番國小",
+                "phone": "04-7711433",
+                "address": "彰化縣鹿港鎮頂番里頂草路一段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.480191,
+                    24.087949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "洋厝社區活動中心",
+                "phone": "0931634629",
+                "address": "彰化縣鹿港鎮洋厝里洋厝巷42-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451933,
+                    24.099508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "山崙里活動中心",
+                "phone": "0972062529",
+                "address": "彰化縣鹿港鎮山崙里崙尾巷26-9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44829,
+                    24.111856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "國立鹿港高級中學",
+                "phone": "04-7772403",
+                "address": "彰化縣鹿港鎮東石里中山路661號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.424879,
+                    24.060739
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "信賢活動中心",
+                "phone": "02-26616442#152",
+                "address": "新北市烏來區信賢里信福路48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.525482,
+                    24.835595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "德拉楠民族實驗小學",
+                "phone": "2661-6124#200",
+                "address": "新北市烏來區福山里李茂岸55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.502519,
+                    24.775661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "綜合活動中心",
+                "phone": "02-26616442#104",
+                "address": "新北市烏來區烏來里烏來街34號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551198,
+                    24.863485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "福山活動中心",
+                "phone": "02-26616442#155",
+                "address": "新北市烏來區福山里2鄰李茂岸51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.502754,
+                    24.777563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "烏來國民中小學",
+                "phone": "02-2661648#51",
+                "address": "新北市烏來區烏來里啦卡路5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554224,
+                    24.863038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "忠治活動中心",
+                "phone": "02-26616442#221",
+                "address": "新北市烏來區忠治里忠治12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.548554,
+                    24.883664
+                ]
+            }
+        }
+    ]
+}

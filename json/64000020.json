@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鼓山區鼓山國民小學",
+                "phone": "5217795",
+                "address": "高雄市鼓山區惠安里臨海二路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.271257,
+                    22.623578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鼓山區鼓岩國民小學",
+                "phone": "5515513",
+                "address": "高雄市鼓山區河邊里河邊街155號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.282991,
+                    22.64012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鼓山區內惟國民小學",
+                "phone": "5515405",
+                "address": "高雄市鼓山區建國里內惟路73號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.276213,
+                    22.656528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鼓山區龍華國民小學",
+                "phone": "5553086-31",
+                "address": "高雄市鼓山區龍子里大順一路858號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29767,
+                    22.655044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "鼓山區行政中心七樓大禮堂",
+                "phone": "5311191",
+                "address": "高雄市鼓山區寶樹里鼓山二路166號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.281003,
+                    22.63678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立鼓山高級中學",
+                "phone": "5213258",
+                "address": "高雄市鼓山區正德里明德路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27469,
+                    22.651425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鼓山區九如國民小學",
+                "phone": "5317186",
+                "address": "高雄市鼓山區平和里九如四路763號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.278712,
+                    22.652148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鼓山區壽山國民小學",
+                "phone": "5514393-310",
+                "address": "高雄市鼓山區光化里鼓山二路37巷24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.280272,
+                    22.631474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立七賢國民中學",
+                "phone": "5559329",
+                "address": "高雄市鼓山區龍水里美術東三路110號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28928,
+                    22.657594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立明華國民中學",
+                "phone": "5502001",
+                "address": "高雄市鼓山區明誠里明誠三路582號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301597,
+                    22.661921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立壽山國民中學",
+                "phone": "5519150",
+                "address": "高雄市鼓山區光化里鼓山二路37巷108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27853,
+                    22.633362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市鼓山區中山國民小學",
+                "phone": "5505850-31",
+                "address": "高雄市鼓山區龍水里美術東二路252號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288633,
+                    22.656835
+                ]
+            }
+        }
+    ]
+}

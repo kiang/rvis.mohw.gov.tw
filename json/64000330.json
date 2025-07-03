@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市甲仙區小林國民小學（備用）",
+                "phone": "6761065100或400",
+                "address": "高雄市甲仙區小林里五里路24-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63203,
+                    23.148575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市甲仙區甲仙國民小學（備用）",
+                "phone": "6751025111或140",
+                "address": "高雄市甲仙區西安里文化路45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.589106,
+                    23.081475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "甲仙社會福利中心",
+                "phone": "07-6751920、07-6751921",
+                "address": "高雄市甲仙區和安里中正路65之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.588399,
+                    23.083981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "龍鳳寺（備用）",
+                "phone": "07-6751033",
+                "address": "高雄市甲仙區東安里油礦巷3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.600998,
+                    23.085508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立甲仙國民中學（備用）",
+                "phone": "6751018分機10、 6751018分機40",
+                "address": "高雄市甲仙區東安里文化南路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.592121,
+                    23.081116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "大田老人活動中心（備用）",
+                "phone": "07-6752640",
+                "address": "高雄市甲仙區大田里新興路49-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.582305,
+                    23.077967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "關山社區活動中心（備用）",
+                "phone": "0956557319",
+                "address": "高雄市甲仙區關山里中興路17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.605367,
+                    23.112586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "甲仙和安社區活動中心",
+                "phone": "0928725399",
+                "address": "高雄市甲仙區和安里中山路56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.587301,
+                    23.083883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "小林社區活動中心（備用）",
+                "phone": "07-6761455",
+                "address": "高雄市甲仙區小林里西拉雅路2巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635557,
+                    23.150342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "元宋太祖宮",
+                "phone": "07-6752559",
+                "address": "高雄市甲仙區寶隆里嶺頂巷65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564207,
+                    23.05074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "靈隱寺（備用）",
+                "phone": "07-6752123",
+                "address": "高雄市甲仙區寶隆里光華路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.555268,
+                    23.048466
+                ]
+            }
+        }
+    ]
+}

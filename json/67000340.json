@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市立民德國民中學",
+                "phone": "06-2223014#10",
+                "address": "臺南市北區和順里西門路三段223號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.205213,
+                    23.005362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區文元國民小學",
+                "phone": "06-3584371#801",
+                "address": "臺南市北區元美里海安路三段815號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.199951,
+                    23.015355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區公園國民小學",
+                "phone": "06-2223291#701",
+                "address": "臺南市北區公園里公園路180號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.209047,
+                    23.000246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "文元文成元美里活動中心",
+                "phone": "06-2110711#311",
+                "address": "臺南市北區元美里和緯路三段370號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.194182,
+                    23.00993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區裕民社區活動中心",
+                "phone": "06-2110711",
+                "address": "臺南市北區雙安里臨安路二段93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.197295,
+                    23.003191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區重興社區活動中心",
+                "phone": "06-2110711",
+                "address": "臺南市北區重興里東豐路451巷169號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.226645,
+                    23.003581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區區公所",
+                "phone": "06-2110711#131",
+                "address": "臺南市北區北華里成功路238巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.203014,
+                    22.999759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市立延平國民中學",
+                "phone": "06-2514720#102",
+                "address": "臺南市北區大興里公園路750號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.210683,
+                    23.009436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區開元國民小學",
+                "phone": "06-2375509#701",
+                "address": "臺南市北區長勝里開元路71巷32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.216736,
+                    23.007386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市立文賢國民中學",
+                "phone": "06-2587571#111",
+                "address": "臺南市北區雙安里文賢一路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.196199,
+                    23.005709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區東興社區活動中心",
+                "phone": "06-2110711",
+                "address": "臺南市北區東興里小東路401巷51號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.232235,
+                    22.999997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區實踐社區活動中心",
+                "phone": "06-2110711#136",
+                "address": "臺南市北區北門里大武街161號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.215771,
+                    23.013408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區賢北里活動中心",
+                "phone": "06-2110711",
+                "address": "臺南市北區賢北里賢北街108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183295,
+                    23.00854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區立人國民小學",
+                "phone": "06-2222054#888",
+                "address": "臺南市北區立人里西門路三段41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.202082,
+                    23.001335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區賢北國民小學",
+                "phone": "06-3501433#800",
+                "address": "臺南市北區賢北里大興街599號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.179143,
+                    23.007598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區大仁社區活動中心",
+                "phone": "06-2110711",
+                "address": "臺南市北區大興里和緯路一段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.216466,
+                    23.008942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區安民社區活動中心",
+                "phone": "06-2110711",
+                "address": "臺南市北區立人里海安路三段59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.199197,
+                    23.002224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "成德福德華德里聯合活動中心",
+                "phone": "06-2110711#311",
+                "address": "臺南市北區福德里育德三街42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.201869,
+                    23.013268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區大光國民小學",
+                "phone": "06-2518465#728",
+                "address": "臺南市北區大光里長榮路五段277號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.217725,
+                    23.012574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市立成功國民中學",
+                "phone": "06-2517906#111",
+                "address": "臺南市北區大光里和緯路一段2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21665,
+                    23.0093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市北區大港國民小學",
+                "phone": "06-2591941#801",
+                "address": "臺南市北區大港里大港街146號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.18902,
+                    23.01324
+                ]
+            }
+        }
+    ]
+}

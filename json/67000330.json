@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南區龍崗國小",
+                "phone": "06-2620024#703",
+                "address": "臺南市南區鯤鯓里鯤鯓路147號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1695532,
+                    22.9615332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南區永華國小",
+                "phone": "06-2641457#120",
+                "address": "臺南市南區開南里中華西路一段2巷17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1865679,
+                    22.9637029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南區灣裡聯合里活動中心",
+                "phone": "06-2627799",
+                "address": "臺南市南區省躬里灣裡路67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.180906,
+                    22.9323629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南區區公所",
+                "phone": "06-2910126",
+                "address": "臺南市南區南都里明興路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1886736,
+                    22.9610987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南區台南高商",
+                "phone": "06-2617123#711",
+                "address": "臺南市南區明德里健康路一段327號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2024015,
+                    22.9812002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南區開南里活動中心",
+                "phone": "06-2646033",
+                "address": "臺南市南區開南里新建路48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1851228,
+                    22.9645784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南區明興社區活動中心",
+                "phone": "06-2645237",
+                "address": "臺南市南區明興里德興路88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1921721,
+                    22.9651011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南區大成國中",
+                "phone": "06-2630011#601",
+                "address": "臺南市南區大成里西門路一段306號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1979001,
+                    22.9789408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南區南寧高級中學",
+                "phone": "06-2622458#29",
+                "address": "臺南市南區省躬里萬年路167號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1865576,
+                    22.9354056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南區新興國中",
+                "phone": "06-2633171分機130",
+                "address": "臺南市南區國宅里新孝路87號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1864738,
+                    22.9778072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南區國宅社區活動中心",
+                "phone": "06-2631259",
+                "address": "臺南市南區國宅里金華路二段33巷81號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1877528,
+                    22.9771078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南區鯤鯓里活動中心",
+                "phone": "06-2627917",
+                "address": "臺南市南區鯤鯓里鯤鯓路66巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1725243,
+                    22.9596339
+                ]
+            }
+        }
+    ]
+}

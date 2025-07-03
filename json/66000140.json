@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "四里聯合活動中心",
+                "phone": "04-26564311*160",
+                "address": "臺中市梧棲區南簡里梧棲區中正里中興路178巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.555087,
+                    24.251418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中正國小活動中心",
+                "phone": "04-26560844*752",
+                "address": "臺中市梧棲區福德里梧棲區福德里中央路二段15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538618,
+                    24.25044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "梧棲國中活動中心",
+                "phone": "04-26562850*100",
+                "address": "臺中市梧棲區文化里民生街12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.532799,
+                    24.252507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "梧棲國小活動中心",
+                "phone": "04-26562834分機1731",
+                "address": "臺中市梧棲區安仁里民生街15之89巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.532244,
+                    24.252155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大德國小風雨操場",
+                "phone": "04-26568928*241",
+                "address": "臺中市梧棲區大村里文昌路343號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542163,
+                    24.243535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "永寧國小操場",
+                "phone": "04-26394234分機730",
+                "address": "臺中市梧棲區永寧里中央路一段 160 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53255,
+                    24.228964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "頂寮社區活動中心",
+                "phone": "04-26571372",
+                "address": "臺中市梧棲區頂寮里頂寮里八德東路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.528769,
+                    24.271808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大庄社區活動中心",
+                "phone": "04-26567430",
+                "address": "臺中市梧棲區大庄里梧棲區大庄里文華街168巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542571,
+                    24.2463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市立中港高級中學體育館",
+                "phone": "04-26578270*9501",
+                "address": "臺中市梧棲區大村里梧棲區大村里文昌路350號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543469,
+                    24.244385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中港高中地下一樓會議教室",
+                "phone": "04-26578270#9501",
+                "address": "臺中市梧棲區大村里梧棲區大村里文昌路400號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542153,
+                    24.244793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中港國小視聽教室",
+                "phone": "04-26655929分機273",
+                "address": "臺中市梧棲區大村里梧棲區大村里文明街100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.555271,
+                    24.240613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中正社區活動中心",
+                "phone": "04-26562339",
+                "address": "臺中市梧棲區中正里梧棲區中正里臨港路四段246號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.527137,
+                    24.258293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "草湳里活動中心",
+                "phone": "04-26566223",
+                "address": "臺中市梧棲區草湳里自強二街61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.530148,
+                    24.240691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "梧南國小3樓視聽教室",
+                "phone": "04-26567968分機730",
+                "address": "臺中市梧棲區草湳里文化路一段6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.528155,
+                    24.244705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "梧棲區公所四樓禮堂",
+                "phone": "04-26564311分機110",
+                "address": "臺中市梧棲區中正里中和街66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531678,
+                    24.254916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "情人公園",
+                "phone": "04-26564311分機154",
+                "address": "臺中市梧棲區中正里雲集街"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53312,
+                    24.254241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "頂魚寮公園",
+                "phone": "04-26564311 分機154",
+                "address": "臺中市梧棲區頂寮里八德東路100號旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536063,
+                    24.264731
+                ]
+            }
+        }
+    ]
+}

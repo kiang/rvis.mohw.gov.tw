@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "虎尾廳",
+                "phone": "05-6322132#219",
+                "address": "雲林縣虎尾鎮新興里行政路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.445083,
+                    23.708366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "虎尾國小體育館",
+                "phone": "05-6322026-21",
+                "address": "雲林縣虎尾鎮公安里明正路88號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43149,
+                    23.71347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "虎尾鎮多功能活動中心",
+                "phone": "05-6322132-203",
+                "address": "雲林縣虎尾鎮平和里大成街123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.448075,
+                    23.71254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "虎尾高級農工職業學校活動中心",
+                "phone": "05-6322767-506",
+                "address": "雲林縣虎尾鎮公安里博愛路65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.436847,
+                    23.71461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "崇德國中桌球館",
+                "phone": "05-6341283 -043",
+                "address": "雲林縣虎尾鎮廉使里文科路1530號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.417329,
+                    23.717133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "虎尾鎮立體育場",
+                "phone": "05-6322132-299",
+                "address": "雲林縣虎尾鎮公安里5鄰水源路10-10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434597,
+                    23.713173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "頂溪多功能活動中心",
+                "phone": "05-6322132#203",
+                "address": "雲林縣虎尾鎮頂溪里頂竹圍5-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.468335,
+                    23.726001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "雲林縣虎尾鎮大屯國民小學",
+                "phone": "05-6651284#203",
+                "address": "雲林縣虎尾鎮東屯里９鄰大屯１４７"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.387727,
+                    23.703696
+                ]
+            }
+        }
+    ]
+}

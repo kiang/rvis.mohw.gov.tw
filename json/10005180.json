@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "大興村活動中心",
+                "phone": "037-990381",
+                "address": "苗栗縣泰安鄉大興村1鄰高熊卡22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.910816,
+                    24.421085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "錦水村活動中心戶外廣場",
+                "phone": "037-941051",
+                "address": "苗栗縣泰安鄉錦水村5鄰19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.942768,
+                    24.465223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "梅園村活動中心戶外廣場",
+                "phone": "0930703910",
+                "address": "苗栗縣泰安鄉梅園村6鄰36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971797,
+                    24.388812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "八卦村活動中心",
+                "phone": "037-995837",
+                "address": "苗栗縣泰安鄉八卦村3鄰50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93252,
+                    24.489583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "象鼻村活動中心",
+                "phone": "037-962351",
+                "address": "苗栗縣泰安鄉象鼻村1鄰7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.947019,
+                    24.360527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "梅園村活動中心",
+                "phone": "0930703910",
+                "address": "苗栗縣泰安鄉梅園村6鄰36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971797,
+                    24.388812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "富民社區活動中心戶外廣場",
+                "phone": "037-941025",
+                "address": "苗栗縣泰安鄉清安村2鄰80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.907448,
+                    24.447755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "富民活動中心",
+                "phone": "037-941017",
+                "address": "苗栗縣泰安鄉清安村2鄰80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.907448,
+                    24.447755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "錦水村活動中心",
+                "phone": "037-941325",
+                "address": "苗栗縣泰安鄉錦水村5鄰19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.942768,
+                    24.465223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "八卦村活動中心戶外操場",
+                "phone": "0916332165",
+                "address": "苗栗縣泰安鄉八卦村3鄰50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93252,
+                    24.489583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "士林國小",
+                "phone": "0906766337",
+                "address": "苗栗縣泰安鄉士林村5鄰26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.930408,
+                    24.347888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "細道邦長老教會",
+                "phone": "037-994370",
+                "address": "苗栗縣泰安鄉中興村1鄰長橋13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.920265,
+                    24.393771
+                ]
+            }
+        }
+    ]
+}

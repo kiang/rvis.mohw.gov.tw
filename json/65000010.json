@@ -1,0 +1,661 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "民生市民活動中心",
+                "phone": "02-29541201",
+                "address": "新北市板橋區東丘里民生路一段30之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47682,
+                    25.01366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "江翠國中",
+                "phone": "02-89790504#260",
+                "address": "新北市板橋區文化里松江街63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.468438,
+                    25.028945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "浮洲運動公園",
+                "phone": "02-29686911#601",
+                "address": "新北市板橋區浮洲里僑中一街124巷與80巷交會處"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447973,
+                    25.012505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "四維公園市民活動中心",
+                "phone": "0928295829",
+                "address": "新北市板橋區陽明里陽明街166號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.463635,
+                    25.024684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "五權公園市民活動中心",
+                "phone": "0916760568",
+                "address": "新北市板橋區五權里廣權路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.465644,
+                    24.992992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新興市民活動中心",
+                "phone": "0952358218",
+                "address": "新北市板橋區新興里3鄰中興路63號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45543,
+                    25.007356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "板橋第二運動公園",
+                "phone": "02-29686911#601",
+                "address": "新北市板橋區社後里民權路117號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.458337,
+                    25.013819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新埔國小",
+                "phone": "02-22571830#821",
+                "address": "新北市板橋區新翠里陽明街206號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.462594,
+                    25.025883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "音樂公園市民活動中心",
+                "phone": "0918597026",
+                "address": "新北市板橋區福翠里懷德街235巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.480925,
+                    25.028281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新埔國中",
+                "phone": "02-22572275#512",
+                "address": "新北市板橋區新海里新海路181號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.459653,
+                    25.024896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "信義國小",
+                "phone": "02-89667817#121",
+                "address": "新北市板橋區華德里四川路二段245巷60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.452813,
+                    24.991737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中山國中",
+                "phone": "02-22508250#231",
+                "address": "新北市板橋區新民里文化路一段188巷56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.467476,
+                    25.018554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "光復高中",
+                "phone": "02-29582366#140",
+                "address": "新北市板橋區富貴里光環路一段7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.482155,
+                    25.016618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "溪崑國中",
+                "phone": "02-26869727#383",
+                "address": "新北市板橋區崑崙里大觀路三段50巷30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.431397,
+                    24.996791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "重慶國中",
+                "phone": "02-29543001#501",
+                "address": "新北市板橋區重慶里國慶路221號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.463157,
+                    24.998189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "海山高中",
+                "phone": "02-29517475#359",
+                "address": "新北市板橋區深丘里漢生東路215號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.470885,
+                    25.010154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大觀國中",
+                "phone": "02-22725015#830",
+                "address": "新北市板橋區浮洲里僑中一街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448524,
+                    25.011251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "板橋莊敬市民活動中心",
+                "phone": "0909761304",
+                "address": "新北市板橋區莊敬里民生路二段120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.470778,
+                    25.019712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "南雅公園市民活動中心",
+                "phone": "02-29527480",
+                "address": "新北市板橋區華興里南雅南路2段1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.454672,
+                    25.003405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "國光國小",
+                "phone": "02-29680612#701",
+                "address": "新北市板橋區香社里中正路325巷30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45335,
+                    25.019421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "板橋國中",
+                "phone": "02-29666498#650",
+                "address": "新北市板橋區中正里中正路437號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.454159,
+                    25.024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "忠孝國中",
+                "phone": "02-29631350#400",
+                "address": "新北市板橋區福星里重慶路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.462006,
+                    25.004259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "溪洲國小",
+                "phone": "02-26867705#50",
+                "address": "新北市板橋區堂春里金門街289號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.431281,
+                    24.987959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "重慶國小",
+                "phone": "02-29565592#301",
+                "address": "新北市板橋區五權里廣和街31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.462423,
+                    24.994453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "埔墘國小",
+                "phone": "02-29616690#310",
+                "address": "新北市板橋區光仁里永豐街42之8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.474076,
+                    25.018075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "實踐國小",
+                "phone": "02-29531233#141",
+                "address": "新北市板橋區國泰里實踐路93巷51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.466392,
+                    25.005018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "後埔國小",
+                "phone": "02-29614142#832",
+                "address": "新北市板橋區福星里重慶路157號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.462699,
+                    25.003346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "大觀國小",
+                "phone": "02-29603373#830",
+                "address": "新北市板橋區浮洲里大觀路一段30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44935,
+                    25.00861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "莒光國小",
+                "phone": "02-22517272#105",
+                "address": "新北市板橋區華翠里莒光路163號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.474228,
+                    25.025182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中山國小",
+                "phone": "02-227553132#142",
+                "address": "新北市板橋區中山里大觀路二段59巷31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447687,
+                    25.002303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "沙崙國小",
+                "phone": "02-26812764#831",
+                "address": "新北市板橋區溪北里篤行路二段132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.430535,
+                    24.989747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "板橋高中",
+                "phone": "02-29602500#430",
+                "address": "新北市板橋區黃石里文化路一段25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4591,
+                    25.011683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "板橋國小",
+                "phone": "02-29686834#831",
+                "address": "新北市板橋區黃石里文化路一段23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.458198,
+                    25.010805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "文德國小",
+                "phone": "02-22577193#61",
+                "address": "新北市板橋區幸福里英士路179號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.458501,
+                    25.02251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "江翠國小",
+                "phone": "02-22526880#231",
+                "address": "新北市板橋區柏翠里文化路二段413號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.473881,
+                    25.032039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "文聖國小",
+                "phone": "02-22530782#813",
+                "address": "新北市板橋區松柏里文聖街86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.477474,
+                    25.029222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "海山國小",
+                "phone": "02-29545725#531",
+                "address": "新北市板橋區深丘里漢生東路280號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.470862,
+                    25.009457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "板橋第一運動公園",
+                "phone": "02-29686911#601",
+                "address": "新北市板橋區深丘里漢生東路278號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.469292,
+                    25.010591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "國光市民活動中心",
+                "phone": "0952358218",
+                "address": "新北市板橋區國光里國光路76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.458335,
+                    25.017762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "溪洲公園市民活動中心",
+                "phone": "0921153671",
+                "address": "新北市板橋區溪洲里溪崑二街113號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.426612,
+                    24.988475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "和平公園市民活動中心",
+                "phone": "02-2968-6911#279",
+                "address": "新北市板橋區廣德里重慶路355號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.464811,
+                    24.997807
+                ]
+            }
+        }
+    ]
+}

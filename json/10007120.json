@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "明禮國小藝能館",
+                "phone": "04-8742344#13",
+                "address": "彰化縣田中鎮三光里民光路一段394號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566551,
+                    23.875212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "內安國小",
+                "phone": "04-8742252#103",
+                "address": "彰化縣田中鎮新庄里中南路三段 54 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.599733,
+                    23.853687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "景崧文化教育園區-龍江館",
+                "phone": "04-8746062",
+                "address": "彰化縣田中鎮梅州里中州路一段416號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.581199,
+                    23.857892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大安國小",
+                "phone": "04-8742327#12",
+                "address": "彰化縣田中鎮三安里大安路1段200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.594421,
+                    23.84064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "東和國小",
+                "phone": "04-8742708",
+                "address": "彰化縣田中鎮復興里山腳路四段188巷109號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.606235,
+                    23.867481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "田中鎮立圖書館",
+                "phone": "04-8742138",
+                "address": "彰化縣田中鎮中路里中新路229號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.590194,
+                    23.857199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "龍潭社區活動中心",
+                "phone": "04-8756266",
+                "address": "彰化縣田中鎮龍潭里大社路1段216巷100弄20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.580808,
+                    23.867647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "昭天宮",
+                "phone": "04-8744798",
+                "address": "彰化縣田中鎮大崙里大安路2段臨312號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59486,
+                    23.83192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "三潭國小活動中心",
+                "phone": "04-8742254#13",
+                "address": "彰化縣田中鎮北路里中正路715號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.585127,
+                    23.8653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新庄社區活動中心",
+                "phone": "04-8756317",
+                "address": "彰化縣田中鎮新庄里中山街134號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.593742,
+                    23.856235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "田中國小活動中心",
+                "phone": "04-8742013#716",
+                "address": "彰化縣田中鎮南路里中州路一段177號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.587504,
+                    23.857327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "舊街社區活動中心",
+                "phone": "0933527566",
+                "address": "彰化縣田中鎮沙崙里沙崙路281號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.583097,
+                    23.851116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "三光社區活動中心",
+                "phone": "04-8750532",
+                "address": "彰化縣田中鎮三光里民光路1段392巷25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566971,
+                    23.875934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新民國小",
+                "phone": "04-8756166#131",
+                "address": "彰化縣田中鎮新民里公館路320號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58574,
+                    23.854282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "田中鎮民活動中心",
+                "phone": "04-8761122#265",
+                "address": "彰化縣田中鎮西路里斗中路一段198號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.580946,
+                    23.861514
+                ]
+            }
+        }
+    ]
+}

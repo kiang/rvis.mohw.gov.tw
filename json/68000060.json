@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "北港市民活動中心",
+                "phone": "0933145579",
+                "address": "桃園市大園區北港里9鄰潮音二路226號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.169248,
+                    25.076208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大園國小",
+                "phone": "03-3862030#510",
+                "address": "桃園市大園區橫峰里中正東路160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.202701,
+                    25.060144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大園市民活動中心",
+                "phone": "0932169971",
+                "address": "桃園市大園區大園里和平東路89號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.200352,
+                    25.062649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大園區老人文康活動中心",
+                "phone": "03-3842494",
+                "address": "桃園市大園區田心里大觀路118號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.193567,
+                    25.065996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大園國中",
+                "phone": "03-3862029#510",
+                "address": "桃園市大園區南港里園科路400號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.171138,
+                    25.053528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "竹圍國中",
+                "phone": "03-3835026#511",
+                "address": "桃園市大園區沙崙里2鄰海港路2巷87號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.238647,
+                    25.109701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "航空城客運園區公1公園",
+                "phone": "03-3396122#101",
+                "address": "桃園市大園區南港里園科路、科二街交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.172672,
+                    25.057213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "菓林國小",
+                "phone": "03-3835096#510",
+                "address": "桃園市大園區菓林里12鄰41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.256047,
+                    25.07749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "溪海國小",
+                "phone": "03-3862174＃510",
+                "address": "桃園市大園區溪海里和平西路一段420號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.186725,
+                    25.046873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "潮音國小",
+                "phone": "03-3862834#510",
+                "address": "桃園市大園區北港里潮音路一段188號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1730075,
+                    25.0652601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "內海國小",
+                "phone": "03-3862844#510",
+                "address": "桃園市大園區內海里學府路76巷32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.190695,
+                    25.086556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "埔心國小",
+                "phone": "03-3812304#510",
+                "address": "桃園市大園區埔心里大園區中正東路一段189巷35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.225201,
+                    25.049073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "五權國小",
+                "phone": "03-3812803#510",
+                "address": "桃園市大園區五權里大園區中正東路二段539號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.231067,
+                    25.023807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "桃園市",
+                "name": "大園國際高中",
+                "phone": "03-3813001#510",
+                "address": "桃園市大園區橫峰里大園區大成路二段8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.212421,
+                    25.035015
+                ]
+            }
+        }
+    ]
+}

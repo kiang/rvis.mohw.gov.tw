@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "西勢社區活動中心",
+                "phone": "04-8857537",
+                "address": "彰化縣溪湖鎮西勢里西安路117巷36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.476643,
+                    23.931225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "湖北國小",
+                "phone": "0929775940",
+                "address": "彰化縣溪湖鎮太平里地政路201號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475729,
+                    23.965371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "老人文康中心",
+                "phone": "04-8852121",
+                "address": "彰化縣溪湖鎮大竹里德華街17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47851,
+                    23.956882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "溪湖鎮立幼兒園",
+                "phone": "04-8817180",
+                "address": "彰化縣溪湖鎮媽厝里湳底路16-30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.50648,
+                    23.937684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "東溪國小",
+                "phone": "04-8852034",
+                "address": "彰化縣溪湖鎮東溪里員鹿路一段538號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.497998,
+                    23.954128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "溪湖國小",
+                "phone": "04-8853126#213",
+                "address": "彰化縣溪湖鎮光華里二溪路一段35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.478528,
+                    23.95923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "媽厝國小",
+                "phone": "04-8853225#818",
+                "address": "彰化縣溪湖鎮媽厝里湳底路67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.496022,
+                    23.941184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "湖東國小",
+                "phone": "0935111601",
+                "address": "彰化縣溪湖鎮湖東里大溪路二段423號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.482446,
+                    23.964312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "溪湖鎮公所",
+                "phone": "04-8852121",
+                "address": "彰化縣溪湖鎮湖東里青雅路58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.483718,
+                    23.966349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "河東社區活動中心",
+                "phone": "0932683781",
+                "address": "彰化縣溪湖鎮河東里河東路281號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.448671,
+                    23.962264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "大庭社區活動中心",
+                "phone": "04-8815617",
+                "address": "彰化縣溪湖鎮大庭里崙仔腳路34-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.498587,
+                    23.948468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "溪湖國中",
+                "phone": "04-8852132#501",
+                "address": "彰化縣溪湖鎮東寮里彰水路四段60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.480417,
+                    23.966875
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "賓朗村活動中心",
+                "phone": "089-222054",
+                "address": "臺東縣卑南鄉賓朗村賓朗村18鄰賓朗路474巷3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.092904,
+                    22.808209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "初鹿村多功能暨老人活動中心",
+                "phone": "089-571703",
+                "address": "臺東縣卑南鄉初鹿村初鹿村忠孝路165號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.092522,
+                    22.860645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "太平村活動中心",
+                "phone": "089-380948",
+                "address": "臺東縣卑南鄉太平村太平村和平路128巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088375,
+                    22.781974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "東興村活動中心",
+                "phone": "089-382505",
+                "address": "臺東縣卑南鄉東興村東興村東園一街120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.041081,
+                    22.764889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "富源村活動中心",
+                "phone": "089-223084",
+                "address": "臺東縣卑南鄉富源村富源村8鄰118號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.149689,
+                    22.812553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "溫泉國民小學",
+                "phone": "089-512354#203",
+                "address": "臺東縣卑南鄉溫泉村溫泉村11鄰溫泉路291號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02593,
+                    22.697666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "富山村活動中心",
+                "phone": "089-281343",
+                "address": "臺東縣卑南鄉富山村富山村3鄰漁場路64號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.189334,
+                    22.820798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "利吉村活動中心",
+                "phone": "089-222304",
+                "address": "臺東縣卑南鄉利吉村3鄰利吉路52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.134111,
+                    22.824082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "賓朗老人暨多功能活動中心",
+                "phone": "089-381368#332",
+                "address": "臺東縣卑南鄉賓朗村賓朗村18鄰賓朗路474巷3-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.092873,
+                    22.808418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "美農村(菸草間)活動中心",
+                "phone": "089-571054",
+                "address": "臺東縣卑南鄉美農村美農村煙草間34-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.09831,
+                    22.828068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "初鹿國民小學",
+                "phone": "089-571027",
+                "address": "臺東縣卑南鄉初鹿村梅園路97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.09208,
+                    22.860167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "太平國民小學",
+                "phone": "089-381418#221",
+                "address": "臺東縣卑南鄉泰安村泰安村6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.075772,
+                    22.790804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "泰安活動中心",
+                "phone": "089-381180",
+                "address": "臺東縣卑南鄉泰安村泰安村5鄰泰安路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.067371,
+                    22.793873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "利嘉村活動中心",
+                "phone": "089-382446",
+                "address": "臺東縣卑南鄉利嘉村利嘉村17鄰利嘉路669號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.062252,
+                    22.775964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "大南國民小學",
+                "phone": "089-382402#203",
+                "address": "臺東縣卑南鄉東興村東興村東園一街40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.043038,
+                    22.764927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "溫泉村活動中心",
+                "phone": "089-512744",
+                "address": "臺東縣卑南鄉溫泉村溫泉村11鄰溫泉路293號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.025091,
+                    22.697823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "東成國民小學",
+                "phone": "089-571124#203",
+                "address": "臺東縣卑南鄉美農村美農村斑鳩92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.105783,
+                    22.838304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "富山國民小學",
+                "phone": "089-281086*151",
+                "address": "臺東縣卑南鄉富山村富山村3鄰漁場路66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.190095,
+                    22.821415
+                ]
+            }
+        }
+    ]
+}

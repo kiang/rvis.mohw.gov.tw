@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣池上鄉萬安國民小學",
+                "phone": "089-862371",
+                "address": "臺東縣池上鄉萬安村1鄰5號之2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.219067,
+                    23.09522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣立池上國民中學",
+                "phone": "089-862040",
+                "address": "臺東縣池上鄉新興村7鄰新興82-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.212611,
+                    23.117415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "米鄉-池上文化館",
+                "phone": "089-862041",
+                "address": "臺東縣池上鄉福原村公園路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210358,
+                    23.121708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣池上鄉大坡國民小學",
+                "phone": "089-862664",
+                "address": "臺東縣池上鄉慶豐村87號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.230773,
+                    23.125544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣池上鄉萬安民小學振興分校",
+                "phone": "089-864898",
+                "address": "臺東縣池上鄉振興村6鄰振興36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.195671,
+                    23.0435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣池上鄉福原國民小學",
+                "phone": "089-862017",
+                "address": "臺東縣池上鄉福原村中華路17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.215367,
+                    23.125069
+                ]
+            }
+        }
+    ]
+}

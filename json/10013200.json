@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "溪北社區活動中心",
+                "phone": "08-8645481",
+                "address": "屏東縣南州鄉溪北村仁里路93號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.51105,
+                    22.494547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "溪北國小",
+                "phone": "08-8642081",
+                "address": "屏東縣南州鄉溪北村仁里路102號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.511062,
+                    22.495771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "南州鄉運動公園",
+                "phone": "08-8642196",
+                "address": "屏東縣南州鄉溪北村勝利路160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.513047,
+                    22.490161
+                ]
+            }
+        }
+    ]
+}

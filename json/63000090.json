@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市南港區舊莊國民小學",
+                "phone": "02-27821418#100",
+                "address": "臺北市南港區舊莊里舊莊街一段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.619575,
+                    25.040268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立育成高級中學",
+                "phone": "02-26530475#501",
+                "address": "臺北市南港區南港里重陽路366號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.609168,
+                    25.058684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立南港高級中學",
+                "phone": "02-27837863#211",
+                "address": "臺北市南港區西新里南港區向陽路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.593183,
+                    25.055107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市南港區成德國民小學",
+                "phone": "02-27851376#111",
+                "address": "臺北市南港區聯成里南港區東新街65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.586873,
+                    25.046893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立成德國民中學",
+                "phone": "02-26515636#101",
+                "address": "臺北市南港區成福里東新街108巷23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.587802,
+                    25.045062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "南港公園",
+                "phone": "02-27884255",
+                "address": "臺北市南港區成福里東新街170-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.591241,
+                    25.045771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市南港運動中心",
+                "phone": "02-2570-2330#6427",
+                "address": "臺北市南港區合成里臺北市南港區玉成街69號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.588382,
+                    25.05294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市極限運動訓練中心",
+                "phone": "02-2570-2330#6427",
+                "address": "臺北市南港區中南里臺北市南港區忠孝東路七段382號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.607288,
+                    25.051898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市南港區玉成國民小學",
+                "phone": "02-27836049#110",
+                "address": "臺北市南港區西新里向陽路31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.594757,
+                    25.053615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市南港區東新國民小學",
+                "phone": "02-26512663",
+                "address": "臺北市南港區東新里興南街62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.602042,
+                    25.056191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立南港高級工業職業學校",
+                "phone": "02-27825432#1001",
+                "address": "臺北市南港區南港里興中路29號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.607192,
+                    25.056335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市南港區南港國民小學",
+                "phone": "02-27834678#2801",
+                "address": "臺北市南港區三重里惠民街67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610426,
+                    25.057483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市南港區胡適國民小學",
+                "phone": "02-27824949#980",
+                "address": "臺北市南港區中研里舊莊街一段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61721,
+                    25.042399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市誠正國民中學",
+                "phone": "02-27828094#1111",
+                "address": "臺北市南港區新富里富康街1巷24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.618745,
+                    25.054112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市南港區修德國民小學",
+                "phone": "02-27880500#111",
+                "address": "臺北市南港區成福里東新街118巷86號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.589639,
+                    25.045545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "玉成公園",
+                "phone": "02-27884255",
+                "address": "臺北市南港區鴻福里中坡南路55號."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58575,
+                    25.041864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處中研市場地下停車場",
+                "phone": "02-25505220#2144",
+                "address": "臺北市南港區中研里臺北市南港區研究院路二段70巷12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.614546,
+                    25.045514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "南港展覽館站",
+                "phone": "25505600#6182",
+                "address": "臺北市南港區新富里臺北市南港區研究院路1段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.616829,
+                    25.054857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "南港轉運站西站",
+                "phone": "095361856",
+                "address": "臺北市南港區中南里臺北市南港區忠孝東路7段359號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606056,
+                    25.052512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館南港分館",
+                "phone": "02-27825232",
+                "address": "臺北市南港區南港里臺北市南港區南港路一段350號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.608261,
+                    25.05486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館舊莊分館",
+                "phone": "02-27837212#9",
+                "address": "臺北市南港區舊莊里臺北市南港區舊莊街一段91巷11號2-5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.619457,
+                    25.041346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北流行音樂中心",
+                "phone": "02-27886620#8411",
+                "address": "臺北市南港區東明里市民大道八段99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.598507,
+                    25.052638
+                ]
+            }
+        }
+    ]
+}

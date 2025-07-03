@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "後壁國小",
+                "phone": "06-6872915#12",
+                "address": "臺南市後壁區後壁里195號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3662453,
+                    23.3665938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "新東國小",
+                "phone": "06-6320902#11",
+                "address": "臺南市後壁區長短樹里下長81號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3159257,
+                    23.3444873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "烏樹里活動中心",
+                "phone": "06-6362174",
+                "address": "臺南市後壁區福安里烏樹林28之5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.37786,
+                    23.3350187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "新嘉里活動中心",
+                "phone": "06-6621367",
+                "address": "臺南市後壁區新嘉里16鄰172號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310790251,
+                    23.371511774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市後壁區公所",
+                "phone": "06-6872284#304",
+                "address": "臺南市後壁區後壁里129號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36197,
+                    23.36613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "上茄苳里活動中心",
+                "phone": "06-6881965",
+                "address": "臺南市後壁區上茄苳里46-28號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3825957,
+                    23.3872074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "後壁侯伯聯合活動中心",
+                "phone": "06-6871636",
+                "address": "臺南市後壁區後壁里後壁193號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3663576,
+                    23.3675426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "菁寮國小",
+                "phone": "06-6621271#101",
+                "address": "臺南市後壁區菁寮里菁寮282號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3392414,
+                    23.3791071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "新嘉國小",
+                "phone": "06-6621981#15",
+                "address": "臺南市後壁區新嘉里新嘉210-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3095987,
+                    23.3727036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "菁豐里活動中心",
+                "phone": "06-6621924",
+                "address": "臺南市後壁區菁豐里菁豐74號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346632,
+                    23.377994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "樹人國小",
+                "phone": "06-6856445#101",
+                "address": "臺南市後壁區福安里5鄰烏樹林145號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3771894,
+                    23.3293093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "安溪國小",
+                "phone": "06-6361535#101",
+                "address": "臺南市後壁區長安里5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3609063,
+                    23.332898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "土溝里活動中心",
+                "phone": "06-6871921",
+                "address": "臺南市後壁區土溝里56-18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3871053,
+                    23.3736364
+                ]
+            }
+        }
+    ]
+}

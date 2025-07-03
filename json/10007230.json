@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "路上國小",
+                "phone": "04-8982014分機17",
+                "address": "彰化縣芳苑鄉路上村新上路12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32831,
+                    23.896073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "王功國小",
+                "phone": "04-8932182#703",
+                "address": "彰化縣芳苑鄉王功村功湖路王功段481號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.342089,
+                    23.965045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "漢寶社區活動中心",
+                "phone": "04-8991002",
+                "address": "彰化縣芳苑鄉漢寶村成功一路45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368872,
+                    24.005789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "後寮國小",
+                "phone": "04-8983184#12",
+                "address": "彰化縣芳苑鄉後寮村芳寮路30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.341748,
+                    23.92085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "草湖國中",
+                "phone": "04-8857239#206",
+                "address": "彰化縣芳苑鄉草湖村功湖路草湖段140號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.378361,
+                    23.9583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新寶國小",
+                "phone": "04-8932885",
+                "address": "彰化縣芳苑鄉新寶村芳漢路129巷100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.345102,
+                    23.978273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "芳苑鄉立示範幼兒園",
+                "phone": "04-8965095",
+                "address": "彰化縣芳苑鄉三合村工區一路45巷83弄17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.347451,
+                    23.90782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "漢寶國小",
+                "phone": "04-8991062 #12",
+                "address": "彰化縣芳苑鄉漢寶村草漢路漢寶段541號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.384692,
+                    24.006965
+                ]
+            }
+        }
+    ]
+}

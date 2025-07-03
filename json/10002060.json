@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "順和活動中心",
+                "phone": "03-9308116",
+                "address": "宜蘭縣壯圍鄉忠孝村壯圍鄉忠孝村順和路47-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.801706,
+                    24.751854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "過嶺活動中心",
+                "phone": "03-9301160",
+                "address": "宜蘭縣壯圍鄉過嶺村壯圍鄉過村壯濱路3段295號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.815386,
+                    24.759456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "壯五活動中心",
+                "phone": "0977334118",
+                "address": "宜蘭縣壯圍鄉吉祥村壯圍鄉吉祥村壯五路63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.786457,
+                    24.748476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "美福活動中心",
+                "phone": "0939911927",
+                "address": "宜蘭縣壯圍鄉美福村美福路三段92巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.780418,
+                    24.725268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "新南活動中心",
+                "phone": "0909293888",
+                "address": "宜蘭縣壯圍鄉新南村壯圍鄉新南村美福路一段76號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.798438,
+                    24.723382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "古結活動中心",
+                "phone": "0952600276",
+                "address": "宜蘭縣壯圍鄉古結村壯圍鄉古結村古結路237號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.803042,
+                    24.729769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "美城活動中心",
+                "phone": "0912592816",
+                "address": "宜蘭縣壯圍鄉美城村壯圍鄉美城村永美路2段121號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788925,
+                    24.77736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "壯六活動中心",
+                "phone": "03-9304321",
+                "address": "宜蘭縣壯圍鄉忠孝村壯圍鄉忠孝村壯六路47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.801668,
+                    24.751318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "廍後活動中心",
+                "phone": "09-05439289",
+                "address": "宜蘭縣壯圍鄉東港村壯圍鄉東港村廍後路50-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.822712,
+                    24.727056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "大福補天宮",
+                "phone": "03-9301171",
+                "address": "宜蘭縣壯圍鄉大福村壯圍鄉大福村壯濱路6段279號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.816237,
+                    24.802848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "壯圍鄉公所",
+                "phone": "03-9383017",
+                "address": "宜蘭縣壯圍鄉吉祥村壯圍鄉壯志路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.785774,
+                    24.746943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "永鎮活動中心",
+                "phone": "03-9301269",
+                "address": "宜蘭縣壯圍鄉永鎮村壯圍鄉永鎮村壯濱路四段375號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.814761,
+                    24.775099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "紅葉活動中心",
+                "phone": "0958921949",
+                "address": "宜蘭縣壯圍鄉復興村壯圍鄉復興村紅葉路69-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.815425,
+                    24.736644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "壯圍鄉立幼兒園",
+                "phone": "03-9304246",
+                "address": "宜蘭縣壯圍鄉古亭村壯圍鄉古亭村永美路1段180號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.800027,
+                    24.770599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "古亭活動中心",
+                "phone": "0911303587",
+                "address": "宜蘭縣壯圍鄉古亭村壯圍鄉古亭村古亭路48-16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.800347,
+                    24.771927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "新社活動中心",
+                "phone": "03-9302711",
+                "address": "宜蘭縣壯圍鄉新社村壯圍鄉新社村新社路54之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80937,
+                    24.784606
+                ]
+            }
+        }
+    ]
+}

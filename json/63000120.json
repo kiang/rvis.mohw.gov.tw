@@ -1,0 +1,597 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立新民國民中學",
+                "phone": "02-28979001#100",
+                "address": "臺北市北投區林泉里新民路10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506551,
+                    25.138878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投區逸仙國民小學",
+                "phone": "02-28914537#888",
+                "address": "臺北市北投區中心里新民路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505196,
+                    25.138286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立桃源國民中學",
+                "phone": "02-28929633#201",
+                "address": "臺北市北投區一德里北投區中央北路4段48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.477346,
+                    25.134703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投區北投國民小學",
+                "phone": "02-28912052#161",
+                "address": "臺北市北投區長安里臺北市北投區中央北路1段73號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.500232,
+                    25.134426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "復興公園",
+                "phone": "02-28832130#115",
+                "address": "臺北市北投區中心里中和街200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.502399,
+                    25.139009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投運動中心",
+                "phone": "2570-2330#6428",
+                "address": "臺北市北投區吉利里石牌路一段39巷100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509653,
+                    25.116336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投區大屯國民小學",
+                "phone": "02-28914353#10",
+                "address": "臺北市北投區大屯里復興三路312號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.504279,
+                    25.154731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立中正高級中學",
+                "phone": "02-28234811#100",
+                "address": "臺北市北投區建民里北投區文林北路77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516566,
+                    25.104496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投區文化國民小學",
+                "phone": "02-28933828#6101",
+                "address": "臺北市北投區文化里文化三路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496678,
+                    25.13709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投區文林國民小學",
+                "phone": "02-28234212#100",
+                "address": "臺北市北投區建民里北投區文林北路155號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514737,
+                    25.105929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立北投國民中學",
+                "phone": "02-28912091#100",
+                "address": "臺北市北投區溫泉里北投區溫泉路62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.504324,
+                    25.134464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投區石牌國民小學",
+                "phone": "02-28227484#188",
+                "address": "臺北市北投區吉利里致遠二路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511745,
+                    25.11569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立石牌國民中學",
+                "phone": "02-28224682#211",
+                "address": "臺北市北投區吉利里石牌路1段139號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514179,
+                    25.114999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投區立農國民小學",
+                "phone": "02-28210702#700",
+                "address": "臺北市北投區立農里北投區立農街1段250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505308,
+                    25.11947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投區明德國民小學",
+                "phone": "02-28229651#1000",
+                "address": "臺北市北投區榮華里北投區明德路190號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521799,
+                    25.112141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立明德國民中學",
+                "phone": "02-28232539#101",
+                "address": "臺北市北投區建民里北投區明德路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518317,
+                    25.107559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市泉源實驗國民小學",
+                "phone": "02-28951258#111",
+                "address": "臺北市北投區泉源里東昇路34號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524337,
+                    25.149207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投區桃源國民小學",
+                "phone": "02-28941208#101",
+                "address": "臺北市北投區桃源里中央北路3段40巷45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.484511,
+                    25.139645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "台北市北投區清江國民小學",
+                "phone": "02-28912764#111",
+                "address": "臺北市北投區奇岩里北投區公舘路220號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.507589,
+                    25.126902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立復興高級中學",
+                "phone": "02-28914131#100",
+                "address": "臺北市北投區開明里復興四路70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501805,
+                    25.143705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投區湖山國民小學",
+                "phone": "02-28610148#170",
+                "address": "臺北市北投區湖山里臺北市北投區湖底路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538036,
+                    25.157145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市湖田實驗國民小學",
+                "phone": "02-28616963#12",
+                "address": "臺北市北投區湖田里北投區竹子湖路17-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53876,
+                    25.168399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投區義方國民小學",
+                "phone": "02-28917433#101",
+                "address": "臺北市北投區泉源里珠海路155號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509274,
+                    25.142036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市北投區關渡國民小學",
+                "phone": "02-28912847#888",
+                "address": "臺北市北投區一德里北投區中央北路4段581號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.466846,
+                    25.126861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立關渡國民中學",
+                "phone": "02-28581770#100",
+                "address": "臺北市北投區關渡里北投區知行路212號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.467358,
+                    25.119893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "國防大學政治作戰學院",
+                "phone": "02-28925125",
+                "address": "臺北市北投區文化里中央北路二段70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.492879,
+                    25.138104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "北投一公園",
+                "phone": "02-28832130",
+                "address": "臺北市北投區溫泉里112台北市北投區光明路中山路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.504071,
+                    25.132504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "北投二公園",
+                "phone": "02-28832130",
+                "address": "臺北市北投區林泉里中山路5號附近"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.510499,
+                    25.13811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "七星公園",
+                "phone": "02-28832130",
+                "address": "臺北市北投區長安里光明路、中山路交叉口新北投捷運站南側"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.498467,
+                    25.132292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "石牌公園",
+                "phone": "02-28832130",
+                "address": "臺北市北投區尊賢里臺北市北投區石牌路1段39巷內"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50962,
+                    25.115389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "立農公園",
+                "phone": "02-28832130",
+                "address": "臺北市北投區立農里承德路7段、立農街1段22巷2弄旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501129,
+                    25.118704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "振興公園",
+                "phone": "02-28832130",
+                "address": "臺北市北投區榮華里天母西路、磺溪交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523281,
+                    25.118749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館北投分館",
+                "phone": "02-28977682",
+                "address": "臺北市北投區溫泉里臺北市北投區光明路251號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.508296,
+                    25.136455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館石牌分館",
+                "phone": "02-28239634",
+                "address": "臺北市北投區榮華里臺北市北投區明德路208巷5號3-10樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.522702,
+                    25.113163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館吉利分館",
+                "phone": "02-28201633",
+                "address": "臺北市北投區立農里臺北市北投區立農街一段366號5-8樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.508394,
+                    25.119342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館清江分館",
+                "phone": "02-28960315",
+                "address": "臺北市北投區奇岩里臺北市北投區公館路198號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50721,
+                    25.127758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館稻香分館",
+                "phone": "02-28940662",
+                "address": "臺北市北投區稻香里臺北市北投區稻香路81號7-9樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48929,
+                    25.140913
+                ]
+            }
+        }
+    ]
+}

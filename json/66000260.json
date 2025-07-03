@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "四德里活動中心",
+                "phone": "04-23398205專線",
+                "address": "臺中市霧峰區四德里四德路533號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666802,
+                    24.06025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "南勢里活動中心",
+                "phone": "04-23329371專線",
+                "address": "臺中市霧峰區南勢里光明路280-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.672482,
+                    24.028179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "甲寅里活動中心",
+                "phone": "04-23308890專線",
+                "address": "臺中市霧峰區甲寅里民生路125巷8號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.701077,
+                    24.068024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "霧峰農工中正堂",
+                "phone": "04-23308319#101",
+                "address": "臺中市霧峰區甲寅里中正路1222號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.702433,
+                    24.072467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "霧峰國中行政大樓地下室",
+                "phone": "04-23393175#232",
+                "address": "臺中市霧峰區北柳里國中路110號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.689244,
+                    24.067228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "霧峰國小禮堂",
+                "phone": "04-23393069#731",
+                "address": "臺中市霧峰區本堂里中正路736號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699389,
+                    24.057573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "峰谷國小南棟教室",
+                "phone": "04-23399271#730",
+                "address": "臺中市霧峰區峰谷里峰谷路496號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.725195,
+                    24.034593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "桐林國小青桐林廣場",
+                "phone": "04-23304311#12",
+                "address": "臺中市霧峰區桐林里民生路675號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.735695,
+                    24.06589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "光復國中小國中部地下室",
+                "phone": "04-23393141#231",
+                "address": "臺中市霧峰區南柳里柳豐路535號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.689214,
+                    24.043852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "四德國小禮堂",
+                "phone": "04-23393374#630",
+                "address": "臺中市霧峰區四德里四德路504號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.667585,
+                    24.061074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "萬豐國小半戶外球場",
+                "phone": "04-23393417#832",
+                "address": "臺中市霧峰區萬豐里中正路224號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697458,
+                    24.027293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "復興國小-樂齡中心",
+                "phone": "04-23306075#688",
+                "address": "臺中市霧峰區坑口里信義路50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698258,
+                    24.042263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "五福國小康寧樓",
+                "phone": "04-23396119#730",
+                "address": "臺中市霧峰區五福里新埔路239號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.667604,
+                    24.073595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "霧峰以文圖書館3樓",
+                "phone": "04-23332426專線",
+                "address": "臺中市霧峰區本堂里大同路8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699033,
+                    24.061552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "北勢里活動中心",
+                "phone": "04-23393521專線",
+                "address": "臺中市霧峰區北勢里丁台路571巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.669799,
+                    24.040682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "本鄉里活動中心",
+                "phone": "04-23336367專線",
+                "address": "臺中市霧峰區本鄉里民生路95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700604,
+                    24.06641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "僑榮國小樂群樓地下室",
+                "phone": "04-23335553#730",
+                "address": "臺中市霧峰區甲寅里民生路156號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703155,
+                    24.070309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "吉峰國小風雨操場",
+                "phone": "04-23300893#830",
+                "address": "臺中市霧峰區吉峰里民生路349號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.719165,
+                    24.079751
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "五結鄉公所",
+                "phone": "03-9501115",
+                "address": "宜蘭縣五結鄉五結村五結路二段343號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.798371,
+                    24.684704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "開基灶君廟省民堂",
+                "phone": "03-9501115",
+                "address": "宜蘭縣五結鄉三興村三結東路14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.786712,
+                    24.699371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "八大庄一百甲城煌廟",
+                "phone": "0928406676",
+                "address": "宜蘭縣五結鄉錦眾村五結路一段120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.827977,
+                    24.692916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "五結國中五動館",
+                "phone": "03-9501105#13",
+                "address": "宜蘭縣五結鄉大吉村大吉五路58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.800236,
+                    24.696307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "二結社區活動中心",
+                "phone": "03-9659413",
+                "address": "宜蘭縣五結鄉二結村中正路三段151號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770188,
+                    24.706111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "四結福德廟",
+                "phone": "03-650428",
+                "address": "宜蘭縣五結鄉上四村福德路68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765249,
+                    24.697385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "新店社區活動中心",
+                "phone": "0910058239",
+                "address": "宜蘭縣五結鄉季新村新店路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.825942,
+                    24.677758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "孝威社區活動中心",
+                "phone": "03-9509102",
+                "address": "宜蘭縣五結鄉孝威村孝威路322號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.811727,
+                    24.696147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "三興社區活動中心",
+                "phone": "03-9500714",
+                "address": "宜蘭縣五結鄉三興村三結五路188號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782905,
+                    24.703749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "五結社區活動中心",
+                "phone": "0933772661",
+                "address": "宜蘭縣五結鄉五結村五結中路12號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.798315,
+                    24.684327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "利澤社區活動中心",
+                "phone": "0932265157",
+                "address": "宜蘭縣五結鄉利澤村下福路156號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.823752,
+                    24.665023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "季新社區活動中心",
+                "phone": "0932090388",
+                "address": "宜蘭縣五結鄉季新村季新村季水路北巷6-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83177,
+                    24.676629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "協和社區活動中心",
+                "phone": "03-9506695",
+                "address": "宜蘭縣五結鄉協和村五結路2段199號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.804461,
+                    24.688298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "四結社區活動中心",
+                "phone": "0963077019",
+                "address": "宜蘭縣五結鄉四結村光榮北路198號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77388,
+                    24.687304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "成興村老人福利中心",
+                "phone": "0927181318",
+                "address": "宜蘭縣五結鄉成興村利成路一段185號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82545,
+                    24.652546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "正勉堂",
+                "phone": "0937280827",
+                "address": "宜蘭縣五結鄉福興村興盛北路182巷16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.779805,
+                    24.686464
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "關西國小",
+                "phone": "03-5872028#501",
+                "address": "新竹縣關西鎮西安里07鄰中山路126號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.054109,
+                    24.702893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "北埔國小",
+                "phone": "03-5802215",
+                "address": "新竹縣北埔鄉埔尾村04鄰埔心街24號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.054351,
+                    24.700536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "北埔鄉清潔隊備勤室",
+                "phone": "03-5801464",
+                "address": "新竹縣北埔鄉南興村01鄰中興街2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0592,
+                    24.7012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "北埔鄉老人文康中心",
+                "phone": "03-5805895",
+                "address": "新竹縣北埔鄉北埔村09鄰北埔街90號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.055515,
+                    24.700552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "水磜社區活動中心",
+                "phone": "0926699346",
+                "address": "新竹縣北埔鄉水磜村08鄰中山路1巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0593,
+                    24.7038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "埔尾社區活動中心",
+                "phone": "03-5804863",
+                "address": "新竹縣北埔鄉埔尾村08鄰埔心街132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.048317,
+                    24.704218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "南坑村集會所暨南外社區活動中心",
+                "phone": "03-5805355",
+                "address": "新竹縣北埔鄉南坑村09鄰大南坑1-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.056071,
+                    24.672837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新竹縣",
+                "name": "北埔鄉圓樓市場",
+                "phone": "03-5801152",
+                "address": "新竹縣北埔鄉南興村14鄰光復街30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.056043,
+                    24.699085
+                ]
+            }
+        }
+    ]
+}

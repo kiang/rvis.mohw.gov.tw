@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "南興社區活動中心",
+                "phone": "07-6814311#14、15",
+                "address": "高雄市美濃區中壇里五穀街32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543381,
+                    22.866568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "中圳社區活動中心",
+                "phone": "07-6814105",
+                "address": "高雄市美濃區中圳里福美路73巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.546656,
+                    22.907738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "美濃區老人文康活動中心",
+                "phone": "07-6814311轉15或轉14",
+                "address": "高雄市美濃區中壇里中正路2段351號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536877,
+                    22.888953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "美濃區公所",
+                "phone": "07-6814311轉15或轉14",
+                "address": "高雄市美濃區合和里美中路260號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54178,
+                    22.894825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市美濃區中壇國民小學",
+                "phone": "07-6812534＃40",
+                "address": "高雄市美濃區中壇里忠孝路一段19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53057,
+                    22.884022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立美濃國民中學",
+                "phone": "076816166-32",
+                "address": "高雄市美濃區合和里中正路一段191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543499,
+                    22.894745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市美濃區福安國民小學",
+                "phone": "07-6812514",
+                "address": "高雄市美濃區福安里中正路二段358號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534,
+                    22.883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "竹子門水利工作站",
+                "phone": "07-6851170",
+                "address": "高雄市美濃區獅山里竹門25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.584173,
+                    22.869713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立龍肚國民中學",
+                "phone": "07-6851314#31",
+                "address": "高雄市美濃區龍肚里中華路68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57272,
+                    22.87629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市美濃區廣興國民小學",
+                "phone": "07-6812857#40",
+                "address": "高雄市美濃區興隆里廣興街124號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.567761,
+                    22.917531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "廣林里社區活動中心",
+                "phone": "07-6815411",
+                "address": "高雄市美濃區廣林里廣福街153號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579291,
+                    22.916889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市美濃區吉東國民小學",
+                "phone": "07-6831144#40",
+                "address": "高雄市美濃區吉東里吉頂街19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535802,
+                    22.854469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市美濃區吉洋國民小學",
+                "phone": "07-6831849#40",
+                "address": "高雄市美濃區吉洋里忠孝路二段59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.518548,
+                    22.843803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市美濃區東門國民小學",
+                "phone": "07-6812811",
+                "address": "高雄市美濃區東門里民族路36巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.553174,
+                    22.899832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市美濃區美濃國民小學",
+                "phone": "07-6810166",
+                "address": "高雄市美濃區泰安里永安路190號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543128,
+                    22.89983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市美濃區龍山國民小學",
+                "phone": "07-6833654",
+                "address": "高雄市美濃區龍山里龍山街62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.556245,
+                    22.864498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市美濃區龍肚國民小學",
+                "phone": "07-6851124",
+                "address": "高雄市美濃區龍肚里龍東街43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579991,
+                    22.885853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立南隆國民中學",
+                "phone": "07-6831153#32",
+                "address": "高雄市美濃區吉洋里南中街3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5345055,
+                    22.866925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "德興社區活動中心",
+                "phone": "07-6814311#14、15",
+                "address": "高雄市美濃區德興里忠孝路一段323號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.527057,
+                    22.877821
+                ]
+            }
+        }
+    ]
+}

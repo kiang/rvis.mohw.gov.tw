@@ -1,0 +1,389 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "遠山望月溫泉營區",
+                "phone": "0976058795",
+                "address": "高雄市六龜區寶來里寶來二巷花賞溫泉公園"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699913,
+                    23.108374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立寶來國民中學",
+                "phone": "07688-1258#31",
+                "address": "高雄市六龜區寶來里中正路137號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703635,
+                    23.109359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "寶來社區活動中心",
+                "phone": "07688-1125",
+                "address": "高雄市六龜區寶來里中正路89號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70092,
+                    23.10883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "荖濃社區活動中心",
+                "phone": "07688-3292",
+                "address": "高雄市六龜區荖濃里南橫路97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.673801,
+                    23.073136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "新發社區活動中心",
+                "phone": "07679-1413",
+                "address": "高雄市六龜區新發里和平路115之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663286,
+                    23.031981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "興龍社區活動中心",
+                "phone": "07689-3923",
+                "address": "高雄市六龜區興龍里土龍74號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649247,
+                    23.004991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "中興社區活動中心",
+                "phone": "07-6891194",
+                "address": "高雄市六龜區中興里中庄194號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643413,
+                    22.993535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市六龜區龍興國民小學",
+                "phone": "07321-8216",
+                "address": "高雄市六龜區中興里中庄193號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.645309,
+                    22.99342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "大津社區活動中心",
+                "phone": "07680-1102",
+                "address": "高雄市六龜區大津里大津49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647189,
+                    22.891831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "六龜社區活動中心",
+                "phone": "07689-3020",
+                "address": "高雄市六龜區六龜里華北街60-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.630148,
+                    22.99915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "六龜綜合社會福利服務中心",
+                "phone": "07-6891031",
+                "address": "高雄市六龜區義寶里光復路102號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.634884,
+                    22.995505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "新興社區活動中心",
+                "phone": "07687-1568",
+                "address": "高雄市六龜區新興里新威299號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.633531,
+                    22.907609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "新威社區活動中心",
+                "phone": "07687-2366",
+                "address": "高雄市六龜區新威里新威128號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.628715,
+                    22.902695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "新寮社區活動中心",
+                "phone": "07687-2339",
+                "address": "高雄市六龜區新寮里三民路14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614511,
+                    22.88058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "財團法人一貫道神威天臺山天臺聖宮",
+                "phone": "07687-2100#1133",
+                "address": "高雄市六龜區新寮里三民路81號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.616619,
+                    22.888898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立六龜高級中學",
+                "phone": "076891023#400",
+                "address": "高雄市六龜區義寶里光復路212號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635085,
+                    22.993179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市六龜區新威國民小學",
+                "phone": "07-6871134#40",
+                "address": "高雄市六龜區新興里新威路212號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.627295,
+                    22.898289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市六龜區新發國民小學",
+                "phone": "07679-1387#40",
+                "address": "高雄市六龜區新發里和平路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.662468,
+                    23.031783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市六龜區寶來國民小學",
+                "phone": "076881009#40",
+                "address": "高雄市六龜區寶來里中正路89號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70092,
+                    23.10883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "財團法人高雄市私立寶光建德社會福利慈善事業基金會",
+                "phone": "07-6872100",
+                "address": "高雄市六龜區新寮里三民路81-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.615533,
+                    22.887342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "大津登山訓練中心",
+                "phone": "07-6892100#51",
+                "address": "高雄市六龜區大津里大津33號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646896,
+                    22.888829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "寶來溫泉山莊",
+                "phone": "07-6881717",
+                "address": "高雄市六龜區寶來里中正路2巷36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698429,
+                    23.1074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "嘉寶溫泉山莊",
+                "phone": "07-6882717",
+                "address": "高雄市六龜區寶來里新寶路7之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6926536,
+                    23.0950656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "蘇羅婆渡假村",
+                "phone": "07-6881405",
+                "address": "高雄市六龜區寶來里新寶11-13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690814,
+                    23.093267
+                ]
+            }
+        }
+    ]
+}

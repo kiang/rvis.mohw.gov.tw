@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "仙草實小",
+                "phone": "06-6854144",
+                "address": "臺南市白河區仙草里仙草22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47409059479543,
+                    23.34489064478152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "仙草實小關嶺分校",
+                "phone": "06-6854144",
+                "address": "臺南市白河區關嶺里關嶺94之3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.507036,
+                    23.330987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "白河區公所",
+                "phone": "06-6855102",
+                "address": "臺南市白河區永安里中山路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.41574105539,
+                    23.3512196478239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "河東國小六溪分校",
+                "phone": "06-6852442",
+                "address": "臺南市白河區六溪里六溪26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45905,
+                    23.309542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "白河國中",
+                "phone": "06-6852067",
+                "address": "臺南市白河區昇安里三間厝220號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4239382,
+                    23.3618419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "白河國小",
+                "phone": "06-6852177",
+                "address": "臺南市白河區永安里三民路448號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4139539,
+                    23.3521971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "竹門國小",
+                "phone": "06-6851290",
+                "address": "臺南市白河區竹門里113號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44491038655246,
+                    23.376743677837183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "河東國小",
+                "phone": "06-6852527",
+                "address": "臺南市白河區河東里河東83-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.437765,
+                    23.344563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "大竹國小",
+                "phone": "06-6852508",
+                "address": "臺南市白河區大竹里3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.41293578253875,
+                    23.36821446733929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "內角國小",
+                "phone": "06-6817363",
+                "address": "臺南市白河區內角里內角1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44073278342714,
+                    23.397589058052684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "玉豐國小",
+                "phone": "06-6852524",
+                "address": "臺南市白河區詔豐里85號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.416500774256,
+                    23.379449398349212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "大林社區活動中心",
+                "phone": "06-6830370",
+                "address": "臺南市白河區大林里檨子林20之16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44106996521516,
+                    23.336029225945225
+                ]
+            }
+        }
+    ]
+}

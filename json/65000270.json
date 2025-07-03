@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "法鼓文理學院",
+                "phone": "02-24980707轉5536",
+                "address": "新北市金山區西湖里法鼓路670號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61468,
+                    25.243433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市金山區朝天宮",
+                "phone": "02-24080640",
+                "address": "新北市金山區重和里11鄰六股林口38-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.602476,
+                    25.218033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市金山區公館崙公園",
+                "phone": "02-24985965轉160",
+                "address": "新北市金山區五湖里龜子山路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.622587,
+                    25.219401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市金山區運動休閒廣場",
+                "phone": "02-24985965轉160",
+                "address": "新北市金山區五湖里南勢53號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.628891,
+                    25.221392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "金美國小",
+                "phone": "02-24986503轉510",
+                "address": "新北市金山區金美里忠孝一路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.635474,
+                    25.221039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "金山國小",
+                "phone": "02-24981125轉208",
+                "address": "新北市金山區美田里2鄰中山路234號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.636519,
+                    25.222963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市金山區六三市民活動中心",
+                "phone": "02-24985731",
+                "address": "新北市金山區三界里3鄰三界壇路101-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.620711,
+                    25.230093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "金山高中",
+                "phone": "02-24982028轉400",
+                "address": "新北市金山區美田里文化二路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.636934,
+                    25.224668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中角國小",
+                "phone": "02-249824116#12",
+                "address": "新北市金山區萬壽里海興路49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.630584,
+                    25.239754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三和國小",
+                "phone": "02-24080417#11",
+                "address": "新北市金山區重和里11鄰六股林口38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.602889,
+                    25.218889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市金山區聖德宮",
+                "phone": "02-24984702",
+                "address": "新北市金山區三界里5鄰三界壇路72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.619908,
+                    25.231106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市金山區獅頭山公園",
+                "phone": "02-24988980轉31",
+                "address": "新北市金山區磺港里磺港路171-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64453,
+                    25.223219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市金山區萬壽市民活動中心",
+                "phone": "02-249859685#185",
+                "address": "新北市金山區萬壽里海興路116號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.631839,
+                    25.238188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市金山區公所",
+                "phone": "02-24985965轉188",
+                "address": "新北市金山區金美里中正路11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.636643,
+                    25.222232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北市金山區清泉市民活動中心",
+                "phone": "02-24985965#185",
+                "address": "新北市金山區清泉里清水路49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.629365,
+                    25.233909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "美田市民活動中心",
+                "phone": "2498-5965#185",
+                "address": "新北市金山區美田里中山路236號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.636151,
+                    25.223393
+                ]
+            }
+        }
+    ]
+}

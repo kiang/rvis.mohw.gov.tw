@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "福興鄉公所",
+                "phone": "04-7772066#2502",
+                "address": "彰化縣福興鄉橋頭村彰鹿路7段495號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.443849,
+                    24.047951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "鄉立幼兒園-主園",
+                "phone": "04-7766212",
+                "address": "彰化縣福興鄉福興村福興路51巷12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.427214,
+                    24.045071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "福興國中",
+                "phone": "04-7772009*1500",
+                "address": "彰化縣福興鄉西勢村員鹿路2段270號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.436684,
+                    24.040965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "鄉立幼兒園-東區分班",
+                "phone": "04-7792045",
+                "address": "彰化縣福興鄉外埔村復興路15之15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.473997,
+                    24.028807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "三和社區活動中心",
+                "phone": "04-7701177",
+                "address": "彰化縣福興鄉三和村南興街78號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.410991,
+                    24.008517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "三汴社區活動中心",
+                "phone": "04-7694162",
+                "address": "彰化縣福興鄉三汴村彰水路346巷47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487934,
+                    24.018329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "管嶼國小",
+                "phone": "04-7702949#13",
+                "address": "彰化縣福興鄉廈粘村沿海路3段100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.412814,
+                    24.028129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "永豐國小",
+                "phone": "04-7792748*13",
+                "address": "彰化縣福興鄉番社村80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.455122,
+                    24.02757
+                ]
+            }
+        }
+    ]
+}

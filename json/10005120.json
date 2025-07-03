@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苗栗縣頭屋國小操場",
+                "phone": "037-251071#1131",
+                "address": "苗栗縣頭屋鄉頭屋村中山街15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.850892,
+                    24.576374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苗栗縣頭屋國中操場",
+                "phone": "037-250738#140",
+                "address": "苗栗縣頭屋鄉頭屋村中正街86巷14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.848882,
+                    24.578256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "頭屋鄉獅潭社區活動中心",
+                "phone": "037-256605",
+                "address": "苗栗縣頭屋鄉獅潭村1鄰獅潭7-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.852129,
+                    24.580116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苗栗縣頭屋國小活動中心",
+                "phone": "037-251071#1131",
+                "address": "苗栗縣頭屋鄉頭屋村中山街15號&amp;amp;amp;amp;amp;lrm;"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.850892,
+                    24.576374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "苗栗縣頭屋國中活動中心",
+                "phone": "037-250738#140",
+                "address": "苗栗縣頭屋鄉頭屋村中正街86巷14號&amp;amp;amp;amp;amp;amp;lrm;"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.848882,
+                    24.578256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "頭屋鄉獅潭社區活動中心停車場",
+                "phone": "037-256605",
+                "address": "苗栗縣頭屋鄉獅潭村1鄰獅潭7-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.852129,
+                    24.580116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "象山社區活動中心",
+                "phone": "037-252321",
+                "address": "苗栗縣頭屋鄉象山村9鄰孔聖48-16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.864009,
+                    24.576466
+                ]
+            }
+        }
+    ]
+}

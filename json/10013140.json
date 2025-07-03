@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "竹田鄉立幼兒園",
+                "phone": "08-7791130",
+                "address": "屏東縣竹田鄉美崙村龍崗路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547622,
+                    22.605129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "竹田國小",
+                "phone": "08-7710834#14",
+                "address": "屏東縣竹田鄉竹田村公正路35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544023,
+                    22.582843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "大明國小",
+                "phone": "08-7887780#14",
+                "address": "屏東縣竹田鄉泗洲村洲中路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.525088,
+                    22.575561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "竹田鄉公所",
+                "phone": "08-7711550#50",
+                "address": "屏東縣竹田鄉竹田村中正路123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544,
+                    22.584747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "竹田國中",
+                "phone": "08-7792024#14",
+                "address": "屏東縣竹田鄉西勢村龍南路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.523491,
+                    22.616185
+                ]
+            }
+        }
+    ]
+}

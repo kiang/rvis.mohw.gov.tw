@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "長安國小",
+                "phone": "04-8972694",
+                "address": "彰化縣竹塘鄉長安村東陽路二段123號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.386916,
+                    23.847871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "老人文康中心",
+                "phone": "04-8970072",
+                "address": "彰化縣竹塘鄉民靖村金山路40號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.41142,
+                    23.886612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "竹塘國小",
+                "phone": "04-8972039",
+                "address": "彰化縣竹塘鄉竹塘村文化街20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.428849,
+                    23.861272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "田頭國小",
+                "phone": "04-8972189",
+                "address": "彰化縣竹塘鄉田頭村光明路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.449279,
+                    23.837088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "五庄社區活動中心",
+                "phone": "04-8974216",
+                "address": "彰化縣竹塘鄉五庄村竹五路222號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.432062,
+                    23.873163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "土庫國小",
+                "phone": "04-8972140",
+                "address": "彰化縣竹塘鄉土庫村東陽路362號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.409505,
+                    23.850017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "樹腳社區活動中心",
+                "phone": "04-8970618",
+                "address": "彰化縣竹塘鄉樹腳村福田路6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.447762,
+                    23.844405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "新廣社區活動中心",
+                "phone": "04-8972978",
+                "address": "彰化縣竹塘鄉新廣村光明路廣福巷57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.430043,
+                    23.846404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "彰化縣",
+                "name": "竹林社區活動中心",
+                "phone": "04-8975082",
+                "address": "彰化縣竹塘鄉竹林村竹鹿路保安巷45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.402953,
+                    23.860372
+                ]
+            }
+        }
+    ]
+}

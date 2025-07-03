@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市旗山區公所",
+                "phone": "07-6616100#129",
+                "address": "高雄市旗山區湄洲里延平一路499號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.483545,
+                    22.888629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立大洲國民中學",
+                "phone": "07-6661378#31",
+                "address": "高雄市旗山區新光里新南巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460531,
+                    22.835363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市旗山區旗山國民小學",
+                "phone": "07-6612052#104",
+                "address": "高雄市旗山區湄洲里華中街44號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.480697,
+                    22.888292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市旗山區溪洲國民小學",
+                "phone": "07-6661408#40",
+                "address": "高雄市旗山區大山里旗南二路126號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.465207,
+                    22.847678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市旗山區鼓山國民小學",
+                "phone": "07-6612051#40",
+                "address": "高雄市旗山區永和里延平一路111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.482848,
+                    22.898897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市旗山區旗尾國民小學",
+                "phone": "07-6616708#40",
+                "address": "高雄市旗山區東平里延平二路19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.491947,
+                    22.882428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市旗山區圓潭國民小學",
+                "phone": "07-6691476#40",
+                "address": "高雄市旗山區中正里旗甲路三段179號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.503382,
+                    22.933679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市旗山區嶺口國民小學",
+                "phone": "07-6651216#140",
+                "address": "高雄市旗山區南勝里龍文巷30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44886,
+                    22.77615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立旗山國民中學",
+                "phone": "07-6612650#310",
+                "address": "高雄市旗山區大德里中學路42號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48132,
+                    22.881406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立圓富國民中學",
+                "phone": "07-6691004#31",
+                "address": "高雄市旗山區圓富里旗甲路二段609號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.500528,
+                    22.928808
+                ]
+            }
+        }
+    ]
+}

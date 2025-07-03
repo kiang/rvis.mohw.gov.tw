@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南化區中坑里活動中心",
+                "phone": "06-5771690",
+                "address": "臺南市南化區中坑里中坑38-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45023,
+                    23.045846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南化區瑞峰國民小學",
+                "phone": "06-5770093#102",
+                "address": "臺南市南化區關山里西阿里關96號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.595327,
+                    23.174063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南化區東和社區活動中心",
+                "phone": "06-5775001",
+                "address": "臺南市南化區東和里東和19-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.473969,
+                    23.020851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南化區玉山里活動中心",
+                "phone": "06-5772128",
+                "address": "臺南市南化區玉山里玉山65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.519946,
+                    23.075973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南化區北寮國小操場",
+                "phone": "06-5772215#202",
+                "address": "臺南市南化區北寮里北寮110-27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.494426,
+                    23.076167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南化區公所",
+                "phone": "06-5771513#402",
+                "address": "臺南市南化區南化里南化230號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477587,
+                    23.043123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市南化區老人文康活動中心",
+                "phone": "06-5771513#402",
+                "address": "臺南市南化區南化里南化172-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477194,
+                    23.0422
+                ]
+            }
+        }
+    ]
+}

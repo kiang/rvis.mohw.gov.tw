@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "第一公園管理站信義社區活動中心",
+                "phone": "03-9542773",
+                "address": "宜蘭縣羅東鎮信義里中華路189號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768578,
+                    24.683541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "羅東國小",
+                "phone": "03-9542342#117",
+                "address": "宜蘭縣羅東鎮開明里民族路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771235,
+                    24.673508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "竹林國小",
+                "phone": "03-9542084#320",
+                "address": "宜蘭縣羅東鎮竹林里復興路二段128號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766272,
+                    24.688759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "公正國小",
+                "phone": "03-9566659#8300",
+                "address": "宜蘭縣羅東鎮公正里公正路199號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.758308,
+                    24.684362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "北成國小",
+                "phone": "03-9512626#401",
+                "address": "宜蘭縣羅東鎮北成里北成路一段125號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.758809,
+                    24.674813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "國華國中",
+                "phone": "03-513062#503",
+                "address": "宜蘭縣羅東鎮國華里國華街101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760842,
+                    24.677191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "羅東鎮展演廳",
+                "phone": "03-9545102轉258",
+                "address": "宜蘭縣羅東鎮賢文里中興路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766917,
+                    24.676451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "仁愛社區活動中心",
+                "phone": "03-9654034",
+                "address": "宜蘭縣羅東鎮仁愛里復興路三段577號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.756007,
+                    24.701422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "仁德社區活動中心",
+                "phone": "03-9546412",
+                "address": "宜蘭縣羅東鎮仁德里忠義巷80之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766352,
+                    24.673887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "東安社區活動中心",
+                "phone": "03-9564947",
+                "address": "宜蘭縣羅東鎮東安里天祥路171號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.776353,
+                    24.674295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "維安社區活動中心",
+                "phone": "03-9518105",
+                "address": "宜蘭縣羅東鎮西安里西安街468號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754373,
+                    24.667476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "新群社區活動中心",
+                "phone": "03-9506763",
+                "address": "宜蘭縣羅東鎮新群里月眉路300號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.792181,
+                    24.667266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "南豪社區活動中心",
+                "phone": "0935500945",
+                "address": "宜蘭縣羅東鎮南豪里體育路40號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766196,
+                    24.669834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "聖安宮",
+                "phone": "03-9544021",
+                "address": "宜蘭縣羅東鎮漢民里忠孝路48號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764885,
+                    24.676008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "羅東國中",
+                "phone": "03-9542075#501",
+                "address": "宜蘭縣羅東鎮信義里中華路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768092,
+                    24.682397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "第二公園管理站羅東鎮老人館",
+                "phone": "03-9545102#253",
+                "address": "宜蘭縣羅東鎮集祥里公園路113號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769104,
+                    24.676279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "竹林社區活動中心",
+                "phone": "03-9540821",
+                "address": "宜蘭縣羅東鎮竹林里復興路二段122號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765783,
+                    24.688279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "第五公園管理站樹林社區活動中心",
+                "phone": "9540605",
+                "address": "宜蘭縣羅東鎮樹林里文林路130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761391,
+                    24.68333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "漢民社區活動中心",
+                "phone": "03-9563167",
+                "address": "宜蘭縣羅東鎮漢民里純精路一段219號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763454,
+                    24.673732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "成功國小",
+                "phone": "03-9542156#43",
+                "address": "宜蘭縣羅東鎮成功里興東南路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768733,
+                    24.670766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "宜蘭縣",
+                "name": "羅莊社區活動中心",
+                "phone": "03-9547282",
+                "address": "宜蘭縣羅東鎮羅莊里羅莊街357號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.779692,
+                    24.671607
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,853 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立景興國民中學",
+                "phone": "02-29323794#100",
+                "address": "臺北市文山區景華里文山區景興路46巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544346,
+                    24.996189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區萬興國民小學",
+                "phone": "02-29381721#190",
+                "address": "臺北市文山區萬興里秀明路2段114號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.576625,
+                    24.990432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區景興國民小學",
+                "phone": "02-29329439#700",
+                "address": "臺北市文山區興安里文山區景華街150巷21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.548205,
+                    24.996085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "景華公園",
+                "phone": "02-22300340",
+                "address": "臺北市文山區景華里景興路與景華街交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544476,
+                    24.998252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "行政中心大禮堂",
+                "phone": "02-29365522#323",
+                "address": "臺北市文山區木新里臺北市木柵路3段220號10樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570087,
+                    24.989604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山運動中心",
+                "phone": "02-2570-2330#6428",
+                "address": "臺北市文山區興得里興隆路三段222號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.559693,
+                    24.997036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區力行國民小學",
+                "phone": "02-29363995#859",
+                "address": "臺北市文山區樟腳里文山區木新路3段155巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.561,
+                    24.980922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立木柵高級工業職業學校",
+                "phone": "02-22300506#101",
+                "address": "臺北市文山區博嘉里文山區木柵路4段77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.567472,
+                    25.005458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區木柵國民小學",
+                "phone": "02-29391234#666",
+                "address": "臺北市文山區木柵里文山區木柵路3段191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570233,
+                    24.990293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立木柵國民中學",
+                "phone": "02-29393031#100",
+                "address": "臺北市文山區木柵里文山區木柵路3段102巷12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.567685,
+                    24.987473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立北政國民中學",
+                "phone": "02-29393651#11",
+                "address": "臺北市文山區指南里臺北市文山區指南路3段2巷14號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.578271,
+                    24.984888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區永建國民小學",
+                "phone": "02-29377199#100",
+                "address": "臺北市文山區華興里試院路2號木柵路一段311巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546584,
+                    24.990265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北巿文山區志清國民小學",
+                "phone": "02-29323875#510",
+                "address": "臺北市文山區景仁里景福街21巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538844,
+                    24.998691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北巿文山區辛亥國民小學",
+                "phone": "02-29339668",
+                "address": "臺北市文山區興昌里文山區辛亥路4段103號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.558549,
+                    25.006285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北巿文山區明道國民小學",
+                "phone": "02-29392821#100",
+                "address": "臺北市文山區明義里文山區木柵路2段138巷61號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56261,
+                    24.987326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區武功國民小學",
+                "phone": "02-29314360#11",
+                "address": "臺北市文山區萬祥里臺北市文山區興隆路1段68號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54049,
+                    25.003889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市指南實驗國民小學",
+                "phone": "02-29393546#101",
+                "address": "臺北市文山區指南里文山區指南路3段38巷5-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.583662,
+                    24.976406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市博嘉實驗國民小學",
+                "phone": "02-22302585#100",
+                "address": "臺北市文山區博嘉里文山區木柵路4段159巷14之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57581,
+                    25.002082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立景美女子高級中學",
+                "phone": "02-29368847#201",
+                "address": "臺北市文山區樟文里文山區木新路3段312號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.556228,
+                    24.980741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區景美國民小學",
+                "phone": "02-29322151#100",
+                "address": "臺北市文山區景行里文山區景文街108號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541495,
+                    24.9893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立景美國民中學",
+                "phone": "02-89353130#101",
+                "address": "臺北市文山區景華里文山區景中街27號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542165,
+                    24.995076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區溪口國民小學",
+                "phone": "02-29350955#710",
+                "address": "臺北市文山區景慶里文山區景福街225號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538745,
+                    24.994114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立萬芳高級中學",
+                "phone": "02-22309585#100",
+                "address": "臺北市文山區興光里文山區興隆路3段115巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.558781,
+                    25.000558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區萬芳國民小學",
+                "phone": "02-22301232#861",
+                "address": "臺北市文山區萬芳里文山區萬和街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570625,
+                    25.002092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立萬福國民小學",
+                "phone": "02-29353123#101",
+                "address": "臺北市文山區萬年里羅斯福路5段170巷32號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.536742,
+                    25.004819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區實踐國民小學",
+                "phone": "02-29360725#110",
+                "address": "臺北市文山區樟文里文山區忠順街1段4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557564,
+                    24.983666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立實踐國民中學",
+                "phone": "02-22362852#111",
+                "address": "臺北市文山區樟林里文山區辛亥路7段67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554738,
+                    24.983436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區興華國民小學",
+                "phone": "02-22393070#100",
+                "address": "臺北市文山區興光里臺北市文山區興隆路3段125巷6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.558674,
+                    24.998846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區興隆國民小學",
+                "phone": "02-29323131#631",
+                "address": "臺北市文山區興旺里文山區福興路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551916,
+                    25.002416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立興福國民中學",
+                "phone": "02-29322024#100",
+                "address": "臺北市文山區興旺里文山區福興路80號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549743,
+                    25.004899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市文山區興德國民小學",
+                "phone": "02-29329431#66",
+                "address": "臺北市文山區興邦里文山區興隆路2段235號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.550867,
+                    25.001674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "興隆公園",
+                "phone": "02-22300340",
+                "address": "臺北市文山區興業里興隆路二段154巷與仙岩路交叉口."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551677,
+                    25.001017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處木柵市場地下停車場",
+                "phone": "02-25505220#2145",
+                "address": "臺北市文山區木新里臺北市文山區保儀路13巷3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.569186,
+                    24.988496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處木新市場地下停車場",
+                "phone": "02-25505220#2145",
+                "address": "臺北市文山區樟文里臺北市文山區木新路三段310巷4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557222,
+                    24.981476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "忠順區民活動中心",
+                "phone": "02-29365522#207",
+                "address": "臺北市文山區順興里臺北市文山區忠順街2段22號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.563164,
+                    24.984669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "景行區民活動中心",
+                "phone": "02-29365522#204",
+                "address": "臺北市文山區景行里臺北市文山區羅斯福路六段393號6~9樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540741,
+                    24.9921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "萬芳區民活動中心",
+                "phone": "02-29365522#207",
+                "address": "臺北市文山區萬芳里臺北市文山區萬美街一段51號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.568484,
+                    25.0023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "萬福區民活動中心",
+                "phone": "02-29365522#204",
+                "address": "臺北市文山區萬和里臺北市文山區萬隆街47之12號房屋地下層"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.536106,
+                    25.000703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "萬興區民活動中心",
+                "phone": "02-29365522#207",
+                "address": "臺北市文山區萬興里臺北市文山區萬壽路27號7樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.573801,
+                    24.988152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "樟新區民活動中心",
+                "phone": "02-29365522#207",
+                "address": "臺北市文山區樟新里臺北市文山區一壽街22號9~10樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.555156,
+                    24.979095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "樟腳區民活動中心",
+                "phone": "02-29365522#207",
+                "address": "臺北市文山區樟腳里臺北市文山區恆光街45號7F~8F"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.567308,
+                    24.982493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "興隆區民活動中心",
+                "phone": "02-29365522#204",
+                "address": "臺北市文山區興福里臺北市文山區興隆路二段97號4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546673,
+                    24.99896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "博客停車場-政大場",
+                "phone": "2550-5220 #5010",
+                "address": "臺北市文山區萬興里臺北市文山區萬壽路27號地下一至二樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.573801,
+                    24.988152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處萬和超市地下停車場",
+                "phone": "2550-5220 #5010",
+                "address": "臺北市文山區萬和里臺北市文山區萬隆街47之12號地下1層"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.536106,
+                    25.000703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館力行分館",
+                "phone": "02-86612196",
+                "address": "臺北市文山區樟新里臺北市文山區一壽街22號5-8樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.555156,
+                    24.979095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館文山分館",
+                "phone": "02-29315339#9",
+                "address": "臺北市文山區興業里臺北市文山區興隆路二段160號7-9樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551407,
+                    25.00157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館木柵分館",
+                "phone": "02-29397520",
+                "address": "臺北市文山區木新里臺北市文山區保儀路13巷3號3、4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.569186,
+                    24.988496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館景美分館",
+                "phone": "02-29328457",
+                "address": "臺北市文山區萬年里臺北市文山區羅斯福路五段176巷50號2-4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.537014,
+                    25.0038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館景新分館",
+                "phone": "02-29331244#9",
+                "address": "臺北市文山區景行里臺北市文山區景後街151號5-10樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541586,
+                    24.989325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館萬興分館",
+                "phone": "02-23345501",
+                "address": "臺北市文山區萬興里臺北市文山區萬壽路27號4-5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.573801,
+                    24.988152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處興隆市場地下停車場",
+                "phone": "02-25505220#2145",
+                "address": "臺北市文山區興豐里臺北市文山區興隆路二段97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.547452,
+                    24.999739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "興業區民活動中心",
+                "phone": "02-29365522#204",
+                "address": "臺北市文山區興業里臺北市文山區興隆路二段160號10樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551407,
+                    25.00157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "興豐區民活動中心",
+                "phone": "02-29365522#204",
+                "address": "臺北市文山區興豐里臺北市文山區興隆路二段95巷8號7~9樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54688,
+                    24.999974
+                ]
+            }
+        }
+    ]
+}

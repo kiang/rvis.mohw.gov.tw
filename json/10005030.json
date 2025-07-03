@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "通霄國中（操場）",
+                "phone": "037-752002",
+                "address": "苗栗縣通霄鎮通西里中山路190巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.679976,
+                    24.491963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "通霄國小（操場）",
+                "phone": "037-752008",
+                "address": "苗栗縣通霄鎮通東里中正路12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683259,
+                    24.490829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "通霄鎮綜合活動中心地下室",
+                "phone": "037-761637",
+                "address": "苗栗縣通霄鎮通東里信義路248號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681698,
+                    24.492353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "平安社區活動中心",
+                "phone": "037-753643",
+                "address": "苗栗縣通霄鎮平安里環市路二段715號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69134,
+                    24.494812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "五南社區活動中心",
+                "phone": "037-582640",
+                "address": "苗栗縣通霄鎮五南里中山路150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.662136,
+                    24.457695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "新埔社區活動中心",
+                "phone": "037-792666",
+                "address": "苗栗縣通霄鎮新埔里15鄰新埔151-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.696853,
+                    24.549392
+                ]
+            }
+        }
+    ]
+}

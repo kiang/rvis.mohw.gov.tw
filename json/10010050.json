@@ -1,0 +1,805 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東榮村辦公處暨嘉義縣長壽會館",
+                "phone": "05-2064739",
+                "address": "嘉義縣民雄鄉東榮村中庄130號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434563,
+                    23.55713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "興南村辦公處暨社區活動中心",
+                "phone": "05-2213335",
+                "address": "嘉義縣民雄鄉興南村頭橋97號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.437961,
+                    23.522914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "菁埔村辦公處暨社區活動中心",
+                "phone": "05-2268694",
+                "address": "嘉義縣民雄鄉菁埔村菁埔137-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.39874,
+                    23.556125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "寮頂村集會所",
+                "phone": "05-2268641",
+                "address": "嘉義縣民雄鄉寮頂村頂寮59-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.426942,
+                    23.570948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "文隆村辦公處暨社區活動中心",
+                "phone": "05-2264962",
+                "address": "嘉義縣民雄鄉文隆村鴨母 47-7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.420058,
+                    23.537489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大崎國小-室外",
+                "phone": "05-2212871#211281282",
+                "address": "嘉義縣民雄鄉秀林村林子尾66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.472224,
+                    23.511814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "民雄國小-室外",
+                "phone": "05-2262022#51",
+                "address": "嘉義縣民雄鄉中樂村民族路43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429436,
+                    23.555138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "秀林村辦公處暨社區活動中心",
+                "phone": "05-2215600",
+                "address": "嘉義縣民雄鄉秀林村林子尾38-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477761,
+                    23.514011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大崎村辦公處暨社區活動中心",
+                "phone": "05-2213540",
+                "address": "嘉義縣民雄鄉大崎村大崎腳17-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475424,
+                    23.523237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "松山村辦公處暨社區活動中心",
+                "phone": "05-2721533",
+                "address": "嘉義縣民雄鄉松山村4鄰43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475449,
+                    23.539833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東興村辦公處暨社區活動中心",
+                "phone": "05-2721273",
+                "address": "嘉義縣民雄鄉東興村葉子寮28-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.498352,
+                    23.561942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "金興村辦公處暨社區活動中心",
+                "phone": "05-2201420",
+                "address": "嘉義縣民雄鄉金興村頭橋1200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.437234,
+                    23.514237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "三興村辦公處暨社區活動中心",
+                "phone": "05-2720137",
+                "address": "嘉義縣民雄鄉三興村陳厝寮37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.476691,
+                    23.557013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "福興村廣興宮室內",
+                "phone": "05-2202519",
+                "address": "嘉義縣民雄鄉福興村6鄰60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.426453,
+                    23.510494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "福興村廣興宮室外",
+                "phone": "05-2202519",
+                "address": "嘉義縣民雄鄉福興村6鄰60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.426453,
+                    23.510494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "民雄國中-室內",
+                "phone": "05-2262527#103",
+                "address": "嘉義縣民雄鄉西安村西安路147號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.420724,
+                    23.557466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "民雄國中-室外",
+                "phone": "05-2262527#103",
+                "address": "嘉義縣民雄鄉西安村西安路147號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.420724,
+                    23.557466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大吉國中-室內",
+                "phone": "05-2211651#16",
+                "address": "嘉義縣民雄鄉大崎村內埔仔2-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487437,
+                    23.515553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大吉國中-室外",
+                "phone": "05-2211651#16",
+                "address": "嘉義縣民雄鄉大崎村內埔仔2-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487437,
+                    23.515553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "興中村辦公處暨社區活動中心",
+                "phone": "05-2213914",
+                "address": "嘉義縣民雄鄉興中村江厝店29-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42057,
+                    23.527369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中和村辦公處暨社區活動中心",
+                "phone": "05-2265559",
+                "address": "嘉義縣民雄鄉中和村社溝38-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.412887,
+                    23.54937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "山中村辦公處暨社區活動中心",
+                "phone": "05-2213344",
+                "address": "嘉義縣民雄鄉山中村山中78-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.405574,
+                    23.519437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "福權村辦公處暨社區活動中心",
+                "phone": "05-2262701",
+                "address": "嘉義縣民雄鄉福權村福權26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.41276,
+                    23.562657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "頂崙村辦公處暨社區活動中心",
+                "phone": "05-2263748",
+                "address": "嘉義縣民雄鄉頂崙村崙子頂25-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.437856,
+                    23.568004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "鎮北村辦公處暨社區活動中心",
+                "phone": "05-2262342",
+                "address": "嘉義縣民雄鄉鎮北村土庫子24-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.449802,
+                    23.576577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "豐收村辦公處暨社區活動中心",
+                "phone": "05-2265862",
+                "address": "嘉義縣民雄鄉豊收村好收148-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.450557,
+                    23.561374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東湖村辦公處暨社區活動中心",
+                "phone": "05-2266573",
+                "address": "嘉義縣民雄鄉東湖村東勢湖174號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44061,
+                    23.55038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "双福村辦公處暨社區活動中心",
+                "phone": "05-2215524",
+                "address": "嘉義縣民雄鄉双福村7鄰60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.442445,
+                    23.534504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "福樂村辦公處暨社區活動中心",
+                "phone": "05-2201835",
+                "address": "嘉義縣民雄鄉福樂村新生一街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.448695,
+                    23.526387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "北斗村辦公處暨社區活動中心",
+                "phone": "05-2214217",
+                "address": "嘉義縣民雄鄉北斗村北勢子19-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.456434,
+                    23.533411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "民雄國小-室內",
+                "phone": "05-2262022#51",
+                "address": "嘉義縣民雄鄉中樂村民族路43號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429436,
+                    23.555138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "福興村辦公處暨社區活動中心",
+                "phone": "05-2215770",
+                "address": "嘉義縣民雄鄉福興村牛稠溪68-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42784,
+                    23.509837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中央村辦公處暨社區活動中心",
+                "phone": "05-2263621",
+                "address": "嘉義縣民雄鄉中央村田中央77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.401849,
+                    23.532738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "平和村辦公處暨社區活動中心",
+                "phone": "05-2264894",
+                "address": "嘉義縣民雄鄉平和村雙援15-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.393252,
+                    23.545141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "西昌村辦公處暨社區活動中心",
+                "phone": "05-2266645",
+                "address": "嘉義縣民雄鄉西昌村竹子腳1-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.383061,
+                    23.544111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "民雄鄉公所",
+                "phone": "05-2262101#112",
+                "address": "嘉義縣民雄鄉中樂村文化路7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.428268,
+                    23.551468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東榮國小-室內",
+                "phone": "05-2262076#14",
+                "address": "嘉義縣民雄鄉頂崙村105號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434865,
+                    23.557668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "興中國小-室外",
+                "phone": "05-2214725#04",
+                "address": "嘉義縣民雄鄉興中村江厝店30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.419989,
+                    23.526636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "福樂國小操場",
+                "phone": "05-2206112#212",
+                "address": "嘉義縣民雄鄉福樂村光明二街191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451777,
+                    23.528987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "秀林國小風雨教室、操場",
+                "phone": "05-2215690#127",
+                "address": "嘉義縣民雄鄉北斗村3鄰北勢子17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.457061,
+                    23.534134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "福樂國小教室",
+                "phone": "05-2206112#212",
+                "address": "嘉義縣民雄鄉福樂村光明二街191號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451777,
+                    23.528987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "東榮國小-室外",
+                "phone": "22620763#14",
+                "address": "嘉義縣民雄鄉頂崙村105號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434865,
+                    23.557668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "三興國小-室內",
+                "phone": "05-2720042#03",
+                "address": "嘉義縣民雄鄉三興村陳厝寮55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.485237,
+                    23.552571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中正大學鳯凰大道",
+                "phone": "05-2720411 # 13000",
+                "address": "嘉義縣民雄鄉三興村大學路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.474549,
+                    23.562521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "三興國小-室外",
+                "phone": "05-2720042#03",
+                "address": "嘉義縣民雄鄉三興村陳厝寮55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.485237,
+                    23.552571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "松山國小3樓多功能教室有電梯",
+                "phone": "05-2721831#203",
+                "address": "嘉義縣民雄鄉松山村松子腳43之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475093,
+                    23.540139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "松山國小-室外",
+                "phone": "05-2721831#203",
+                "address": "嘉義縣民雄鄉松山村松子脚43-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475093,
+                    23.540139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "興中國小-室內",
+                "phone": "05-2214725#04",
+                "address": "嘉義縣民雄鄉興中村江厝店30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.419989,
+                    23.526636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "菁埔國小二樓活動中心",
+                "phone": "05-2262581",
+                "address": "嘉義縣民雄鄉菁埔村菁埔村130-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.397366,
+                    23.557946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "菁埔國小操場",
+                "phone": "05-2262581",
+                "address": "嘉義縣民雄鄉菁埔村菁埔村130-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.397366,
+                    23.557946
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "莿桐國中",
+                "phone": "05-5842014#106",
+                "address": "雲林縣莿桐鄉莿桐村農校路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.506818,
+                    23.749583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "莿桐鄉公所4樓禮堂",
+                "phone": "05-5844661",
+                "address": "雲林縣莿桐鄉莿桐村和平路53號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.502669,
+                    23.76088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "饒平國小",
+                "phone": "05-5842071",
+                "address": "雲林縣莿桐鄉饒平村饒平路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.522266,
+                    23.777362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "莿桐國小",
+                "phone": "05-5842065",
+                "address": "雲林縣莿桐鄉莿桐村中正路147號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.498563,
+                    23.757135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "榮村社區活動中心",
+                "phone": "05-5848270",
+                "address": "雲林縣莿桐鄉埔子村榮村20-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.512332,
+                    23.751434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "育仁國小",
+                "phone": "05-5842525#12",
+                "address": "雲林縣莿桐鄉甘厝村甘厝75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487224,
+                    23.75874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "莿桐鄉立幼兒園",
+                "phone": "05-5848930#201",
+                "address": "雲林縣莿桐鄉莿桐村中正路163號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.497196,
+                    23.757241
+                ]
+            }
+        }
+    ]
+}

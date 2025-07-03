@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "水上鄉公所四樓",
+                "phone": "05-2688526",
+                "address": "嘉義縣水上鄉柳新村柳子林66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.409257,
+                    23.430275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "中庄村活動中心",
+                "phone": "05-2891023",
+                "address": "嘉義縣水上鄉中庄村16鄰中庄40-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.433032,
+                    23.424465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "水上國小-室外",
+                "phone": "05-2682073#10",
+                "address": "嘉義縣水上鄉水上村正義路182號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.397155,
+                    23.428896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "成功國小-室外",
+                "phone": "05-2393485",
+                "address": "嘉義縣水上鄉三界村三界埔153號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475626,
+                    23.43191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "水上國中-室外",
+                "phone": "05-2682024#13",
+                "address": "嘉義縣水上鄉水上村進學街45號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.395188,
+                    23.425319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "鴿溪寮活動中心",
+                "phone": "05-2857485",
+                "address": "嘉義縣水上鄉下寮村3鄰鴿溪寮23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.421251,
+                    23.456429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義興村活動中心",
+                "phone": "05-2680620",
+                "address": "嘉義縣水上鄉義興村2鄰番子寮57-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.422963,
+                    23.418292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大崙國小塗溝分校-室外",
+                "phone": "05-3712690",
+                "address": "嘉義縣水上鄉塗溝村8鄰下塗溝1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368573,
+                    23.459461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "忠和國中-室外",
+                "phone": "05-2891026#202",
+                "address": "嘉義縣水上鄉忠和村1鄰檳榔樹角6之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451185,
+                    23.425547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "奉天宮濟公廟",
+                "phone": "05-2352649",
+                "address": "嘉義縣水上鄉寬士村崎子頭736之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429148,
+                    23.455598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "南靖國小-室外",
+                "phone": "05-2682004",
+                "address": "嘉義縣水上鄉靖和村南靖糖廠46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.384519,
+                    23.414835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "忠和國小-室外",
+                "phone": "05-2890635#13",
+                "address": "嘉義縣水上鄉忠和村檳榔樹角35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.447935,
+                    23.425847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大崙國小-室外",
+                "phone": "05-3711381",
+                "address": "嘉義縣水上鄉大崙村江竹仔腳111號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.358391,
+                    23.443439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "義興國小-室外",
+                "phone": "05-2890096#12",
+                "address": "嘉義縣水上鄉義興村番子寮2-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.425811,
+                    23.418392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "北回國小-室外",
+                "phone": "05-2356941",
+                "address": "嘉義縣水上鄉三和村榮典路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.409763,
+                    23.454502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "柳林國小-室外",
+                "phone": "05-2683240",
+                "address": "嘉義縣水上鄉柳林村柳子林92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.415187,
+                    23.435279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "溪洲村活動中心",
+                "phone": "05-2686773",
+                "address": "嘉義縣水上鄉溪洲村13鄰外溪洲82-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.395557,
+                    23.416668
+                ]
+            }
+        }
+    ]
+}

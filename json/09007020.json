@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "塘岐國小",
+                "phone": "0937770312",
+                "address": "連江縣北竿鄉塘岐村55號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.997023,
+                    26.223545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "民政課會議室",
+                "phone": "0836-55218",
+                "address": "連江縣北竿鄉塘岐村260-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.997451,
+                    26.225355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "楊公八使廟",
+                "phone": "0836-56690",
+                "address": "連江縣北竿鄉后沃村22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.007001,
+                    26.223711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "中山國中禮堂",
+                "phone": "0836-55078#501",
+                "address": "連江縣北竿鄉芹壁村84號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.980487,
+                    26.224022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "三合殿",
+                "phone": "0836-56690",
+                "address": "連江縣北竿鄉橋仔村100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.993382,
+                    26.234607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "綜合運動場館",
+                "phone": "0836-56690",
+                "address": "連江縣北竿鄉塘岐村289-4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.997318,
+                    26.227321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "中山國中活動中心",
+                "phone": "0836-55078#501",
+                "address": "連江縣北竿鄉芹壁村84號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.980487,
+                    26.224022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "坂里老人活動中心",
+                "phone": "0919280489",
+                "address": "連江縣北竿鄉坂里村31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.974082,
+                    26.216851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "后沃老人活動中心",
+                "phone": "0836-56690",
+                "address": "連江縣北竿鄉后沃村58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.006429,
+                    26.223649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "國立臺灣海洋大學馬祖校區(禮堂)",
+                "phone": "0836-55679",
+                "address": "連江縣北竿鄉坂里村59號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.974369,
+                    26.215342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "橋仔老人活動中心",
+                "phone": "0836-56690",
+                "address": "連江縣北竿鄉橋仔村橋仔村109-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.993399,
+                    26.234859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "白沙平水尊王廟",
+                "phone": "0836-56690",
+                "address": "連江縣北竿鄉白沙村41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.969112,
+                    26.206634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "連江縣",
+                "name": "白沙老人活動中心",
+                "phone": "0836-56690",
+                "address": "連江縣北竿鄉白沙村41-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.969112,
+                    26.206531
+                ]
+            }
+        }
+    ]
+}

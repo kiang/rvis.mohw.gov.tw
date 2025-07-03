@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "梅北國小[室外]",
+                "phone": "05-2626545",
+                "address": "嘉義縣梅山鄉梅北村民生街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551781,
+                    23.587212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "梅圳國小[室外]",
+                "phone": "05-2621615",
+                "address": "嘉義縣梅山鄉圳南村三源23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.590091,
+                    23.577231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "太平社區活動中心",
+                "phone": "05-2571145",
+                "address": "嘉義縣梅山鄉太平村大坪4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.606924,
+                    23.561115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "太興社區活動中心",
+                "phone": "05-2571650",
+                "address": "嘉義縣梅山鄉太興村太興5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635039,
+                    23.542019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "瑞峰社區活動中心",
+                "phone": "05-2571185",
+                "address": "嘉義縣梅山鄉瑞峯村生毛樹12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.667424,
+                    23.55731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "碧湖社區活動中心",
+                "phone": "05-2571174",
+                "address": "嘉義縣梅山鄉碧湖村堀尺嶺9-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.624767,
+                    23.564812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "太平國小[室外]",
+                "phone": "05-2571004",
+                "address": "嘉義縣梅山鄉太平村大坪4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.606924,
+                    23.561115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "太興國小[室外]",
+                "phone": "05-2571087",
+                "address": "嘉義縣梅山鄉太興村4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.629409,
+                    23.549348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "梅山國小[室外]",
+                "phone": "05-2621004",
+                "address": "嘉義縣梅山鄉梅東村中山路28之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55961,
+                    23.5805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "梅山國中[室外]",
+                "phone": "05-2621047#10",
+                "address": "嘉義縣梅山鄉梅北村健康街136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560686,
+                    23.586803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大南國小安靖分校[室外]",
+                "phone": "05-2621404",
+                "address": "嘉義縣梅山鄉安靖村柿子寮3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.580704,
+                    23.54511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "大南國小[室外]",
+                "phone": "05-2621253",
+                "address": "嘉義縣梅山鄉大南村大草埔15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.554623,
+                    23.55873
+                ]
+            }
+        }
+    ]
+}

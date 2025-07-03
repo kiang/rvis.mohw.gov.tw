@@ -1,0 +1,485 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "上石社區活動中心",
+                "phone": "04-27061960",
+                "address": "臺中市西屯區上石里西屯路二段267-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.644609,
+                    24.173213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "何源里活動中心",
+                "phone": "04-23157705",
+                "address": "臺中市西屯區何源里漢成街152號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66612,
+                    24.170718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "何安里活動中心",
+                "phone": "04-23124675",
+                "address": "臺中市西屯區何安里四川路126號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653588,
+                    24.162428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東海大學（體育館、操場）",
+                "phone": "04-23509222",
+                "address": "臺中市西屯區福恩里臺灣大道四段1727號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.607816,
+                    24.182324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "西安、西墩、至善里聯合活動中心",
+                "phone": "04-24524967",
+                "address": "臺中市西屯區西安里光明路160號4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639933,
+                    24.181491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "臺中市西屯區公所",
+                "phone": "04-22556333#201",
+                "address": "臺中市西屯區潮洋里市政北二路386號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63372,
+                    24.165489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大福社區活動中心",
+                "phone": "04-22952669",
+                "address": "臺中市西屯區大福里長安路二段158號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.666751,
+                    24.174619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "鵬程里活動中心",
+                "phone": "04-24527916",
+                "address": "臺中市西屯區鵬程里逢大路65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.648325,
+                    24.177492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "西平里活動中心",
+                "phone": "04-24518171",
+                "address": "臺中市西屯區西平里烈美街60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.642043,
+                    24.17849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "福安里兒童暨老人活動中心",
+                "phone": "04-24635868",
+                "address": "臺中市西屯區福雅里永福路26號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.620183,
+                    24.182368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "永安國小（永安館、操場）",
+                "phone": "04-24624470#731",
+                "address": "臺中市西屯區福安里西屯路三段133號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.625614,
+                    24.184631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "泰安國小（育才堂、操場）",
+                "phone": "04-27017045#730",
+                "address": "臺中市西屯區港尾里環中路二段368號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.648767,
+                    24.197647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "惠來國小（三期活動中心、操場）",
+                "phone": "04-23176353#732",
+                "address": "臺中市西屯區惠來里文中路168號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.648957,
+                    24.164885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "漢口國中（操場）",
+                "phone": "04-23130511#730",
+                "address": "臺中市西屯區何明里漢口路一段54-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.65747,
+                    24.161009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "至善國中（至善館、操場）",
+                "phone": "04-27057587#701",
+                "address": "臺中市西屯區至善里青海路二段308號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640358,
+                    24.17461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "中山國中（操場）",
+                "phone": "04-23132003#730",
+                "address": "臺中市西屯區何德里寧夏路179號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.659263,
+                    24.168282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "福科國中（操場、籃球場）",
+                "phone": "04-24618112",
+                "address": "臺中市西屯區福林里福林路333號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614751,
+                    24.188723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "東海國小（操場、籃球場）",
+                "phone": "04-23509797#170",
+                "address": "臺中市西屯區福聯里國際街75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.593954,
+                    24.18504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "上石國小（活動中心、操場）",
+                "phone": "04-27087412*700",
+                "address": "臺中市西屯區上石里西屯路二段上石南六巷25號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643736,
+                    24.17324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "上安國小（活動中心、操場）",
+                "phone": "04-24527322#701",
+                "address": "臺中市西屯區至善里上安路156號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63914,
+                    24.172511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "僑光科大（雁閣樓地下1樓、操場）",
+                "phone": "04-27016855#1409",
+                "address": "臺中市西屯區西墩里僑光路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64319,
+                    24.189102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "逢甲大學（體育館風雨球場、運動場）",
+                "phone": "04-24517250#2340",
+                "address": "臺中市西屯區鵬程里文華路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.649991,
+                    24.17931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "何仁里活動中心",
+                "phone": "04-23179899",
+                "address": "臺中市西屯區何仁里洛陽路125巷21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.651248,
+                    24.168056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "協和國小（學生活動中心、操場）",
+                "phone": "04-23588022",
+                "address": "臺中市西屯區協和里安和路99號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.619557,
+                    24.170361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "國安國小（新大樓活動中心、操場）",
+                "phone": "04-24621681#730",
+                "address": "臺中市西屯區永安里國祥街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.608873,
+                    24.193708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "長安國小（操場跑道）",
+                "phone": "04-23157600#701",
+                "address": "臺中市西屯區何仁里櫻花路18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653139,
+                    24.169401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大鵬里活動中心",
+                "phone": "04-22950065",
+                "address": "臺中市西屯區大鵬里長安路2段71巷7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.662882,
+                    24.173997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "大鵬國小（綜合球場）",
+                "phone": "04-22914655#700",
+                "address": "臺中市西屯區大鵬里中平路268號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.665861,
+                    24.177009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "港尾里活動中心",
+                "phone": "04-24251836",
+                "address": "臺中市西屯區港尾里中清路2段1538號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.656878,
+                    24.198452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺中市",
+                "name": "西大墩公園",
+                "phone": "04-22289111#33512",
+                "address": "臺中市西屯區西墩里臺中市西屯區環中路二段與福科路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635562965584,
+                    24.178269445734134
+                ]
+            }
+        }
+    ]
+}

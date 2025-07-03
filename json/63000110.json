@@ -1,0 +1,693 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區社子國民小學",
+                "phone": "02-28122505#888",
+                "address": "臺北市士林區永倫里延平北路6段308號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.502942,
+                    25.089803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立至善國民中學",
+                "phone": "02-2841#1350#10",
+                "address": "臺北市士林區臨溪里臺北市士林區至善路2段360號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.555477,
+                    25.103567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區福林國民小學",
+                "phone": "02-28316293#201",
+                "address": "臺北市士林區福志里士林區福志路75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529689,
+                    25.09869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區士林國民小學",
+                "phone": "02-28821024",
+                "address": "臺北市士林區福德里臺北市士林區大東路165號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.525073,
+                    25.092834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區陽明山國民小學",
+                "phone": "02-28616366#101",
+                "address": "臺北市士林區新安里臺北市士林區新安里仰德大道3段 61 號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55279,
+                    25.119344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市溪山實驗國民小學",
+                "phone": "02-28411010#128",
+                "address": "臺北市士林區溪山里臺北市士林區至善路三段199號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.579618,
+                    25.11979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "士林官邸公園",
+                "phone": "02-28812512",
+                "address": "臺北市士林區福林里福林路60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530248,
+                    25.094587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林運動中心",
+                "phone": "02-2570-2330#6467",
+                "address": "臺北市士林區福德里士商路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521428,
+                    25.089334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "天母棒球場",
+                "phone": "02-2570-2330#6523",
+                "address": "臺北市士林區三玉里忠誠路二段77號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532816,
+                    25.113551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區三玉國民小學",
+                "phone": "02-28751369#733",
+                "address": "臺北市士林區三玉里士林區天母東路116號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.537323,
+                    25.117995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區士東國民小學",
+                "phone": "02-28710064#111",
+                "address": "臺北市士林區蘭雅里中山北路六段392號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.526056,
+                    25.111594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立士林高級商業職業學校",
+                "phone": "02-29313114#101",
+                "address": "臺北市士林區後港里士林區士商路150號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511358,
+                    25.095981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立士林國民中學",
+                "phone": "02-88613411#100",
+                "address": "臺北市士林區福順里士林區中正路345號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.525502,
+                    25.092777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區天母國民小學",
+                "phone": "02-28723336#9101",
+                "address": "臺北市士林區天玉里士林區天玉街12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.526236,
+                    25.119432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立天母國民中學",
+                "phone": "02-28754864#100",
+                "address": "臺北市士林區三玉里士林區天母東路120號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538162,
+                    25.117974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "台北市士林區文昌國民小學",
+                "phone": "02-28365411#100",
+                "address": "臺北市士林區德華里士林區文林路615巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520905,
+                    25.099616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區平等國民小學",
+                "phone": "02-28610503#207",
+                "address": "臺北市士林區平等里士林區平等里平菁街101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.576312,
+                    25.129071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區百齡高級中學",
+                "phone": "02-28831568#601",
+                "address": "臺北市士林區義信里士林區承德路4段177號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523099,
+                    25.086957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區百齡國民小學",
+                "phone": "02-28817683#801",
+                "address": "臺北市士林區福中里士林區福港街205號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517825,
+                    25.086206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區芝山國民小學",
+                "phone": "02-28316115#210",
+                "address": "臺北市士林區芝山里臺北市士林區德行東路285號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53643,
+                    25.110385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區雨農國民小學",
+                "phone": "02-28329700#111",
+                "address": "臺北市士林區名山里士林區忠義街1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53061,
+                    25.101772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區雨聲國民小學",
+                "phone": "02-28311004#201",
+                "address": "臺北市士林區岩山里士林區至誠路1段62巷70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.535236,
+                    25.102681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立格致國民中學",
+                "phone": "02-28610079#101",
+                "address": "臺北市士林區陽明里士林區仰德大道4段75號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546808,
+                    25.13111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區富安國民小學",
+                "phone": "02-28103192#661",
+                "address": "臺北市士林區富洲里臺北市士林區延平北路8段135號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48244,
+                    25.105862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立陽明高級中學",
+                "phone": "02-28316675#100",
+                "address": "臺北市士林區後港里士林區中正路510號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517206,
+                    25.09185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區葫蘆國民小學",
+                "phone": "02-28129586#861",
+                "address": "臺北市士林區葫蘆里士林區環河北路3段95號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.507026,
+                    25.083758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立福安國民中學",
+                "phone": "02-28108766#100",
+                "address": "臺北市士林區福安里士林區延平北路7段250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.487396,
+                    25.103352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區劍潭國民小學",
+                "phone": "02-28855491#800",
+                "address": "臺北市士林區明勝里士林區通河街16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524499,
+                    25.077672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區雙溪國民小學",
+                "phone": "02-28411038#37",
+                "address": "臺北市士林區翠山里士林區中社路2段66號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.563824,
+                    25.106099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市士林區蘭雅國民小學",
+                "phone": "02-28366052#201",
+                "address": "臺北市士林區蘭興里士林區磺溪57號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.522574,
+                    25.105297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立蘭雅國民中學",
+                "phone": "02-28329377#101",
+                "address": "臺北市士林區三玉里士林區忠誠路2段51號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.531058,
+                    25.110582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "美崙公園",
+                "phone": "02-28832130",
+                "address": "臺北市士林區福佳里美崙街152巷"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519343,
+                    25.097109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "前港公園",
+                "phone": "02-28832130",
+                "address": "臺北市士林區前港里華齡街與前港街交叉口百齡國小對面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519631,
+                    25.086867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "福林公園",
+                "phone": "02-28812512",
+                "address": "臺北市士林區福林里士林區中山北路與福林路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523024,
+                    25.084685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "忠誠公園",
+                "phone": "02-28832130",
+                "address": "臺北市士林區名山里中山北路六段與忠誠路一段交叉口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.526595,
+                    25.102805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "天和公園",
+                "phone": "02-28832130",
+                "address": "臺北市士林區天和里天母東路69巷前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533395,
+                    25.120187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "社子公園",
+                "phone": "02-28832130",
+                "address": "臺北市士林區社園里永平街20巷11弄3號對面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505745,
+                    25.090223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處士東市場地下停車場",
+                "phone": "2550-5220 #2131",
+                "address": "臺北市士林區三玉里臺北市士林區士東路100號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.536497,
+                    25.117988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市市場處士林市場地下停車場",
+                "phone": "02-25505220#2118",
+                "address": "臺北市士林區義信里基河路101號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524165,
+                    25.087958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館天母分館",
+                "phone": "02-28736203",
+                "address": "臺北市士林區天山里臺北市士林區中山北路七段154巷6號3、4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532946,
+                    25.123448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館李科永紀念館",
+                "phone": "02-28833453",
+                "address": "臺北市士林區福林里臺北市士林區中正路15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530603,
+                    25.095858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北市立圖書館葫蘆堵分館",
+                "phone": "02-28126513",
+                "address": "臺北市士林區福順里臺北市士林區延平北路五段136巷1號3-9樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51075,
+                    25.082284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺北市",
+                "name": "臺北表演藝術中心",
+                "phone": "02-77563800#1766",
+                "address": "臺北市士林區義信里台北市士林區劍潭路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524038,
+                    25.089658
+                ]
+            }
+        }
+    ]
+}

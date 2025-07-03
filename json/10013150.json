@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "來義鄉新來義部落多功能活動中心",
+                "phone": "08-7850251",
+                "address": "屏東縣來義鄉義林村來新路21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.582708,
+                    22.508803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "新埤國小",
+                "phone": "08-7971027",
+                "address": "屏東縣新埤鄉新埤村新華路165號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551327,
+                    22.470658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "新埤鄉立幼兒園",
+                "phone": "08-7981398",
+                "address": "屏東縣新埤鄉箕湖村民眾路103號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58247,
+                    22.467787
+                ]
+            }
+        }
+    ]
+}

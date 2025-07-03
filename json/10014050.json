@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "鹿野鄉立托兒所",
+                "phone": "089-580309",
+                "address": "臺東縣鹿野鄉瑞隆村瑞景路一段23巷9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.151535,
+                    22.940346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "新豐社區活動中心",
+                "phone": "089-581080",
+                "address": "臺東縣鹿野鄉瑞豐村4鄰新和路五段281巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.139697,
+                    22.97952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "永昌社區活動中心",
+                "phone": "089-550993",
+                "address": "臺東縣鹿野鄉永安村3鄰永安路98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.138771,
+                    22.931063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "永安國小",
+                "phone": "089-551172",
+                "address": "臺東縣鹿野鄉永安村鹿寮路31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.128349,
+                    22.93362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "瑞豐國小",
+                "phone": "089-581118",
+                "address": "臺東縣鹿野鄉瑞豐村中山路67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.136934,
+                    22.979066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "龍田社區活動中心",
+                "phone": "089-552136",
+                "address": "臺東縣鹿野鄉龍田村7鄰光榮路308號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.120603,
+                    22.904167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "瑞豐社區活動中心",
+                "phone": "089-812289",
+                "address": "臺東縣鹿野鄉瑞豐村10鄰景新路60巷2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.139842,
+                    22.987964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "瑞隆村瑞源村集會所活動中心",
+                "phone": "089-580136",
+                "address": "臺東縣鹿野鄉瑞隆村10鄰佑民路7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.156153,
+                    22.955075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣鹿野鄉公所",
+                "phone": "089-580136*162",
+                "address": "臺東縣鹿野鄉鹿野村中華路二段139號(前停車場)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.136163,
+                    22.914344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "鹿野國小",
+                "phone": "089-551371",
+                "address": "臺東縣鹿野鄉鹿野村中華路一段402號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.137013,
+                    22.909392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "瑞源國中",
+                "phone": "089-581425",
+                "address": "臺東縣鹿野鄉瑞和村瑞景路三段1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.156723,
+                    22.974207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "永安社區活動中心",
+                "phone": "089-551818",
+                "address": "臺東縣鹿野鄉永安村3鄰永安路257巷5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.129571,
+                    22.931566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "和平社區活動中心",
+                "phone": "089550000",
+                "address": "臺東縣鹿野鄉鹿野村3鄰和平路29-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.135976,
+                    22.893343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "鹿野國中",
+                "phone": "089-551006分機252",
+                "address": "臺東縣鹿野鄉龍田村1鄰光榮路38號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.135174,
+                    22.906962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "瑞源國小",
+                "phone": "089-581064",
+                "address": "臺東縣鹿野鄉瑞源村文化路67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.155446,
+                    22.957844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "龍田國小",
+                "phone": "089-551078",
+                "address": "臺東縣鹿野鄉龍田村光榮路236號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.124251,
+                    22.904233
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "牡丹市民活動中心",
+                "phone": "02-24931111#116",
+                "address": "新北市雙溪區牡丹里下坑36號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.853464,
+                    25.055996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "外柑市民活動中心",
+                "phone": "02-24931111#116",
+                "address": "新北市雙溪區外柑里外柑腳49號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.807153,
+                    25.018508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "長源市民活動中心",
+                "phone": "02-24931111#116",
+                "address": "新北市雙溪區長源里柑腳19號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.794541,
+                    25.006516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "三港集會所",
+                "phone": "02-24933391",
+                "address": "新北市雙溪區三港里三港7號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.880115,
+                    25.052941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "泰平市民活動中心",
+                "phone": "02-24931111#116",
+                "address": "新北市雙溪區泰平里溪尾寮46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82135,
+                    24.967448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "上林國小",
+                "phone": "02-24931671#13",
+                "address": "新北市雙溪區上林里內平林60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.831967,
+                    25.029032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "牡丹國小",
+                "phone": "02-24931240#201",
+                "address": "新北市雙溪區三貂里政光3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.851748,
+                    25.062725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "平林市民活動中心",
+                "phone": "02-24931111#116",
+                "address": "新北市雙溪區平林里外平林52號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.849581,
+                    25.035031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "柑林國小",
+                "phone": "02-24931624#13",
+                "address": "新北市雙溪區長源里柑腳3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.804558,
+                    25.015129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "雙溪高中",
+                "phone": "02-24931028#230",
+                "address": "新北市雙溪區平林里梅竹蹊3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.863162,
+                    25.034931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "雙溪國小",
+                "phone": "02-24931005#80",
+                "address": "新北市雙溪區共和里東榮街54號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.866978,
+                    25.033522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "共和市民活動中心",
+                "phone": "02-24931111#116",
+                "address": "新北市雙溪區共和里中山路41巷6號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.865662,
+                    25.031693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中正市民活動中心",
+                "phone": "02-24931111#116",
+                "address": "新北市雙溪區牡丹里中正路64號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.865543,
+                    25.043513
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "新豐社區活動中心",
+                "phone": "037-932231",
+                "address": "苗栗縣獅潭鄉新豐村3鄰八角林39-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.893907,
+                    24.478936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "永興社區活動中心",
+                "phone": "037-251301",
+                "address": "苗栗縣獅潭鄉永興村3鄰17-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.930161,
+                    24.559778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "獅潭國中-室外",
+                "phone": "037-251301",
+                "address": "苗栗縣獅潭鄉新店村21號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.946872,
+                    24.542718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "豐林社區活動中心",
+                "phone": "037-325698",
+                "address": "苗栗縣獅潭鄉豐林村10鄰大窩26-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.900503,
+                    24.488755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "百壽社區活動中心",
+                "phone": "03-5103666",
+                "address": "苗栗縣獅潭鄉百壽村7鄰42-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94149,
+                    24.579902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "新店社區活動中心",
+                "phone": "037-251301",
+                "address": "苗栗縣獅潭鄉新店村4鄰46號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.921423,
+                    24.542261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "永興國小-室外",
+                "phone": "037-251301",
+                "address": "苗栗縣獅潭鄉永興村6鄰55-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.936491,
+                    24.573675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "獅潭鄉行政中心",
+                "phone": "037-931301#132",
+                "address": "苗栗縣獅潭鄉新店村11鄰130-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.920463,
+                    24.539355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "和興社區活動中心",
+                "phone": "037-325698",
+                "address": "苗栗縣獅潭鄉和興村8鄰13-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.914212,
+                    24.526447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "竹木社區活動中心",
+                "phone": "037-932231",
+                "address": "苗栗縣獅潭鄉竹木村16鄰汶水30-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.87636,
+                    24.456716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "豐林國小-室外",
+                "phone": "037-932231",
+                "address": "苗栗縣獅潭鄉新豐村4鄰八角林56號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.890468,
+                    24.476652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "苗栗縣",
+                "name": "獅潭國小-室外",
+                "phone": "037-251301",
+                "address": "苗栗縣獅潭鄉新店村11鄰129號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.920569,
+                    24.540085
+                ]
+            }
+        }
+    ]
+}

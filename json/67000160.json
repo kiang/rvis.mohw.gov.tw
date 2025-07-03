@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "將軍國民中學",
+                "phone": "06-7942042",
+                "address": "臺南市將軍區忠嘉里昌平1-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.150654,
+                    23.206327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "老人文康活動中心",
+                "phone": "06-7944851",
+                "address": "臺南市將軍區忠嘉里忠興180-50號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.160563,
+                    23.201284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "漚汪國民小學",
+                "phone": "06-7942012",
+                "address": "臺南市將軍區長榮里長榮4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.159333,
+                    23.19807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "苓和國民小學",
+                "phone": "06-7942031",
+                "address": "臺南市將軍區苓仔寮里苓和132號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.161382,
+                    23.21939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "將軍國民小學",
+                "phone": "06-7942034",
+                "address": "臺南市將軍區將軍里將貴58號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.136106,
+                    23.214938
+                ]
+            }
+        }
+    ]
+}

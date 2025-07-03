@@ -1,0 +1,469 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "裕民行政大樓",
+                "phone": "02-29929891#3717",
+                "address": "新北市新莊區裕民里裕民路136號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4516235,
+                    24.9862726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "土城綜合體育場(防災公園)",
+                "phone": "02-22732000#455",
+                "address": "新北市土城區中正里裕民路193之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45629,
+                    24.984494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "祖田市民活動中心",
+                "phone": "02-22675698",
+                "address": "新北市土城區祖田里中央路4段283之1號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.411545,
+                    24.952375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "廣福市民活動中心",
+                "phone": "02-22629394",
+                "address": "新北市土城區廣福里學府路一段99巷底1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.456318,
+                    24.987826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "廣興市民活動中心",
+                "phone": "02-22625088",
+                "address": "新北市土城區廣福里學府路一段99巷底2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.456318,
+                    24.987826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "頂埔國小",
+                "phone": "02-22686800#830",
+                "address": "新北市土城區頂福里中央路4段205號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.414332,
+                    24.956201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "清和市民活動中心",
+                "phone": "02-22732000",
+                "address": "新北市土城區清和里青雲路368號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.458661,
+                    24.973801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "清化市民活動中心",
+                "phone": "02-22615380",
+                "address": "新北市土城區清和里青雲路368號4樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.458661,
+                    24.973801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "青山市民活動中心",
+                "phone": "02-22734192",
+                "address": "新北市土城區青山里明德路1段74之1號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.464447,
+                    24.980309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "永富市民活動中心",
+                "phone": "02-22644813",
+                "address": "新北市土城區青山里明德路1段74之1號2樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.464447,
+                    24.980309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "中正國中",
+                "phone": "02-22628456#866",
+                "address": "新北市土城區青雲里金城路2段247號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.456841,
+                    24.983456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "清水高中",
+                "phone": "02-22707801#400",
+                "address": "新北市土城區永富里明德路1段72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.465311,
+                    24.982012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "新北高工",
+                "phone": "02-22612483#30",
+                "address": "新北市土城區學府里學府路1段241號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45038,
+                    24.983308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "廣福國小",
+                "phone": "02-22626782#400",
+                "address": "新北市土城區廣福里學府路1段127號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.454896,
+                    24.986953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "土城國中",
+                "phone": "02-22675135#401",
+                "address": "新北市土城區永寧里永寧路18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.430171,
+                    24.962415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "青雲,柑林市民活動中心",
+                "phone": "02-22736647",
+                "address": "新北市土城區青雲里清水路141巷18號B1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.458501,
+                    24.98237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "裕德高中",
+                "phone": "02-82617889#602",
+                "address": "新北市土城區日和里擺接堡路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.439584,
+                    24.982977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "頂埔市民活動中心",
+                "phone": "02-22678936",
+                "address": "新北市土城區頂埔里中央路4段55之12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.418397,
+                    24.957388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "清水國小",
+                "phone": "02-22618316#831",
+                "address": "新北市土城區清溪里金城路2段356號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461507,
+                    24.984401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "安和國小",
+                "phone": "02-22603451#131",
+                "address": "新北市土城區安和里延和路23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.464774,
+                    24.988807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "土城區公所",
+                "phone": "02-22732000#329",
+                "address": "新北市土城區埤塘里金城路1段101號7樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.442873,
+                    24.972532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "土城國小",
+                "phone": "02-22700177#851",
+                "address": "新北市土城區埤塘里興城路17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.441935,
+                    24.972383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "樂利國小",
+                "phone": "02-22662568#830",
+                "address": "新北市土城區日新里裕生路65號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447559,
+                    24.985602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "永寧市民活動中心",
+                "phone": "02-22696053",
+                "address": "新北市土城區永寧里永寧路32巷10弄10號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.429188,
+                    24.961655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "員林市民活動中心",
+                "phone": "02-22610593",
+                "address": "新北市土城區員林里員林街15號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.442984,
+                    24.978282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "沛陂市民活動中心",
+                "phone": "02-22686607",
+                "address": "新北市土城區沛陂里三民路23巷8弄9號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.419376,
+                    24.963598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "廷寮市民活動中心",
+                "phone": "02-22626089",
+                "address": "新北市土城區廷寮里永豐路240之1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.467198,
+                    24.980803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "宏國德霖科技大學",
+                "phone": "02-22733567#565",
+                "address": "新北市土城區清化里青雲路380巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.456438,
+                    24.973527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "新北市",
+                "name": "福瑞斯特高中",
+                "phone": "02-22693641#152",
+                "address": "新北市土城區員仁里城林路2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.437438,
+                    24.975625
+                ]
+            }
+        }
+    ]
+}

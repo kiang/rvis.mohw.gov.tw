@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "國立佳冬高農",
+                "phone": "08-8662726#506",
+                "address": "屏東縣佳冬鄉佳冬村佳農街17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564048,
+                    22.413647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "佳冬國中",
+                "phone": "08-8662041",
+                "address": "屏東縣佳冬鄉玉光村17鄰大同路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566757,
+                    22.42848
+                ]
+            }
+        }
+    ]
+}

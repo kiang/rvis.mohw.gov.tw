@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "橋頭區公所",
+                "phone": "07-6110246#125",
+                "address": "高雄市橋頭區橋頭里隆豐路1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305736,
+                    22.757573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市橋頭區橋頭國民小學",
+                "phone": "07-6126011#41",
+                "address": "高雄市橋頭區橋頭里樹德路200號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305353,
+                    22.761734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市橋頭區仕隆國民小學",
+                "phone": "6113517#40",
+                "address": "高雄市橋頭區仕隆里仕隆路進校巷16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311738,
+                    22.751055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市橋頭區甲圍國民小學",
+                "phone": "6113647#240",
+                "address": "高雄市橋頭區甲北里甲昌路250號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293581,
+                    22.735575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市橋頭區興糖國民小學",
+                "phone": "6113804#31",
+                "address": "高雄市橋頭區橋南里興糖路19巷1號."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.316959,
+                    22.750253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市橋頭區五林國民小學",
+                "phone": "07-6113549#140",
+                "address": "高雄市橋頭區東林里五林路160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293594,
+                    22.759929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "高雄市",
+                "name": "高雄市立橋頭國民中學",
+                "phone": "07-6113559#32",
+                "address": "高雄市橋頭區橋頭里新興路70號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307141,
+                    22.75947
+                ]
+            }
+        }
+    ]
+}

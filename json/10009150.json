@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "月眉社區活動中心",
+                "phone": "05-6991731",
+                "address": "雲林縣東勢鄉月眉村東勢鄉月眉村月興路5-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287923,
+                    23.68588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "復興國小",
+                "phone": "05-6972490",
+                "address": "雲林縣褒忠鄉新湖村褒忠鄉新湖村復興路71號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288726,
+                    23.707215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "龍巖國小",
+                "phone": "05-6972454",
+                "address": "雲林縣褒忠鄉田洋村褒忠鄉田洋村民生路28巷15號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307687,
+                    23.722525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "潮厝國小",
+                "phone": "05-6972644",
+                "address": "雲林縣褒忠鄉潮厝村褒忠鄉潮厝村潮厝96號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.338516,
+                    23.72078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "雲林縣褒忠鄉公所",
+                "phone": "05-6972005",
+                "address": "雲林縣褒忠鄉中民村褒忠鄉中民村中正路451號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303956,
+                    23.691192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "褒忠國中",
+                "phone": "05-6972056",
+                "address": "雲林縣褒忠鄉埔姜村褒忠鄉埔姜村中勝路62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310793,
+                    23.69918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "雲林縣",
+                "name": "褒忠國小",
+                "phone": "05-6972054",
+                "address": "雲林縣褒忠鄉埔姜村褒忠鄉埔姜村中勝路72號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310457,
+                    23.700848
+                ]
+            }
+        }
+    ]
+}

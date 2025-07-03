@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "赤崁社區活動中心",
+                "phone": "06-9931008",
+                "address": "澎湖縣白沙鄉赤崁村大赤崁35號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.601222,
+                    23.667368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "白沙國中 多功能體育館",
+                "phone": "06-9931006",
+                "address": "澎湖縣白沙鄉赤崁村大赤崁294號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.597707,
+                    23.668305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "鳥嶼漁民暨社區活動中心",
+                "phone": "06-9916004",
+                "address": "澎湖縣白沙鄉鳥嶼村漁港新村9之2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.659695,
+                    23.659485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "吉貝社區活動中心",
+                "phone": "06-9911241",
+                "address": "澎湖縣白沙鄉吉貝村吉貝1號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.613414,
+                    23.741367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "中屯社區暨漁民活動中心",
+                "phone": "06-9931877",
+                "address": "澎湖縣白沙鄉中屯村中屯58號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.60148,
+                    23.612876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "鎮海國中 學生活動中心",
+                "phone": "06-9931311",
+                "address": "澎湖縣白沙鄉鎮海村鎮海60號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.596638,
+                    23.644019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "講美國小",
+                "phone": "06-9931268",
+                "address": "澎湖縣白沙鄉講美村講美141號之1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.596389,
+                    23.633035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "員貝社區活動中心",
+                "phone": "06-9932759",
+                "address": "澎湖縣白沙鄉員貝村員貝10號之4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.632088,
+                    23.647684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "城前社區活動中心",
+                "phone": "06-9931985",
+                "address": "澎湖縣白沙鄉城前村17-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.595502,
+                    23.626045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "港子社區活動中心",
+                "phone": "06-9931012",
+                "address": "澎湖縣白沙鄉港子村54-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.599397,
+                    23.648392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "通梁社區活動中心",
+                "phone": "06-9931009",
+                "address": "澎湖縣白沙鄉通梁村通梁村39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.557558,
+                    23.656472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "講美社區暨漁民活動中心",
+                "phone": "06-9931013",
+                "address": "澎湖縣白沙鄉講美村講美17號之6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.600632,
+                    23.634125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "澎湖縣",
+                "name": "大倉社區活動中心",
+                "phone": "06-9932797",
+                "address": "澎湖縣白沙鄉大倉村大倉67號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.570336,
+                    23.617996
+                ]
+            }
+        }
+    ]
+}

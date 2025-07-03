@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "空軍綠島探空分隊",
+                "phone": "089-672210",
+                "address": "臺東縣綠島鄉南寮村火燒山41號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.484835,
+                    22.651343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "綠島鄉社會福利活動中心",
+                "phone": "089-672510#35",
+                "address": "臺東縣綠島鄉公舘村柴口62號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4847,
+                    22.6769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "南寮社區活動中心",
+                "phone": "089-672358",
+                "address": "臺東縣綠島鄉南寮村190號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.468629,
+                    22.668621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣綠島國中",
+                "phone": "089-672506#11",
+                "address": "臺東縣綠島鄉中寮村9鄰4號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.470055,
+                    22.673102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣綠島國民小學",
+                "phone": "089-672543#13",
+                "address": "臺東縣綠島鄉中寮村中寮1鄰3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.469784,
+                    22.673721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "臺東縣公館國民小學",
+                "phone": "089-672548#12",
+                "address": "臺東縣綠島鄉公舘村公館98號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.492911,
+                    22.674153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "公館社區活動中心",
+                "phone": "089-672517",
+                "address": "臺東縣綠島鄉公舘村5鄰2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.488813,
+                    22.676065
+                ]
+            }
+        }
+    ]
+}

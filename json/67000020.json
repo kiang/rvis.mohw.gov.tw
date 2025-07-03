@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市鹽水區老人文康中心",
+                "phone": "06-6521038#117",
+                "address": "臺南市鹽水區橋南里治水路254-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.263437,
+                    23.318244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "文昌里孫厝活動中心",
+                "phone": "06-6521038",
+                "address": "臺南市鹽水區文昌里鹽水區孫厝寮76-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.222466,
+                    23.293568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市鹽水區公所",
+                "phone": "06-6521038#210",
+                "address": "臺南市鹽水區月港里鹽水區中山路47號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.266129,
+                    23.319996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市鹽水區岸內國小",
+                "phone": "06-6524651#13",
+                "address": "臺南市鹽水區岸內里鹽水區新岸內96號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.260902,
+                    23.329767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市鹽水區鹽水國小",
+                "phone": "06-6521046#283",
+                "address": "臺南市鹽水區水秀里鹽水區朝琴路137號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.271654,
+                    23.322879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市鹽水區鹽水國中",
+                "phone": "06-6521146#66",
+                "address": "臺南市鹽水區月港里鹽水區三福路63號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.267765,
+                    23.319261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市鹽水區月津國小",
+                "phone": "06-6521113#104",
+                "address": "臺南市鹽水區橋南里鹽水區月津路16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.270544,
+                    23.310592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市鹽水區竹埔國小",
+                "phone": "06-6551001#13",
+                "address": "臺南市鹽水區竹林里鹽水區竹埔92-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.246178,
+                    23.267287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市鹽水區歡雅國小",
+                "phone": "06-6552558#820",
+                "address": "臺南市鹽水區歡雅里鹽水區歡雅31號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.243335,
+                    23.292587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市鹽水區仁光國小",
+                "phone": "06-6523620#12",
+                "address": "臺南市鹽水區三明里舊營117號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.257518,
+                    23.300263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺南市",
+                "name": "臺南市鹽水區坔頭港國小",
+                "phone": "06-6892014#21",
+                "address": "臺南市鹽水區坔頭港里坔頭港202號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.249861,
+                    23.25488
+                ]
+            }
+        }
+    ]
+}

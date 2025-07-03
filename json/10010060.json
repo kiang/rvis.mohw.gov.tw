@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "溪口鄉公所三樓禮堂",
+                "phone": "05-2695950#38",
+                "address": "嘉義縣溪口鄉溪北村中山路89號3樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.392388,
+                    23.602335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "溪口鄉老人文康中心",
+                "phone": "05-2695950#24",
+                "address": "嘉義縣溪口鄉溪北村中山路91號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.391817,
+                    23.602156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "游東村活動中心",
+                "phone": "05-2693011",
+                "address": "嘉義縣溪口鄉游東村游厝庄73-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.401794,
+                    23.617531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "北極殿香客大樓",
+                "phone": "05-2691604",
+                "address": "嘉義縣溪口鄉溪西村中正路182號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.39444,
+                    23.603784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "溪口國小室內",
+                "phone": "05-2691013#904",
+                "address": "嘉義縣溪口鄉溪北村中山路53號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.394218,
+                    23.604503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "溪口國小室外",
+                "phone": "05-2691013#904",
+                "address": "嘉義縣溪口鄉溪北村中山路53號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.394218,
+                    23.604503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "美林國小室外",
+                "phone": "05-2691150#103",
+                "address": "嘉義縣溪口鄉美北村78-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.37969,
+                    23.593049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "溪口國中室外",
+                "phone": "2691050#112",
+                "address": "嘉義縣溪口鄉坪頂村中正東路103號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.403616,
+                    23.605125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "柴林國小室外",
+                "phone": "05-2691440",
+                "address": "嘉義縣溪口鄉柴林村107號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.371579,
+                    23.605881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "嘉義縣",
+                "name": "柳溝國小室外",
+                "phone": "05-2691071",
+                "address": "嘉義縣溪口鄉柳溝村南靖厝5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.414272,
+                    23.577344
+                ]
+            }
+        }
+    ]
+}

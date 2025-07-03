@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "春日社區活動中心",
+                "phone": "08-8782145",
+                "address": "屏東縣春日鄉春日村春日路13號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.624365,
+                    22.370374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "春日鄉立七佳老人文康中心",
+                "phone": "08-8792077",
+                "address": "屏東縣春日鄉七佳村9鄰自強1路18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.628733,
+                    22.428515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "力里國民小學",
+                "phone": "08-8791020",
+                "address": "屏東縣春日鄉七佳村自強1路92號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.629041,
+                    22.427659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "佳冬鄉立幼兒園",
+                "phone": "08-8662347",
+                "address": "屏東縣佳冬鄉玉光村文化一路240號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.573314,
+                    22.424322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "東海國小",
+                "phone": "08-8712209*14",
+                "address": "屏東縣枋寮鄉東海村東海路486號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577304,
+                    22.401333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "枋寮高中",
+                "phone": "08-8782095#14",
+                "address": "屏東縣枋寮鄉新龍村義民路3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.590757,
+                    22.371092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "枋寮國小",
+                "phone": "08-8782034#13",
+                "address": "屏東縣枋寮鄉枋寮村德興路197號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.590765,
+                    22.367837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "僑德國小",
+                "phone": "08-8782096#142",
+                "address": "屏東縣枋寮鄉隆山村僑德路186號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.600038,
+                    22.363052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "建興國小",
+                "phone": "08-8713562#15",
+                "address": "屏東縣枋寮鄉人和村建興路39號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.60153,
+                    22.38634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "屏東縣",
+                "name": "枋寮鄉天時地利人和三村集會所",
+                "phone": "08-8782012#58",
+                "address": "屏東縣枋寮鄉地利村建興路256號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.595558,
+                    22.387204
+                ]
+            }
+        }
+    ]
+}

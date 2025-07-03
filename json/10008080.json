@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "永和社區活動中心",
+                "phone": "049-2601542",
+                "address": "南投縣中寮鄉永和村龍南路321-11號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.731827,
+                    23.923646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "崁頂社區活動中心",
+                "phone": "049-2691164",
+                "address": "南投縣中寮鄉崁頂村永平路104號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.773897,
+                    23.874496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "龍安社區活動中心",
+                "phone": "049-2601314",
+                "address": "南投縣中寮鄉龍安村龍南路94-5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.772499,
+                    23.941461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "內城社區活動中心",
+                "phone": "049-2601662",
+                "address": "南投縣中寮鄉內城村龍南路6-3號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.788332,
+                    23.944747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "永安社區活動中心",
+                "phone": "049-2694508",
+                "address": "南投縣中寮鄉復興村復興巷22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.776369,
+                    23.892544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "和興社區活動中心",
+                "phone": "049-2692989",
+                "address": "南投縣中寮鄉和興村永樂路143-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.806715,
+                    23.905973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "永福社區活動中心",
+                "phone": "049-2691519",
+                "address": "南投縣中寮鄉永福村永平路400號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.736947,
+                    23.889205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "爽文社區活動中心",
+                "phone": "049-2692301",
+                "address": "南投縣中寮鄉爽文村龍南路190號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.760071,
+                    23.934867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "頂興社區活動中心",
+                "phone": "049-2694178",
+                "address": "南投縣中寮鄉廣興村永平路48-12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.787332,
+                    23.865763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中寮國小活動中心",
+                "phone": "049-2691322",
+                "address": "南投縣中寮鄉永平村永平路316號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.764751,
+                    23.880099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "永芳社區活動中心",
+                "phone": "049-2601938",
+                "address": "南投縣中寮鄉永芳村龍南路269-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.750086,
+                    23.932188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "中寮社區活動中心",
+                "phone": "049-2694162",
+                "address": "南投縣中寮鄉中寮村鄉林巷23號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.757169,
+                    23.885676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "龍岩村集會所",
+                "phone": "049-2601787",
+                "address": "南投縣中寮鄉龍岩村龍南路154號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.762932,
+                    23.937591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "廣福國小活動中心",
+                "phone": "049-2691464",
+                "address": "南投縣中寮鄉廣福村內城巷3-2號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.759544,
+                    23.899206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "福盛社區活動中心",
+                "phone": "049-2691561",
+                "address": "南投縣中寮鄉福盛村永樂路88-8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.799235,
+                    23.882842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "爽文老人活動中心",
+                "phone": "049-2601787",
+                "address": "南投縣中寮鄉龍岩村龍南路209-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.75893,
+                    23.935925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "義和社區活動中心",
+                "phone": "049-2220602",
+                "address": "南投縣中寮鄉義和村永平路447-12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.724397,
+                    23.894863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "義和村集會所",
+                "phone": "049-2220602",
+                "address": "南投縣中寮鄉義和村永平路513-12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714489,
+                    23.896639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "清水社區活動中心",
+                "phone": "049-2603528",
+                "address": "南投縣中寮鄉清水村瀧林巷2-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.790953,
+                    23.944324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "仙樂社區活動中心",
+                "phone": "049-2691425",
+                "address": "南投縣中寮鄉八仙村仙鹿巷1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.784043,
+                    23.879762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "南投縣",
+                "name": "八仙社區活動中心",
+                "phone": "049-2691425",
+                "address": "南投縣中寮鄉八仙村永樂路36-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.772386,
+                    23.880544
+                ]
+            }
+        }
+    ]
+}

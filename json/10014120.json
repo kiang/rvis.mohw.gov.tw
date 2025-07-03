@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "海端鄉公所Haiduan Township Office",
+                "phone": "089-931307",
+                "address": "臺東縣海端鄉海端村4鄰山界路43號No.43, Shanjie, Haiduan Township, Taitung County 957, Taiwan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.17662,
+                    23.10207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "海端國小Haiduan Elementary School",
+                "phone": "089-931184",
+                "address": "臺東縣海端鄉海端村4鄰山界36號No.36, Shanjie, Haiduan Township, Taitung County 957, Taiwan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.176348,
+                    23.101794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "霧鹿國小Wulu Elementary School",
+                "phone": "089-935053",
+                "address": "臺東縣海端鄉霧鹿村2鄰12號No.12, Wulu, Haiduan Township, Taitung County 957, Taiwan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.041568,
+                    23.169319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "海端鄉立幼兒園 Haiduan Township Preschool,Taitung Country",
+                "phone": "089-931466",
+                "address": "臺東縣海端鄉海端村3鄰山界17-3號No.17-3, Shanjie, Haiduan Township, Taitung County 957, Taiwan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1767,
+                    23.100135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "霧鹿村辦公處",
+                "phone": "089-935074",
+                "address": "臺東縣海端鄉霧鹿村3鄰霧鹿37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.043547,
+                    23.167444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "加拿村辦公處",
+                "phone": "089-811044",
+                "address": "臺東縣海端鄉加拿村1鄰加南1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.130244,
+                    22.999481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "county": "臺東縣",
+                "name": "海端鄉綜合體育館Haiduan Township Sports Center",
+                "phone": "089-931370",
+                "address": "臺東縣海端鄉海端村臺東縣關山鎮德高里西莊66號23.103906130001025,"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.176514,
+                    23.103335
+                ]
+            }
+        }
+    ]
+}
