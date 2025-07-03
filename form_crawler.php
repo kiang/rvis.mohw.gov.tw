@@ -3,9 +3,19 @@ class FormRvisCrawler {
     private $baseUrl = 'https://rvis.mohw.gov.tw/mgov-rvis/home/map';
     private $csvFile = 'rvis_all_data.csv';
     private $csrfToken = '';
+    private $dbConnection;
     
     public function __construct() {
         $this->initCsv();
+        $this->initDatabase();
+    }
+    
+    private function initDatabase() {
+        $this->dbConnection = pg_connect("host=localhost port=5433 dbname=taiwan_gis user=gis_user password=gis_password");
+        if (!$this->dbConnection) {
+            echo "Database connection failed\n";
+            exit(1);
+        }
     }
     
     private function initCsv() {
@@ -247,6 +257,22 @@ class FormRvisCrawler {
         return $mergedData;
     }
     
+    private function getTownCodeByPoint($lat, $lng) {
+        if (!$this->dbConnection) {
+            return null;
+        }
+        
+        $query = "SELECT towncode FROM geojson_data WHERE ST_Contains(geom, ST_SetSRID(ST_Point($1, $2), 4326))";
+        $result = pg_query_params($this->dbConnection, $query, array($lng, $lat));
+        
+        if ($result && pg_num_rows($result) > 0) {
+            $row = pg_fetch_assoc($result);
+            return $row['towncode'];
+        }
+        
+        return null;
+    }
+    
     private function saveLocationsToCsv($locations, $page) {
         $file = fopen($this->csvFile, 'a');
         
@@ -261,9 +287,63 @@ class FormRvisCrawler {
             ];
             
             fputcsv($file, $row);
+            
+            // Get towncode and save to JSON
+            if (!empty($location['lat']) && !empty($location['lng'])) {
+                $townCode = $this->getTownCodeByPoint($location['lat'], $location['lng']);
+                if ($townCode) {
+                    $this->saveLocationToJson($location, $townCode);
+                }
+            }
         }
         
         fclose($file);
+    }
+    
+    private function saveLocationToJson($location, $townCode) {
+        $jsonDir = 'json';
+        if (!is_dir($jsonDir)) {
+            mkdir($jsonDir, 0755, true);
+        }
+        
+        $jsonFile = $jsonDir . '/' . $townCode . '.json';
+        
+        // Create GeoJSON feature
+        $feature = [
+            'type' => 'Feature',
+            'properties' => [
+                'county' => $location['county'] ?? '',
+                'name' => $location['name'] ?? '',
+                'phone' => $location['phone'] ?? '',
+                'address' => $location['address'] ?? ''
+            ],
+            'geometry' => [
+                'type' => 'Point',
+                'coordinates' => [
+                    floatval($location['lng']),
+                    floatval($location['lat'])
+                ]
+            ]
+        ];
+        
+        // Read existing data or create new structure
+        $geoJsonData = [
+            'type' => 'FeatureCollection',
+            'features' => []
+        ];
+        
+        if (file_exists($jsonFile)) {
+            $existingData = json_decode(file_get_contents($jsonFile), true);
+            if ($existingData && isset($existingData['features'])) {
+                $geoJsonData = $existingData;
+            }
+        }
+        
+        // Add new feature
+        $geoJsonData['features'][] = $feature;
+        
+        // Save to file
+        file_put_contents($jsonFile, json_encode($geoJsonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
     }
     
     private function makeRequest($url, $postData = null) {
@@ -274,6 +354,8 @@ class FormRvisCrawler {
             CURLOPT_RETURNTRANSFER => true,
             CURLOPT_FOLLOWLOCATION => true,
             CURLOPT_TIMEOUT => 30,
+            CURLOPT_SSL_VERIFYPEER => false,
+            CURLOPT_SSL_VERIFYHOST => false,
             CURLOPT_COOKIEJAR => 'cookies.txt',
             CURLOPT_COOKIEFILE => 'cookies.txt',
             CURLOPT_USERAGENT => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
